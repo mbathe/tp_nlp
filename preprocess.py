@@ -4,12 +4,13 @@ import numpy as np
 import os
 
 import nltk as nltk
+
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-
+nltk.download('stopwords')
 corpus = []
 stop_words = set(stopwords.words('english'))
 OUT_FOLDER = "preprocessed/"
@@ -20,18 +21,18 @@ if not os.path.exists(OUT_FOLDER):
 
 print(f'Preprocessing...')
 for i, filename in enumerate(tqdm(glob.glob('txts/*.txt'))):
-    name = filename.split('/')[1].split('.')[0]
-    with open(filename) as f:
+    name = filename.split('\\')[1].split('.')[0]
+    with open(filename, encoding="utf8") as f:
         lines = f.read().strip()
         # Tokenize
         tokens = word_tokenize(lines)
         # Remove tokens with length < 3, not a link and not in stop words
         tokens = (' ').join([t.lower() for t in tokens
-            if len(t) >= 3 
-            and (t.isalpha() or t in "!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~")
-            and t.lower() not in stop_words 
-            and not "http" in t.lower()
-        ])
+                             if len(t) >= 3
+                             and (t.isalpha() or t in r"!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~")
+                             and t.lower() not in stop_words
+                             and not "http" in t.lower()
+                             ])
 
         # ngrams ?
 
@@ -50,6 +51,7 @@ def tfidf_filter(corpus):
     print(type(words_to_keep))
     return words_to_keep
 
+
 corpus_filt_tfidf = []
 # words_to_keep = tfidf_filter(corpus)
 
@@ -57,7 +59,7 @@ for i, d in enumerate(tqdm(corpus)):
     words = d.split()
     # filt_words = [w for w in words if w in words_to_keep]
     # corpus_filt_tfidf.append(filt_words)
-    f = open(f"{OUT_FOLDER}/{i}.txt", "w")
+    f = open(f"{OUT_FOLDER}/{i}.txt", "w", encoding="utf8")
     f.write(" ".join(words) + "\n")
     f.close()
 
