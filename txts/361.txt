@@ -1,0 +1,405 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	A 'principled' artificial intelligence could improve justice	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+My ABA
+
+
+Events
+
+
+CLE Marketplace
+
+
+Shop ABA
+
+
+Member Directory
+
+
+Join
+
+
+Log In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+Latest News
+Topics
+Features
+
+
+
+Latest Issue
+
+
+Podcasts
+
+Asked and Answered
+Legal Rebels
+Modern Law Library
+
+
+
+Columnists
+
+Bryan Garner on Words
+Erwin Chemerinsky
+Mind Your Business
+Your Voice
+How I Won the Case
+My Path to Law
+Survival Guide, Esq.
+Supreme Court Report
+10 Questions
+What's on the Shelf?
+Nicole Black
+Ari Kaplan
+Adam Banner
+Randy Maniloff
+Marcel Strigberger
+
+
+
+Members Who Inspire
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Legal Rebels
+A 'principled' artificial intelligence could improve justice
+
+
+
+The New Normal
+A ‘principled’ artificial intelligence could improve justice
+October 3, 2017, 8:20 am CDT
+By Nicolas Economou
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Tweet
+ 
+
+
+
+
+ 
+
+
+
+
+Email
+
+
+
+
+
+Print
+
+
+
+
+
+
+Nicolas Economou is the CEO of electronic discovery and information retrieval firm H5, a Senior Advisor to the AI Initiative of the Future Society at Harvard Kennedy School, and is an advocate of the application of scientific methods to electronic discovery.
+
+
+“To what extent should societies delegate to machines decisions that affect people?” This question permeates all discussions on the sweeping ascent of artificial intelligence. Sometimes, the answer seems self-evident. 
+If asked whether entirely autonomous, artificially intelligent judges should ever have the power to send humans to jail, most of us would recoil in horror at the idea. Our answer would be a firm “Never!”
+But assume that AI judges, devoid of biases or prejudices, could make substantially more equitable, consistent and fair systemwide decisions than humans could, nearly eliminating errors and inequities. Would (should?) our answer be different? What about entirely autonomous AI public defenders, capable of demonstrably superior results for their clients than their overworked and underpaid human counterparts? And finally, what about AI lawmakers, capable of designing optimal laws to meet key public policy objectives? Should we trust those AI caretakers with our well-being?
+Fortunately, these questions, formulated as a binary choice, are not imminent. However, it would be a mistake to ignore their early manifestations in the increasingly common “hybrid intelligence” systems being used today that combine human and artificial intelligence. (It is worth noting that there is no unanimously accepted definition of “artificial intelligence”—or even of “intelligence” for that matter.)
+Just the idea of inserting assessments made by machines into legal decision-making serves as an ominous warning. For example, whereas courts do not yet rely on AI in assigning guilt or innocence, several states use “risk assessment” algorithms when it comes to sentencing. In Wisconsin, a judge sentenced a man to six years in prison based in part on such a risk profile. This system’s algorithm remained secret. The defendant was not allowed to examine how the algorithm arrived at its assessment. No independent, scientifically sound evaluations of its efficacy were presented.
+On what basis then did the judge choose to rely on it? Did he understand its decision-making pathways or its potential for error or biases or did he unduly trust it by virtue of its ostensible scientific basis or the glitter of its marketing? More broadly, are judges even competent to assess whether such algorithms are reliable in a particular instance? Even if a judge happened to be a computer scientist, could she assess the algorithm absent access to its internal workings or to sound scientific evidence establishing its effectiveness in the real-world application in which it is about to be used? And even if the algorithms are in fact effective and even if the judge is in fact competent to evaluate their effectiveness, is society as a whole equipped with the information and assurances it needs to place its trust in such machine-based systems?
+Despite the shaky ground on which certain hybrid intelligence applications stand, the legal domain does offer a hopeful, if still evolving, paradigm for the deliberate, mindful, progressive adoption of AI systems: electronic discovery. Hybrid intelligence has been applied in discovery for well over 15 years. Its currency has increased considerably since National Institute of Standards and Technology studies conducted from 2006 through 2011 provided evidence that some hybrid intelligence processes, which married algorithms with the knowledge of experts across domains such as computer science, statistics and linguistics, were able to outperform human attorneys (and hybrid systems combining artificial intelligence and human attorneys) in assessing responsiveness in large data sets.
+While much remains to be done in addressing the complex ethical, legal and practical issues involved in entrusting legal decision-making to machines, electronic discovery offers an ethical blueprint on how humanity can reap the benefits of AI while mitigating its risks. This blueprint reflects six ethical principles that can be inferred from the combined—if still diffuse and unsettled—wisdom of courts, practitioners, academics, research institutes like The Sedona Conference, think-tanks such as The Future Society at Harvard Kennedy School, prominent standards-measurement bodies such as NIST, and standards-setting bodies like the Institute of Electrical and Electronics Engineers and the International Organization for Standardization, whose “Code of Practice for electronic discovery” is currently under publication. (References were taken from the draft international standard version, made available by ISO in 2016.)
+Principle 1: AI should advance the well-being of humanity, its societies, and its natural environment. The pursuit of well-being may seem a self-evident aspiration, but it is a foundational principle of particular importance given the growing prevalence, power and risks of misuse of AI and hybrid intelligence systems. In rendering the central fact-finding mission of the legal process more effective and efficient, expertly designed and executed hybrid intelligence processes can reduce errors in the determination of guilt or innocence, accelerate the resolution of disputes, and provide access to justice to parties who would otherwise lack the financial wherewithal.
+Principle 2: AI should be transparent. Transparency is the ability to trace cause and effect in the decision-making pathways of algorithms and, in hybrid intelligence systems, of their operators. In discovery, for example, this may extend to the choices made in the selection of data used to train predictive coding software, of the choice of experts retained to design and execute the automated review process, or of the quality-assurance protocols utilized to affirm accuracy. Courts and legal think tanks have generally leaned towards substantial documentation and disclosure in this respect. ISO puts it as follows in its eDiscovery code of practice: “Transparency means that the process is readily auditable, whether by a party engaged in the process or by a third party, and that the links between cause and effect throughout the process are readily viewed and understood.” Separately, ISO recommends the maintenance of “a complete record” of the procedures, decisions and evaluations involved.
+Principle 3: Manufacturers and operators of AI should be accountable. Accountability means the ability to assign responsibility for the effects caused by AI or its operators. Courts have the ability to take corrective action or to sanction parties that deliberately use AI in a way that defeats, or places at risk, the fact-finding mission it is supposed to serve.
+Principle 4: AI’s effectiveness should be measurable in the real-world applications for which it is intended. Measurability means the ability for both expert users and the ordinary citizen to gauge concretely whether AI or hybrid intelligence systems are meeting their objectives. Few of us can understand the AI algorithms used in discovery, or the procedures of the scientific experts needed to operate them effectively. But everyone can understand that a system that achieves 80% accuracy is superior to one that achieves 50% accuracy.
+Principle 5: Operators of AI systems should have appropriate competencies. None of us will get hurt if Netflix’s algorithm recommends the wrong dramedy on a Saturday evening. But when our health, our rights, our lives or our liberty depend on hybrid intelligence, such systems should be designed, executed and measured by professionals with the requisite expertise. The ABA adopted amendments to the Rules of Professional Conduct in 2012 that included a new comment to Rule 1.1 on competence. It states that “a lawyer should keep abreast of changes in the law and its practice, including the benefits and risks associated with relevant technology.” ISO goes further in acknowledging that document review is “fundamentally an information retrieval exercise,” and that it must therefore draw upon expertise “brought to bear in information retrieval science (computer science, statistics, linguistics, etc.).” ISO’s determination will undoubtedly accelerate the professionalization of document review and analysis in litigation, and compel the ABA, courts, and insurance carriers to consider the ethical and liability implications of this determination.
+Principle 6: The norms of delegation of decisions to AI systems should be codified through thoughtful, inclusive dialogue with civil society. In most instances, the codification of the acceptable uses of AI remains the domain of the technical elite with legislators, courts and governments struggling to catch up to realities on the ground, while ordinary citizens remain mostly excluded. The adoption of AI in discovery reflects a broad, deliberate, consultative process. It has involved nearly every stakeholder: courts, legal practitioners, scientists, providers of AI and hybrid intelligence solutions, but also ethicists, academics, widely inclusive and deliberative think tanks, and thousands of citizens and corporations shaping the dialogue, every day, in the four corners of the country, in real-world litigation and dispute resolution. The societal dialogue relating to the use of AI in electronic discovery would benefit from being even more inclusive, with more forums seeking the active participation of political scientists, sociologists, philosophers and representative groups of ordinary citizens. Even so, the realm of electronic discovery sets a hopeful example of how an inclusive dialogue can lead to broad consensus in ensuring the beneficial use of AI systems in a vital societal function.
+It should be noted that these principles are specific enough to put meaningful ethical constraints on the design and application of AI systems, but not so specific as to preclude technological diversity and innovation. As such, they can guide the adoption of AI and hybrid intelligence systems in every realm of society, from health care to warfare and to the administration of the welfare state. The realm of electronic discovery shows that it can be done, even if slowly, deliberately, and, for the moment, imperfectly.
+If AI is to be used for the benefit of humanity while mitigating its risks, it is vital that, eventually, such principles permeate the simple moral sense of right and wrong that guides us as ordinary citizens and that sets our expectations for those who govern us, who fight our wars, enforce our laws, educate our children, attend to our health, or commercially cater to us. Absent that, AI will increasingly and incurably degrade the human experience, and broaden the divide between the scientific elite and civil society, to the detriment of both. Our very conception of what it means to be human is at stake.
+Nicolas Economou is the CEO of electronic discovery and information retrieval firm H5, a senior advisor to the AI Initiative of the Future Society at Harvard Kennedy School, and is an advocate of the application of scientific methods to electronic discovery.
+
+
+
+In This Podcast:
+
+
+
+62882
+
+
+
+Related topics:
+Practice Management | Practice Technology | Career & Practice | Legal Rebels | The New Normal 
+
+You might also like:
+
+Catch up with the ABA Journal's 2017 Legal Rebels Trailblazers
+Successful law firms provide both proper environment and tech tools
+Realign laws on evidence-gathering on the internet, Google GC says
+Credentials or outcomes: What's the fairest way to assess lawyer performance?
+Do you suffer from 'commoditization blindness'? If others can do your work for less, open your eyes
+
+
+
+
+
+Give us feedback, share a story tip or update, or report an error.
+
+
+
+
+
+
+
+
+
+
+
+
+15 Years of Legal Rebels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tweets by @LegalRebels
+
+
+
+
+Reddit Links for ABAJournal.com
+
+
+
+
+
+
+
+
+
+
+
+ABA Journal
+American Bar Association
+321 N Clark St
+Chicago, IL 60654-7598
+800-285-2221
+312-988-5522
+
+
+
+
+
+Features
+Photo Galleries
+Magazine Back Issues
+Magazine Digital Edition
+RSS Feed
+Search
+Corrections
+
+
+
+
+About the ABA Journal
+Authors
+Code of Conduct
+Contests
+Privacy Policy
+ California Privacy Rights
+Terms of Use
+
+
+
+
+Contact the ABA Journal
+Advertise
+Email Newsletters
+Letters to the Editor
+Reprints
+Tips & Pitches
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright 2024 American Bar Association. All rights reserved.
+
+
+

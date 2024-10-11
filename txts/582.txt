@@ -1,0 +1,447 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artificial Intelligence Standardization White Paper | Center for Security and Emerging Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+Search
+
+Search
+
+Close
+
+
+
+Center for Security and Emerging Technology
+
+
+
+
+
+About
+
+
+
+About Us
+
+
+People
+
+
+Team
+
+
+Alumni
+
+
+Affiliates
+
+
+
+
+Careers
+
+
+Foundational Research Grants
+
+
+Emerging Technology Observatory
+
+
+Support CSET
+
+
+Contact Us
+
+
+
+
+Research Topics
+
+
+
+Applications
+
+
+Assessment
+
+
+Bio-Risk
+
+
+Compete
+
+
+CyberAI
+
+
+Data
+
+
+Peer Watch
+
+
+Regions
+
+
+Supply Chains
+
+
+Workforce
+
+
+See all research topics
+
+
+
+
+Publications
+
+
+
+Analysis
+
+
+Translations
+
+
+Data Snapshots
+
+
+Data Visualizations
+
+
+Blog
+
+
+policy.ai
+
+
+See all research
+
+
+
+
+News and Events
+
+
+
+News
+
+
+Events
+
+
+CSET Live
+
+
+
+
+Donate
+
+
+Subscribe
+
+ 
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+      Translation    
+Artificial Intelligence Standardization White Paper
+人工智能标准化白皮书（2018版）
+
+
+
+May 12, 2020
+
+See our translation of a government-issued white paper describing China’s approach to standards setting for AI. Appendices list all of China’s existing AI standards as of January 2018, as well as those under study, and provide examples of AI applications by leading Chinese tech companies.
+Download Full Translation
+
+
+
+
+The following government-issued white paper describes China’s approach to standards-setting for artificial intelligence. Appendices list all of China’s current (as of January 2018) and planned AI standardization protocols, and provide examples of applications of AI by China’s leading tech companies.Translator: Etcetera Language Group, Inc.Editor: Ben Murphy, CSET Translation LeadSource: CESI website, January 24, 2018. CESI is a think tank subordinate to the PRC Ministry of Industry and Information Technology (MIIT; 工业和信息化部); CESI is also known as the 4th Electronics Research Institute (电子第四研究院; 电子四院) of MIIT. SAC is a component of the PRC State Administration for Market Regulation (国家市场监督管理总局), a ministry-level agency under China’s cabinet, the State Council.The Chinese source text is available online at: http://www.cesi.cn/images/editor/20180124/20180124135528742.pdf
+Note: China Electronics Standardization Institute (CESI; 中国电子技术标准化研究院; 电子标准元) is the “compiling unit” (编写单位) for this white paper. The 2nd Industrial Department (工业二部) of the Standardization Administration of China (SAC; 国家标准化管理委员会) is the “guidance unit” (指导单位) for this white paper.
+
+Contents1 Preface 11.1 Research background 11.2 Research objectives and significance 22 Outline of Artificial Intelligence (AI) 32.1 History and concept of AI 32.1.1 Origins and history of AI 32.1.2 Concept of AI 52.2 Features of AI 62.3 AI reference architecture 73 Current AI situation and trends 103.1 Key AI technologies 103.1.1 Machine learning 103.1.2 Knowledge graphs 123.1.3 Natural language processing 133.1.4 Human-computer interaction 143.1.5 Computer vision 163.1.6 Biometric feature recognition 183.1.7 Virtual reality/augmented reality 193.1.8 Trends in AI technology development 203.2 Current situation and trends of the AI industry 213.2.1 Intelligent infrastructure 223.2.2 Intelligent information and data 233.2.3 Intelligent technology services 233.2.4 Intelligent products 243.2.5 Industrial applications of AI 253.2.6 AI industry trends 293.3 Safety, ethical, and privacy issues 303.3.1 AI safety issues 303.3.2 AI ethical issues 313.3.3 AI privacy issues 323.4 The important role of AI standardization 334 Current state of AI standardization 344.1 Current state of standardization internationally 344.1.1 ISO/IEC JTC 1 344.1.2 ISO 374.1.3 IEC 374.1.4 ITU 384.2 Current state of standardization overseas 384.2.1 IEEE 384.2.2 NIST 384.2.3 Other 384.3 Current state of standardization in China 394.3.1 National Information Technology Standardization Technical Committee 394.3.2 China National Technical Committee for Automation Systems and Integration Standardization 404.3.3 National Audio, Video and Multimedia Standardization Technical Committee 404.3.4 National Information Security Standardization Technical Committee 404.3.5 National Technical Committee 268 on Intelligent Transport Systems 404.4 Problems and challenges facing AI standardization 414.5 Analysis of AI standardization requirements 414.6 Construction of organizational mechanisms for AI standardization 435 AI standardization systems 435.1 Structure of the AI standardization system 445.2 Standards system framework 455.2.1 Foundational standards 475.2.2 Platform/support standards 475.2.3 Key technical standards 475.2.4 Products and services standards 495.2.5 Applications standards 505.2.6 Security/ethics standards 525.3 Standards that urgently need to be formulated in the near term 526 Key recommendations for AI standardization work 54
+Preface
+Research background
+The concept of artificial intelligence (AI) was born in 1956. Over the course of more than a half century of development, AI technology and applications have experienced many ups and downs due to the influence of intelligent algorithms, computing speeds, data storage levels, and other factors. Since 2006, tremendous success has been achieved in fields like machine vision and speech recognition using machine learning algorithms represented by deep learning. The great improvements in recognition accuracy have once again made AI the object of widespread attention across academia and industry. At the same time that technologies like cloud computing and big data are boosting calculation speeds and lowering computing costs, they are also providing rich data resources for AI development, helping to train more intelligentized (智能化) algorithm models. The AI development model has also undergone a gradual transformation from seeking to “use computers to simulate artificial intelligence” to enhanced hybrid intelligent systems combining machines and humans. These use combinations of machines, humans, and networks to form collective intelligence systems, and use combinations of machines, humans, networks, and things to form more complex intelligent systems.
+As the core driving force behind a new round of industrial transformation, AI is spawning new technologies and new products. At the same time, AI is also playing a powerful empowering role for traditional industries. It has the potential to induce major changes in the industrial structure and to bring about an overall leap in social productive forces. AI can free humans from monotonous labor, as more and more simple, repetitive and dangerous tasks are being completed by AI systems. While reducing labor inputs and increasing work efficiency, AI systems can also do things faster and more accurately than humans. AI can find broad applications in such fields as education, medical treatment, eldercare, environmental protection, city operation, and justice services, and it is able to greatly improve the precision level of public services and increase the quality of people’s lives across the board. AI can also help humanity accurately perceive, predict, and warn of major situations in the operation of infrastructure and public security, promptly grasp changes in collective consciousness and psychology, take the initiative to make decisions in reaction to events, and significantly improve social governance capabilities while safeguarding public security.
+Since AI is a future-shaping strategic technology, the world’s developed nations are all striving for dominance in a new round of international competition, and issuing plans and policies centered around AI. They are making deployments for core AI technologies, top AI talents, and AI standards and norms, and are accelerating the development of AI technologies and industries. The major technology companies are constantly enlarging their investments of money and manpower to seize the high ground in AI development. In 2017, China released  the New Generation Artificial Intelligence Development Plan (Guo Fa [2017] No. 35),  the Three Year Action Plan to Promote the Development of the New Generation Artificial Intelligence Industry, 2018-2020 (No. 231 [2018] of the Ministry of Industry and Information Technology) and other policy documents to promote the R&D and industrialized development of AI technology. Currently, there is a certain technological and industrial foundation for AI development in China, with an array of AI companies concentrated in the microchip, data, platform, and applications fields. They have achieved good initial results in some directions and moved towards commercialized development. For example, applications have been achieved in such fields as the financial, security, and service industries; and in specific tasks, the degree of accuracy and effectiveness of semantic recognition, speech recognition, facial recognition, image recognition technologies already far exceed those of humans.
+Standardization work plays fundamental, supportive, and guiding roles for AI and its industrial development. It represents both a key lever for promoting the development of industry innovation, as well as the commanding heights of industry competition. At present, while AI-related products and services in China are growing increasingly abundant, problems with inadequate degrees of standardization are also surfacing. AI involves numerous fields. Although some fields already have a certain foundation of standardization, these scattered standardization efforts are insufficient to fully support the entire AI field. In addition, AI is an emerging field that is just beginning to take off. On a global scale, standardization work is still in its infancy, and a complete system of standards has yet to take shape. With China and the rest of the world basically on the same starting line, a window of opportunity exists for breakthroughs. As long as we take aim at that opportunity and deploy rapidly, it will be entirely possible to seize the commanding heights of standards innovation. Otherwise, a good opportunity may be lost. Consequently, there is an urgent need to take advantage of the opportunity at hand, accelerate research on AI technology and industry development, systematically sort through and develop systems of standards for various AI fields, clarify the relationships of dependency and constraint between standards, establish unified and complete systems of standards, and use standards as a means to promote the booming development of AI technologies and industries in China.
+Research objectives and significance
+Prior to this white paper, under the guidance of the 2nd Industrial Department of the Standardization Administration of China (SAC) and the Science and Technology Department of the Ministry of Industry and Information Technology (MIIT), by sorting through the evolving circumstances of AI technologies, applications and industries, and analyzing the technology hot spots (热点), industry dynamics, and future trends of AI, standards systems were researched and formulated that are capable of adapting to and guiding the development the AI industry, starting from the perspective of supporting the overall development of the industry. Then, the fundamental and key standards projects that are urgently needed in the short term were further proposed.
+This white paper is not intended to be a comprehensive review of technologies and industries in AI fields, nor does it go into extensive detail. It merely analyzes the current technology hot spots and industry circumstances covered within AI fields, so as to investigate and propose systems of AI standards. AI standardization is still in its infancy, and this white paper only serves as an initial link connecting AI technologies, AI industries, and standardization. It will be revised constantly in the future based on the developing requirements of technologies, industries, and standardization. This white paper gives only a moderate amount of opinion-based statements, and strives to use relatively simple and easy-to-understand language and methods for exposition purposes.
+The significance of this white paper lies in sharing research results and practical experiences in the AI field with those involved in the industry, as well as calling on different segments of society to jointly strengthen AI-related technology research, industry investment, service applications, and building up of standards, for the joint promotion of AI and its industrial development.
+
+
+
+Source
+CESI website
+
+
+Originally Published
+January 24, 2018
+Translated
+May 12, 2020
+
+
+Topics
+
+
+          China
+        
+
+
+
+Citation
+          Original CSET Translation of "Artificial Intelligence Standardization White Paper" [人工智能标准化白皮书（2018版)], China Electronics Standardization Institute, January 24, 2018, https://cset.georgetown.edu/research/artificial-intelligence-standardization-white-paper/.
+        
+
+Share
+Twitter
+Facebook
+LinkedIn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        The Center for Security and Emerging Technology within Georgetown University's Walsh School of Foreign Service provides decision-makers with data-driven analysis on the security implications of emerging technologies.
+
+	  
+
+
+
+
+About
+
+
+Research Topics
+
+
+Publications
+
+
+News and Events
+
+
+Careers
+
+
+Donate
+
+ 
+							Sign up to receive our newsletter, research updates, and events.
+			
+							
+					Subscribe
+				
+
+
+
+General Inquiries
+cset@georgetown.edu
+Media Inquiries
+danny.hague@georgetown.edu
+
+
+
+Linkedin
+
+
+Twitter
+
+
+Youtube
+
+
+Github
+
+ 
+
+
+
+  ©2024 Center for Security and Emerging Technology. All Rights Reserved.
+
+
+
+Contact Us
+
+
+Policies
+
+ 
+
+
+This website uses cookies.To learn more, please review this policy. By continuing to browse the site, you agree to these terms.
+Okay Disable CookiesPrivacy & Cookies Policy
+
+
+
+
+Close
+
+
+
+
+
+
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+ 
+
+
+
+
+
+								Necessary							
+
+
+Necessary
+
+Always Enabled
+
+
+
+
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+
+
+
+
+
+
+								Non-necessary							
+
+
+Non-necessary
+
+
+
+
+
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+
+
+
+
+
+
+
+
+
+
+
+
+SAVE & ACCEPT
+
+
+
+
+
+
+
+
+
+
+
+
+

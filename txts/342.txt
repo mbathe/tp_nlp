@@ -1,0 +1,2142 @@
+
+
+
+
+An external advisory council to help advance the responsible development of AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[{"model": "blogsurvey.survey", "pk": 3, "fields": {"name": "General Article Sentiment", "survey_id": "general-article-sentiment_240906", "scroll_depth_trigger": 50, "previous_survey": null, "display_rate": 50, "thank_message": "Thank you!", "thank_emoji": "✅", "questions": "[{\"id\": \"32a784f8-0a4d-44e9-962b-b9db9422d98b\", \"type\": \"simple_question\", \"value\": {\"question\": \"Overall, how did you feel about this article?\", \"responses\": [{\"id\": \"d1c06504-53a7-4704-a79b-8deb17a6e072\", \"type\": \"item\", \"value\": \"Liked it very much\"}, {\"id\": \"35c540e2-a10e-491f-b4eb-bebfcf90784b\", \"type\": \"item\", \"value\": \"Liked it somewhat\"}, {\"id\": \"76b8658c-7cc9-43ac-8243-9a6153fb4504\", \"type\": \"item\", \"value\": \"Neutral\"}, {\"id\": \"9ddaa8dd-8101-4e89-bbf6-05636991cc6e\", \"type\": \"item\", \"value\": \"Disliked it somewhat\"}, {\"id\": \"050af230-a83f-40e5-9065-fce8f7472051\", \"type\": \"item\", \"value\": \"Disliked it very much\"}]}}]", "target_article_pages": true}}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+        The Keyword
+      
+
+
+
+
+    An external advisory council to help advance the responsible development of AI
+  
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+Mail
+
+
+
+
+
+
+Copy link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Latest stories
+            
+
+
+
+              Product news
+              
+
+
+
+
+
+
+
+
+
+
+
+
+    Product news
+  
+
+
+
+            Android, Chrome & Play
+            
+
+
+
+
+
+
+
+
+                  Android
+                  
+                
+
+
+
+                  Chrome
+                  
+                
+
+
+
+                  Chromebooks
+                  
+                
+
+
+
+                  Google Play
+                  
+                
+
+
+
+                  Wear OS
+                  
+                
+
+
+
+
+
+            Platforms & Devices
+            
+
+
+
+
+
+
+
+
+                  Fitbit
+                  
+                
+
+
+
+                  Google Nest
+                  
+                
+
+
+
+                  Pixel
+                  
+                
+
+
+
+
+
+            Explore & Get Answers
+            
+
+
+
+
+
+
+
+
+                  Gemini
+                  
+                
+
+
+
+                  Maps
+                  
+                
+
+
+
+                  News
+                  
+                
+
+
+
+                  Search
+                  
+                
+
+
+
+                  Shopping
+                  
+                
+
+
+
+
+
+            Connect & Communicate
+            
+
+
+
+
+
+
+
+
+                  Classroom
+                  
+                
+
+
+
+                  Photos
+                  
+                
+
+
+
+                  Registry
+                  
+                
+
+
+
+                  Translate
+                  
+                
+
+
+
+
+
+            In The Cloud
+            
+
+
+
+
+
+
+
+
+                  Google Workspace
+                  
+                
+
+
+
+                  More on the Cloud Blog
+                  
+                    
+
+
+
+
+
+
+                  Google Cloud
+                  
+                
+
+
+
+
+
+      See all product updates
+    
+
+
+
+
+
+            Android, Chrome & Play
+          
+
+
+
+                    Android
+
+                    
+                  
+
+
+
+                    Chrome
+
+                    
+                  
+
+
+
+                    Chromebooks
+
+                    
+                  
+
+
+
+                    Google Play
+
+                    
+                  
+
+
+
+                    Wear OS
+
+                    
+                  
+
+
+
+
+
+            Platforms & Devices
+          
+
+
+
+                    Fitbit
+
+                    
+                  
+
+
+
+                    Google Nest
+
+                    
+                  
+
+
+
+                    Pixel
+
+                    
+                  
+
+
+
+
+
+            Explore & Get Answers
+          
+
+
+
+                    Gemini
+
+                    
+                  
+
+
+
+                    Maps
+
+                    
+                  
+
+
+
+                    News
+
+                    
+                  
+
+
+
+                    Search
+
+                    
+                  
+
+
+
+                    Shopping
+
+                    
+                  
+
+
+
+
+
+            Connect & Communicate
+          
+
+
+
+                    Classroom
+
+                    
+                  
+
+
+
+                    Photos
+
+                    
+                  
+
+
+
+                    Registry
+
+                    
+                  
+
+
+
+                    Translate
+
+                    
+                  
+
+
+
+
+
+            In The Cloud
+          
+
+
+
+                    Google Workspace
+
+                    
+                  
+
+
+
+                    More on the Cloud Blog
+
+                    
+                      
+
+
+
+
+
+
+                    Google Cloud
+
+                    
+                  
+
+
+
+
+
+
+        See all product updates
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Company news
+              
+
+
+
+
+
+
+
+
+
+
+
+
+    Company news
+  
+
+
+
+            Outreach & initiatives
+            
+
+
+
+
+
+
+
+
+                  Arts & Culture
+                  
+                
+
+
+
+                  Education
+                  
+                
+
+
+
+                  Entrepreneurs
+                  
+                
+
+
+
+                  Public Policy
+                  
+                
+
+
+
+                  Sustainability
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+            Technology
+            
+
+
+
+
+
+
+
+
+                  AI
+                  
+                
+
+
+
+                  Developers
+                  
+                
+
+
+
+                  Health
+                  
+                
+
+
+
+                  Google DeepMind
+                  
+                
+
+
+
+                  Safety and security
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+            Inside Google
+            
+
+
+
+
+
+
+
+
+                  Data centers and infrastructure
+                  
+                
+
+
+
+                  Doodles
+                  
+                
+
+
+
+                  Googlers
+                  
+                
+
+
+
+                  Life at Google
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+            Around the globe
+            
+
+
+
+
+
+
+
+
+                  Google in Asia
+                  
+                
+
+
+
+                  Google in Europe
+                  
+                
+
+
+
+                  Google in Latin America
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+            Authors
+            
+
+
+
+
+
+
+
+
+                  Sundar Pichai, CEO
+                  
+                
+
+
+
+                  Ruth Porat, President & Chief Investment Officer
+                  
+                
+
+
+
+                  Kent Walker, SVP
+                  
+                
+
+
+
+                  James Manyika, SVP
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+
+
+
+
+            Outreach & initiatives
+          
+
+
+
+                    Arts & Culture
+
+                    
+                  
+
+
+
+                    Education
+
+                    
+                  
+
+
+
+                    Entrepreneurs
+
+                    
+                  
+
+
+
+                    Public Policy
+
+                    
+                  
+
+
+
+                    Sustainability
+
+                    
+                  
+
+
+
+            See all
+            
+
+
+
+
+
+
+            Technology
+          
+
+
+
+                    AI
+
+                    
+                  
+
+
+
+                    Developers
+
+                    
+                  
+
+
+
+                    Health
+
+                    
+                  
+
+
+
+                    Google DeepMind
+
+                    
+                  
+
+
+
+                    Safety and security
+
+                    
+                  
+
+
+
+            See all
+            
+
+
+
+
+
+
+            Inside Google
+          
+
+
+
+                    Data centers and infrastructure
+
+                    
+                  
+
+
+
+                    Doodles
+
+                    
+                  
+
+
+
+                    Googlers
+
+                    
+                  
+
+
+
+                    Life at Google
+
+                    
+                  
+
+
+
+            See all
+            
+
+
+
+
+
+
+            Around the globe
+          
+
+
+
+                    Google in Asia
+
+                    
+                  
+
+
+
+                    Google in Europe
+
+                    
+                  
+
+
+
+                    Google in Latin America
+
+                    
+                  
+
+
+
+            See all
+            
+
+
+
+
+
+
+            Authors
+          
+
+
+
+                    Sundar Pichai, CEO
+
+                    
+                  
+
+
+
+                    Ruth Porat, President & Chief Investment Officer
+
+                    
+                  
+
+
+
+                    Kent Walker, SVP
+
+                    
+                  
+
+
+
+                    James Manyika, SVP
+
+                    
+                  
+
+
+
+            See all
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Subscribe
+
+
+
+
+
+
+
+    Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            The Keyword
+          
+
+
+
+
+
+
+
+               Latest stories
+            
+
+
+
+              Product news
+              
+
+
+
+
+
+
+
+
+
+
+
+
+    Product news
+  
+
+
+
+            Android, Chrome & Play
+            
+
+
+
+
+
+
+
+
+                  Android
+                  
+                
+
+
+
+                  Chrome
+                  
+                
+
+
+
+                  Chromebooks
+                  
+                
+
+
+
+                  Google Play
+                  
+                
+
+
+
+                  Wear OS
+                  
+                
+
+
+
+
+
+            Platforms & Devices
+            
+
+
+
+
+
+
+
+
+                  Fitbit
+                  
+                
+
+
+
+                  Google Nest
+                  
+                
+
+
+
+                  Pixel
+                  
+                
+
+
+
+
+
+            Explore & Get Answers
+            
+
+
+
+
+
+
+
+
+                  Gemini
+                  
+                
+
+
+
+                  Maps
+                  
+                
+
+
+
+                  News
+                  
+                
+
+
+
+                  Search
+                  
+                
+
+
+
+                  Shopping
+                  
+                
+
+
+
+
+
+            Connect & Communicate
+            
+
+
+
+
+
+
+
+
+                  Classroom
+                  
+                
+
+
+
+                  Photos
+                  
+                
+
+
+
+                  Registry
+                  
+                
+
+
+
+                  Translate
+                  
+                
+
+
+
+
+
+            In The Cloud
+            
+
+
+
+
+
+
+
+
+                  Google Workspace
+                  
+                
+
+
+
+                  More on the Cloud Blog
+                  
+                    
+
+
+
+
+
+
+                  Google Cloud
+                  
+                
+
+
+
+
+
+      See all product updates
+    
+
+
+
+
+              Company news
+              
+
+
+
+
+
+
+
+
+
+
+
+
+    Company news
+  
+
+
+
+            Outreach & initiatives
+            
+
+
+
+
+
+
+
+
+                  Arts & Culture
+                  
+                
+
+
+
+                  Education
+                  
+                
+
+
+
+                  Entrepreneurs
+                  
+                
+
+
+
+                  Public Policy
+                  
+                
+
+
+
+                  Sustainability
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+            Technology
+            
+
+
+
+
+
+
+
+
+                  AI
+                  
+                
+
+
+
+                  Developers
+                  
+                
+
+
+
+                  Health
+                  
+                
+
+
+
+                  Google DeepMind
+                  
+                
+
+
+
+                  Safety and security
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+            Inside Google
+            
+
+
+
+
+
+
+
+
+                  Data centers and infrastructure
+                  
+                
+
+
+
+                  Doodles
+                  
+                
+
+
+
+                  Googlers
+                  
+                
+
+
+
+                  Life at Google
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+            Around the globe
+            
+
+
+
+
+
+
+
+
+                  Google in Asia
+                  
+                
+
+
+
+                  Google in Europe
+                  
+                
+
+
+
+                  Google in Latin America
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+            Authors
+            
+
+
+
+
+
+
+
+
+                  Sundar Pichai, CEO
+                  
+                
+
+
+
+                  Ruth Porat, President & Chief Investment Officer
+                  
+                
+
+
+
+                  Kent Walker, SVP
+                  
+                
+
+
+
+                  James Manyika, SVP
+                  
+                
+
+
+
+                   See all
+                
+
+
+
+
+
+
+
+
+
+
+Press corner
+
+
+
+
+            RSS feed
+          
+
+
+
+
+
+    Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breadcrumb
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Technology
+          
+
+
+
+
+
+
+              AI
+          
+
+
+
+
+
+
+
+
+
+
+
+An external advisory council to help advance the responsible development of AI
+
+
+
+
+
+
+
+Mar 26, 2019
+[[read-time]] min read
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+Mail
+
+
+
+
+
+
+Copy link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kent Walker
+
+      President of Global Affairs, Google & Alphabet
+    
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+Facebook
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+Mail
+
+
+
+
+
+
+Copy link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editor's note and update as of April 4, 2019: It’s become clear that in the current environment, ATEAC can’t function as we wanted. So we’re ending the council and going back to the drawing board. We’ll continue to be responsible in our work on the important issues that AI raises, and will find different ways of getting outside opinions on these topics. Last June we announced Google’s AI Principles, an ethical charter to guide the responsible development and use of AI in our research and products. To complement the internal governance structure and processes that help us implement the principles, we’ve established an Advanced Technology External Advisory Council (ATEAC). This group will consider some of Google's most complex challenges that arise under our AI Principles, like facial recognition and fairness in machine learning, providing diverse perspectives to inform our work. We look forward to engaging with ATEAC members regarding these important issues and are honored to announce the members of the inaugural Council:
+
+
+
+
+
+
+
+
+
+Alessandro Acquisti, a leading behavioral economist and privacy researcher. He’s a Professor of Information Technology and Public Policy at the Heinz College, Carnegie Mellon University and the PwC William W. Cooper Professor of Risk and Regulatory Innovation.Bubacarr Bah, an expert in applied and computational mathematics. He’s a Senior Researcher, designated the German Research Chair of Mathematics with specialization in Data Science, at the African Institute for Mathematical Sciences (AIMS) South Africa and an Assistant Professor in the Department of Mathematical Sciences at Stellenbosch University. De Kai, a leading researcher in natural language processing, music technology and machine learning. He’s Professor of Computer Science and Engineering at the Hong Kong University of Science and Technology, and Distinguished Research Scholar at Berkeley's International Computer Science Institute.Dyan Gibbens, an expert in industrial engineering and unmanned systems. She’s CEO of Trumbull, a Forbes Top 25 veteran-founded startup focused on automation, data and environmental resilience in energy and defense.Joanna Bryson, an expert in psychology and AI, and a longtime leader in AI ethics. She’s an Associate Professor in the Department of Computer Science at the University of Bath. She has consulted for a number of companies on AI, notably at LEGO researching child-oriented programming techniques for the product that became LEGO Mindstorms.Kay Coles James, a public policy expert with extensive experience working at the local, state and federal levels of government. She’s currently President of The Heritage Foundation, focusing on free enterprise, limited government, individual freedom and national defense.Luciano Floridi, a leading philosopher and expert in digital ethics. He’s Professor of Philosophy and Ethics of Information at the University of Oxford, where he directs the Digital Ethics Lab of the Oxford Internet Institute, Professorial Fellow of Exeter College and Turing Fellow and Chair of the Data Ethics Group of the Alan Turing Institute.William Joseph Burns, a foreign policy expert and diplomat. He previously served as U.S. deputy secretary of state, and retired from the U.S. Foreign Service in 2014 after a 33-year diplomatic career. He’s currently President of the Carnegie Endowment for International Peace, the oldest international affairs think tank in the United States.
+
+
+
+
+This inaugural Council (full bios here) will serve over the course of 2019, holding four meetings starting in April. We hope this effort will inform both our own work and the broader technology sector. In addition to encouraging members to share generalizable learnings in their ongoing activities, we plan to publish a report summarizing the discussions. Council members represent their individual perspectives, and do not speak for their institutions.We recognize that responsible development of AI is a broad area with many stakeholders. In addition to consulting with the experts on ATEAC, we’ll continue to exchange ideas and gather feedback from partners and organizations around the world.
+
+
+
+
+POSTED IN:
+
+
+
+
+
+
+AI
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Related stories
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entrepreneurs
+AI startups revolutionizing mental health care
+
+
+
+                  By
+                  
+                    
+                    
+                    Dr. Karen DeSalvo
+                    
+
+ Oct 10, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google DeepMind
+Google DeepMind's Demis Hassabis & John Jumper awarded Nobel Prize in Chemistry
+
+
+ Oct 09, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UK
+Data residency for machine learning processing to be made available in the UK
+
+
+
+                  By
+                  
+                    
+                    
+                    Daniël Rood
+                    
+
+ Oct 09, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI
+7 pieces of AI news we announced in September
+
+
+
+                  By
+                  
+                    
+                    
+                    Keyword Team
+                    
+
+ Oct 08, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+How to use Google Lens to ask questions out loud about what you see
+
+
+
+                  By
+                  
+                    
+                    
+                    Zahra Thompson
+                    
+
+ Oct 03, 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+Ask questions in new ways with AI in Search
+
+
+
+                  By
+                  
+                    
+                    
+                    Liz Reid
+                    
+
+ Oct 03, 2024
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let’s stay in touch. Get the latest news from Google in your inbox.
+
+
+Subscribe
+No thanks
+
+
+
+
+
+
+
+
+
+              Follow Us
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy
+            
+
+
+Terms
+            
+
+
+About Google
+            
+
+
+Google Products
+            
+
+
+About the Keyword
+              
+
+
+
+
+
+
+
+
+              Help
+            
+
+
+
+
+
+        Bahasa Indonesia (Indonesia)
+      
+
+        Deutsch
+      
+
+        English
+      
+
+        English (Africa)
+      
+
+        English (Australia)
+      
+
+        English (Canada)
+      
+
+        English (India)
+      
+
+        English (MENA)
+      
+
+        Español (España)
+      
+
+        Español (Latinoamérica)
+      
+
+        Français (Canada)
+      
+
+        Français (France)
+      
+
+        Italiano
+      
+
+        Nederlands (Nederland)
+      
+
+        Polski
+      
+
+        Português (Brasil)
+      
+
+        Česko (Čeština)
+      
+
+        اللغة العربية (MENA)
+      
+
+        日本語 (日本)
+      
+
+        한국어
+      
+
+
+
+
+
+
+
+
+
+
+
+
+

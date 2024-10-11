@@ -1,0 +1,215 @@
+
+
+
+
+“ARCC”: An Ethical Framework for Artificial Intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+首页
+最新成果
+专题项目
+
+科技向善
+AI&Society
+数字科技前沿应用趋势
+WeCityX未来城市探索计划
+
+
+研究领域
+
+法律政策
+数字社会
+产业经济
+
+
+关于腾讯研究院
+|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+首页
+最新成果
+专题项目
+
+科技向善
+AI&Society
+数字科技前沿应用趋势
+WeCityX未来城市探索计划
+
+
+研究领域
+
+法律政策
+数字社会
+产业经济
+
+
+关于腾讯研究院
+
+
+
+
+
+
+
+
+
+|
+
+
+
+
+“ARCC”: An Ethical Framework for Artificial Intelligence
+TRI-EN|2020-04-09
+
+
+
+
+
+Background
+Pony Ma, Chairman and CEO of Tencent, proposed that the future development of AI needs to be available, reliable, comprehensible, and controllable
+ 
+Further Explanation 
+Jason Si, Dean of Tencent Research Institute, translated and elaborated the four principles as “ARCC” (same pronunciation as ark)
+In his opinion, just as the Noah’s Ark preserved the fire of human civilization, the healthy development of AI needs to be guaranteed by the “ethical ark”
+ 
+Principle Ⅰ: AI should be available
+Human development and well-being 
+Ensure AI is available to as many people as possible, to achieve inclusive and broadly-shared development, and avoid technology gap
+ 
+Human-oriented approach 
+Respect human dignity, rights and freedoms, and cultural diversity
+ 
+Human-computer symbiosis
+Relation between AI and human is not an either-or relationship, on the contrary, AI can and should enhance human wisdom and creativity
+ 
+Algorithmic fairness
+Ethics by design (EBD): ensure that algorithm is reasonable, and data is accurate, up-to-date, complete, relevant, unbiased and representative, and take technical measures to identify, solve and eliminate bias
+Formulate guidelines and principles on solving bias and discrimination, potential mechanisms include algorithmic transparency, quality review, impact assessment, algorithmic audit, supervision and review, ethical board, etc.
+ 
+PrincipleⅡ: AI should be reliable 
+General requirements 
+AI should be safe and reliable, and capable of safeguarding against cyberattacks and other unintended consequences
+ 
+Test and validation 
+Ensure AI systems go through vigorous test and validation, to achieve reasonable expectations of performance
+ 
+Digital security, physical security, and political security 
+ 
+Privacy protection 
+Comply with privacy requirements, and safeguard against data abuse Privacy by design (PBD)
+ 
+PrincipleⅢ: AI should be comprehensible
+“Black-box” technology 
+Promote algorithmic transparency and algorithmic audit, to achieve understandable and explainable AI systems
+ 
+Differential transparency 
+Different entity needs different transparency and information, and intellectual property, technical feature, and technical literacy should also be considered
+ 
+Explanation rather than technological transparency 
+Provide explanation in respect of decisions assisted/made by AI systems where appropriate
+ 
+Public engagement and exercise of individuals’ rights 
+Various ways of engagement: user feedback, user choice, user control, etc.; use the capabilities of AI systems to foster an equal empowerment and enhance public engagement
+Respect individuals’ rights, such as data privacy, expression and information freedom, non-discrimination, etc.; challenge decisions assisted/made by AI systems; provide relief for victims in respect of AI-caused harms
+ 
+Informational self-determination 
+Ensure individuals’ right to know, and provide users with sufficient information concerning AI system’s purpose, function, limitation, and impact
+ 
+PrincipleⅣ: AI should be controllable Effective control by humans 
+Effective control by humans 
+Avoid endanger the interests of individuals or the overall interests of the human species
+ 
+Risk Control 
+Ensure the benefits substantially outweigh the controllable risks, and take appropriate measures to safeguard against the risks
+ 
+Precautionary principle
+Ensure AGI/ASI that may appear in the future serves the interests of humanity
+ 
+Application boundary 
+Define the boundary of AI application
+ 
+To build trust in AI, we need a spectrum of rules, ethics is just the beginning
+Light-touch rules e.g. social conventions, moral rules, self-regulation, etc. 
+Mandatory rules e.g. standards, regulations, etc. 
+Criminal law
+International law
+
+
+
+
+
+更多精彩内容
+欢迎关注腾讯研究院
+微信公众号、腾讯视频号
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+理解腾讯   理解互联网   理解数字社会
+
+
+
+
+微信公众号
+
+
+
+腾讯视频号
+
+
+
+
+        本站系非盈利性学术网站，所有文章约为学术研究用途，如有任何权利问题，请直接与我们联系。Copyright © 1998 Tencent All Rights Reserved        
+粤B2-20090059
+
+
+
+
+
