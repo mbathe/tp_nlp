@@ -32,3 +32,6 @@ Plusieurs textes .txt en anglais, qui traitent de l'éthique de l'IA.
 --> Parser ok
 --> CLeaning ok
 --> Tf Idf sur chaque document pour trouver les mots clefs
+--> Julian : Tf-IDS sur le corpus entier. 
+Paul : Trouver les mots clefs dans le corpus en sommant les tf-idf par document. 
+Alex : autre stratégie + tester les mots du prof.
