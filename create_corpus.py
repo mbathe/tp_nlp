@@ -56,12 +56,8 @@ for i, fname in enumerate(tqdm(glob.glob(f"./{args.data}/*.txt"))):
     doc_occurrences[i] = {}
 
     try:
-<<<<<<< HEAD
-        f = open(fname, "r", encoding="utf-8")
-=======
         f = open(fname, "r", encoding="utf8")
->>>>>>> 61b9843300286e0172b8915d1e8cf399673df211
-        contents = f.read().strip().lower()
+        contents = f.read().strip()  # .lower()
         doc_occurrences[i]["contents"] = contents
 
         for topic, kw_list in keywords.items():
@@ -100,7 +96,7 @@ for i in doc_occurrences:
     
     # Corpus Iramuteq
     if iramuteq:
-        print("**** " + " ".join(topics), file=corpus_file)
+       # print("**** " + " ".join(topics), file=corpus_file)
         print(doc_occurrences[i]["contents"], file=corpus_file)
 
     # Corpus cortext
@@ -108,11 +104,7 @@ for i in doc_occurrences:
         for t in topics:
             # Creer dir topics
             if t.strip("*") != "mapaie":
-<<<<<<< HEAD
-                file = open(f"{t.strip('*')}/{i}.txt", "w", encoding="utf-8")
-=======
                 file = open(f"{t.strip('*')}/{i}.txt", "w", encoding="utf8")
->>>>>>> 61b9843300286e0172b8915d1e8cf399673df211
                 print(doc_occurrences[i]["contents"], file=file) 
 
 log_fp.close()
