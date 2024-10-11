@@ -20,6 +20,7 @@ class Processing:
         self.document_token = {}
         self.number_of_tokens = 0
         self.documents = []
+        self.vec = None
 
     def process_corpus(self):
         # Lire le corpus
@@ -49,10 +50,17 @@ class Processing:
                     token) / number_content_words if number_content_words > 1 else 0)
 
         print("Calculer les TF-IDF")
+        tokens_index = dict(zip(self.tokens, range(len(self.tokens))))
+       # self.vec = np.zeros((len(self.documents), len(self.tokens)))
+
         for i in tqdm(range(document_count)):
             for token in self.tf_idf_dict[i]:
                 self.tf_idf_dict[i][token] *= np.log(
                     document_count / (token_doc_count[token] + 1))
+                # self.vec[i, tokens_index[token]] += self.tf_idf_dict[i][token]
+
+        print(self.tf_idf_dict[i])
+
 
 
 
