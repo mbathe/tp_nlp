@@ -20,8 +20,8 @@ if not os.path.exists(OUT_FOLDER):
 
 print(f'Preprocessing...')
 for i, filename in enumerate(tqdm(glob.glob('txts/*.txt'))):
-    name = filename.split('/')[1].split('.')[0]
-    with open(filename) as f:
+    name = filename.split('\\')[1].split('.')[0]
+    with open(filename, encoding='utf-8') as f:
         lines = f.read().strip()
         # Tokenize
         tokens = word_tokenize(lines)
@@ -57,7 +57,7 @@ for i, d in enumerate(tqdm(corpus)):
     words = d.split()
     # filt_words = [w for w in words if w in words_to_keep]
     # corpus_filt_tfidf.append(filt_words)
-    f = open(f"{OUT_FOLDER}/{i}.txt", "w")
+    f = open(f"{OUT_FOLDER}/{i}.txt", "w", encoding='utf-8')
     f.write(" ".join(words) + "\n")
     f.close()
 

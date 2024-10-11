@@ -64,7 +64,7 @@ class Parser:
         print(THE_CONTENT["text"], file=txt_file)
         txt_file.close()
         
-        return;
+        return
     #####
     ### Parse PDFs
     def parse_pdf(self, fname):

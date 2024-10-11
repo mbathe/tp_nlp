@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "tp-nlp"
+version = "0.1.0"
+description = ""
+authors = ["mbathe <mbathepaul@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pulp = "2.7.0"
+ujson = "^5.10.0"
+pypdf2 = "^3.0.1"
+pycryptodome = "^3.21.0"
+nltk = "^3.9.1"
+tqdm = "^4.66.5"
+requests = "^2.32.3"
+numpy = "^2.1.2"
+scikit-learn = "^1.5.2"
+bs4 = "^0.0.2"
+python-magic = "^0.4.27"
+python-magic-bin = "^0.4.14"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
