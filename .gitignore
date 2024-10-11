@@ -1,3 +1,5 @@
 preprocessed/
 txts/
 docs/
+**/__pycache__/
+**/*.pyc

@@ -1,0 +1,836 @@
+
+
+
+
+
+
+
+
+
+
+Sony Group Portal - AI Initiatives - Sony Group's Initiatives for Responsible AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+                    Businesses & Products
+                    open
+
+
+
+
+Businesses & Products Top
+
+
+
+Games & Network Services
+
+
+
+
+PlayStation
+
+
+
+
+Sony Interactive Entertainment
+
+
+
+
+
+
+Music
+
+
+
+
+Pictures: Movies & TV Shows
+
+
+
+
+Electronics: Entertainment Technology & Services
+
+
+
+
+Consumer Electronics
+
+
+
+
+Professional Products & Solutions
+
+
+
+
+
+
+Imaging & Sensing Solutions
+
+
+
+
+Financial Services
+
+
+
+
+New Initiatives
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+                    About Sony Group
+                    open
+
+
+
+
+About Sony Group Top
+
+
+
+Sony's Purpose & Values
+
+
+
+
+Message from the CEO and COO
+
+
+
+
+News Releases
+
+
+
+
+Sony Corporate Blog
+
+
+
+
+Brand
+
+
+
+
+History
+
+
+
+
+Corporate Data
+
+
+
+
+Affiliated Companies
+
+
+
+
+
+Close
+
+
+
+
+
+
+                    Technology
+                    open
+
+
+
+
+Technology Top
+
+
+
+Message from CTO
+
+
+
+
+Sony's R&D
+
+
+
+
+Stories
+
+
+
+
+People behind Sony's technology
+
+
+
+
+Programs & Events
+
+
+
+
+Responsible AI
+
+
+
+
+Human-Centered Design
+
+
+
+
+
+Close
+
+
+
+
+
+
+                    Sustainability
+                    open
+
+
+
+
+Sustainability Top
+
+
+
+Vision of Founder and Approach to Sustainability
+
+
+
+
+Sustainability Report
+
+
+
+
+Environment
+
+
+
+
+Social Contribution
+
+
+
+
+Diversity, Equity & Inclusion
+
+
+
+
+Accessibility
+
+
+
+
+Response to COVID-19
+
+
+
+
+
+Close
+
+
+
+
+
+
+                    Design
+                    open
+
+
+
+
+Design Top
+
+
+
+About
+
+
+
+
+Design Stories
+
+
+
+
+Interviews & Lectures
+
+
+
+
+Gallery
+
+
+
+
+News
+
+
+
+
+
+Close
+
+
+
+
+
+
+                    Employees / Careers
+                    open
+
+
+
+
+Employees Top
+Careers Top
+
+
+Close
+
+
+
+
+
+
+                    Investor Relations
+                    open
+
+
+
+
+Investor Relations Top
+
+
+
+IR News
+
+
+
+
+IR Library
+
+
+
+
+Corporate Report
+
+
+
+
+Earning Announcement
+
+
+
+
+Corporate Bonds & Ratings
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+Search button in the site
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Technology
+Responsible AI
+
+
+
+
+Responsible AI
+
+Japanese
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contents menu
+
+
+
+
+
+
+
+
+
+Sony Group AI Ethics Guidelines
+AI Ethics: Promotion & Projects
+Related Sony Group Initiatives
+
+
+
+
+
+
+
+
+
+Sony Group's Initiatives for Responsible AI
+Sony, with the aim of utilizing AI technology to enrich people's
+                life styles and contribute to the development of society, will pursue accountability and
+                transparency while actively engaging in dialogue with stakeholders. We will continue to promote
+                responsible AI in order to maintain the trust of products and services by stakeholders.
+
+
+
+
+
+
+
+Sony Group AI Ethics Guidelines
+
+
+Sony established the Sony Group AI Ethics Guidelines in September 2018.Through the
+                  utilization of artificial intelligence (AI), Sony aims to contribute to the development of a
+                  peaceful and sustainable society while delivering kando - a sense of
+                  excitement, wonder or emotion - to the world. Starting from the electronics business, Sony has
+                  continued to expand its business area and has become a diverse global company that offers
+                  entertainment such as music and movies, as well as financial services. To operate these business
+                  areas based on Sony's Purpose to "Fill the world with emotion, through the power of creativity and
+                  technology.", Sony Group AI Ethics Guidelines are hereby set forth below to ensure and promote a
+                  dialogue with various stakeholders and the proper utilization and research and development
+                  ("R&D") of AI within Sony Group.
+
+
+1. Supporting Creative Life Styles and Building a Better Society
+Through advancing its AI-related R&D and promoting the utilization of AI in a manner
+                  harmonized with society, Sony aims to support the exploration of the potential for each individual
+                  to empower their lives, and to contribute to enrichment of our culture and push our civilization
+                  forward by providing novel and creative types of kando. Sony will
+                  engage in sustainable social development and endeavor to utilize the power of AI for contributing
+                  to global problem-solving and for the development of a peaceful and sustainable society.
+
+
+2. Stakeholder Engagement
+In order to solve the challenges arising from use of AI while striving for better AI utilization,
+                  Sony will seriously consider the interests and concerns of various stakeholders including its
+                  customers and creators, and proactively advance a dialogue with related industries, organizations,
+                  academic communities and more. For this purpose, Sony will construct the appropriate channels for
+                  ensuring that the content and results of these discussions are provided to officers and employees,
+                  including researchers and developers, who are involved in the corresponding businesses, as well as
+                  for ensuring further engagement with its various stakeholders.
+
+
+3. Provision of Trusted Products and Services
+Sony understands the need for safety when dealing with products and services utilizing AI and
+                  will continue to respond to security risks such as unauthorized access. AI systems may utilize
+                  statistical or probabilistic methods to achieve results. In the interest of Sony's customers and
+                  to maintain their trust, Sony will design whole systems with an awareness of the responsibility
+                  associated with the characteristics of such methods.
+
+
+4. Privacy Protection
+Sony, in compliance with laws and regulations as well as applicable internal rules and policies,
+                  seeks to enhance the security and protection of customers' personal data acquired via products and
+                  services utilizing AI, and build an environment where said personal data is processed in ways that
+                  respect the intention and trust of customers.
+
+
+5. Respect for Fairness
+In its utilization of AI, Sony will respect diversity and human rights of its customers and other
+                  stakeholders without any discrimination while striving to contribute to the resolution of social
+                  problems through its activities in its own and related industries.
+
+
+6. Pursuit of Transparency
+During the planning and design stages for its products and services that utilize AI, Sony will
+                  strive to introduce methods of capturing the reasoning behind the decisions made by AI utilized in
+                  said products and services. Additionally, it will endeavor to provide intelligible explanations
+                  and information to customers about the possible impact of using these products and services.
+
+
+7. The Evolution of AI and Ongoing Education
+People's lives have continuously changed with the advance in technology across history. Sony will
+                  be cognizant of the effects and impact of products and services that utilize AI on society and
+                  will proactively work to contribute to developing AI to create a better society and foster human
+                  talent capable of shaping our collective bright future through R&D and/or utilization of AI.
+                
+
+
+
+Sony Group AI Ethics Guidelines（PDF）
+
+
+Responsible AI Utilization and R&D
+
+
+
+
+
+
+
+AI Ethics: Promotion & Projects
+
+
+Framework for AI Ethics Initiatives
+The Sony Group AI Ethics Committee, established in 2019, examines AI use cases to ensure
+                  compliance with the Sony Group AI Ethics Guidelines.
+                  In 2021, the AI Ethics Office was established to provide subject matter expertise on AI ethics to
+                  all Sony business units. In addition, Sony has established a notification system for AI
+                  utilization in products, services, and internal operations in Sony Group's business units, to
+                  share information on AI ethics risks. 
+                  In March 2021, in accordance with the Sony Group AI Ethics Guidelines, Sony established an
+                  internal document stipulating requirements to be complied with in the commercialization process of
+                  electronic products and services, and in July 2021 started conducting AI ethics assessments in the
+                  product development life cycle. Sony uses e-learning tools to promote an understanding of AI
+                  ethics among its employees and invites speakers from outside the company to discuss this issue at
+                  lectures and symposia.
+
+
+
+Stakeholder Dialogue and External Collaboration
+Sony actively pursues dialogue with relevant companies, organizations, and the academic community
+                  on ethical issues surrounding AI utilization, while considering the interests of diverse
+                  stakeholders, including customers and creators.
+                  In May 2017, Sony became the first Japanese company to join the Partnership on AI to Benefit
+                  People and Society (PAI), a non-profit organization created to contribute to solutions for some of
+                  humanity's challenging problems, including advancing the understanding of AI and addressing ethics
+                  surrounding AI technology. One of the most common issues in AI ethics is that of fairness,
+                  transparency, and accountability, abbreviated as "FTA." Sony utilizes knowledge it has gained from
+                  its AI and robotics related research, development, and business ventures and contributes to a
+                  number of working groups addressing this issue. Sony chaired the Social and Societal Influences of
+                  AI Working Group, which focuses on the social impacts of AI, and currently serves as an expert
+                  advisor for PAI's strategic planning. Sony also serves on the steering committee for ABOUT
+                  ML,* an initiative to improve the transparency of machine learning. Sony also serves as
+                  an expert advisor to the Explainability Research Project and Diversity and Inclusion Research
+                  Project.
+* ABOUT ML stands for "Annotation and Benchmarking on Understanding and
+                  Transparency of Machine Learning Lifecycles."
+
+Partnership on AI
+
+
+
+Sony's Global Head of AI Ethics is also one of the General Chairs of the 2022 ACM Conference on
+                  Fairness, Accountability, and Transparency (FAccT), the premier conference on sociotechnical
+                  algorithmic systems.
+
+ACM FAccT
+
+
+
+Sony is also involved with Japanese initiatives to establish principles and guidelines that
+                  promote the utilization of AI for social good. These initiatives include the AI Utilization
+                  Strategy published by Keidanren (Japan Business Federation) in February 2019 and the Social
+                  Principles of Human-centric AI published by Japan's Cabinet Office in March 2019. Sony is
+                  currently a member of the Conference toward AI Network Society, a group within the Ministry of
+                  Internal Affairs and Communications whose goal is the comprehensive study of the social, economic,
+                  ethical, and legal factors involved in the promotion of AI networks throughout society as a whole.
+                
+
+AI
+                    Utilization Strategy (Keidanren website)
+
+
+Social Principles of Human-centric AI(Cabinet Secretariat website)
+
+
+The Conference toward AI Network(Ministry
+                      of Internal Affairs and Communications website)
+
+
+
+Additionally, Sony is a participant in the Global Partnership on AI, an initiative launched in
+                  June 2020 to promote the development and utilization of AI based on human-centric principles, and
+                  serves as a member of the AI and Pandemic Response Subgroup, a working group that aids the
+                  development of responsible AI solutions for epidemics of infectious disease such as COVID-19.
+
+Global Partnership on AI
+
+
+
+Trusted R&D for AI
+Sony pursues R&D for AI that is trusted and backed by solid technologies, and is engaged in
+                  technical initiatives related to AI ethics. As a solution for securing FTA, Sony equipped its AI
+                  development tool Neural Network Console with eXplainable AI (XAI) to make it easy to use. XAI is a
+                  technology that enables people to understand the logic behind AI decision-making, an area often
+                  called the "black box" since it is not always immediately apparent. Sony has also released its
+                  machine learning fairness library and Responsible AI XAI source code as open source software.
+
+Neural Network Console
+
+
+
+Additionally, Sony provided its Prediction One predictive analysis tool with the ability to
+                  visualize the predictive reasoning.
+
+Prediction One
+
+
+
+In 2021, Sony also launched the AI ethics flagship within Sony AI with projects to conduct
+                  cutting-edge research on the challenges faced in the development of AI products and services,
+                  including ethical data collection and algorithmic fairness. Taking advantage of its position as a
+                  company that extends across a wide range of industries, Sony will put fair and transparent AI into
+                  practice, leveraging its global and diverse perspective.
+
+
+Publications
+
+・Being 'Seen' vs. 'Mis-Seen': Tensions between Privacy and Fairness
+                      in Computer Vision2022Alice XiangHarvard Journal of Law & Technology,
+                    Forthcoming
+・Promises and Challenges of Causality for Ethical
+                      Machine Learning2022Aida Rahmattalabi, Alice XiangarXiv preprint
+・Reconciling Legal and Technical Approaches to
+                      Algorithmic Bias2021Alice Xiang88 Tennessee Law Review 649
+・Data Cleansing for Deep Neural Networks with
+                      Storage-efficient Approximation of Influence Functions2021Kenji Suzuki,
+                    Yoshiyuki Kobayashi, Takuya NarihiraThe 24th Meeting on Image Recognition and Understanding
+                    (MIRU2021), arXiv preprint
+・Adversarial Attacks for Tabular Data: Application to
+                      Fraud Detection and Imbalanced Data2021Francesco Cartella, Orlando Anunciação,
+                    Yuki Funabiki, Daisuke Yamaguchi, Toru Akishita, Olivier ElshochtSafeAI@AAAI 2021, arXiv
+                    preprint
+
+
+
+
+
+
+
+
+
+
+Related Sony Group Initiatives
+
+
+Integrity and Sincerity are the key Values to achieving Sony's Purpose. The Sony Group Code of
+                  Conduct sets forth a standard of daily behavior based on these Values. The Code of Conduct
+                  supports Sony's value creation and serves as the basis for earning the trust for the Sony brand
+                  through the ethical and responsible conduct of every Sony Group employee.
+
+Sony Group Code of Conduct
+
+
+
+Sony's policy on respect for human rights is stipulated in the Sony Group Code of Conduct. All
+                  Group companies are required to respect human rights and conduct sincere business operations in
+                  accordance with this policy and any related laws and regulations. In regards to ethical issues
+                  related to the use of AI, we are responding sincerely from the perspective of fairness and
+                  transparency while engaging in dialogue with stakeholders.
+
+Sony's Approach to Respect for Human Rights
+
+
+
+Sony, with regard to its philosophy and basic policy on product quality and customer service,
+                  aims to improve quality and customer service from the customer's point of view in a way that can
+                  provide customers with a sense of "satisfaction", "trust", and "safety".
+
+Commitment to Quality and Customer Service
+
+
+
+In order to protect the privacy and personal information of customers, employees and other
+                  stakeholders, Sony carries out continuous activities under a system of governance over the entire
+                  Group in such a way that allows us to effectively manage potential risks and incorporate measures
+                  to protect privacy into our systems and products, and we are working hard on the utilization of AI
+                  as part of these activities.
+
+Protection of Privacy and Personal Information
+
+
+
+
+
+
+
+R&D Activities：AI & Machine Learning
+
+
+
+
+
+
+
+
+
+Home
+Technology
+Responsible AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms and Conditions
+Privacy Policy
+Cookie Policy
+
+Customize Cookies
+
+About this Site
+Site Map
+
+
+Copyright 2024 Sony Group Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+

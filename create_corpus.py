@@ -26,7 +26,7 @@ corpus_file = open(OUT_FILE, "w", encoding="utf-8")
 nb_docs = 0
 
 # Keywords
-keywords = json.load(open(args.themes))
+keywords = json.load(open(args.themes, encoding="utf8"))
 
 filt_crit = lambda x, kw_list: all(x)
 
@@ -56,7 +56,11 @@ for i, fname in enumerate(tqdm(glob.glob(f"./{args.data}/*.txt"))):
     doc_occurrences[i] = {}
 
     try:
+<<<<<<< HEAD
         f = open(fname, "r", encoding="utf-8")
+=======
+        f = open(fname, "r", encoding="utf8")
+>>>>>>> 61b9843300286e0172b8915d1e8cf399673df211
         contents = f.read().strip().lower()
         doc_occurrences[i]["contents"] = contents
 
@@ -104,7 +108,11 @@ for i in doc_occurrences:
         for t in topics:
             # Creer dir topics
             if t.strip("*") != "mapaie":
+<<<<<<< HEAD
                 file = open(f"{t.strip('*')}/{i}.txt", "w", encoding="utf-8")
+=======
+                file = open(f"{t.strip('*')}/{i}.txt", "w", encoding="utf8")
+>>>>>>> 61b9843300286e0172b8915d1e8cf399673df211
                 print(doc_occurrences[i]["contents"], file=file) 
 
 log_fp.close()

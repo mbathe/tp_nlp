@@ -23,15 +23,17 @@ def csv_to_dict(filepath):
         manifestos_list = []
 
         for d in data:
-            manifesto = { h: "" for h in headers }
-            for i,x in enumerate(d):
+            manifesto = {h: "" for h in headers}
+            for i, x in enumerate(d):
                 head = headers[i]
                 manifesto[head] = x
             manifestos_list.append(manifesto)
     return manifestos_list
 
+
 manifestos_list = csv_to_dict(MANIFESTOS_FILE)
-list_of_urls = [ x["URL"] for x in manifestos_list if x["Status"].lower() == "included" ]
+list_of_urls = [x["URL"]
+                for x in manifestos_list if x["Status"].lower() == "included"]
 user_agents = [x.strip() for x in open(UA_FILE, encoding="utf8").readlines()]
 
 # Create output directory if it does not exist
@@ -47,7 +49,8 @@ for i in tqdm(range(len(manifestos_list))):
     url = manifesto["URL"]
 
     try:
-        headers = { "User-Agent": choice(user_agents), "Referer": "http://perdu.com" }
+        headers = {
+            "User-Agent": choice(user_agents), "Referer": "http://perdu.com"}
         response = requests.get(url, headers=headers, timeout=10, verify=False)
     except requests.exceptions.RequestException as e:
         print(f"ERR: {url}, {e}", file=log_fp)

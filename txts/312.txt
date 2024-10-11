@@ -1,0 +1,4607 @@
+
+
+
+Home - KI Strategie
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home - ALT
+Datenschutz
+Impressum
+PLS Website
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Downloads
+
+
+
+Definition
+
+
+
+Aktuelles
+
+
+
+Praxisbeispiele
+
+
+
+
+Downloads / Links
+
+
+
+    KI-Strategie  
+
+
+
+
+Nationale KI-Strategie (314,2 KiB)
+
+
+
+
+Nationale KI-Strategie: Fortschreibung 2020 (429,3 KiB)
+
+
+
+
+Aktionsplan Künstliche Intelligenz 2023 (BMBF) (2,1 MiB)
+
+
+
+
+Aktionsplan Künstliche Intelligenz 2023 (BMBF) (engl.) (2,4 MiB)
+
+
+
+
+Zwischenbericht zur KI-Strategie (225,3 KiB)
+
+
+
+
+Nationale KI-Strategie (engl.) (601,9 KiB)
+
+
+
+
+Nationale KI-Strategie: Fortschreibung 2020 (engl.) (1,1 MiB)
+
+
+
+
+Nationale KI-Strategie (frz.) (703,0 KiB)
+
+
+
+
+Nationale KI-Strategie: Fortschreibung 2020 (frz.) (796,9 KiB)
+
+
+
+
+Nationale KI-Strategie (jap.) (610,9 KiB)
+
+
+
+
+
+
+
+    Parlamentarische Fragen und Antworten  
+
+
+
+
+Bundestag: Schriftliche Fragen und Antworten der Bundesregierung (KI-Bezug: Frage195 und 196) (4,5 MiB)
+
+
+
+
+Kleine Anfrage der Fraktion DIE LINKE (Nachfrage zur Antwort der Bundesregierung) (217,3 KiB)
+
+
+
+
+Kleine Anfrage der Fraktion DIE LINKE: Antwort der Bundesregierung (6,0 MiB)
+
+
+
+
+Bundestag: Schriftliche Fragen und Antworten der Bundesregierung (KI-Bezug: Frage 118 und 121) (1,2 MiB)
+
+
+
+
+Kleine Anfrage der FDP-Fraktion: Antwort der Bundesregierung (316,7 KiB)
+
+
+
+
+
+
+
+    Weitere aktuelle Dokumente  
+
+
+
+
+OECD-Bericht zu Künstlicher Intelligenz in Deutschland (7,3 MiB)
+
+
+
+
+Stellungnahme zum Weißbuch für KI an die Europäische Kommission (122,3 KiB)
+
+
+
+
+Comments on the White Paper on Artificial Intelligence - A European Concept for Excellence and Trust (109,5 KiB)
+
+
+
+
+Dashboard: KI in Deutschland 2020 (404,6 KiB)
+
+
+
+
+Dashboard: KI in Deutschland 2019 (399,6 KiB)
+
+
+
+
+
+
+
+    Allgemeine Dokumente zum Prozess  
+
+
+
+
+Teilnehmerliste Fachforen 2020 (109,8 KiB)
+
+
+
+
+Teilnehmerliste Fachforen (88,5 KiB)
+
+
+
+
+Teilnehmerliste Online-Konsultationen (82,7 KiB)
+
+
+
+
+
+
+
+    Stellungnahmen  
+
+
+
+
+Stellungnahmen Handlungsfeld 1 (310,9 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 2 (257,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 3 (116,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 4 (174,5 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 5 (207,0 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 6 (223,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 7 (185,2 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 8 (234,5 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 9 (239,1 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 10 (132,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 11 (182,4 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 12 (202,1 KiB)
+
+
+
+
+
+
+
+
+
+
+
+Definition
+
+
+Begriffsbestimmung Künstliche Intelligenz
+Eine einzige allgemeingültige bzw. von allen Akteuren konsistent genutzte Definition von Künstlicher Intelligenz (KI) gibt es nicht. Der KI-Strategie der Bundesregierung liegt folgendes Verständnis von KI zugrunde.Sehr abstrakt ordnen sich KI-Forscher zwei Richtungen zu: der „schwachen“ und der „starken“ KI. Die „starke“ KI formuliert, dass KI-Systeme die gleichen intellektuellen Fertigkeiten wie der Mensch haben oder ihn darin sogar übertreffen können. Die „schwache“ KI ist fokussiert auf die Lösung konkreter Anwendungsprobleme auf Basis der Methoden aus der Mathematik und Informatik, wobei die entwickelten Systeme zur Selbstoptimierung fähig sind. Dazu werden auch Aspekte menschlicher Intelligenz nachgebildet und formal beschrieben bzw. Systeme zur Simulation und Unterstützung menschlichen Denkens konstruiert.Die Bundesregierung orientiert sich bei ihrer Strategie an der Nutzung der KI für die Lösung von Anwendungsproblemen und damit an den Positionen der „schwachen“ KI:
+
+Deduktionssysteme, maschinelles Beweisen: Ableitung (Deduktion) formaler Aussagen aus logischen Ausdrücken, Systeme zum Beweis der Korrektheit von Hardware und Software;
+Wissensbasierte Systeme: Methoden zur Modellierung und Erhebung von Wissen; Software zur Simulation menschlichen Expertenwissens und Unterstützung von Experten (ehemals: „Expertensysteme“); zum Teil auch verbunden mit Psychologie und Kognitionswissenschaften;
+Musteranalyse und Mustererkennung: induktive Analyseverfahren allgemein, insbesondere auch maschinelles Lernen;
+Robotik: autonome Steuerung von Robotik-Systemen, d.h. autonome Systeme;
+Intelligente multimodale Mensch-Maschine-Interaktion: Analyse und „Verstehen“ von Sprache (in Verbindung mit Linguistik), Bildern, Gestik und anderen Formen menschlicher Interaktion.
+
+
+
+
+
+
+
+
+Aktuelles
+
+
+
+Pressemitteilung des Bundesforschungsministeriums | 07.11.2023
+Stark-Watzinger: Wir geben mit unserem KI-Aktionsplan neue Impulse
+
+
+
+  Förderprogramme
+
+
+KMU-innovativ: Informations- und Kommunikationstechnologien
+Bundesministerium für Bildung und Forschung (BMBF)Antragsfrist: Jeweils zum 15. April und 15. Oktober
+
+
+
+
+KMU-innovativ: Produktionsforschung
+Bundesministerium für Bildung und Forschung (BMBF)Antragsfrist: Jeweils zum 15. April und 15. Oktober
+
+
+
+
+Projekte im Rahmen der europäischen EUREKA-Cluster
+Bundesministerium für Bildung und Forschung (BMBF)Antragsfrist: Laufend bis 2024
+
+
+
+
+
+Projekte im Rahmen der europäischen EUREKA-Cluster
+Das Bundesministerium für Bildung und Forschung (BMBF) fördert vorwettbewerblichen, industriegetriebenen Forschungs- und Entwicklungsarbeiten, insbesondere Projekte in den Clustern ITEA 4 und Xecs. Gefördert werden deutsche Teilkonsortien im Rahmen bi- und multilateraler europäischer Verbundvorhaben, die vorrangig in 2 Bereichen zu folgenden Themen und Bereichen forschen: a) Softwareinnovationen: Die Förderung im Bereich Softwareinnovationen richtet sich an folgende Anwendungsfelder und Branchen: Mobilität, Automatisierung, Gesundheit, Medizintechnik, Dienstleistungen, Energie, Umwelt. b) Mikroelektronik für zukunftsweisende Anwendungen in Künstlicher Intelligenz, Kommunikationstechnologie, Smart Health, Autonomem Fahren, Industrie 4.0 sowie Intelligenter Energiewandlung.
+Antragsfrist: Laufend bis 2024
+Weiterlesen
+
+
+KMU-innovativ: Informations- und Kommunikationstechnologien
+Die Fördermaßnahme will das Innovationspotential kleiner und mittlerer Unternehmen (KMU) im Bereich Spitzenforschung stärken und die Forschungsförderung im Rahmen des IKT-Fachprogramms insbesondere für solche KMU attraktiver gestalten, die zum ersten Mal einen Antrag auf Forschungsförderung stellen. Dazu hat das BMBF das Antrags- und Bewilligungsverfahren vereinfacht und beschleunigt sowie die Beratungsleistungen für KMU ausgebaut. Es sollen KMU unterstützt werden, die auf dem Gebiet der IKT tätig bzw. ihr Geschäftsfeld durch den Einsatz von IKT erweitern und stärken wollen.
+Antragsfrist: Jeweils zum 15. April und 15. Oktober
+Weiterlesen
+
+
+Digital GreenTech - Umwelttechnik trifft Digitalisierung
+Ziel der Förderrichtlinie ist die Verknüpfung digitaler Technologien mit Umwelttechnologien. Gefördert wird die Entwicklung von innovativen nachhaltigen Produkten, Verfahren und Dienstleistungen in den Anwendungsfeldern Wasserwirtschaft, nachhaltiges Landmanagement und Geotechnologie sowie Ressourceneffizienz und Kreislaufwirtschaft. Die neuen Ansätze und Verfahren sollen zur Schonung der natürlichen Ressourcen oder zur Minderung von Umweltbelastungen in Deutschland und weltweit im Sinne von Wirtschaftlichkeit und Nachhaltigkeit beitragen. Gefördert werden Einzel- und Verbundprojekte zu folgenden inhaltlichen Schwerpunkten: Daten intelligent nutzen, Systeme vernetzen, autonome Systeme schaffen und digitale Interaktionen.
+Antragsfrist: 31. Oktober 2021
+Weiterlesen
+
+
+KMU-innovativ: Produktionsforschung
+Gegenstand der Förderung sind risikoreiche, technologieübergreifende und anwendungsbezogene industrielle Forschungs- und vorwettbewerbliche Entwicklungsvorhaben aus dem Bereich Mensch-Technik-Interaktion. Wesentliches Ziel ist die Stärkung der Marktposition der beteiligten KMU. Dies soll auch dadurch erreicht werden, dass der Transfer von Forschungsergebnissen aus dem vorwettbewerblichen Bereich in die praktische Anwendung beschleunigt wird. Um die Forschungsförderung für erstantragstellende KMU attraktiver zu gestalten, wurden das Antrags- und Bewilligungsverfahren vereinfacht und beschleunigt sowie die Beratungsleistungen für KMU ausgebaut.
+Antragsfrist: Jeweils zum 15. April und 15. Oktober
+Weiterlesen
+
+
+Europäische KI-on-Demand-Plattform
+Das Ziel der Maßnahme ist die Entwicklung und Bereitstellung einer „KI-on-Demand-Plattform“. Die Plattform soll alle KI-Ressourcen (Algorithmen und Tools) sammeln und sie potenziellen Nutzern, Unternehmen und der öffentlichen Verwaltung mit den erforderlichen Diensten zur Verfügung stellen. Die Plattform spielt somit die Rolle eines zentralen Marktplatzes für KI-Tools und einer Service-Dienststelle, die Benutzer (einschließlich öffentlicher Verwaltungen) bei der Integration von KI-Lösungen unterstützt.
+Antragsfrist: 24. Januar 2023
+Weiterlesen
+
+
+
+
+Karliczek: Einigung zur Zukunft des DFKI ist ein weiterer wichtiger Meilenstein für die Zukunftsfähigkeit der KI-Forschung in Deutschland
+Bund und Länder verständigen sich auf Weiterentwicklung des Deutschen Forschungszentrums für Künstliche Intelligenz (DFKI)
+Das Bundesministerium für Bildung und Forschung (BMBF) sowie die Bundesländer Berlin, Bremen, Hessen, Niedersachsen, Rheinland-Pfalz, Saarland und Schleswig-Holstein haben eine gemeinsame Absichtserklärung zur Weiterentwicklung des Deutschen Forschungszentrums für Künstliche Intelligenz (DFKI) unterzeichnet. Darin erklären der Bund und die sieben Länder, den Kurs des DFKI als Mittler zwischen Grundlagenforschung und Industrieforschung zur Künstlichen Intelligenz (KI) mit insgesamt 22 Millionen Euro pro Jahr, von denen die Hälfte vom Bund kommt, unterstützen zu wollen.
+Weiterlesen
+
+
+Karliczek: Digitaler KI-Campus stärkt Deutschlands  KI-Kompetenzen mit neuen Angeboten
+Die vom BMBF geförderte Lernplattform „KI-Campus“ bietet neue digitale Lernangebote rund um Themen der Künstlichen Intelligenz. Ein besonderer Fokus liegt dabei auf KI in der Medizin.
+Das Bundesministerium für Bildung und Forschung (BMBF) fördert im Rahmen der KI-Strategie der Bundesregierung den „KI-Campus“ als zentrale Lernplattform für Künstliche Intelligenz. Über 40 Partner aus Wissenschaft und Wirtschaft entwickeln für den KI-Campus fortlaufend neue innovative Online-Kurse zum Verständnis der Künstlichen Intelligenz, die allen Interessierten kostenfrei zugänglich sind. Das BMBF möchte so eine große Bandbreite von Fort- und Weiterbildungsmöglichkeiten im Bereich der Künstlichen Intelligenz schaffen und damit Deutschlands KI-Kompetenz in der Breite stärken. Nun wurden neue Angebote auf dem KI-Campus mit Fokus auf das Thema KI in der Medizin veröffentlicht.
+Weiterlesen
+
+
+Karliczek: Mit Künstlicher Intelligenz das Gesundheitssystem besser auf künftige Krisen vorbereiten
+Um Therapien und Versorgungskonzepte zu verbessern, setzen sechs neue vom BMBF mit rund 50 Millionen Euro geförderte Forschungs-verbünde auf intelligente IT-Lösungen 
+Sechs neue vom Bundesministerium für Bildung und Forschung (BMBF) geförderte Forschungsverbünde, die „Digitalen FortschrittsHubs Gesundheit“, starten ihre Arbeit sukzessive seit Mitte 2021 und entwickeln Pilotmodelle, in denen Expertinnen und Experten aus Forschung, Gesundheitswesen und IT eng mit Patientinnen und Patienten zusammenarbeiten. Ziel ist es, die Verfügbarkeit von Daten und die Zusammenarbeit zwischen den verschiedenen Bereichen der Gesundheitsversorgung zu verbessern – von der stationären und ambulanten Behandlung bis hin zur Rehabilitation und Nachsorge in der Hausarztpraxis. Das Einsatzspektrum reicht von der Krebsmedizin bis zum Pandemie-Management. Im Oktober startet nun der letzte der insgesamt sechs Hubs.
+Weiterlesen
+
+
+Karliczek: Mit KI Deutschland zum internationalen Vorreiter für das Kunststoff-Recycling machen
+Neue BMBF-Fördermaßnahme soll Kreislaufführung von Kunststoffverpackungen durch KI voranbringen
+Das Bundesministerium für Bildung und Forschung (BMBF) startet in diesen Tagen eine neue Fördermaßnahme für KI-Innovationen zur Kunststoff-Kreislaufwirtschaft. Hierfür sind 30 Millionen Euro bis zum Jahr 2025 vorgesehen. Hierzu erklärt Bundesforschungsministerin Anja Karliczek: „Wir brauchen neue Lösungen, um Kunststoffabfälle wieder- oder weiterzuverwenden. Künstliche Intelligenz hat das Potenzial, beim Umbau unserer Wirtschaft hin zu einer nachhaltigen Kreislaufwirtschaft eine bedeutende Rolle zu spielen."
+Weiterlesen
+
+
+Kabinett beschließt Fortschreibung der KI Strategie der Bundesregierung
+KI-Mittel werden von drei auf fünf Milliarden Euro bis 2025 erhöht
+Heute hat das Kabinett die fortgeschriebene Strategie Künstliche Intelligenz beschlossen. Damit reagiert die Bundesregierung auf neue Entwicklungen und Bedarfe, die sich seit der Veröffentlichung der KI-Strategie im November 2018 ergeben haben. Um Deutschland im Kampf gegen die COVID-19-Pandemie zu stärken und die Grundlagen für die Wettbewerbsfähigkeit auch nach der Krise zu legen, verstärkt die Bundesregierung ihr Engagement für die Zukunftstechnologie KI noch einmal deutlich: Bis 2025 werden die Investitionen des Bundes in KI aus Mitteln des Konjunktur- bzw. Zukunftspaketes von drei auf fünf Milliarden Euro erhöht.
+Weiterlesen
+
+
+Bundesregierung übermittelt Stellungnahme zum Weißbuch für Künstliche Intelligenz an die Europäische Kommission
+Heute hat die Bundesregierung ihre Stellungnahme zum „Weißbuch zur Künstlichen Intelligenz – ein europäisches Konzept für Exzellenz und Vertrauen“ sowie zum „Bericht über die Auswirkungen künstlicher Intelligenz, des Internets der Dinge und der Robotik in Hinblick auf Sicherheit und Haftung“ an die Europäische Kommission übermittelt. Ziel der Bundesregierung ist, eine verantwortungsvolle, gemeinwohlorientierte und menschenzentrierte Entwicklung und Nutzung von Künstlicher Intelligenz sowie die Förderung von Wettbewerbsfähigkeit und Innovation in der Europäischen Union voranzubringen.
+Federführend waren an der Stellungnahme das Bundesministerium für Bildung und Forschung, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Arbeit und Soziales sowie das Bundesministerium des Innern, für Bau und Heimat und das Bundesministerium der Justiz und für Verbraucherschutz beteiligt.
+Am 19. Februar hatte die Europäische Kommission ihr Weißbuch zur Künstlichen Intelligenz vorgelegt. Es beinhaltet Maßnahmen und politische Handlungsoptionen, um zum einen die Anwendung von KI zu fördern und zum anderen damit verbundene Risiken zu adressieren. Zugleich hat sie einen Bericht über die Auswirkungen Künstlicher Intelligenz auf Sicherheit und Haftung veröffentlicht. Mit der Veröffentlichung beider Dokumente war ein breit angelegtes Konsultationsverfahren verbunden, an dem sich alle interessierten Kreise beteiligen und Input liefern konnten.
+Weiterlesen
+
+
+Ein Jahr Strategie Künstliche Intelligenz der Bundesregierung
+Vor einem Jahr, am 15. November 2018, hat die Bundesregierung ihre Strategie Künstliche Intelligenz beschlossen und damit den Rahmen gesetzt, um die weitere Entwicklung und Anwendung von Künstlicher Intelligenz ganzheitlich politisch zu gestalten.
+„Unser Anspruch ist es, bei KI in allen Bereichen in die Weltspitze zu kommen. Und wir sind in Deutschland auf einem guten Weg. Aber natürlich dürfen wir hier nicht nachlassen und müssen in vielen Bereichen noch besser werden – zum Beispiel müssen die kleinen und mittelständischen Unternehmen die Chancen von KI noch besser ergreifen. Die kontinuierliche Stärkung der KI-Forschung ist Grundlage für eine erfolgreiche Gesamtentwicklung in Deutschland. Deshalb werden wir unsere Kompetenzzentren für KI-Forschung weiter ausbauen und vernetzen. Wir brauchen die weltweit klügsten Köpfe in Deutschland. Dafür haben wir gemeinsam mit der Alexander-von-Humboldt Stiftung ein Programm gestartet, um international renommierte Wissenschaftlerinnen und Wissenschaftler nach Deutschland zu holen. KI soll den Menschen zugutekommen. Deshalb ist der schnelle Transfer von Forschungsergebnissen in die Anwendung ebenfalls ein Ziel der KI-Strategie.“
+Weiterlesen
+
+
+BMBF und französisches Forschungsministerium MESRI veröffentlichen Förderrichtlinie zu KI-Forschungskooperationen
+Das Bundesministerium für Bildung und Forschung (BMBF) und das französische Forschungsministerium MESRI haben am heutigen Freitag eine gemeinsame Förderrichtlinie veröffentlicht. Durch diese können zukünftig qualitativ hochwertige KI-Forschungskooperationen zwischen Deutschland und Frankreich unterstützt und finanziert werden. Beide Regierungen werden die Ergebnisse aus den Forschungskooperationen gemeinsam in die europäische und internationale Arbeit auf dem Gebiet der Künstlichen Intelligenz einbringen. Zur Veröffentlichung der Förderrichtlinie erklärt Bundesforschungsministerin Anja Karliczek:
+"Künstliche Intelligenz ist zentral für die Wettbewerbsfähigkeit Europas. Für den deutschen und den französischen Wirtschafts- und Wissenschaftsstandort bieten sich hier enorme Chancen. Mit unserer neuen deutsch-französischen Förderrichtlinie wollen wir deshalb unsere Kräfte in der KI-Forschung bündeln. Damit schaffen wir eine weitere Voraussetzung dafür, dass unsere beiden Länder an der Spitze der KI-Entwicklung stehen können und für eine vertrauenswürdige ‚KI made in Europe'."
+Weiterlesen
+
+
+Stark-Watzinger: Wir machen Deutschland als KI-Standort noch attraktiver
+BMBF fördert KI-Kompetenzzentren dauerhaft 
+Das Bundesministerium für Bildung und Forschung (BMBF) weitet seine Förderung für die Erforschung von Künstlicher Intelligenz (KI) aus und wird die fünf neu aufgebauten KI-Kompetenzzentren an Hochschulen ab heute dauerhaft fördern. Das BMBF stellt dafür zukünftig 50 Millionen Euro im Jahr bereit, ein Beitrag in gleicher Höhe kommt von den Sitzländern der Kompetenzzentren.
+Weiterlesen
+
+
+Stark-Watzinger: Wir geben mit unserem KI-Aktionsplan neue Impulse
+Aktionsplan des BMBF veröffentlicht
+Bundesforschungsministerin Bettina Stark-Watzinger hat heute den Aktionsplan Künstliche Intelligenz des Bundesministeriums für Bildung und Forschung (BMBF) vorgestellt. Er ist das Update des BMBF-Beitrags zur KI-Strategie der Bundesregierung.
+Weiterlesen
+
+
+Karliczek: Mit KI die Arbeitswelt von morgen stärken
+Startschuss für neues regionales Kompetenzzentrum für Arbeitsforschung in sächsischen Kohleregionen 
+Das vom Bundesministerium für Bildung und Forschung (BMBF) geförderte achte „Regionale Kompetenzzentrum der Arbeitsforschung“ hat seine Arbeit aufgenommen. Es trägt den Namen „Künstlich und Menschlich Intelligent - Kompetenzzentrum für transformierte Arbeit in Westsachsen (K-M-I)“ und hat seinen Sitz in Leipzig. Seine Aufgabe ist es, in der Region des mitteldeutschen Kohlereviers und in Westsachsen zu erforschen, wie sich Maßnahmen der Künstlichen Intelligenz (KI) arbeitsgestalterisch einsetzen lassen, etwa durch die Unterstützung von intelligenten Assistenzsystemen bei der Produktionsplanung und -steuerung oder bei der Wartung und Instandhaltung komplexer Anlagen.
+Weiterlesen
+
+
+Karliczek: Digitalisierung und Nachhaltigkeit gilt es zusammenzuführen
+Forschungsprojekt „NEUROTEC“ geht in die zweite Phase/ Bundesforschungsministerium fördert Technologien für neuartige Generation von Chips und Hardware mit 36,5 Millionen Euro
+Das Bundesministerium für Bildung und Forschung (BMBF) fördert ab sofort am Forschungszentrum Jülich und der RWTH Aachen die zweite Phase des Projekts „Neuro-inspirierte Technologien der künstlichen Intelligenz für die Elektronik der Zukunft (NEUROTEC)“ mit 36,5 Millionen Euro bis 2026. Das Vorhaben zielt auf die Entwicklung innovativer Elektronikbauteile, die als Synapsen in künstlichen neuronalen Netzen verwendet werden sollen und einen wichtigen Beitrag zur Energiesparsamkeit von KI-Anwendungen leisten können.
+Weiterlesen
+
+
+Karliczek: Gemeinsam mit Frankreich bringen wir vertrauenswürdige „KI made in Europe“ voran
+Startschuss für deutsch-französische Verbundprojekte zur Stärkung des Wissens- und Technologietransfers sowie der Spitzenforschung in beiden Ländern gefallen 
+Mit einer gemeinsamen Förderrichtlinie fördern das Bundesministerium für Bildung und Forschung (BMBF) und das französische Forschungsministerium (Ministère de l’Enseignement supérieur de la Recherche et de l’Innovation, MESRI) sowohl Forschungskooperationen zwischen unabhängigen wissenschaftlichen Partnern mit methodenorientiertem Fokus als auch Verbünde aus Wissenschafts- und Wirtschaftsorganisationen. Der Transfer von der Forschung in die Praxis soll auf diese Weise gestärkt werden.
+Weiterlesen
+
+
+
+
+
+
+
+Praxisbeispiele
+
+
+Künstliche Intelligenz ist ein technologischer Megatrend. Welchen konkreten Nutzen KI-Anwendungen für den Menschen und die Wirtschaft schaffen, zeigen verschiedene Anwendungsbeispiele:
+
+KI im Einsatz
+Gemeinwohlorientierte KI-Ideen
+KI in der Wissensarbeit
+Sozialpartnerschaftliche KI-Entwicklung in Betrieben
+Künstliche Intelligenz in Entwicklungs- und Schwellenländern
+KI-Projekte im öffentlichen Interesse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Downloads / Links
+
+KI-Strategie
+
+
+
+Nationale KI-Strategie (314,2 KiB)
+
+
+
+
+Nationale KI-Strategie (engl.) (601,9 KiB)
+
+
+
+
+Nationale KI-Strategie (frz.) (703,0 KiB)
+
+
+
+
+Nationale KI-Strategie (jap.) (610,9 KiB)
+
+
+
+  Förderung von KI
+
+
+Gesamtkonzept zur Verstärkung der KI-Förderung (80,7 KiB)
+
+
+
+Eine aktuelle Aufstellung von KI-bezogenen Förderbekanntmachungen finden Sie hier.
+
+
+Allgemeine Dokumente
+
+
+
+Teilnehmerliste Fachforen (88,5 KiB)
+
+
+
+
+Teilnehmerliste Online-Konsultationen (82,7 KiB)
+
+
+
+Stellungnahmen
+
+
+
+Stellungnahmen Handlungsfeld 1 (310,9 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 2 (257,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 3 (116,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 4 (174,5 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 5 (207,0 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 6 (223,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 7 (185,2 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 8 (234,5 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 9 (239,1 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 10 (132,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 11 (182,4 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 12 (202,1 KiB)
+
+
+
+
+
+
+
+Info
+
+KI-Strategie
+
+
+
+Nationale KI-Strategie (314,2 KiB)
+
+
+
+
+Nationale KI-Strategie (engl.) (601,9 KiB)
+
+
+
+
+Nationale KI-Strategie (frz.) (703,0 KiB)
+
+
+
+
+Nationale KI-Strategie (jap.) (610,9 KiB)
+
+
+
+  Förderung von KI
+
+
+Gesamtkonzept zur Verstärkung der KI-Förderung (80,7 KiB)
+
+
+
+Eine aktuelle Aufstellung von KI-bezogenen Förderbekanntmachungen finden Sie hier.
+
+
+Allgemeine Dokumente
+
+
+
+Teilnehmerliste Fachforen (88,5 KiB)
+
+
+
+
+Teilnehmerliste Online-Konsultationen (82,7 KiB)
+
+
+
+Stellungnahmen
+
+
+
+Stellungnahmen Handlungsfeld 1 (310,9 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 2 (257,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 3 (116,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 4 (174,5 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 5 (207,0 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 6 (223,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 7 (185,2 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 8 (234,5 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 9 (239,1 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 10 (132,8 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 11 (182,4 KiB)
+
+
+
+
+Stellungnahmen Handlungsfeld 12 (202,1 KiB)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Downloads
+
+
+
+
+Downloads / Links !!
+Der Eintrag "127" existiert leider nicht.
+
+
+
+
+
+Info
+Der Eintrag "127" existiert leider nicht.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+Fünf Jahre KI-Strategie – wo steht Deutschland?
+Vorstellung der OECD-Review zu Künstlicher Intelligenz in Deutschland
+Wo steht Deutschland bei der Umsetzung seiner 2018 implementierten und 2020 fortgeschriebenen KI-Strategie? Was sind Stärken, Schwächen, Chancen und Herausforderungen bei der KI-Entwicklung und -Nutzung? Welchen Einfluss haben geopolitische, technologische und wirtschaftliche Veränderungen und die rasanten Entwicklungen der KI-Landschaft? Antworten darauf, Einschätzungen sowie Empfehlungen für die Zukunft gibt der OECD-Länderbericht zur Künstlichen Intelligenz in Deutschland. Der Bericht stützt sich auf Daten und Erkenntnisse des OECD.AI Policy Observatory, des OECD-Programms für KI in Arbeit, Innovation, Produktivität und Qualifikation (AI-WIPS) sowie auf Interviews mit Akteuren in Deutschland, die im Jahr 2023 durchgeführt wurden. Der Bericht wurde auf Einladung des Bundesministeriums für Arbeit und Soziales (BMAS), des Bundesministeriums für Bildung und Forschung (BMBF) und des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK) erstellt.
+Download des OECD-Berichts
+
+
+
+
+
+
+ 
+
+
+  
+BMBF veröffentlicht KI-Aktionsplan
+Die deutsche KI-Landschaft braucht mehr Forschung, Rechenleistung, Fachkräfte und Transfer. Außerdem sind klare Regelungen für den Einsatz in der Bildung nötig. Der neue KI-Aktionsplan des BMBF verdeutlicht, wo der größte Handlungsbedarf besteht.
+Zum KI-Aktionsplan und der zugehörigen BMBF-Themenseite
+
+
+
+Maria Korneeva/Getty Images
+
+
+
+ 
+
+
+  
+KI-Monitoring: Standortbeschreibung für Deutschland
+Wie steht es um die KI-Forschung in Deutschland? Gelingt der Transfer von der Wissenschaft in die Wirtschaft? Und welche Effekte hat der Einsatz von KI auf die Arbeits- und Lebenswelt? Kennzahlen dazu liefern das KI-Monitoring der Plattform Lernende Systeme und das KI-Observatorium.
+
+
+
+wanpatsorn/Shutterstock
+
+
+
+ 
+
+
+  
+Civic Innovation Platform  (CIP)
+Mit der Civic Innovation Platform (CIP) des Bundesministeriums für Arbeit und Soziales sollen Ideen und Projekte für KI-Anwendungen, die dem gesellschaftlichen und sozialen Fortschritt dienen, wirksam unterstützt werden.
+
+
+
+
+
+
+ 
+
+
+  
+Mit KI die Verwaltung modernisieren
+Um die Potenziale von KI für eine moderne Verwaltung im Dienste der Bürgerinnen und Bürger verantwortungsvoll zu nutzen, hat das BMAS in einem Netzwerk mit über 40 Expert*innen aus 20 Behörden Leitlinien für den Einsatz von KI in der Arbeits- und Sozialverwaltung entwickelt.
+
+
+
+
+
+
+ 
+
+
+  
+Civic Coding − Innovationsnetz KI für das Gemeinwohl
+Mit Civic Coding bündeln BMAS, BMUV und BMFSFJ ihre Aktivitäten und Ressourcen, um die gesellschaftliche Nutzung von sozialer, nachhaltiger und partizipativer KI im Dienste des Allgemeinwohls zu fördern. Dafür vernetzen die drei Ressorts Infrastrukturen, führen Projekte zusammen und verbinden die Communities.
+
+
+
+
+
+
+ 
+
+
+  
+Bereits über 490 Mio. € zusätzliche Mittel zur KI-Förderung verausgabt
+Über 2,5 Mrd. € gebundene Mittel zur KI-Förderung hat die Bundesregierung seit 2019 zusätzlich zur Verfügung gestellt, davon wurden über 490 Mio. € bereits in – größtenteils mehrjährigen – Projekten verausgabt (Grafik Gesamtfördermittel).
+Quelle: KI-Monitoring der Plattform Lernende Systeme | Stand September 2022
+
+
+
+
+
+
+ 
+
+
+  
+KI-Vielfalt in Deutschland: Über 2.100 Eintragungen auf der deutschen KI-Landkarte.
+Über 1.100 Anwendungen, mehr als 280 Forschungsinstitute und rund 700 Studiengänge – die KI-Landkarte zeigt eindrucksvoll, wo KI in Deutschland stattfindet.
+Quelle: Plattform Lernende Systeme
+
+
+
+sam2k00/Shutterstock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+  Künstliche Intelligenz (KI) ist ein Schlüssel zur Welt von morgen.
+
+Die Bundesregierung forciert mit ihrer Nationalen Strategie den Weg von Künstlicher Intelligenz Made in Germany an die Weltspitze. Es geht um individuelle Freiheitsrechte, Autonomie, Persönlichkeitsrechte, die Entscheidungsfreiheit des Einzelnen. Um Hoffnungen, Ängste, Potenziale und Erwartungen. Es geht aber auch um neue Märkte für deutsche Unternehmen, den weltweiten Wettbewerb, vor allem mit den USA und China, und um die Zukunft Deutschlands als Industriestandort. Die Bundesregierung ist sich dieser enormen Verantwortung bewusst: Die KI-Strategie für Deutschland entstand in einem umfassenden demokratischen Prozess. Viele Experten beteiligten sich daran. Mit Mut und Gestaltungswillen und immer mit dem Fokus auf eine Künstliche Intelligenz im Dienste und zum Wohle der Menschen!
+Die Nationale Strategie Künstliche Intelligenz der Bundesregierung gibt vor dem Hintergrund der dynamischen Entwicklungen der Technologie die wesentlichen Rahmenbedingungen vor. Die KI-Strategie ist als lernende Strategie angelegt, die es kontinuierlich gemeinsam durch Politik, Wissenschaft, Wirtschaft und Zivilgesellschaft neu zu justieren gilt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+„Artificial Intelligence (AI) made in Germany“ soll zum weltweit anerkannten Gütesiegel werden.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Deutschland soll seine starke Position in der Industrie 4.0 ausbauen und führend bei KI-Anwendungen in diesem Bereich werden. Von KI-Anwendungen soll auch unser starker Mittelstand profitieren.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Deutschland soll zum attraktiven Standort für die klügsten KI-Köpfe der Welt werden.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Im Fokus soll immer der Nutzen von KI für die Bürgerinnen und Bürger stehen.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Daten sollen in Deutschland ausschließlich zum Wohle von Gesellschaft, Umwelt, Wirtschaft und Staat genutzt werden.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Mit einer neuen Infrastruktur zur Echtzeit-Datenübertragung soll die Basis für neue KI-Anwendungen geschaffen werden.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+KI in Deutschland soll von einem hohen Niveau an IT-Sicherheit flankiert werden.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Wir wollen eine europäische Antwort auf datenbasierte Geschäftsmodelle und neue Wege der datenbasierten Wertschöpfung finden, die unserer Wirtschafts-, Werte- und Sozialstruktur entspricht.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Auch in der Arbeitswelt soll es immer um KI zum Wohle aller Erwerbstätigen gehen.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Die Potenziale von KI sollen Lebens- und Arbeitsbereiche sicherer, effizienter und nachhaltiger gestalten.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+KI soll die soziale Teilhabe, Handlungsfreiheit und Selbstbestimmung der Bürgerinnen und Bürger fördern.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Die Potenziale von KI sollen für die nachhaltige Entwicklung genutzt werden und damit einen Beitrag zum Erreichen der Nachhaltigkeitsziele der Agenda 2030 leisten.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+Ziele der KI-Strategie
+Für KI-Anwendungen werden Rahmenbedingungen gesetzt, die Vielfalt schaffen und erhalten und den gebotenen Raum für die Entfaltung der kulturellen und medialen Freiheiten garantieren.
+
+
+
+
+mehr Info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die zwölf Handlungsfelder der Nationalen KI-Strategie der Bundesregierung im Blick: Seit Bekanntmachung der Nationalen KI-Strategie der Bundesregierung wurden ressortübergreifend Förderprogramme, Initiativen, Kooperationen etc. gestartet, um Deutschland zu einem führenden Standort für Künstliche Intelligenz zu machen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Forschung in Deutschland und Europa stärken, um Innovationstreiber zu sein
+Die Bundesregierung baut ein starkes, dynamisches, flexibel agierendes, breit und interdisziplinär aufgestelltes sowie international wettbewerbsfähiges KI-Ökosystem in Deutschland auf. Damit legen wir das Fundament für exzellente Forschung, die Gewinnung der besten Köpfe in der KI und das "Enabling" von Innovationen.
+
+
+
+
+
+
+
+Kompetenzzentren  für KI-Forschung
+
+
+
+
+BMBF
+
+Die sechs KI-Kompetenzzentren sind der Nukleus des deutschen KI-Ökosystems und eine tragende Säule der KI-Forschung. Der Bund und die beteiligten Länder Baden-Württemberg, Bayern, Berlin, Nordrhein-Westfalen und Sachsen fördern die fünf KI-Kompetenzzentren Tübingen AI Center, MCML, BIFOLD, Lamarr-Institut und ScaDS.AI seit Juli 2022 dauerhaft. Hierfür stellt der Bund jährlich insgesamt 50 Mio. Euro zur Verfügung, die fünf Sitzländer steuern gemeinsam eine Förderung in gleicher Höhe bei. Parallel dazu wird auch das sechste KI-Kompetenzzentrum, das Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI), auf Basis eines MoU mit den Sitzländern und einer Evaluation weiterentwickelt.
+
+
+
+
+
+
+
+
+
+
+Stärkung der Forschungsförderung
+
+
+
+
+BMBF
+
+Seit Veröffentlichung der KI-Strategie wurden eine Vielzahl an Fördermaßnahmen veröffentlicht. Dies umfasst sowohl Grundlagenforschung, etwa zur Erklärbarkeit und Transparenz von KI oder zur Nutzung synthetischer Daten, als auch Forschung in verschiedenen Anwendungsbereichen wie dem autonomen Fahren, der Mikroelektronik, der IT-Sicherheit und der Produktionstechnik. Die Maßnahmen richten sich an Universitäten, Forschungseinrichtungen, kleine und mittlere Unternehmen und Industrie.
+
+
+
+
+
+
+
+
+
+
+KI-Servicezentren
+
+
+
+
+BMBF
+
+Zur Entwicklung von KI-Anwendungen ist eine adäquate Recheninfrastruktur unerlässlich. Diese ist aber nicht in allen Unternehmen oder Hochschulen vorhanden. Gerade kleinere und mittlere Unternehmen verfügen häufig nicht über die benötigten Kapazitäten. Mit dem Aufbau von vier KI-Servicezentren verfolgt das Bundesministerium für Bildung und Forschung daher das Ziel, Nutzerinnen und Nutzern aus Wissenschaft und Wirtschaft leistungsstarke Recheninfrastruktur zur Verfügung zu stellen, so die Verfügbarkeit von KI-Rechenleistung am Standort Deutschland deutlich zu erhöhen und damit Forschungseinrichtungen und Unternehmen- insb. KMU – dazu zu befähigen, KI-Anwendungen zu nutzen, zu verstehen, weiterzuentwickeln und in ihre Prozesse zu integrieren. Die KI-Servicezentren betreiben dazu Spitzenforschung im Bereich der KI und befördern durch niederschwellige und agile Angebote den Transfer von KI in die Praxis. Um die KI-Servicezentren sollen Innovationsökosysteme entstehen, in denen Lösungen gemeinsam mit fachlicher Unterstützung entwickelt werden können. Die Projekte mit einer Laufzeit von zunächst drei Jahren sind zum 1. Oktober bzw. 1. November 2022 gestartet.
+
+
+
+
+
+
+
+
+
+
+KI-Leuchttürme für Umwelt, Klima, Natur und Ressourcen
+
+
+
+
+BMUV
+
+Mit der Förderinitiative „KI-Leuchttürme für Umwelt, Klima, Natur und Ressourcen“ werden Projekte gefördert, die mittels Künstlicher Intelligenz einen Beitrag zur Lösung ökologischer Herausforderungen leisten und damit beispielgebend für eine umwelt-, klima-, gesundheits- und naturgerechte Digitalisierung sind. Anfang 2023 wurden bereits über 40 Projekte angestoßen, die die Vielfalt der Potentiale von KI im Umweltbereich verdeutlichen. 
+
+
+
+
+
+
+
+
+
+
+Stärkung der Forschungs- und Anwendungsförderung im Agrarbereich
+
+
+
+
+BMEL
+
+Das Bundesministerium für Ernährung und Landwirtschaft (BMEL) finanziert mit rund 44 Millionen Euro über die „Bekanntmachung zur Förderung der Künstlichen Intelligenz (KI) in der Landwirtschaft, der Lebensmittelkette, der gesundheitlichen Ernährung und den Ländlichen Räumen“ Forschungsverbünde. In den 36 Verbundprojekten werden KI-Technologien für die landwirtschaftliche und ländliche Praxis entwickelt (www.bmel.de/ki).
+
+
+
+
+
+
+
+
+
+
+KI und Cybersicherheit
+
+
+
+
+BMI
+
+Zusammen mit Universitäten, Forschungseinrichtungen und KMUs entwickelt das Bundesamt für Sicherheit in der Informationstechnik Maßnahmen zur Steigerung der IT-Sicherheit von und mittels KI.
+
+
+
+
+
+
+
+
+
+
+Virtuelles Kompetenzzentrum für KI und Daten im Agrifood-Bereich
+
+
+
+
+BMEL
+
+Mit dem Projekt KIDA fördert das Bundesministeriums für Ernährung und Landwirtschaft (BMEL) ein virtuelles KI-Kompetenzzentrum im Agrifood-Bereich. Um die Potenziale von Big Data und Künstlicher Intelligenz zu heben, werden in den forschenden und beratenden Einrichtungen des BMEL Kompetenzen und Ressourcen ausgebaut. Hierfür arbeiten Fachwissenschaftler*innen, KI-Anwender*Innen, und IT-Expert*innen aller beteiligten Einrichtungen an einer übergreifenden KI-Beratungsstelle. Diese stellt sowohl Expertise als auch vernetzte Infrastruktur für alle Fragestellungen rund um KI und Big Data im nachgeordneten Bereich des BMEL zur Verfügung.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Innovationswettbewerbe und europäische Innovationscluster
+Mit gezielten KI-Innovationswettbewerben wird die Bundesregierung Freiräume schaffen, um disruptive Innovationsideen zu generieren, neue Lösungswege, Anwendungen und Geschäftsmodelle zu eruieren, Gründungen zu initiieren, Talente zu gewinnen und frühzeitig Trends zu erkennen und multidisziplinär Impulse aus verschiedenen Richtungen zu erhalten.
+
+
+
+
+
+
+
+KI-Innovationswettbewerb
+
+
+
+
+BMWK
+Mit dem am 25. Januar 2019 gestarteten Wettbewerb „Künstliche Intelligenz als Treiber für volkswirtschaftlich relevante Ökosysteme“ soll die Anwendung von KI in Deutschland verstärkt in die Praxis gebracht werden. Von über 130 eingereichten Ideen wurden 16 Plattformprojekte für die geförderte Umsetzungsphase (2020-2022/23) ausgewählt. Hierbei werden die Themenfelder Gesundheit, Produktion, Mobilität, Handel, Smart Living, Landwirtschaft, Bauen und Quantencomputing adressiert. Eine Fortführung des KI-Innovationswettbewerbs mit den Schwerpunkten Dateninfrastruktur­ Projekt GAIA­-X und Bewältigung von Krisen wie der aktuellen Corona-Pandemie ist in Vorbereitung. Auf Grundlage eines zweiten und dritten Förderaufrufs zu diesen Themenfeldern sollen ab Anfang 2021 weitere Projekte starten.
+
+
+
+
+
+
+
+
+
+Pilotinnovationswettbewerb „Energieeffizientes KI-System“
+
+
+
+
+BMBF
+Der Einsatz von KI-Algorithmen (KI) erfordert vor allem in mobilen Anwendungen hochleistungsfähige und zugleich sehr energieeffiziente Chips. Im Pilotinnovationswettbewerb „Energieeffizientes KI-System (Okt. 2019 bis Jan. 2021)“ sind 11 konkurrierende Teams aus Hochschulen und Forschungseinrichtungen angetreten, um den energieeffizientesten Chip zu entwickeln. Am Beispiel von EKG-Daten, bei denen möglichst energieeffizient und hochgenau Herzrhythmusstörungen zu erkennen waren, wurden die Sieger ermittelt. Inzwischen entwickeln die vier Sieger-Teams ihre Ideen auf dem Weg zur technologischen Reife. Konkrete Kooperationen mit Industriepartnern und medizinischen Einrichtungen flankieren die Umsetzung. Die Sieger-Projekte im Einzelnen:
+
+Energieeffiziente Elektronik für mobile KI-gestützte EKG-Analyse in der Telemedizin (Pilot-Inno HALF2)
+KI-Prozessoren mit nichtflüchtigen Speichern für quantisierte Synapsen von neuronalen Netzen (Pilot-Inno LODRIC)
+Vollintegrierte Neuroelektronik zur Mustererkennung und Signalanalyse an lebenden Zellen (Pilot-Inno PRISTINE)
+Rekonfigurierbarer KI-Chip zur besonders energieeffizienten Verarbeitung von Sensordaten (Pilot-Inno Seventh SensIC)
+
+
+
+
+
+
+
+
+
+
+SPRIND-Challenge „New Computing Concepts"
+
+
+
+
+BMBF
+Mit der SPRIND-Challenge „New Computing Concepts“ bringt die SPRIND visionäre Teams zusammen, die sich das Ziel gesetzt haben, grundlegend neue Computing-Ansätze zu entwickeln und schrittweise in die Praxis zu überführen. Die Ansätze sollen die Art und Weise, wie beispielsweise wissenschaftliche Probleme gelöst, Daten verarbeitet und künstliche Gehirne gebaut werden, grundlegend verändern. In der ersten Ausschreibungsphase sind theoretische Konzepte gefragt. Die Theorien müssen dabei so weit ausgearbeitet sein, dass konkrete Vorschläge für eine Umsetzung und ein entsprechender Forschungs- und Entwicklungsplan abgeleitet werden können. Essenziell ist, dass die Ansätze eine Reduzierung des Ressourcenverbrauchs (Energie, Zeit oder Platz) versprechen oder Probleme angehen, die bisher nicht gelöst werden konnten.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Transfer in die Wirtschaft, Mittelstand stärken
+Die Bundesregierung wird einen Schwerpunkt auf Maßnahmen setzen, durch die deutsche Unternehmen aller Größen – von Start-ups über KMU bis zu Großkonzernen – dazu befähigt werden, KI-Anwendungen nicht nur zu nutzen, sondern auch zu entwickeln und in ihre Geschäftsprozesse einzubeziehen.
+
+
+
+
+
+
+
+KI-Trainer
+
+
+
+
+BMWK
+Im Frühjahr 2019 startete die Initiative "KI für KMU" im Rahmen des Förderschwerpunktes "Mittelstand-Digital"; seit Juni 2019 haben 33 „KI-Trainer" ihre Arbeit aufgenommen in ausgewählten Mittelstand 4.0-Kompetenzzentren: Augsburg, Berlin, Darmstadt, Dortmund, Hannover, Kaiserslautern, Saarbrücken und „textil vernetzt“. Sukzessive kommen weitere dazu.
+
+
+
+
+
+
+
+
+
+Vernetzung im Zentralen Innovationsprogramm Mittelstand (ZIM)
+
+
+
+
+BMWK
+Das technologieoffene, größte deutsche Innovationsprogramm für den Mittelstand schiebt auch zahlreiche KI-Projekte an, mit gezielten Vernetzungs- und Sensibilisierungsmaßnahmen wird der Trend weiter gestärkt.
+
+
+
+
+
+
+
+
+
+Unterstützung von kleinen und mittleren Unternehmen durch das Programm KI4KMU
+
+
+
+
+BMBF
+Mit dem branchenoffenen Förderprogramm KI4KMU unterstützt das Bundesministerium für Bildung und Forschung kleine und mittlere Unternehmen (KMU) und deren Partner aus Wissenschaft und Wirtschaft bei Forschungs- und Entwicklungsvorhaben im Bereich der Künstlichen Intelligenz. Gefragt sind dabei Innovationen mit einem signifikanten Neuheitsgrad gegenüber dem bestehenden Stand der Technik. Da derartige Forschungsvorhaben häufig mit einem betriebswirtschaftlichen Risiko verbunden sind, scheuen gerade kleinere Unternehmen diesen Schritt. Mithilfe des Programms sollen die Innovationsprozesse in KMU nicht nur initiiert, sondern letztlich auch langfristig verankert werden.     
+
+
+
+
+
+
+
+
+
+Reallabore-Strategie
+
+
+
+
+BMWK
+Start der Reallabore-Strategie des BMWi im Dezember 2018. In diesem Rahmen insbesondere Veröffentlichung des „Handbuchs Reallabore“ im Juli 2019, erste Konferenz des „Netzwerks Reallabore“ im August 2019 und Start des Wettbewerbs „Innovationspreis Reallabore“ im November 2019. Unternehmen, Verwaltungen und Forschungseinrichtungen konnten sich vom 2. Dezember 2019 bis 19. Februar 2020 bei dem vom BMWi gestarteten Wettbewerb „Innovationspreis Reallabore“ bewerben. Im Rahmen einer Online-Veranstaltung wurden am 26. Mai 2020 die neun Sieger ausgezeichnet.
+
+
+
+
+
+
+
+
+
+KI-Anwendungshubs
+
+
+
+
+BMBF
+Nur durch enge Kooperationen von Akteuren aus Forschung und Praxis lassen sich KI-Anwendungen zielgerichtet entwickeln und im Sinne der Wertschöpfung nutzbar machen. Auf die Stärkung dieses Transfers fokussiert das Bundesministerium für Bildung und Forschung mit der Förderung von sogenannten KI-Anwendungshubs. Im Rahmen von Verbundprojekten arbeiten hier relevante Stakeholder aus Wirtschaft, Wissenschaft und Gesellschaft gemeinsam an konkreten thematischen Aufgabenstellungen. Bisher wurden Anwendungshubs in den Bereichen Gesundheit und Kreislaufwirtschaft eingerichtet.
+Zentrales Ziel der Gesundheits-Hubs – den Digitalen FortschrittsHubs Gesundheit – ist es, die Verfügbarkeit von Gesundheitsdaten und die Zusammenarbeit zwischen den Sektoren der Gesundheitsversorgung zu verbessern – von der Universitätsklinik über regionale Krankenhäuser bis hin zur Rehabilitation und Nachsorge in der Hausarztpraxis. Denn für optimale Entscheidungen müssen alle Akteure an jedem Punkt des Gesundheitssystems das Gesamtbild eines individuellen Krankheitsverlaufes beurteilen können. Zugleich sollen die Daten der Gesundheitsforschung helfen, Versorgungsmodelle zu optimieren und beispielsweise mit KI-Entwicklungen Entscheidungsprozesse zu unterstützen.
+Im KI-Anwendungshub Kunststoffverpackungen arbeiten seit September 2022 über 50 Partner in zwei Innovationslaboren eng zusammen. Sie wollen zeigen, dass Künstliche Intelligenz dazu beitragen kann, Kunststoffverpackungen im Kreislauf zu halten – vom Design über die Sammlung und Sortierung bis zum neuen Produkt aus Rezyklat. Dabei steht neben der Schaffung einer gemeinsamen KI- und Dateninfrastruktur insbesondere die Demonstration der Ergebnisse entlang des gesamten Wertschöpfungskreislaufs im Fokus.  
+ 
+
+
+
+
+
+
+
+
+
+Schaffung eines zukunftsfähigen, nachhaltigen Mobilitätssystems
+
+
+
+
+BMDV
+Schaffung eines nachhaltigen Verkehrssystems unter Nutzung von Methoden der Künstlichen Intelligenz zur Entwicklung des automatisierten Fahrens bis hin zum autonomen Fahren. Hierfür werden Digitale Testfelder für Automatisiertes und Vernetztes Fahren zu Lande, zu Wasser und in der Luft genutzt.
+
+
+
+
+
+
+
+
+
+Landkarte Künstliche Intelligenz
+
+
+
+
+BMBF BMWK
+Die Landkarte Künstliche Intelligenz zeigt anhand von über 900 Anwendungen, wo KI-Technologien in Deutschland heute und in naher Zukunft zum Einsatz kommen. Außerdem: Wo wird in Deutschland zu KI geforscht? Was passiert auf Länderebene? Welche Zentren fördern den Transfer in die Praxis? Und welche Hochschulen bieten Studiengänge rund um KI und Data Science? Die Landkarte wird von der Plattform Lernende Systeme betreut und stetig weiterentwickelt.
+
+
+
+
+
+
+
+
+
+Förderung von Datennutzung/ Datenplattformen in Transport und Logistik
+
+
+
+
+BMDV
+Ziel ist die Vernetzung von Logistikplattformen zu einem Gesamtsystem und die Standardisierung der logistischen Prozesse über die gesamte Wertschöpfungskette hinweg um eine automatisierte bis autonome Ausführung zu ermöglichen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Gründungsdynamik wecken und zum Erfolg führen
+Die Bundesregierung wird neue Impulse zur Belebung der Gründungsdynamik für KI-basierte Geschäftsmodelle und Produkte setzen. Zentral ist dabei die Verbesserung des Zugangs zu Wagniskapital insgesamt, aber auch und gerade in der für KI-basierte Geschäftsmodelle häufig besonders kapitalintensiven Wachstumsphase. Wir werden dazu spezifische Anreize für Investoren schaffen und eine deutlich höhere Anzahl von Ausgründungen aus der Forschung anregen und fördern.
+
+
+
+
+
+
+
+EXIST – Haushaltsmittel
+
+
+
+
+BMWK
+Start-ups sollen auch in der Krise weiter erfolgreich an ihren Ideen arbeiten können. Deshalb wird bei EXIST Gründerinnen und Gründern schnell und unbürokratisch geholfen; eine Vielzahl von laufenden Projekten wurde verlängert und teilweise aufgestockt. Mit einem zusätzlichen Hilfspaket von rund zwei Milliarden Euro wird außerdem dafür gesorgt, dass Start-ups als innovative Wachstumskerne mit vielen tausenden Beschäftigten gut durch die Krise kommen.
+
+
+
+
+
+
+
+
+
+Digital-Hub-Initiative
+
+
+
+
+BMWK
+Im September 2019 hat die Digital Hub Initiative des BMWi ein Förderprogramm gestartet, über das die Digital Hubs Beratungsangebote zur KI erbringen können. Zudem wurde die Zusammenarbeit mit Initiativen wie appliedAI ausgebaut.
+
+
+
+
+
+
+
+
+
+Förderung von Methoden der Künstlichen Intelligenz für die Mobilität 4.0
+
+
+
+
+BMDV
+Ziel ist die Entwicklung innovativer Ansätze zur KI gestützten Aufbereitung und Analyse großer Datenmengen für Echtzeitanwendungen und Prognosen für vernetzte und digitale Mobilitätsdienste.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Arbeitswelt und Arbeitsmarkt: Strukturwandel gestalten
+Der Einsatz Künstlicher Intelligenz wird den Arbeitsalltag vieler Menschen grundlegend verändern. Bei diesem Wandel wird die Bundesregierung alle Beschäftigen mit vielfältigen Maßnahmen auf Basis einer nationalen Weiterbildungsstrategie unterstützen. Wir werden den Einsatz von KI fördern, analysieren, bewerten und kritisch begleiten, sowohl in den einzelnen Betrieben als auch durch übergeordnete Observatorien, national und international.
+
+
+
+
+
+
+
+Nationale Weiterbildungsstrategie
+
+
+
+
+BMAS BMBF
+
+Im Rahmen der Nationalen Weiterbildungsstrategie wird die Bundesregierung ein breitenwirksames Instrumentarium zur Förderung der Kompetenzen von Erwerbstätigen umsetzen und Beschäftigten, Arbeitssuchenden und Unternehmen neue Chancen bieten, die sich ändernde Arbeitswelt selbstbestimmt zu gestalten.
+
+
+
+
+
+
+
+
+
+
+Fachkräftemonitoring
+
+
+
+
+BMAS
+
+Das Fachkräftemonitoring für das BMAS schätzt plausible mittel- und langfristige Fachkräftebedarfe sowie wahrscheinliche Fachkräfteengpässe und -überschüsse in kritischen Berufsgruppen ab – auf Grundlage der aktuellen Welle der Qualifikations- und Berufsprojektionen (QuBe-Projekt). Das Fachkräftemonitoring ist eine zentrale empirische Referenz in der fachkräftepolitischen Diskussion in Deutschland. Es bildet – nicht zuletzt vor dem Hintergrund des digitalen Wandels und der vermehrten Nutzung neuer (KI-)Technologien – die Grundlage für die Fachkräftestrategie der Bundesregierung. Es zeigt auf, in welchen Berufsgruppen künftig Arbeitsplätze wegfallen oder neu entstehen können. Zudem weist das Monitoring darauf hin, wie sich Neuzugänge aus dem Bildungs- und Ausbildungssystem, Übergänge in den Ruhestand und die berufliche Mobilität entwickeln. Für eine objektive Einschätzung der aktuellen Fachkräftesituation nutzt das BMAS die Engpassanalyse der BA.
+
+
+
+
+
+
+
+
+
+
+Lern- und Experimentierräume KI
+
+
+
+
+BMAS
+
+Betriebliche Lern- und Experimentierräume KI sollen Unternehmen und ihre Beschäftigten dabei unterstützen, die Herausforderungen der digitalen Transformation gemeinsam zu bewältigen. Dabei sollen technologische, wirtschaftliche und organisatorische Veränderungsprozesse, die der digitale Wandel der Arbeitswelt − und insbesondere der Einsatz von KI − mit sich bringt, mit sozialen Innovationen verbunden werden. Zielgruppe: Unternehmen und Verwaltung. Die Bekanntmachung der um den Förderschwerpunkt KI erweiterten Richtlinie erfolgte im Oktober 2019, insgesamt sind 2020 11 Lern- und Experimentierräume KI an den Start gegangen, die 2023 auslaufen.
+
+
+
+
+
+
+
+
+
+
+Zukunftszentren
+
+
+
+
+BMAS
+
+Die Zukunftszentren adressieren die konkreten Unterstützungsbedarfe von Regionen und Branchen im digitalen, demografischen und ökologischen Wandel. Die Zukunftszentren informieren, vernetzen, beraten und bieten innovative Qualifizierungsangebote, u. a. auch zum Thema KI, für Unternehmen und ihre Beschäftigten. Seit 2023 werden deutschlandweit 12 „Regionale Zukunftszentren“ durch das BMAS und den ESF gefördert. Zusätzlich unterstützt das „Zentrum Zukunft der Arbeitswelt“ als koordinierende Stelle beim systemischen Austausch und Netzwerkmanagement sowie beim Aufbau eines überregionalen Wissenspools zum Wandel der Arbeitswelt, u. a. mit dem Fokus zu menschenzentrierten KI-Systemen sowie deren Einführung im Betrieb.
+
+
+
+
+
+
+
+
+
+
+Nationale Online-Weiterbildungsplattform (NOW)
+
+
+
+
+BMAS
+
+Die Plattform ermöglicht es Ratsuchenden und Weiterbildungsinteressierten unkompliziert passende Fördermöglichkeiten zu finden. Mithilfe der über NOW recherchierten Weiterbildungen können Bürger*innen neue Kompetenzen für die digitale und ökologische Transformation erwerben. Auch Unternehmen werden dabei unterstützt, passende Angebote zu finden, um die Qualifizierungsbedarfe ihrer Beschäftigten zu decken und sich so zukunftssicher aufzustellen. Die Umsetzung erfolgt über die Bundesagentur für Arbeit.
+
+
+
+
+
+
+
+
+
+
+KI-Observatorium
+
+
+
+
+BMAS
+
+
+
+
+Das Observatorium Künstliche Intelligenz in Arbeit und Gesellschaft hat die Aufgabe, Effekte von KI in der Arbeit und Gesellschaft frühzeitig zu antizipieren und Handlungsbedarfe aufzuzeigen. Auf diese Weise leistet die im März 2020 gestartete Arbeitseinheit des BMAS einen Beitrag zur Realisierung der in der KI-Strategie der Bundesregierung formulierten Ziele – etwa zum sicheren und gemeinwohlorientierten Einsatz von KI. Darüber hinaus soll das KI-Observatorium mithilfe von Dialog- und Beteiligungsformaten unterschiedliche gesellschaftliche Akteur*innen im Umgang mit Künstlicher Intelligenz befähigen und bestärken.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Ausbildung stärken und Fachkräfte / Expertinnen und Experten gewinnen
+Die Bundesregierung wird all ihre Möglichkeiten nutzen, um die Rahmenbedingungen für KI in Deutschland zu verbessern, und auch die Länder anregen und unterstützen, dies zu tun. Wir brauchen ein breites Verständnis in der Bevölkerung über KI, vor allem bei jungen Menschen, und neue Inhalte und Ideen für die Aus-, Fort- und Weiterbildung. Deutschland braucht noch attraktivere Rahmenbedingungen in Forschung und Lehre, um Wissenschaftlerinnen und Wissenschaftler zu gewinnen und zu halten und neue Lehrstühle an den Hochschulen zu schaffen.
+
+
+
+
+
+
+
+KI-Professuren
+
+
+
+
+BMBF
+Die erfolgreiche Einrichtung von 150 neuen zusätzlichen KI-Professuren in Deutschland verankert die Forschung und Lehre zu Künstlicher Intelligenz in der Hochschullandschaft und sichert diese institutionell ab. Die 150 KI-Professuren sind das Ergebnis verschiedener Maßnahmen des BMBF zur Unterstützung der Länder. Neben der Alexander von Humboldt-Professur für Künstliche Intelligenz (18 zusätzliche KI-Professuren) und dem Aufbau der fünf KI-Kompetenzzentren (24 neue KI-Professuren) zählen dazu das Tenure-Track-Programm (85 zusätzliche KI-Professuren), Programme der DFG (acht KI-Professuren) sowie Kooperationen von außeruniversitären Forschungseinrichtungen und Hochschulen (15 KI-Professuren). Von den 150 KI-Professorinnen und -Professoren wurden insgesamt 54 aus dem Ausland berufen.
+
+
+
+
+
+
+
+
+
+Alexander-von-Humboldt-Professur für KI
+
+
+
+
+BMBF
+Das Programm zielt auf die Gewinnung weltweit führender Wissenschaftlerinnen und Wissenschaftler im Bereich der Künstlichen Intelligenz aus dem Ausland ab. Es richtet sich an Forschende aller Fächer, sofern sie sich schwerpunktmäßig mit KI befassen. Bis 2024 sollen so bis zu 30 Professuren besetzt werden.
+
+
+
+
+
+
+
+
+
+Förderung von KI-Nachwuchsgruppen
+
+
+
+
+BMBF
+Um junge Wissenschaftlerinnen und Wissenschaftler in der KI-Forschung zu stärken, fördert das Bundesministerium für Bildung und Forschung deutschlandweit 42 Nachwuchsgruppen zu Künstlicher Intelligenz. Im Fokus der jungen Forscherinnen und Forscher stehen inhaltlich neuartige und innovative KI-Themen. Zudem sollen die Wissenschaftlerinnen und Wissenschaftler über die Nachwuchsgruppen die Möglichkeit erhalten, ihr Forschungsprofil und ihre wissenschaftliche Sichtbarkeit auszubauen. Daneben fördert auch die Deutsche Forschungsgemeinschaft Nachwuchsgruppen auf dem Gebiet der KI.
+
+
+
+
+
+
+
+
+
+Konrad Zuse Schools of Excellence in Artificial Intelligence
+
+
+
+
+BMBF
+Mit dem beim Deutschen Akademischen Austauschdienst (DAAD) angesiedelten Programm „Konrad Zuse Schools of Excellence in Artificial Intelligence“ fördert das Bundesministerium für Bildung und Forschung die Etablierung von drei Schools (ELIZA, SECAI, relAI) für eine forschungsbasierte Ausbildung auf Master- und Promotionsebene. Die Konsortien der Zuse Schools setzen sich aus Vertreterinnen und Vertretern aus Hochschulen, Forschungseinrichtungen und Unternehmen zusammen. Die Kombination von exzellenter Ausbildung, Betreuung durch Mentorinnen und Mentoren aus Wissenschaft und Industrie und standortübergreifender Vernetzung ermöglicht es, weltweit die besten KI-Talente zu gewinnen und dauerhaft an den Standort Deutschland zu binden.
+
+
+
+
+
+
+
+
+
+Künstliche Intelligenz in der Hochschulbildung
+
+
+
+
+BMBF
+Im Rahmen der Bund-Länder-Vereinbarung „KI in der Hochschulbildung“ unterstützt das BMBF gemeinsam mit den Ländern Hochschulen über eine Laufzeit von vier Jahren, Künstliche Intelligenz in der Lehre besser zu nutzen und die Fachkräfte von Morgen mit einer wichtigen Kompetenz auszustatten. Gefördert werden an deutschlandweit 81 Hochschulen sowohl Maßnahmen zur Entwicklung von Studiengängen oder einzelnen Modulen im KI-Bereich als auch der Aufbau KI-gestützter Systeme an den Hochschulen, etwa durch den Aufbau intelligenter Assistenzsysteme oder KI-basierter Lern- und Prüfungsumgebungen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. KI für hoheitliche Aufgaben nutzen und Kompetenzen der Verwaltung anpassen
+Die Bundesregierung wird durch den Einsatz von KI in der Verwaltung eine Vorreiterrolle einnehmen und schnellere, bessere und effizientere Verwaltungsdienstleistungen für die Bürger anbieten.
+
+
+
+
+
+
+
+Cybersicherheit
+
+
+
+
+BMI
+
+KI-Kompetenzzentren des BSI bündeln die Expertise und beraten zu Themen der IT-Sicherheit für KI, IT-Sicherheit durch KI, Abwehr KI-unterstützter Angriffe und KI im Digitalen Verbraucherschutz.
+
+
+
+
+
+
+
+
+
+
+PREVIEW – Prediction, Visualization, Early Warning
+
+
+
+
+AA
+
+
+
+
+PREVIEW ist die Plattform für datengestützte Krisenfrüherkennung im Auswärtigen Amt und unterstützt bei der Identifikation und Priorisierung von Krisenpotentialen mit daten- und evidenzbasierten Modellen und Methoden. PREVIEW hat die Fähigkeit für das Management und zielgruppengerechte Aufbereitung von sehr großen Datenmengen, ihrer Visualisierung sowie die Verknüpfung quantitativer mit qualitativen analytischen Ansätzen insb. für die Strategische Vorausschau der Bundesregierung.
+
+
+
+
+
+
+
+
+
+
+KI-basierte Analyse in der Fernerkundung
+
+
+
+
+BMI
+
+Einsatz eines Datenmanagementsystems (DMS) und Entwicklung KI-basierter Methoden in der Fernerkundung für Anwendungsbereiche des Bundesamts für Kartographie und Geodäsie.
+
+
+
+
+
+
+
+
+
+
+Mit KI zu mehr Sicherheit
+
+
+
+
+BMI
+
+Mit dem KI-Campus der Polizei hat das BMI eine behörden-, bund- und länderübergreifende Initiative angestoßen, die den Wissenstransfer zwischen den Polizeibehörden in Deutschland zur Entwicklung und zum Einsatz von KI-Anwendungen fördert. Beispielsweise prüft der KI-Campus der Polizei im Rahmen der Forschung zur Verbesserung der Sicherheit im Personennahverkehr gemeinsam mit der Bundespolizei und der DB AG sowie dem BMDV mögliche Anwendungsfälle. Der KI-Campus der Polizei verfolgt einen praxisorientierten, interdisziplinären Ansatz: Zum einen wird geprüft, ob bestimmte KI-Anwendungen aus polizeifachlicher Sicht sinnvoll und aus technischer Sicht umsetzbar sind. Zum anderen begutachtet ein interdisziplinäres Fachgremium denkbare KI-Anwendungen unter rechtlichen, sozialen und ethischen Aspekten.
+
+
+
+
+
+
+
+
+
+
+Künstliche Intelligenz für den Kulturgutschutz
+
+
+
+
+BKM
+
+Entwicklung einer App, die Polizei und Zolldeutschlandweit bei der Bekämpfung des Handels mit archäologischen Kulturgütern aus illegalen Quellen unterstützt. Mithilfe des KI-gestützten Bilderkennungsverfahrens bestimmt die App das Alter und die geografische Herkunft archäologischer Kulturgüter und bietet so eine valide Entscheidungsgrundlage für behördliche Maßnahmen wie Anhaltung, Sicherstellung und Freigabe. Alleinstellungsmerkmal ist, dass die App mithilfe der KI auch aus Raubgrabungen stammende und andere nicht registrierte Objekte identifizieren kann. Zudem gibt sie eine Warnung ab, wenn es sich um ein als gestohlen gemeldetes Objekt handelt. Das Kulturgut soll geschützt, der illegale Handel eingedämmt und die Kriminalität bekämpft werden.
+
+
+
+
+
+
+
+
+
+
+Aufbau eines digitalen Zwillings für Deutschland
+
+
+
+
+BMI
+
+Bereitstellung einer bundeseinheitlichen Analyseplattform, die unterstützt durch KI für die Bundesverwaltung einen relevanten Mehrwert für eine Vielzahl von gesellschaftlichen Fragestellungen mit Raumbezug liefert.
+
+
+
+
+
+
+
+
+
+
+Einsatz von KI in der Krisenbewältigung
+
+
+
+
+BMG
+
+Das BMG fördert KI-Projekte, die im Rahmen der COVID-19-Pandemie neue Erkenntnisse zur Krisenbewältigung generieren. Durch den Einsatz von KI können zum Beispiel die Erkennung von Viren verbessert und COVID-19 Krankheitsverläufe effizienter vorausgesagt werden.
+
+
+
+
+
+
+
+
+
+
+KI für Wettervorhersagemodelle
+
+
+
+
+BMDV
+Weiterentwicklung der Wettervorhersagemodelle des Deutschen Wetterdienstes (DWD) mit Hilfe datenbasierter KI-Verfahren für bestmögliche Wetterinformationen und -warnungen als Beitrag zur Verkehrssicherheit. Mit KI-Verfahren wird beispielsweise wird die Genauigkeit kleinräumiger Starkregen- und Unwettervorhersagen deutlich erhöht.
+
+
+
+
+
+
+
+
+
+KI in der amtlichen Statistik
+
+
+
+
+BMI
+
+Der qualitätsgesicherte Einsatz von KI ist seit einigen Jahren unerlässlich für die Produktion amtlicher Daten im Statistischen Bundesamt. Details finden Sie unter www.destatis.de/KI.
+
+
+
+
+
+
+
+
+
+
+Anwendungslabor KI und Big Data
+
+
+
+
+BMUV
+
+Ziel des Anwendungslabor KI und Big Data ist es, anhand interner und externen Datenquellen mit Hilfe von Methoden der KI konkrete Umwelt- und Nachhaltigkeitsanwendungen für das Umweltressort der Bundesregierung zu entwickeln. Zudem soll das Labor die inhaltliche und qualitative Erschließung, Konsolidierung und Bereitstellung von Daten bisher nicht zugänglicher, komplexer und heterogener Datensammlungen im Bereich von Umweltdaten und umweltrelevanten Daten für KI-Anwendungen ermöglichen. Neben der wirksamen Begleitung der Umwelt- und Nachhaltigkeitsforschung und des Umweltmonitorings eröffnet das Labor so auch neue Chancen für eine moderne, fakten- und evidenzbasierte Politikgestaltung.
+
+
+
+
+
+
+
+
+
+
+PLAIN – Plattform für die Bundesregierung für Data Science und KI
+
+
+
+
+AA
+
+
+
+
+Mit der „Platform Analysis and Information Systems“ (PLAIN) haben wir einen Standard für die souveräne und geschützte Bearbeitung von Big Data und KI Problemen in der Bundesregierung geschaffen, unser Ziel: die Informationsgrundlage für politische Entscheidungen verbessern.
+
+
+
+
+
+
+
+
+
+
+Reallabor KI
+
+
+
+
+BMI
+
+Beim Technischen Hilfswerk wurde ein Reallabor zur Entwicklung der KI für den nichtpolizeilichen Einsatz zur Gefahrenabwehr „Künstliche Intelligenz im Bevölkerungsschutz“ eingerichtet. Z.B. für die Nutzung von KI bei der Katastrophenvorsorge (Trainingssystems zur Deichverteidigung).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Daten verfügbar machen und Nutzung erleichtern
+Die Bundesregierung wird mit vielfältigen Maßnahmen die Menge an nutzbaren, qualitativ hochwertigen Daten deutlich steigern, um Deutschland als weltweit führenden KI-Standort zu etablieren, ohne dabei die Persönlichkeitsrechte, das Recht auf informationelle Selbstbestimmung oder andere Grundrechte zu verletzen.
+
+
+
+
+
+
+
+Mobilitätsdatenökosystem
+
+
+
+
+BMDV
+Mit einem „Ökosystem für Mobilitätsdaten“, wollen wir dazu beitragen, dass Informationen rund um die Fortbewegung von Menschen und Gütern besser zugänglich sind. Das BMDV hat bereits zwei Dateninfrastrukturen aufgebaut: die Mobilithek als deutschen Nationalen Zugangspunkt (NAP) für Mobilitätsdaten und den Mobility Data Space (MDS) für das souveräne Datenteilen. Mit der Vernetzung von Mobilithek und MDS schaffen wir die Grundlage für ein nachhaltiges Mobilitätsdatenökosystem. Wir vereinfachen den Datenzugang, unterstützen dabei, die Datenbasis zu erweitern und ermöglichen damit datenbasierte KI-Lösungen z.B. zur Verbesserung von Reiseplanung, Verkehrssicherheit und Verkehrslenkung.
+
+
+
+
+
+
+
+
+
+Runder Tisch zu KI-Datenschutzfragen
+
+
+
+
+BMWK
+Mit Datenschutzaufsichtsstellen und Wirtschaftsverbänden wurde ein Runder Tisch einberufen, um KI-spezifische Anwendungsfragen der DSGVO zu besprechen und einen regelmäßigen Austausch zu etablieren.
+
+
+
+
+
+
+
+
+
+Künstliche Intelligenz gegen Desinformation (KID)
+
+
+
+
+BKM
+
+Mithilfe einer Trainingsapp der Deutschen Welle soll eine Erhöhung der Medien- und Verifizierungskompetenz für jüngere Mediennutzer:innen herbeigeführt werden, um Desinformation, u.a. auf KI-Basis, schneller zu entlarven.  Im nächsten Schritt werden zur Aufdeckung von Desinformationskampagnen verschiedene Verifizierungswerkzeuge um KI-Komponenten erweitert, um die Verifizierung für ein breites Publikum zu vereinfachen und zu beschleunigen.
+
+
+
+
+
+
+
+
+
+
+Krebsregisterdaten zusammenführen und intelligent nutzen
+
+
+
+
+BMG
+
+Krebsregisterdaten eignen sich besonders dazu, KI-Modelle zu entwickeln und zu trainieren. Um einen großen Datenpool zu bilden, müssen die dezentral gespeicherten Krebsregisterdaten zunächst harmonisiert und miteinander verknüpft werden. Das BMG fördert entsprechende Projekte, um eine bessere Datengrundlage für Forschung und Versorgung in der Krebsmedizin zu schaffen.
+
+
+
+
+
+
+
+
+
+
+Digitale Innovationen für eine patientenzentrierte Gesundheitsversorgung
+
+
+
+
+BMG
+
+Das BMG hat im Juli 2019 die Rahmenbekanntmachung zum Förderschwerpunkt Digitale Innovationen für die Verbesserung der patientenzentrierten Versorgung im Gesundheitswesen veröffentlicht. Es werden Projekte gefördert, die die erheblichen Chancen von KI zur Verbesserung der gesundheitlichen und pflegerischen Versorgung verdeutlichen sollen.
+
+
+
+
+
+
+
+
+
+
+Sichere und innovative Dateninfrastruktur „Gaia-X“
+
+
+
+
+BMWK BMBF
+Mit dem Projekt Gaia-X wollen wir ein sicheres europäisches Daten- und Infrastrukturökosystem schaffen, das die höchsten Anforderungen an die digitale Souveränität erfüllt. In Deutschland wird Gaia-X gemeinsam mit Vertretern und Vertreterinnen aus der Wirtschaft und Wissenschaft vom Bundesministerium für Wirtschaft und Klimaschutz (BMWK) und vom Bundesministerium für Bildung und Forschung (BMBF) vorangetrieben.
+
+
+
+
+
+
+
+
+
+Civic Data Lab
+
+
+
+
+BMFSFJ
+
+Das Civic Data Lab ist das Infrastrukturprojekt des BMFSFJ in der Civic Coding Initiative. Es unterstützt die Zivilgesellschaft dabei, Daten für gemeinwohlorientierte Aktivitäten zu nutzen. Eingeleitet durch einen Scoping-Prozess wird es von der Zivilgesellschaft geformt und getragen.
+
+
+
+
+
+
+
+
+
+
+Nutzbarkeit von KI-Systemen im Gesundheitssektor fördern
+
+
+
+
+BMG
+Das BMG hat im Juli 2019 die Rahmenbekanntmachung zum Förderschwerpunkt Digitale Innovationen für die Verbesserung der patientenzentrierten Versorgung im Gesundheitswesen veröffentlicht. Es werden Projekte gefördert, die die erheblichen Chancen von KI zur Verbesserung der gesundheitlichen und pflegerischen Versorgung verdeutlichen sollen.
+
+
+
+
+
+
+
+
+
+genomDE
+
+
+
+
+BMG
+
+Die vom BMG seit 2021 geförderte Initiative genomDE konzipiert und pilotiert u.a. eine sichere Dateninfrastruktur für das Modellvorhaben Genomsequenzierung nach § 64e SGB V. Im Rahmen einer wissensgenerierenden Versorgung durch das Modellvorhaben sollen genomische und klinische Daten der Patientinnen und Patienten mit seltenen und onkologischen Erkrankungen zusammengeführt und auch der Forschung zugänglich gemacht werden, um neuste wissenschaftliche Erkenntnisse u.a. basierend auf KI-Anwendungen wieder für die Versorgung der Betroffenen zu nutzen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Ordnungsrahmen anpassen
+Die Bundesregierung wird den Rechtsrahmen für Algorithmen- und KI-basierte Entscheidungen, Dienstleistungen und Produkte überprüfen und ggf. anpassen, um sicherzustellen, dass ein effektiver Schutz gegen Verzerrungen, Diskriminierungen, Manipulationen oder sonstige missbräuchliche Nutzungen möglich ist.
+
+
+
+
+
+
+
+Empfehlungen der Datenethikkommission
+
+
+
+
+BMI
+Die Bundesregierung setzt sich in der Gestaltung des Ordnungsrahmens für den Einsatz von KI für einen risikobasierten Regulierungsansatz ein. Sie folgt damit auch den Empfehlungen der Datenethikkommission. Unter anderem bei den Abstimmungen zur KI-VO stehen dabei  Kontrollinstrumente, Transparenzvorgaben und die Erklär- und Nachvollziehbarkeit von KI im Fokus. Die Bundesregierung prüft zudem die Einrichtung von Beratungszentren für KI.
+
+
+
+
+
+
+
+
+
+KI-Anwendungen zur Unterstützung des Verbraucheralltags
+
+
+
+
+BMJ
+Im Rahmen einer Förderrichtlinie werden Projekte der Forschung und Innovation zur Entwicklung verbraucherfreundlicher KI-basierter Anwendungsszenarien und prototypischer Lösungen unterstützt. Die Anwendungen sollen Verbrauchern die Selbstbestimmung erleichtern, deren Lebensqualität erhöhen und zum Verbraucherschutz beitragen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Standards setzen
+Die Bundesregierung wird sich aufgrund ihrer gesamtstaatlichen Verantwortung in Kooperation mit Wirtschaftsvertretern auch im KI-Bereich für Standards und Normsetzung auf nationaler, europäischer und internationaler Ebene durch die nationalen Normungsorganisationen DIN/DKE einsetzen. Dabei geht es uns nicht nur um technische, sondern auch um ethische Fragestellungen.
+
+
+
+
+
+
+
+Normungsroadmap KI
+
+
+
+
+BMWi BMAS BMBF
+Die Bundesregierung hat in einem gemeinsamen Projekt mit dem DIN den Prozess zur Erarbeitung einer Roadmap zu Normen und Standards im Bereich KI gestartet. Ziel der Normungsroadmap ist es, Bedarfe für Standardisierungen und Normungen im Bereich KI zu identifizieren.
+
+
+
+
+
+
+
+
+
+Nachweislich resiliente und vertrauenswürdige KI-Systeme
+
+
+
+
+BMI
+
+Zusammen mit Partnern entwickelt das BSI Grundlagen zur umfassenden Prüfung der Robustheit, Sicherheit, Verlässlichkeit, Integrität, Erklärbarkeit, Interpretierbarkeit und Fairness von KI-Systemen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Nationale und internationale Vernetzung
+Querschnittstechnologien wie KI berühren früher oder später alle Bereiche der Wissenschaft, Wirtschaft, Verwaltung und des Alltagslebens der Bürgerinnen und Bürger. Die Entwicklung ist global, deshalb muss auch die Politik grenzüberschreitend denken und handeln. Die Bundesregierung wird daher internationale Kooperationen sowie die bilaterale und multilaterale Zusammenarbeit im Bereich KI verstärkt ausbauen.
+
+
+
+
+
+
+
+Europäische Zusammenarbeit
+
+
+
+
+BMWK BMBF BMAS
+Die Bundesregierung begleitet und unterstützt auf europäischer Ebene die Ausgestaltung von Rahmenbedingungen für die Nutzung von Künstlicher Intelligenz im gemeinsamen Digitalen Binnenmarkt und im Rahmen der Umsetzung der europäischen KI-Strategie. Sie kooperiert dabei eng mit der EU-Kommission und anderen EU-Mitgliedstaaten. Die bilaterale Zusammenarbeit mit europäischen Partnern wurde deutlich intensiviert. So wurde beispielsweise die Deutsch-Schwedische Innovationspartnerschaft 2019 um das Thema KI erweitert, im Jahr 2019 eine Roadmap für ein gemeinsames KI-Forschungs- und Innovationsnetzwerk mit Frankreich erarbeitet, sowie zahlreiche weitere Kooperationen z.B. über die KI-Kompetenzzentren angestoßen, um ein Europäisches KI-Ökosystem voranzutreiben. Darüber hinaus fördert das BMBF die Verbünde Europäischer Partner in der Europäischen Forschungsinitiative EUREKA, hier insbesondere in den beiden Joint Cluster Calls zu KI aus den Jahren 2020 und 2021 sowie innerhalb des Clusters für Software-Innovationen ITEA.
+
+
+
+
+
+
+
+
+
+Kooperation mit Frankreich
+
+
+
+
+BMWi BMBF BMAS
+In zwei gemeinsamen Förderrichtlinien intensivieren das Bundesministerium für Bildung und Forschung und das französische Forschungsministerium die bilaterale Kooperation zu Künstlicher Intelligenz. Durch neue Forschungskooperationen zwischen wissenschaftlichen Partnern wie auch Verbünde aus Wissenschafts- und Wirtschaftsorganisationen soll der Transfer von der Forschung in die Praxis gestärkt werden. Bereits 2019 unterzeichneten beide Länder eine Roadmap für ein gemeinsames KI-Forschungs- und Innovationsnetzwerk. Derzeit werden im ersten Förderaufruf insgesamt 20 Verbundprojekte in zwei Förderlinien gefördert.  Der zweite Förderaufruf wurde im Juni veröffentlicht; die Einreichungsfrist für neue Projektideen endet am 22. September 2023.
+
+
+
+
+
+
+
+
+
+Gemeinsame Leitlinien mit internationalen Wirtschaftsräumen
+
+
+
+
+BMWK BMAS BMBF
+
+Die Bundesregierung bringt sich u.a. aktiv in die Arbeiten von G7 und G20, der OECD sowie der durch Kanada und Frankreich initiierten Global Partnership on AI (GPAI) zu KI ein. Die OECD hat im Mai 2019 Empfehlungen zu Künstlicher Intelligenz verabschiedet, die von den G20-Staaten als gemeinsame, nicht-verbindliche KI-Prinzipien übernommen wurden. Die 193 Mitgliedstaaten der UNESCO haben mit der „Empfehlung zur Ethik der Künstlicher Intelligenz“ im November 2021 den ersten global verhandelten Völkerrechtstext verabschiedet, der die völkerrechtliche Basis für eine KI-Nutzung liefert, die die Menschenrechte und Grundfreiheiten achtet und fördert. Mit GPAI wurde ein Forum für Regierungen und Expert*innen geschaffen, das Entwicklungen im Bereich KI beobachtet und die globale Auseinandersetzung mit dem Thema KI (Wirtschaft, Arbeit und Gesellschaft) mit Wissen und Anregungen unterstützt.
+
+
+
+
+
+
+
+
+
+
+Talente-Netzwerk AI Grid
+
+
+
+
+BMBF
+Mit dem AI Grid fördert das Bundesforschungsministerium seit September 2022 den internationalen und interdisziplinären Wissensaustausch zwischen Nachwuchstalenten auf allen Gebieten der Künstlichen Intelligenz. So soll die europäische Zusammenarbeit gestärkt, die Basis zukünftiger Kompetenznetzwerke gelegt und die Bildung junger, paneuropäischer Forschungsteams unterstützt werden. Über das Konzept der wissenschaftlichen Mikro-Fachgemeinschaften (MFGs) schafft das AI Grid ein dezentrales Netzwerk kleiner, hochspezialisierter Forschungsteams und ein niederschwelliges Angebot zur Zusammenarbeit an sehr konkreten wissenschaftlichen Fragestellungen.
+
+
+
+
+
+
+
+
+
+Internationale Zukunftslabore KI
+
+
+
+
+BMBF
+Um die internationale Forschungszusammenarbeit im Bereich KI zu stärken, werden der Aufbau und die Arbeit von international besetzten Forscherteams gefördert, die zu aktuellen Forschungs- und Entwicklungsfragen der KI arbeiten. Die Auswahl erfolgt in einem wettbewerblichen Verfahren
+
+
+
+
+
+
+
+
+
+Künstliche Intelligenz für Alle – FAIR Forward
+
+
+
+
+BMZ
+Mit der Initiative „Künstliche Intelligenz für Alle - FAIR Forward“ befördert das BMZ eine offenere Nutzung von KI, die den globalen Süden einbezieht. Gemeinsam mit Partnern aus Ghana, Indien, Indonesien, Kenia, Ruanda, Südafrika und Uganda werden die Voraussetzungen für lokale KI-Entwicklung geschaffen. Diese Zusammenarbeit leistet einen aktiven Beitrag zur Erreichung der Ziele für nachhaltige Entwicklung.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Dialoge in der Gesellschaft führen und den politischen Handlungsrahmen weiterentwickeln
+Um Forschung, Entwicklung und Anwendung von KI in Deutschland auf ein weltweit führendes Niveau zu bringen, braucht es eine aufgeklärte und informierte Gesellschaft. Dies setzt intensive gesellschaftliche Dialoge, partizipative Verfahren sowie Mitgestaltungsmöglichkeiten für alle voraus. Aus diesem Grund wird die Bundesregierung den gesellschaftlichen Dialog und die Aufklärung zu Künstlicher Intelligenz intensivieren und sowohl die Chancen von KI für jeden Einzelnen und das Gemeinwohl als auch mögliche Risiken und Herausforderungen transparent darstellen und diskutieren.
+
+
+
+
+
+
+
+Plattform Lernende Systeme
+
+
+
+
+BMBF BMWK
+Die Bundesregierung hat die Plattform Lernende Systeme (PLS) zu einer Plattform für Künstliche Intelligenz weiterentwickelt, in welcher ein Austausch zwischen Politik, Wissenschaft, Wirtschaft und Zivilgesellschaft organisiert wird. Ziel der PLS ist es, das innovative Potential von KI zu identifizieren und zu heben sowie die Entwicklung und Nutzung von KI zum Wohle der Menschen voranzubringen. Als unabhängiger Makler entwickeln die knapp 200 Mitglieder aus Wissenschaft, Wirtschaft und Gesellschaft Positionen hinsichtlich der Chancen und Herausforderungen von KI und benennen Handlungsoptionen für ihre verantwortliche Gestaltung.
+
+
+
+
+
+
+
+
+
+Digitales Deutschland
+
+
+
+
+BMFSFJ
+
+Digitales Deutschland schafft einen Überblick über die Kompetenzen der Bevölkerung, die angesichts der Digitalisierung für ein souveränes Leben notwendig sind. Es widmet sich in vier Modulen sowohl den unterschiedlichen Kompetenzanforderungen als auch den für Kompetenzerwerb nötigen Rahmenbedingungen.
+
+
+
+
+
+
+
+
+
+
+Das Zentrum für vertrauenswürdige Künstliche Intelligenz (ZVKI)
+
+
+
+
+BMUV
+
+Mit Hilfe von Algorithmischen Systemen und Künstlicher Intelligenz (KI) werden Entscheidungen getroffen, die erhebliche Auswirkungen auf das Leben aller Verbraucher*innen haben - zum Beispiel bei KI-basierten Produktempfehlungen oder Kreditwürdigkeitsprüfungen. Wie kann KI zum Wohle der Gesellschaft gestaltet und das Vertrauen in die eingesetzten Technologien gestärkt werden? Das Zentrum für vertrauenswürdige Künstliche Intelligenz (ZVKI) leistet einen wichtigen Beitrag, um diese Fragen zu beantworten. Als nationale und neutrale Schnittstelle zwischen Wissenschaft, Wirtschaft, Politik und Zivilgesellschaft informiert es über verbraucher*innenrelevante Aspekte, ermöglichen öffentliche Diskussionen und entwickeln Instrumente zur Bewertung und Zertifizierung von vertrauenswürdiger KI. Das ZVKI wird vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz gefördert.
+
+
+
+
+
+
+
+
+
+
+Vertrauenswürdigkeit und Kommunikation von KI-Anwendungen in der Versorgung und Pflege
+
+
+
+
+BMG
+
+Das BMG fördert Projekte, die die Vertrauenswürdigkeit und den Einsatz von KI-Anwendungen in der Versorgungspraxis speziell in der (Langzeit-)Pflege untersuchen. Ziel ist es, neue Erkenntnisse zur Kommunikation und Nutzung von KI im Pflegealltag zu generieren und zur Unterstützung von Pflegekräften beizutragen.
+
+
+
+
+
+
+
+
+
+
+Civic Coding − Innovationsnetz KI für das Gemeinwohl
+
+
+
+
+BMAS BMFSFJ BMUV
+
+Mit Civic Coding ‒ Innovationsnetz KI für das Gemeinwohl, der ressortübergreifenden Initiative von BMAS, BMUV und BMFSFJ, sollen durch die Bündelung und Vernetzung von KI-bezogenen Projekten, Programmen, Strukturen und Communities der drei beteiligten Ressorts Synergien geschaffen und genutzt werden. Ziel ist, ein sichtbares und wirksames Innovationsnetzwerk zu entwickeln, das die gemeinwohlorientierte und nachhaltige Entwicklung und Nutzung von KI langfristig unterstützt und sichert. Zu diesem Zweck werden die von den Ressorts entwickelten Infrastrukturen perspektivisch für eine gemeinsame Nutzung geöffnet. Folgende Projekte sind Teil des Innovationsnetzes: die Civic Innovation Platform (CIP) des BMAS, die KI-Ideenwerkstätten für Umweltschutz des BMUV und das Civic Data Lab des BMFSFJ.
+
+
+
+
+
+
+
+
+
+
+Richtlinie zur Förderung von Künstlicher Intelligenz für das Gemeinwohl
+
+
+
+
+BMFSFJ
+
+Mit der KI-Förderrichtlinie fördert das BMFSFJ Projekte, die im Ressortkontext innovative Ideen mit gesamtgesellschaftlichem Mehrwert umsetzen. Förderschwerpunkte sind die Schaffung von Grundlagen für gemeinwohlorientierte KI sowie deren Entwicklung und Erprobung.
+
+
+
+
+
+
+
+
+
+
+Civic Innovation Platform (CIP)
+
+
+
+
+BMAS
+
+
+
+
+Mit der Civic Innovation Platform (CIP) richtet das BMAS bereits seit 2020 den Blick bewusst auf eine soziale, inklusive und partizipative Anwendung von KI-Technologie im Sinne des Gemeinwohls. Kern des Projektes ist eine multifunktionale Internetplattform zur Vernetzung von sektorübergreifenden und/oder interdisziplinären Projektteams. Ein weiterer Bestandteil des Projekts ist der Ideenwettbewerb „Gemeinsam wird es KI“, bei dem die Projektteams ihre Ideen für gemeinwohlorientierte KI-Anwendungen einreichen können. Unterstützt wird die Entwicklung von gemeinwohlorientierten KI-Anwendungen in zwei Förderstufen: im Rahmen des Ideenwettbewerbs „Gemeinsam wird es KI“ sowohl finanziell (durch ein Preisgeld von bis zu 20.000 Euro) als auch ideell (durch Beratungs- und Workshop-Angebote); ab 2023 wird zudem durch eine Förderrichtlinie die längerfristige Förderung von Projekten ermöglicht. CIP ist ein zentraler Baustein von „Civic Coding – Innovationsnetz KI für das Gemeinwohl“.
+
+
+
+
+
+
+
+
+
+
+KI-Ideenwerkstatt für Umweltschutz
+
+
+
+
+BMUV
+
+Die KI-Ideenwerkstatt für Umweltschutz ist eine physische und virtuelle Anlaufstelle für zivilgesellschaftliche Akteur*innen, um sie dabei zu unterstützen, mithilfe von Daten und KI bedarfsgerechte Beiträge zur Lösung ökologischer Herausforderungen zu entwickeln. Die KI-Ideenwerkstatt bietet technische Unterstützung bei zivilgesellschaftlichen KI-Projekten und stellt digitale Werkzeuge und Infrastrukturen bereit. Zudem vermittelt die KI-Ideenwerkstatt in verschiedenen Bildungsformaten Kompetenzen im Umgang mit Umweltdaten und zeigt anhand von Best Practices, wie KI schon heute zum Umweltschutz beiträgt. Gleichzeitig ist die KI-Ideenwerkstatt ein Debattenraum für Diskussionen über nachhaltige KI und die Chancen, Risiken und Grenzen von Künstlicher Intelligenz im Umweltbereich. Das Projekt ist Teil von Civic Coding – Innovationsnetz KI für das Gemeinwohl, einer gemeinsamen Initiative von BMAS, BMFSFJ und BMUV.
+
+
+
+
+
+
+
+
+
+
+Sonderprogramm AUTONOM - Künstliche Intelligenz und Darstellende Künste
+
+
+
+
+BKM
+Mit dem Sonderprogramm AUTONOM nimmt der Fonds Darstellende Künste das Feld Künstliche Intelligenz in den Blick. Das Förderprogramm richtet sich an langjährig professionell und frei produzierende Gruppen und Künstlerinnen und Künstler aller Sparten der Darstellenden Künste, die bundesweit oder länderübergreifend bemerkenswert agieren – und die sich in ihren Projektvorhaben mit Künstlicher Intelligenz auseinandersetzen.
+
+
+
+
+
+
+
+
+
+Wissenschaftsjahr 2019 - Künstliche Intelligenz
+
+
+
+
+BMBF
+
+Durch bundesweite Dialog- und Mitmachangebote für Bürgerinnen und Bürger im Wissenschaftsjahr wurden Grundlagen der KI, ihre Anwendungsgebiete und aktuelle Forschungsfragen vermittelt sowie Chancen, Risiken und gesellschaftliche Auswirkungen diskutiert. Bildungsangebote wie das Magazin "forscher" oder die Jugendaktion „Mensch, Maschine!“ fördern das Verständnis für KI bei jungen Menschen.
+
+
+
+
+
+
+
+
+
+
+ Loading...
+
+
+
+
+
+
+
+KI-Strategien von Bund und Ländern
+Mit ihrer 2018 verabschiedeten nationalen KI-Strategie will die Bundesregierung Deutschland zu einem führenden Standort für die Entwicklung und Anwendung von KI-Technologien machen und die globale Wettbewerbsfähigkeit sichern. Auch die Bundesländer haben flankierend dazu strategische Ziele und konkrete Maßnahmen im Bereich der Künstlichen Intelligenz definiert.
+
+
+
+
+
+
+
+
+Nationale KI-StrategieBaden-WürttembergBayernBrandenburgBerlinBremenHamburgHessenMecklenburg-VorpommernNiedersachsenNordrhein-WestfalenRheinland-PfalzSaarlandSachsenSachsen-AnhaltSchleswig-HolsteinThüringen
+
+
+
+
+
+
+Nationale KI-Strategie  
+
+Die Bundesregierung präsentierte im November 2018 eine nationale Strategie Künstliche Intelligenz. Sie zielt darauf, „KI Made in Germany" zu einem internationalen Markenzeichen für moderne, sichere und gemeinwohlorientierte KI-Anwendungen auf Basis des europäischen Wertekanons zu etablieren. Bis 2025 stellt der Bund dafür etwa fünf Milliarden Euro zur Verfügung. Die Plattform Lernende Systeme wird die Umsetzung der KI-Strategie begleiten und dafür zu einer Plattform für Künstliche Intelligenz ausgebaut werden.
+
+
+
+Politische Ziele
+Deutschland soll, ausgehend von einer guten Forschungsbasis, ein weltweit führender Standort für die Erforschung, Entwicklung und Anwendung von Künstlicher Intelligenz werden.
+
+Technologieführerschaft und Qualitätssiegel „AI Made in Germany“
+Verantwortungsvolle und gemeinwohlorientierte Entwicklung und Nutzung von KI
+Entwicklung von KI-Lösungen als Beitrag für Umwelt und Klimaschutz
+Breiter gesellschaftlicher Dialog
+Aufbau eines europäischen KI-Ökosystems, das die Wettbewerbsfähigkeit von Wirtschaft und Forschung ausbaut, vielfältige KI-Anwendungen im Interesse der Gesellschaft fördert und auf europäischen Werten basiert
+
+
+
+
+Handlungsfelder
+Ausbau der KI-Forschung
+
+Aufbau eines nationalen Netzwerks von mindestens zwölf Zentren und Anwendungshubs
+Aufbau eines weltweit führenden europäischen KI-Netzwerkes unter der Dachmarke „KI – Made in Europe“
+Einrichtung von mindestens 100 zusätzlichen KI-Professuren und Stärkung der Lehre und Nachwuchsförderung im Bereich KI
+Binden und Gewinnen der besten Köpfe durch attraktive Arbeitsbedingungen und Vergütungen
+Aufbau eines deutsch-französischen Forschungs- und Innovationsnetzwerkes („virtuelles Zentrum“)
+Stärkung der interdisziplinären Forschung zu KI
+Durchführung von KI-Challenges und Etablierung eines Deutschen Preises für „KI Made in Germany“
+
+Wissenstransfer, Anwendung und Entrepreneurship
+
+Schnellerer Transfer von Forschung in konkrete KI-Anwendungen durch Testfelder, Reallabore, Modellversuche, regionale Cluster und neuartige Förderformate
+Bessere Zugangsmöglichkeiten für Unternehmen zu KI-Technologien, insbesondere von mittelständischen Unternehmen über die Kompetenzzentren Mittelstand 4.0
+Förderung der Gründungsdynamik für KI-Start-ups durch Förderprogramme (z.B. EXIST) und Wagniskapital
+Erstellen einer KI-Landkarte zu Anwendungen und Akteuren; KI-Monitoring und Vernetzung der Unternehmen und Institutionen
+Gründung einer Agentur für Sprunginnovationen mit KI als einem der Schwerpunkte
+Bildung eines europäischen Innovationsclusters zu KI und Durchführung von Innovationswettbewerben
+Öffentlichkeitswirksame Darstellung von Best Practices (insbesondere mit Hilfe der Plattform Lernende Systeme)
+
+Deutsch-Französische Zusammenarbeit
+Deutschland und Frankreich unterzeichneten am 16. Oktober 2019 eine gemeinsame KI-Roadmap („Erklärung von Toulouse“). Der Fahrplan sieht Folgendes vor:
+
+den Aufbau eines virtuellen Netzwerks zu KI (u.a. Kooperation der deutschen und französischen KI-Kompetenzzentren)
+die stärkere Vernetzung deutscher und französischer Wirtschaftsakteure
+einen gemeinsamer Ansatz für eine sichere, souveräne Dateninfrastruktur
+ein abgestimmtes Vorgehen bei der KI-Standardisierung
+einen gemeinsamer Ansatz bei Rechtsfragen zu KI
+sowie einen Diskurs über Sprunginnovationsprojekte.
+
+
+
+Wandel der Arbeit
+
+Ganzheitlicher und menschengerechter Ansatz basierend auf der selbstbestimmten Entfaltung von Fähigkeiten und Talenten, sozialer Sicherheit und der Gesundheit der Beschäftigten
+Gründung regionaler Kompetenzzentren für Arbeitsforschung und -gestaltung
+Fachkräftemonitoring und nationale Weiterbildungsstrategie zur Kompetenzförderung von Erwerbstätigen, insbesondere in Hinblick auf den digitalen Wandel und KI
+Untersuchung der Auswirkungen von KI am Arbeitsplatz in betrieblichen Experimentierräumen und frühzeitige Einbindung der Betriebsräte bei der Einführung von KI-Anwendungen
+Qualifizierung von Personalverantwortlichen, Personal- und Betriebsräten (z.B. in Zukunftszentren)
+Aufbau eines KI-gestützten Online-Einstiegsportals für berufliche Weiterbildung
+
+Datennutzung, Datensicherheit, Recht und Ethik
+
+Förderung der Forschung zur Kontrolle und Nachvollziehbarkeit von algorithmischen Prognose- und Entscheidungssystemen sowie zu Verbraucherschutz und Privatsphäre
+Daten verfügbar machen, z.B. durch potenzielle Datenpartnerschaften zwischen Unternehmen und Forschungseinrichtungen und durch die Einrichtung von Anreizen und Rahmenbedingungen für das freiwillige und datenschutzkonforme Teilen von Daten (auch aus öffentlich finanzierten Forschungsprojekten)
+Anpassung des Wettbewerbs- und Urheberrechts, um die Menge an nutzbaren Daten zu erhöhen, ohne persönliche Daten oder betriebliches Knowhow preiszugeben (Kommission Wettbewerbsrecht 4.0)
+Anpassung des Arbeitsrechts und Beschäftigtendatenschutzgesetzes
+Schaffen eines rechtssicheren Ordnungsrahmens für KI-Akteure
+
+Internationale und gesellschaftliche Dialoge
+
+Europäischer und transatlantischer Dialog zum menschenzentrierten Einsatz von KI in der Arbeitswelt
+Breiter gesellschaftlicher Dialog über die ethische, rechtliche, kulturelle und institutionelle Gestaltung von KI – die Plattform für Künstliche Intelligenz wird hier eine Schlüsselrolle einnehmen
+Entwicklung eines Ökosystems für gemeinwohlorientierte KI unter dem Label „Civic Coding ‒ Innovationsnetz KI für das Gemeinwohl“, inklusive Umsetzung der Projekte Civic Innovation Platform, Civic Data Lab und KI-Ideenwerkstatt für Umweltschutz
+
+
+
+
+
+
+
+
+
+Baden-Württemberg  
+
+In seiner 2020 aktualisierten Innovationsstrategie benennt die baden-württembergische Landesregierung Digitalisierung, Künstliche Intelligenz und Industrie 4.0 als eines von fünf Zukunftsfeldern zur Erschließung neuer Wertschöpfungspotenziale. Strategische Ziele und Maßnahmen hatte sie bereits 2018 in der landesweiten Digitalisierungsstrategie digital@bw festgelegt. Baden-Württemberg will weltweite Leitregion des digitalen Wandels werden, als Standort die besten Köpfe anziehen und Daten für Wirtschaft und Wissenschaft als Grundlage für die Entwicklung von KI-Anwendungen bereitstellen. Seine Stärken in der Spitzenforschung sowie entlang der gesamten Wertschöpfungskette will das Land als strategischer Partner der Bundesregierung in die Umsetzung der nationalen KI-Strategie einbringen.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+ Ökosystems für KI
+
+Ausbau des Cyber Valley als Exzellenzzentrum zur Stärkung der Grundlagenforschung und Entwicklung von KI-Sprunginnovationen sowie als attraktiver Standort für internationale Spitzenkräfte und junge Talente
+Ausbau des de:hub Artificial Intelligence zu einer Plattform für die Anwendung und Kommerzialisierung von KI und verstärkte Zusammenarbeit mit europäischen Partnern
+Format Reallabor KI zur gemeinsamen Erarbeitung von KI-Anwendungen durch Wissenschaft, Unternehmen, Politik und Zivilgesellschaft
+
+Forschung und Transfer
+
+Schaffung von zehn neuen KI-Professuren
+Aufbau von Forschungsdatenzentren (Science Data Centers) für Zugang, Nutzung, Integration und Analyse digitaler Forschungsdaten
+Standort- und behandlerübergreifende Vernetzung von klinischen und genomischen Daten
+Aufbau eines Fraunhofer-Kompetenzzentrums für Kognitive Robotik sowie eines Kompetenzzentrums KI-Engineering in Karlsruhe
+Wirtschaftsnahes Forschungsprogramm mit Projekten u.a. zu neuromorphen KI-Chips, Standards zur Sicherheitsprüfung von KI-Systemen, Datengenossenschaften, ethische KI in Unternehmen
+
+Vernetzung
+
+Beteiligung an der Konsultation der EU-Kommission zu Ethik und KI
+Vernetzung im Rahmen der Internationalen Bodensee-Konferenz sowie mit Donauraum-Staaten
+
+
+
+KI für den Mittelstand
+
+Aufbau von 19 regionalen  KI-Labs als Anlaufstellen für KMU mit Informations-, Erprobungs- und Experimentierräumen
+Fortschrittszentrum „Lernende Systeme“ als zentrale Anlaufstelle für KMU im Cyber Valley
+Innovationswettbewerb KI für KMU zur Förderung innovativer Einzelvorhaben und Verbundforschungsprojekte
+Aufbau des KI-Fortschrittszentrums „Lernende Systeme“ durch das Land und die Fraunhofer-Gesellschaft, um KMU durch anwendungsnahe Forschung und Technologietransfer beim Einsatz von KI zu unterstützen
+Machbarkeitsstudie für einen Innovationspark KI als Innovations- und Wertschöpfungszentrum für KI-basierte Produkte und Dienstleistungen
+Auszeichnung vorbildhafter KI-Unternehmen und -Forschungseinrichtungen (KI Champions Baden-Württemberg)
+Ausbau der Kooperation von Hochschulen für Angewandte Wissenschaften mit KMU im Bereich KI
+
+Förderprojekte zur Entwicklung von KI-Anwendungen (Auswahl)
+
+Nachhaltigkeit: Einsatz von KI im Bereich Energie-/Materialeffizienz und Elektromobilität; KI-basierte Umweltsuchmaschine
+Bildung: Digitale Lernangebote für den Kompetenzerwerb bei Sprachen/Kommunikation; KI-Weiterbildungsangebote in der Breite
+Gesundheit: KI-basiertes Diagnostiksystem für Hauttumore
+Verwaltung: KI-basierter Chatbot zu Steuerfragen; Einsatz von KI in der Fernerkundung
+Kriminalitätsbekämpfung: Einsatz von KI zur Erkennung gefälschter Dokumente, zur Auswertung polizeilicher Sachverhalte, zur Bewertung von DNA-Proben und zur Video-Überwachung
+
+
+
+
+
+
+
+
+Bayern  
+
+Im Oktober 2019 stellte die Landesregierung die Hightech Agenda Bayern vor, die im September 2020 durch die Hightech Agenda Plus ergänzt wurde. Bis zum Jahr 2023 sind Investitionen von 3,5 Milliarden Euro in den Kompetenzausbau im Bereich neuer Technologien vorgesehen.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Forschung und Lehre
+
+Aufbau eines bayerischen KI-Netzwerks, das im Hochschulbereich vier thematisch ausgerichtete Knotenpunkte mit 50 neu bereitgestellten KI-Professuren enthält: München (Intelligente Robotik), Würzburg (Data Science), Ingolstadt (Mobilität) und Erlangen (Gesundheit)
+Wissenschaftsgeleiteter Wettbewerb zur Vergabe von 50 weiteren neuen KI-Professuren
+Stärkung regionaler KI-Kompetenzen: Amberg-Weiden (Digitaler Campus), Aschaffenburg (Medizintechnik), Deggendorf (KI für KMU und den ländlichen Raum) und Kempten (Pflege Digital)
+Förderung des Munich Center for Machine Learnung (MCML) der Ludwig-Maximilians-Universität München und der Technischen Universität München als eines von sechs KI-Kompetenzzentren bundesweit
+Ausbau des Leibniz-Rechenzentrums (LRZ) der Bayerischen Akademie der Wissenschaften zum informationstechnischen Kompetenzknoten für Big Data und KI (Supercomputing, Quantencomputing, Machine Learning)
+Stärkung der Informatik als Fach an allen Hochschulen
+Ausbau der außeruniversitären KI-Forschung insbesondere bei Instituten der Fraunhofer-Gesellschaft und der Helmholtz-Gemeinschaft (z. B. Neugründung Fraunhofer Institut für Kognitive Systeme IKS in München)
+
+
+
+Anwendungsorientierter Transfer
+
+Transfer von Forschungsergebnissen in die Praxis; z.B. mit durch die „KI-Fabrik“ (angebunden an das Munich Institute of Robotics and Machine Learning (MIRMI)
+Politische Weichenstellung für die KI-Mission Robo.Care in Garmisch-Partenkrichen
+Autonome Mobilität: Erprobung des Fahrzeugvernetzung auf dem digitalen Testfeld A9; Regionalverbünde mit den Themenschwerpunkten ausfallsichere Systemarchitektur, innovative Absicherungs- und Testkonzepte
+Förderung von industriegeführten Kooperationsprojekten zwischen Wirtschaft und Wissenschaft im Rahmen des Bayerischen Verbundforschungsprogramms (BayVFP)
+
+Vernetzung
+
+Aufbau einer Bayerischen KI-Agentur zur Vernetzung von KI-Akteuren, Unterstützung bei der Drittmitteleinwerbung sowie für Technologie- und Talentscouting
+Etablierung eines Bayerischen KI-Rats aus Vertreterinnen und Vertretern von Hochschulen, außeruniversitärer Forschung und Wirtschaft zur fachlichen und strategischen Steuerung der KI-Agentur sowie zur Beratung der Bayerischen Staatsregierung
+
+
+
+
+
+
+
+
+Brandenburg  
+
+Brandenburg veröffentlichte im Sommer 2024 eine Landesstrategie Künstliche Intelligenz. Der Prozess zur Erstellung des Papiers wurde 2022 federführend vom Ministerium für Wissenschaft, Forschung und Kultur (MWFK) gestartet und 2024 vom Brandenburger Kabinett verabschiedet. Die Landesstrategie soll laufend fortgeschrieben werden. Seit 2018 existiert zudem die Zukunftsstrategie Digitales Brandenburg.
+
+
+
+Zentrale Ziele und Handlungsfelder im Bereich KI
+
+Forschung
+
+Förderung von Grundlagenforschung und anwendungsorientierter Forschung
+
+
+Anwendung und Transfer
+
+Aufbau einer leistungsfähigen, sicheren und nachhaltigen Infrastruktur zur Entwicklung und Anwendung von KI
+Stärkung von brandenburgischen Unternehmen in der KI-Anwendung in der bestehenden Wertschöpfung und zur Entwicklung neuer Geschäftsmodelle
+Vernetzung relevanter KI-Akteure aus Wirtschaft, Wissenschaft, Verwaltung, Kultur und Zivilgesellschaft mit dem Ziel, Synergieeffekte zu nutzen und den Transfer zu fördern
+Förderung der KI-Anwendung zur Erreichung der Klima- und Umweltschutzziele und zur Verbesserung des Katastrophenschutzes des Landes Brandenburg
+
+
+
+
+
+
+Gesellschaft, öffentliche Verwaltung und Bildung
+
+Erarbeitung eines verlässlichen Gestaltungsrahmens für den menschen-zentrierten Einsatz von KI
+Einbindung der Brandenburgerinnen und Brandenburger in die Debatte rund um die Gestaltung und den Einsatz von KI
+Zukunftssicherer Ausbau der Landesverwaltung und öffentlicher Strukturen mit KI; zugleich Verbesserung von Teilhabechancen durch KI
+Förderung schulischer und universitärer Bildung im Bereich KI; Angebote in der Ausbildung, Erwachsenen- und Fortbildung
+
+
+
+
+
+
+
+
+
+
+Berlin  
+
+Seine Digitalisierungsaktivitäten bündelt Berlin in der Abteilung Energie, Digitalisierung, Innovation der Senatsverwaltung für Wirtschaft, Energie und Betriebe. Der inhaltliche Fokus liegt auf Startups und Digitalwirtschaft, Mittelstand, Digitale Technologien sowie Initiativen und Veranstaltungen. Künstliche Intelligenz ist Teil der Innovationsstrategie InnoBB.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Netzwerkbildung und Dialog
+
+Studien zur Nachfrage von KI in Berlin sowie vorhandenen KI-Fachkräften
+Förderung von Veranstaltungen (z.B. KI-Werkstätten, MeetUps, Coding-Workshops)
+Sichtbarmachen von innovativen KI-Anwendungen in Berlin über die Website ki-berlin.de
+
+Forschung
+
+Unterstützung beim Zusammenschluss der beiden vom BMBF geförderten KI-Kompetenzzentren zum Institute for the Foundations of Learning and Data (BIFOLD) mit Verzahnung der KI-Aktivitäten aller Berliner Hochschulen.
+
+
+
+Technologietransfer
+
+Förderung des Deutschen Forschungszentrums für Künstliche Intelligenz (DFKI) ab 2020
+Gründung der Digitalagentur Berlin (DAB) zur Beratung und Vermittlung von KI-Implementierung in KMU
+KI-Pilotprojekte in der Verwaltung
+Aufbau eines KI-Hubs in Kooperation mit dem DFKI
+
+
+
+
+
+
+
+
+Bremen  
+
+Mit der im Oktober 2020 verabschiedeten Strategie "BREMEN.KI – Strategie Künstliche Intelligenz“ will das Land vorhandene Stärken in der KI-Forschung mit weiteren Akteuren vernetzen und Bremen zu einem der wichtigsten KI-Standorte in Deutschland ausbauen. Die Strategie fokussiert die Handlungsfelder "Wissenschaft", "Wirtschaft", "Gesellschaft" und "Qualifizierung" und basiert auf einem 2019 veröffentlichten Eckpunktepapier.
+Die Fachkräftestrategie 2019 des Landes thematisiert Herausforderungen neuer Technologien wie Künstliche Intelligenz für Arbeitsmarkt und Beschäftigung. In der Zukunftsinitiative Smart – Digital – Mobil koordiniert das Land Projekte zu Themen wie Autonomes Fahren und Smart Services.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Vernetzung
+
+Aufbau des Netzwerks BREMEN.AI für den Austausch von Unternehmen, Start-ups sowie Forscherinnen und Forschern mit Unterstützung des Bremer Standorts des Deutschen Forschungszentrums für Künstliche Intelligenz (DFKI), der Senatorin für Wirtschaft, Arbeit und Europa und der Senatorin für Wissenschaft und Häfen sowie von diversen Unternehmen.
+Unterstützung für KMU bei der Digitalisierung durch Beratungsförderprogramme, ein Mittelstand 4.0-Kompetenzzentrum sowie durch Vorträge und Veranstaltungen.
+
+Transfer
+
+Aufbau eines "Bremer KI-Transfer-Zentrums" mit Standorten in Bremen und Bremerhaven zur Entwicklung neuer Geschäftsmodelle mit KMU
+Entwicklung von KI-unterstützten Lösungen für den Handel im Projekt Knowledge4Retail durch Bremer Forschungseinrichtungen und Unternehmen
+Aufbau eines „KI-Space für intelligente Gesundheitssysteme“ (KI-Sigs) in Kooperation mit KI-Instituten, medizintechnischen Unternehmen und Kliniken in Bremen, Hamburg und Schleswig-Holstein
+Aufbau des DIGITAL HUB Industry als ein interdisziplinäres, industrieübergreifendes Umfeld aus Universität, Forschungseinrichtungen, Transfer-Einrichtungen sowie jungen und etablierten Wirtschaftsunternehmen
+
+
+
+Internationaler Austausch
+
+German-Canadian Concourse: Plattform für den Austausch zwischen Deutschland und Kanada mit jährlichen Experten-Panels zum Thema Künstliche Intelligenz
+Forschungsmarketingprojekt TransAIR (Transatlantic AI-based Robotic): Austausch von sieben Forschungseinrichtungen aus der Region Bremen mit US-Wissenschaftlerinnen und -Wissenschaftlern zu Forschung, Kommerzialisierung und Einfluss von KI und Robotik auf die Arbeitswelt
+
+
+
+
+
+
+
+
+Hamburg  
+
+Mit der Digitalstrategie für Hamburg beschloss der Hamburger Senat im Januar 2020 digitalstrategische Leitlinien für alle Bereiche des Gemeinwesens. Mit dem Konzept der „Digitalen Räume“ will die Stadt dem fach- und ressortübergreifenden Charakter von Digitalisierungsprojekten gerecht werden und die Kooperation der vielfältigen Akteure inner- und außerhalb Hamburgs (z.B. Behörden, städtische Einrichtungen, Unternehmen, Wissenschaft, Zivilgesellschaft) fördern. Auch im Bereich Künstliche Intelligenz soll der Wissenschafts- und Wirtschaftsstandort Hamburg branchenübergreifend und interdisziplinär gestärkt werden.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Technologietransfer und KI-Hub
+
+Gründung des Artificial Intelligence Center Hamburg (ARIC) e.V. im September 2019 zur Vernetzung von Unternehmen unterschiedlicher Größe und Branchen sowie mit Hochschulen und Forschungseinrichtungen
+Ausbau des Health AI Hub (HAIH) zu einem Ökosystem für Unternehmen, die KI-basierte medizinische Lösungen anbieten
+Aufbau eines „KI-Space für intelligente Gesundheitssysteme“ (KI-Sigs) in Kooperation mit KI-Instituten, medizintechnischen Unternehmen und Kliniken in Bremen, Hamburg und Schleswig-Holstein
+
+
+
+Praktische Anwendung von KI in der Verwaltung
+
+Chatbot „Frag-den-Michel“: Testbetrieb eines textbasierten, lernenden Dialogsystems, das Bürgerinnen und Bürgern allgemeine Auskünfte zu Verwaltungsdienstleistungen gibt
+Erprobung von KI bei der Auswertung von Beschwerden und Anregungen von Bürgerinnen und Bürgern sowie bei der elektronischen Aktenführung
+
+
+
+
+
+
+
+
+Hessen  
+
+Die hessische Landesregierung erarbeitete in enger Abstimmung mit Vertreterinnen und Vertretern von Industrie, Handel und Dienstleistungsgewerbe, Forschungseinrichtungen und Verbänden die Strategie Digitales Hessen. Sie adressiert unterschiedliche Bereiche, in denen der digitale Wandel aktiv gestaltet werden soll. Teil der Strategie ist wiederum KI made in Hessen, die KI-Zukunftsagenda des Landes, die als strategischer Rahmen für bestehende KI-Projekte und künftige Maßnahmen dient. Konkrete Handlungsfelder sind die Förderung von KI-Anwendung, die Förderung von Forschung und Lehre zu KI, die Stärkung von KI-Kompetenzen in der Gesellschaft, die Einführung von KI in der Verwaltung sowie die Entwicklung einer nachhaltigen Recheninfrastruktur. Innovationen sollen besonders in den Bereichen Gesundheit, Finanzen und Mobilität vorangetrieben werden.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Innovationen in der Anwendung
+
+Aufbau eines Gründungs- und Transferzentrums als Anlaufstelle zur Innovationsförderung; insbesondere für Studierende, AbsolventInnen und Absolventen und Forschende
+Gründung eines AI Quality & Testing Hubs, um Forschung, Entwicklung, Normung sowie Testung enger miteinander zu verzahnen und so die Qualität von KI-Systemen zu steigern
+Gründung eines KI-Innovationslabors, um Zugang zu KI-Supercomputerinfrastruktur und KI-Expertise zu ermöglichen; für Wissenschaftlerinnen und Wissenschaftler und Unternehmen verschiedener Größen
+Planung zweier Innovationshubs im Rahmen des Programms „Digitales Europa“ (EDIH)
+
+Forschung und Lehre
+
+Gründung eines Standorts des Deutschen Forschungszentrums für Künstliche Intelligenz (DFKI) in Darmstadt
+
+Recheninfrastruktur
+
+Förderung des Hessischen Zentrum für Angewandtes Quantencomputing der Fraunhofer-Gesellschaft, um Potentiale der Technologie für die Anwendung nutzbar zu machen
+
+
+
+KI-Kompetenzen
+
+Förderung des Projekts „Digitales Hessen: Einfach KI!“: digitale und analoge Angebote, um einen allgemeinverständlichen Zugang zu KI-Themen zu ermöglichen
+Fortlaufende Bespielung der Website Wie digital bin ich?: einfache Vermittlung von KI-Themen, Online-Kurse zur Förderung digitaler Kompetenzen, Präsentation von Best Practice-Beispielen
+Aufbau einer KI-Themenplattform durch die KI-Mission des House of Digital Transformation e.V.; als Projekt zur Fachkräfteentwicklung und Vernetzung von Unternehmen und Masterstudierenden
+
+Verwaltung
+
+Austragung eines Ideenwettbewerbs zur Förderung des KI-Einsatzes in der öffentlichen Verwaltung
+Geschäftsstelle Smarte Region Hessen: Unterstützung von hessischen Kommunen und Regionen bei KI-Innovationen und der Digitalisierung
+Umsetzung der Projekte „Chatbots der Landesverwaltung“ und „KI-Vernetzung: Landesverwaltung trifft Wissenschaft“
+
+
+
+
+
+
+
+
+Mecklenburg-Vorpommern  
+
+Die Landesregierung hat im Mai 2018 eine Digitale Agenda für Mecklenburg-Vorpommern veröffentlicht. Schwerpunkte sind der Ausbau der digitalen Infrastruktur und die Stärkung der Digitalisierung in Wirtschaft, Bildung, Forschung und Verwaltung. Weiter sieht das Programm unter anderem den Aufbau eines Kompetenzzentrums „Digitalisierung in der Arbeitswelt“ vor.
+Im Oktober 2020 hat der Strategierat Wirtschaft – Wissenschaft Mecklenburg-Vorpommern die Regionale Innovationsstrategie für intelligente Spezialisierung Mecklenburg-Vorpommern 2021-2027 (RIS M-V) beschlossen und damit die bestehende Regionale Innovationsstrategie 2020 überarbeitet sowie strategisch neu ausgerichtet. Besonderes Augenmerk legt die neue RIS M-V u.a. auf das Querschnittsfeld „Informations- und Kommunikationstechnologien“. KI-Themen werden insbesondere unter dem Stichwort „Big Data Analytics“ – eine der beiden spezialisierten IT-Basistechnologien der RIS M-V – adressiert. Ein weiterer Fokus liegt auf dem Ausbau und der Vernetzung entsprechender Kompetenzzentren.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Forschung
+
+Vielfältige Forschungsaktivitäten im Bereich KI-Anwendungen und zu Grundlagen der KI (beispielhaft KI-Karte M-V des Kompetenzzentrums M-V)
+Förderung von vier Forschungsverbünden mit KI-Schwerpunkt durch ein Exzellenzforschungsprogramm „Digitalisierung der Forschung“ (gefördert durch Ministerium für Wirtschaft, Arbeit und Gesundheit Mecklenburg-Vorpommern)
+
+
+
+Transfer
+
+Zentrum für Künstliche Intelligenz M-V als Anlaufstelle für kleinerer und mittlerer Unternehmen, die KI-Technologien entwickeln oder einsetzen wollen (Informationen zu KI, Potentialanalyse, Technologieempfehlungen, Ausrichtung von Workshops)
+
+Öffentlicher Sektor
+
+Arbeit an passgenauen KI-Lösungen für den öffentlichen Sektor
+
+
+
+
+
+
+
+
+Niedersachsen  
+
+In Ihrer 2022 vorgestellten KI-Strategie für Niedersachsen formuliert die Landesregierung konkrete Ziele und Maßnahmen für den Bereich der Künstlichen Intelligenz. Das Gesamtvolumen aller Maßnahmen, die zum Teil über den Bereich der KI hinausgehen, beträgt gemeinsam mit den Kofinanzierungen aus Bund und EU rund 350 Millionen Euro. Die Strategie soll die politischen Rahmenbedingungen im Hinblick auf Datenschutz und Ethik gestalten und zugleich die Innovation in Wissenschaft und Wirtschaft fördern. Ein menschenzentrierter Ansatz ist dabei von zentraler Bedeutung, um Akzeptanz und Vertrauen für den KI-Einsatz zu schaffen.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Dateninfrastruktur
+
+Mitwirkung am europäischen Projekt GAIA-X, um gemeinsame europäische Dateninfrastruktur zu entwickeln
+
+Wirtschaft
+
+Neustart des Förderprogramms Digitalbonus Niedersachsen
+Gründung und Förderung eines Innovationsclusters mit Schwerpunkt KI in der Agrarbranche (Ziel: Förderung von Wissenstransfer aus der Wissenschaft in die Wirtschaft)
+Förderung des Regionalen Zukunftszentrums Nord zur beruflichen Weiterbildung
+
+Bildung
+
+Beteiligung an länderübergreifendem Projekt zur Entwicklung einer Adaptive Learning Cloud (Ziel: Erprobung individualisierter/adaptiver Lehr- und Lernanwendungen
+Schrittweise Einführung von Informatik als verpflichtendes Schulfach für Schülerinnen und Schüler (ab 2023/24)
+Förderung des Digital Campus Niedersachsen als niedrigschwelliges Lernangebot zur Erlangung grundständiger KI- und Digitalkompetenzen
+
+Anwendungsorientierter Transfer
+
+Vielzahl an öffentlich geförderten KI-Projekten im Verbund des Zentrums für Digitale Innovation Niedersachsen (ZDIN); u.a. in den Bereichen Agrar, Energie, Arbeit, Gesundheit, Mobilität, Produktion, Wasser
+
+
+
+Forschung
+
+Ausbau von Forschungskapazitäten an Hochschulen (u.a. Förderung des Forschungszentrum L3S an der Leibniz Universität Hannover, Einrichtung von 50 Digitalisierungsprofessuren u.a. am KI-Campus der Universität Osnabrück)
+Ausbau von außeruniversitären Forschungseinrichtungen (u.a. Anschubfinanzierung des Standortes Niedersachsen des Deutsches Forschungszentrums für Künstliche Intelligenz in Osnabrück und Oldenburg)
+Auf- und Ausbau von (Forschungs-) Dateninfrastrukturen (u.a. Beteiligung an NFDI und GAIA-X)
+Ausbau (räumlicher) Strukturen für Transfer und Co-Innovation (u.a. Förderung des Zentrums für digitale Innovationen Niedersachsen)
+
+Polizei, Justiz und Verwaltung
+
+Entwicklung einer KI-basierten Software zur Bekämpfung von Kinderpornografie beim LKA
+Erprobung KI-basierter Textanalyse- und Strukturierungswerkezeuge in der Justiz
+Entwicklung einer KI-gestützten Datenanalyse in der Steuerverwaltung (in Kooperation mit der Universität Oldenburg und dem Landesamt für Steuern)
+
+Umwelt und Regionalentwicklung
+
+Förderung eines neuen Zukunftslabors im Bereich des digitalen Wassermanagements
+
+
+
+
+
+
+
+
+Nordrhein-Westfalen  
+
+Im April 2019 wurde die Strategie für das digitale Nordrhein-Westfalen im Landtag vorgestellt. Eines der zentralen Ziele war es, das Kompetenznetzwerk KI.NRW zu einem der führenden Kompetenznetzwerke in Europa auszubauen.
+Im November 2021 wurde die Digitalstrategie 2.0 vom Landeskabinett beschlossen und der Öffentlichkeit vorgestellt. Mit dieser Strategie hat sich die Landesregierung Ziele gesetzt, die sie in unterschiedlichen Handlungsfeldern erreichen möchte. Im Bereich der KI liegt ein besonderer Fokus auf dem kontinuierlichen Ausbau der Kompetenzplattform KI.NRW und der Verstetigung des Kompetenzzentrums „Maschinelles Lernen Rhein-Ruhr (ML2R)“ als nationales KI-Kompetenzzentrum „Lamarr Institute“.
+Zudem konzentriert sich die Landesregierung auf die Aus- und Weiterbildung von Schülerinnen und Schülern, von Auszubildenden, Studierenden und Berufstätigen. Hierfür werden verschiedene Initiativen zur KI-Qualifizierung und -Nachwuchssicherung sowie zum lebenslangen Lernen zu KI gefördert. Ziel ist es, den zunehmenden Einsatz von KI im Berufsleben, aber auch im Privatleben aktiv zu gestaltet, Vorbehalte abzubauen und neue Fähigkeiten zu vermitteln.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Forschung
+
+Verstetigung des Kompetenzzentrums „Maschinelles Lernenden Rhein-Ruhr (ML2R) als „Lamarr Institute for Machine Learning and Artificial Intelligence“: Fokus auf Forschung, Ausbildung wissenschaftlichen Nachwuchses und Transfer in die Industrie; Forschungsschwerpunkte u.a. auf: Hybrides, ressourcenschonendes maschinelles Lernen, vertrauenswürdige, verkörperte KI und menschenzentrierte Systeme
+
+Transfer Kompetenznetzwerk KI.NRW
+
+Anspruch: Nordrhein-Westfalen zu einem bundesweit führenden Standort für angewandte KI ausbauen, in internationalen Netzwerken etablieren und als zentrale Landes-Dachorganisation den Dreiklang aus Spitzenforschung, Innovation und Unternehmertum vereinen
+Ziele: Transfer von KI aus der Spitzenforschung in die Wirtschaft (insbesondere den Mittelstand); Stärkung der beruflichen Qualifikation zu KI; Forschung zu KI sichtbar machen und praxisorientiert ausrichten; Gestaltung eines gesellschaftlichen Dialogs zu vertrauenswürdiger, menschenzentrierter KI
+Angebote: digitales Informationsportal mit Good Practice-Beispielen, Orientierungsangeboten, News zu KI; Vernetzung von Wissenschaft und Unternehmen durch Konferenzen, Workshops und in Projekten; Begleitung von Unternehmen bei der KI-Einführung und Identifikation von Use Cases
+
+Schulbildung
+
+Förderung des Projekts „KI-Algorithmen im Informatikunterricht“: Entwicklung von KI-Lerninhalten und Materialien; projektbeteiligt sind das Fraunhofer-Institut für Intelligente Analyse- und Informationssysteme IAIS, das Institut für Mathematikdidaktik (IMD), das Department Mathematik/Informatik (DMI) der Universität zu Köln und die InterScience-Akademie für Algorithmik (ISAFA)
+
+
+
+Hochschulbildung
+
+KI-Starter: Förderung junger Forscherinnen und Forscher (PostDoc) zur Umsetzung ihres eigenen Forschungsvorhabens im Bereich KI/ML, dadurch Weiterentwicklung der akademischen Karriere (Teil der Förderlinie „Künstliche Intelligenz / Maschinelles Lernen des Ministeriums für Kultur und Wissenschaft)
+Standortübergreifendes Graduiertenkolleg „Trustworthy AI for Seamless Problem solving: Next generation Intelligence Joins Robust Data Analysis“ (kurz: Data NInJA)“: Förderung und Unterstützung von Promovierenden (Teil der Förderlinie „Künstliche Intelligenz / Maschinelles Lernen des Ministeriums für Kultur und Wissenschaft)
+Digitalisierungsoffensive: Förderungen von Projekten zum KI-Einsatz in Studium und Lehre: u.a. „KI:edu.nrw“ zu Learning Analytics in der Hochschulbildung (Zentrum für Wissenschaftsdidaktik der Ruhr-Universität Bochum); „Adaptiertes Lernen in der Studieneingangsphase (ALiSE)“ zu KI-basierten und individualisierten Lernangeboten für StudienanfängerInnen im Bereich Mathematik/Sprache (Universität Wuppertal); „beVinus.NRW“ zur KI-gestützten Vorbereitung von Studierenden auf Studienanforderungen (Universität Wuppertal, TU Dortmund, RWTH Aachen); „AIStudyBuddy“ zur individualisierten und feedbackgetriebenen Studienverlaufsplanung (RWTH Aachen, Bergische Universität Wuppertal, Ruhr-Universität Bochum)
+
+Weitere Handlungsfelder
+
+Förderung des KI-Einsatzes im Gesundheitswesen, im Bereich Energie und in der öffentlichen Verwaltung
+
+
+
+
+
+
+
+
+Rheinland-Pfalz  
+
+Die rheinland-pfälzische Landesregierung stellte im September 2020 ihre KI-Agenda vor. Zur Stärkung ihrer Wissenschaftslandschaft im KI-Bereich verdoppelt sie ihre Projektmittel bis Ende 2023 auf rund 36 Millionen Euro.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Forschung
+
+Gründung einer KI-Allianz zwischen Wissenschaftsministerium und vier Universitäten, um Positionierung und Wahrnehmung der im Land vorhandenen KI-Kompetenzen zu forcieren
+Projektförderung aktueller Themen und institutionelle Forschungsförderung der Hochschulen und außeruniversitären Forschungseinrichtungen
+Einrichtung von bis zu zehn neuen KI-Professuren
+
+Anwendungsorientierter Transfer
+
+Gründung eines KI-Boards in der Zukunftsinitiative Rheinland-Pfalz (ZIRP), das KI-Expertinnen und Experten aus Wirtschaft und Wissenschaft landesweit vernetzt.
+Ernennung zweier KI-Botschafter/innen, um auf internationaler Ebene über die rheinland-pfälzischen Forschungseinrichtungen mit KI-Know-how zu informieren und bei der Anbahnung und Vermittlung internationaler Kontakte zu unterstützen
+Ernennung einer KI-Lotsin, um bei Akteuren aus Wissenschaft und Wirtschaft das Wissen zu Einsatzmöglichkeiten von KI-Methoden und die im Land vorhandenen infrastrukturellen, institutionellen und personellen Kompetenzen zu erhöhen
+Gründung von KI-Labs an Forschungseinrichtungen, um KMU anhand von beispielhaften Anwendungen über die Potenziale von KI zu informieren und die Netzwerkbildung zu forcieren
+
+
+
+Qualifizierung und Weiterbildung von Fachkräften
+
+Förderung des wissenschaftlichen KI-Nachwuchses im Rahmen von KI-Forschungskollegs und KI-Nachwuchsgruppen
+Bündelung der Qualifizierungsangebote von Hochschulen und außeruniversitären Forschungseinrichtungen in einer KI-Academy
+Entwicklung neuer Angebote zur personenbezogenen KI-Kompetenzentwicklung
+Aufbau einer zentralen und themenoffenen Vernetzungsplattform für den wissenschaftlichen Nachwuchs
+
+
+
+
+
+
+
+
+Saarland  
+
+Die Weiterentwicklung des Bereiches Künstliche Intelligenz im Saarland erfolgt auf Basis der aktuellen Innovationsstrategie mit den Schlüsselbereichen Informations- und Kommunikationstechnologie, Automotive/Produktion sowie LifeScience/Materialien. Damit legt das Land den Grundstein, um das Querschnittsthema Digitalisierung mit den Fokusthemen KI und Cybersicherheit, Smart Production und Smart Mobility sowie Life Sciences und Material Sciences in seiner Technologiepolitik zu verankern und weiter zu entwickeln. Das Land wird den KI-Schwerpunkt strategisch weiter ausbauen und insbesondere in die Anwendungsdomänen bringen.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Forschung und KI-Hub
+
+Schaffung eines KI-Hotspots in den Schwerpunktbereichen Automotive, Industrie 4.0, eHealth und eGovernment.
+DFKI und CISPA Helmholtz-Zentrum für Informationssicherheit als Ausgangspunkt für zusätzliche Spitzenprojekte in den Bereichen Cybersicherheit und KI sowie für die Entwicklung neuer Exzellenzinitiativen.
+Erschließung von 10 Hektar Gewerbefläche im Umfeld von DFKI, CISPA-Helmholtz-Zentrum und weiteren IT-Forschungseinrichtungen für Ausgründungen und Ansiedlungen von IT-Unternehmen (insbesondere aus den Bereichen Informationssicherheit und KI)
+Mittelfristiges Ziel: Ausbau zu einem bundesweiten Hub für Innovation, Neugründungen, Industrieforschung und Technologietransfer im IT-Bereich.
+
+
+
+Förderung und Transfer
+
+Förderung von Vorhaben mit Bezug zu den in der Innovationsstrategie identifizierten Schwerpunkten (insbesondere auch im Bereich der Informations- und Kommunikationstechnologie) über das Zentrale Technologieprogramm Saar (ZTS)
+Informationsveranstaltungen und Demonstratoren zu KI-basierten Systemen am ZeMA - Zentrum für Mechatronik und Automatisierungstechnik gGmbH sowie am CISPA Helmholtz-Zentrum für Informationssicherheit
+Förderprogramm DigitalStarter Saarland zur Unterstützung von KMU bei der Digitalisierung.
+Verzahnung und Ausbau der Beratungskapazitäten der Kompetenzzentren Power4Production (P4P) und Mittelstand 4.0
+
+
+
+
+
+
+
+
+Sachsen  
+
+Die sächsische Staatsregierung veröffentlichte im Herbst 2021 eine KI-Strategie für den Freistaat Sachsen. Sie basiert auf einer Stärken-Schwächen-Analyse der sächsischen Wirtschaft im Themenfeld KI, die in einem ressortübergreifenden Prozess unter Einbeziehung von Expertinnen und Experten aus Forschung, Lehre, Wirtschaft, Politik und Gesellschaft erstellt wurde. Begleitend haben Bürgerinnen und Bürger ihre Ansichten über eine Beteiligungsplattform beigesteuert; zahlreiche Verbände, gesellschaftliche Gruppen und regionale Forschungsverbünde haben sich mit eigenen Positionspailigt.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Forschung und Bildung
+
+Stärkung des Forschungsstandorts Sachsen durch Ausbau der Forschungsstrukturen, interdisziplinäre Zusammenarbeit zur Innovationsgenerierung und Technologietransfer in die Wirtschaft
+Anwerbung von Fachpersonal aus dem In- und Ausland durch KI-Standortmarketing und attraktive Rahmenbedingungen
+Wecken von KI-Interesse bei Schülerinnen, Schülern, Auszubildenden und Studierenden mit Hilfe moderner technischer Ausstattung, zuverlässiger Breitband-Anbindung und KI-Wissen als verpflichtendem Bestandteil der Aus- und Weiterbildung
+
+Verwaltung
+
+Schaffung notwendiger Voraussetzungen und Einrichtung einer KI-Kompetenzstelle Sachsen als zentrale Auskunftsstelle bei Fragen zu Bildungsangeboten, Datenzugang und Datentransfer, der Zusammenarbeit von Wirtschaft und Wissenschaft und Beratung von Unternehmen zu Fördermöglichkeiten
+Einsatz von KI für eine kundenorientierte Verwaltung
+Verbraucherbildung in Hinsicht auf die Komplexität von KI-Anwendungen und deren Auswirkung auf das alltägliche Leben
+
+
+
+Ethik und Daten
+
+Entwicklung eines innovationsförderlichen Regelungsrahmens, der sich zügig an neue Begebenheiten anpassen lässt, sowie Test-, Lern- und Anpassungsmöglichkeiten bietet
+Vertrauensbildung in KI-Anwendungen durch transparente Kommunikation mit der Öffentlichkeit
+Erhöhung von Datenmengen und Vernetzung von Datenbeständen bei gleichzeitiger Garantie der Datensouveränität der Bevölkerung sowie Vereinbarkeit mit bundesweiten und europäischen Richtlinien
+
+Wirtschaft
+
+Nutzung der Potentiale von KI – nicht nur für die unternehmerische Wertschöpfung, sondern auch zur Verbesserung der Arbeitsbedingungen der Beschäftigten
+Anpassung arbeitsrechtlicher Regelungsrahmen sowie des Arbeits- und Gesundheitsschutzes an KI
+
+
+
+
+
+
+
+
+Sachsen-Anhalt  
+
+Mit der Digitalen Agenda für das Land Sachsen-Anhalt hat das Land im Jahr 2018 einen Zehn-Punkte-Plan zur Gestaltung der Digitalisierung vorgelegt. Zentrale Themen sind die digitale Infrastruktur, Begleitung von Unternehmen und Beschäftigen im digitalen Wandel sowie der Aufbau von intelligenten Verkehrssystemen.
+
+
+
+
+
+
+Schleswig-Holstein  
+
+Mit ihrem Digitalisierungsprogramm legte die Landesregierung im Juni 2018 den Handlungsrahmen zum Einsatz von KI fest. Nachdem 2019 im Dialog mit Hochschulen, Forschungseinrichtungen, der Wirtschaft, Verwaltung und Zivilgesellschaft eine KI-Strategie für Schleswig-Holstein entstanden ist, wurde diese im Dezember 2021 fortgeschrieben. Durch diese Aktualisierung soll der Fokus der Strategie noch deutlicher auf der Schnittstelle zwischen Forschung und Wirtschaft liegen. Künstliche Intelligenz soll dazu beitragen, Wohlstand und Wettbewerbsfähigkeit der Wirtschaft (insbesondere der KMU) zu sichern, Schleswig-Holstein als attraktiven Standort für KI-Start-ups und -Fachkräfte auszubauen und die Verwaltung bürgerfreundlicher und leistungsfähiger zu gestalten. Um die Bürgerinnen und Bürger zu einer konstruktiven und kritischen Auseinandersetzung mit KI zu befähigen, wird Informatik als schulisches Pflichtfach eingeführt. Bei der Forschungs- und Unternehmensförderung konzentriert sich das Land auf die Schwerpunktbereiche Gesundheit, Medizin, maritime Wirtschaft, erneuerbare Energien sowie Land- und Forstwirtschaft.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Transfer und Vernetzung
+
+Vernetzung von regionalen KI-Akteuren durch das Cluster Digitale Wirtschaft Schleswig-Holstein
+Vernetzung von Digitalunternehmen in Schleswig-Holstein und Kalifornien durch The Bay Areas e.V.
+
+Forschung
+
+Förderung von zwölf KI-Professuren bis 2027
+Vernetzung mit der Wirtschaft & Einbindung in volkswirtschaftliche Wertschöpfung
+
+Öffentliche Daten
+
+Bereitstellung von öffentlichen Daten für die Entwicklung von KI-Anwendungen über das Portal Open Data Schleswig-Holstein
+Entwicklung von zukunftsweisenden Lösungen für eine bürgernahe digitale Verwaltung durch das Joint Innovation Lab
+
+
+
+Bildung und Kultur
+
+Entwicklung einer hochschulübergreifenden Lehr-Lern-Plattform zur Vermittlung von grundlegenden Kenntnissen der Datenanalyse, -nutzung und -verwertung
+Erstellung von Unterrichtsmaterialien und Modulen zur virtuellen Lehrerfortbildung
+Einführung von Informatik als schulisches Pflichtfach
+
+Förderprojekte zur Entwicklung von KI-Anwendungen (Auswahl)
+
+Mobilität: Echtzeitanalyse und Optimierung von Schiffsrouten
+Gesundheit: Optimierung von Blutspenden
+Logistik: Nutzung von KI in der Aufstellung eines öffentlichen Haushalts
+
+
+
+
+
+
+
+
+Thüringen  
+
+Die Thüringer Strategie für die Digitale Gesellschaft wurde in einem Beteiligungsprozess unter Einbeziehung von Akteuren aus Wirtschaft, Wissenschaft und Gesellschaft entwickelt. Sie behandelt Künstliche Intelligenz als eines von mehreren Querschnittsthemen. Der Freistaat Thüringen will Entwicklung und Einsatz von KI-Technologien unterstützen, um die Potenziale – insbesondere von Big Data und vernetzten Systemen – in Bereichen wie Gesundheit, Mobilität, Energie und Industrie 4.0 zu erschließen.
+
+
+
+Handlungsfelder und Maßnahmen im Bereich KI
+Förderprogramme
+
+Digital-Bonus als niederschwelliges Angebot für KMU zur Unterstützung bei Digitalisierung und Anwendung von KI
+FTI-Förderung zur Stärkung von Innovationsfähigkeit sowie Wissens- und Technologietransfer von Wissenschaft und Wirtschaft
+Programm Pro Digital zur Förderung digitaler Innovationen in der grundlagenorientierten und anwendungsnahen Forschung
+
+Transfer und Vernetzung
+
+Thüringer Kompetenzzentrum Wirtschaft 4.0 als Anlaufstelle für Unternehmen bei Fragen zu Digitalisierung und KI mit Workshops, Beratungsangeboten und Veranstaltungen
+Mittelstand 4.0 Kompetenzzentrum Ilmenau mit fünf Modellfabriken für praxisnahe Demonstrations- und Umsetzungsprojekte
+Thüringer Clustermanagement zur strategischen Entwicklung besonders leistungsfähiger KI-Akteure sowie zur Förderung von Vernetzung und Kooperationen zwischen Unternehmen und Forschungseinrichtungen
+Zentrum für Robotik und Lernende Systeme an der TU Ilmenau als Schnittstelle zwischen Hochschulen, außeruniversitären Forschungseinrichtungen und Wirtschaft
+Regelmäßige Veranstaltungen für regionale KI-Akteure aus Wissenschaft und Wirtschaft
+Umfrage unter KI-Akteuren zu Bewertung von KI und benötigten Unterstützungsangeboten
+
+
+
+Förderprojekte zur Entwicklung von KI-Anwendungen (Auswahl)
+
+Mobilität: Offenes, serviceorientiertes IKT-Ökosystem zur cross-sektoralen und quartiersbezogenen Verknüpfung von Infrastrukturinformationen im Bauhaus Mobility Lab
+Geowissenschaften: Verbessertes Verständnis des Erdsystems durch KI-Methoden
+Gesundheit: Maschinen-Lernstrategien für intelligente Medizintechnikprodukte
+Lebenswissenschaften: Neue Erkenntnisse durch Einsatz von KI bei der Datenauswertung
+Arbeit: Methoden und Technologien für nutzerzentrierte Mensch-Roboter-Kollaboration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KI-Strategien international
+Künstliche Intelligenz wird in den kommenden Jahren weltweit die Wirtschaft wie auch den Alltag der Menschen verändern. Um die damit verbundenen politischen und gesellschaftlichen Entwicklungen und Herausforderungen zu gestalten, haben Regierungen in vielen Ländern spezifische Strategien oder Eckpunktepapiere zum Umgang mit KI vorgelegt.
+
+
+
+
+
+
+
+
+DeutschlandEuropäische UnionAustralienBelgienChinaDänemarkFinnlandFrankreichGroßbritannienIndienJapanKanadaNiederlandeNorwegenPolenPortugalRusslandSchwedenSingapurSpanienSüdkoreaTürkeiUSA
+
+
+
+
+
+
+Deutschland  
+
+Die Bundesregierung präsentierte im November 2018 eine nationale Strategie Künstliche Intelligenz. Sie zielt darauf, „KI Made in Germany" zu einem internationalen Markenzeichen für moderne, sichere und gemeinwohlorientierte KI-Anwendungen auf Basis des europäischen Wertekanons zu etablieren. Bis 2025 stellt der Bund dafür etwa fünf Milliarden Euro zur Verfügung. Die Plattform Lernende Systeme wird die Umsetzung der KI-Strategie begleiten und dafür zu einer Plattform für Künstliche Intelligenz ausgebaut werden.
+
+
+
+Politische Ziele
+Deutschland soll, ausgehend von einer guten Forschungsbasis, ein weltweit führender Standort für die Erforschung, Entwicklung und Anwendung von Künstlicher Intelligenz werden.
+
+Technologieführerschaft und Qualitätssiegel „AI Made in Germany“
+Verantwortungsvolle und gemeinwohlorientierte Entwicklung und Nutzung von KI
+Entwicklung von KI-Lösungen als Beitrag für Umwelt und Klimaschutz
+Breiter gesellschaftlicher Dialog
+Aufbau eines europäischen KI-Ökosystems, das die Wettbewerbsfähigkeit von Wirtschaft und Forschung ausbaut, vielfältige KI-Anwendungen im Interesse der Gesellschaft fördert und auf europäischen Werten basiert
+
+
+
+
+Handlungsfelder
+Ausbau der KI-Forschung
+
+Aufbau eines nationalen Netzwerks von mindestens zwölf Zentren und Anwendungshubs
+Aufbau eines weltweit führenden europäischen KI-Netzwerkes unter der Dachmarke „KI – Made in Europe“
+Einrichtung von mindestens 100 zusätzlichen KI-Professuren und Stärkung der Lehre und Nachwuchsförderung im Bereich KI
+Binden und Gewinnen der besten Köpfe durch attraktive Arbeitsbedingungen und Vergütungen
+Aufbau eines deutsch-französischen Forschungs- und Innovationsnetzwerkes („virtuelles Zentrum“)
+Stärkung der interdisziplinären Forschung zu KI
+Durchführung von KI-Challenges und Etablierung eines Deutschen Preises für „KI Made in Germany“
+
+Wissenstransfer, Anwendung und Entrepreneurship
+
+Schnellerer Transfer von Forschung in konkrete KI-Anwendungen durch Testfelder, Reallabore, Modellversuche, regionale Cluster und neuartige Förderformate
+Bessere Zugangsmöglichkeiten für Unternehmen zu KI-Technologien, insbesondere von mittelständischen Unternehmen über die Kompetenzzentren Mittelstand 4.0
+Förderung der Gründungsdynamik für KI-Start-ups durch Förderprogramme (z.B. EXIST) und Wagniskapital
+Erstellen einer KI-Landkarte zu Anwendungen und Akteuren; KI-Monitoring und Vernetzung der Unternehmen und Institutionen
+Gründung einer Agentur für Sprunginnovationen mit KI als einem der Schwerpunkte
+Bildung eines europäischen Innovationsclusters zu KI und Durchführung von Innovationswettbewerben
+Öffentlichkeitswirksame Darstellung von Best Practices (insbesondere mit Hilfe der Plattform Lernende Systeme)
+
+Deutsch-Französische Zusammenarbeit
+Deutschland und Frankreich unterzeichneten am 16. Oktober 2019 eine gemeinsame KI-Roadmap („Erklärung von Toulouse“). Der Fahrplan sieht Folgendes vor:
+
+den Aufbau eines virtuellen Netzwerks zu KI (u.a. Kooperation der deutschen und französischen KI-Kompetenzzentren)
+die stärkere Vernetzung deutscher und französischer Wirtschaftsakteure
+einen gemeinsamer Ansatz für eine sichere, souveräne Dateninfrastruktur
+ein abgestimmtes Vorgehen bei der KI-Standardisierung
+einen gemeinsamer Ansatz bei Rechtsfragen zu KI
+sowie einen Diskurs über Sprunginnovationsprojekte.
+
+
+
+Wandel der Arbeit
+
+Ganzheitlicher und menschengerechter Ansatz basierend auf der selbstbestimmten Entfaltung von Fähigkeiten und Talenten, sozialer Sicherheit und der Gesundheit der Beschäftigten
+Gründung regionaler Kompetenzzentren für Arbeitsforschung und -gestaltung
+Fachkräftemonitoring und nationale Weiterbildungsstrategie zur Kompetenzförderung von Erwerbstätigen, insbesondere in Hinblick auf den digitalen Wandel und KI
+Untersuchung der Auswirkungen von KI am Arbeitsplatz in betrieblichen Experimentierräumen und frühzeitige Einbindung der Betriebsräte bei der Einführung von KI-Anwendungen
+Qualifizierung von Personalverantwortlichen, Personal- und Betriebsräten (z.B. in Zukunftszentren)
+Aufbau eines KI-gestützten Online-Einstiegsportals für berufliche Weiterbildung
+
+Datennutzung, Datensicherheit, Recht und Ethik
+
+Förderung der Forschung zur Kontrolle und Nachvollziehbarkeit von algorithmischen Prognose- und Entscheidungssystemen sowie zu Verbraucherschutz und Privatsphäre
+Daten verfügbar machen, z.B. durch potenzielle Datenpartnerschaften zwischen Unternehmen und Forschungseinrichtungen und durch die Einrichtung von Anreizen und Rahmenbedingungen für das freiwillige und datenschutzkonforme Teilen von Daten (auch aus öffentlich finanzierten Forschungsprojekten)
+Anpassung des Wettbewerbs- und Urheberrechts, um die Menge an nutzbaren Daten zu erhöhen, ohne persönliche Daten oder betriebliches Knowhow preiszugeben (Kommission Wettbewerbsrecht 4.0)
+Anpassung des Arbeitsrechts und Beschäftigtendatenschutzgesetzes
+Schaffen eines rechtssicheren Ordnungsrahmens für KI-Akteure
+
+Internationale und gesellschaftliche Dialoge
+
+Europäischer und transatlantischer Dialog zum menschenzentrierten Einsatz von KI in der Arbeitswelt
+Breiter gesellschaftlicher Dialog über die ethische, rechtliche, kulturelle und institutionelle Gestaltung von KI – die Plattform für Künstliche Intelligenz wird hier eine Schlüsselrolle einnehmen
+Entwicklung eines Ökosystems für gemeinwohlorientierte KI unter dem Label „Civic Coding ‒ Innovationsnetz KI für das Gemeinwohl“, inklusive Umsetzung der Projekte Civic Innovation Platform, Civic Data Lab und KI-Ideenwerkstatt für Umweltschutz
+
+
+
+
+
+
+
+
+
+Europäische Union  
+
+Im April 2018 veröffentlichte die Europäische Kommission eine Agenda zur Förderung Künstlicher Intelligenz in Europa. Auf diese folgte im Frühjahr 2020 das Weißbuch Künstliche Intelligenz, das einen Rahmen für vertrauenswürdige KI zur Diskussion stellte, der auf Exzellenz und Vertrauen beruht. Der im April 2021 veröffentlichte Coordinated Plan on AI soll darauf aufbauend den nächste Schritt der EU zu globaler Führerschaft im Bereich vertrauenswürdiger KI darstellen. Gleichzeitig veröffentlichte die EU-Kommission einen Entwurf zur Regulierung riskanter KI-Systeme und tat damit den ersten Schritt auf dem Weg zu einem europäischen Artificial Intelligence (AI) Act, der zu einer vertrauenswürdigen KI beitragen soll. Nach den erfolgreich abgeschlossenen Trilog-Verhandlungen zwischen den EU-Institutionen wurde im Dezember 2023 eine endgültige Version des AI Acts, der in Deutschland Gesetzescharakter haben wird, beschlossen.
+
+
+
+Politische Ziele
+Ziel der EU ist es, wissenschaftliche Durchbrüche und eine europäischen Technologieführerschaft im Bereich der Künstlichen Intelligenz zu ermöglichen. Neue Technologien sollen im Dienst aller Europäerinnen und Europäer stehen, ihr Leben verbessern und gleichzeitig ihre Rechte respektieren. Das gemeinschaftliche Vorgehen zur Stärkung der europäischen Innovationskraft zielt auf
+
+Ausweitung von Investitionen und Ausbau der KI-Infrastruktur
+Schaffung von ethischen und rechtlichen Rahmenbedingungen
+Förderung von Bildung und Forschung
+
+
+
+
+Handlungsfelder
+Strategische Maßnahmen und Koordinierung
+
+Weiterentwicklung der nationalen KI-Strategien der Mitgliedstaaten
+Ausarbeitung sektorspezifischer gemeinsamer Maßnahmen der Mitgliedsstaaten
+Vision: Festlegung von KI-Richtlinien und Durchführen von Investitionen
+
+Öffentliche und private Investitionen
+
+Investitionsvolumen für KI von 20 MiIliarden Euro pro Jahr
+Entwicklung einer Plattform für „KI auf Abruf“, die europäischen Nutzern Zugang zu relevanten KI-Ressourcen verschafft
+Gezielte Finanzierung von Unternehmen und Start-ups durch den Europäischen Fonds für Strategische Investitionen (EFSI) sowie weitere Ausstattung mit Investitionen für KMU und Start-ups (InvestEU)
+Anwendung von KI im öffentlichen Sektor (Adopt AI programme)
+
+Bildung, Forschung und Kompetenzen
+
+Förderung von KI-relevanten Kompetenzen
+Halten und Gewinnen der besten Wissenschaftlerinnen und Wissenschaftler
+Bündelung von Kompetenzzentren
+Unterstützung der Veränderungen auf dem Arbeitsmarkt durch spezifische Ausbildungsprogramme mit Mitteln des Europäischen Sozialfonds
+
+Infrastruktur
+
+Investitionen in Hochleistungsrechner, Quantencomputer sowie in KI- und Daten-Infrastruktur
+Weiterentwicklung der Europäischen Cloud für offene Wissenschaft
+Aufbau einer europaweiten Hochleistungsrecheninfrastruktur
+
+
+
+Ethischer und rechtlichen Rahmen
+
+Die europäischen Regeln für KI sind im AI Act der EU festgehalten. Dieser hat als EU-Verordnung einen rechtlich bindenden Charakter
+Ausarbeitung von Normen, die die Inhalte des AI Acts für die Anwendung in der Praxis konkretisieren (Europäisches Komitee für Normung CEN, Europäisches Komitee für elektrotechnische Normung CENELEC)
+Ausarbeitung von Konzepten der Überwachung und Zertifizierung von riskanten KI-Systemen
+Etablierung von ethischen Leitlinien für die Entwicklung von KI (basierend auf der Charta der Grundrechte der EU); dazu enge Zusammenarbeit in der „Europäischen KI-Allianz“
+Orientierung an den Grundsätzen des europäischen Datenschutzes und europäischer Produkthaftungsrichtlinien
+
+Transfer in den Markt
+
+Vernetzung der europäischen KI-Spitzenforschungszentren
+Aufbau von Testeinrichtungen (z.B. für vernetztes und autonomes Fahren)
+Entwicklung von Plattformen und groß angelegten Pilotprojekten mit KI-Elementen in Bereichen wie Energie, Gesundheitsversorgung, Fertigung, Geoinformation und Landwirtschaft
+Förderung der Integration von KI und Datenanalyse in Leuchtturm-Initiativen in den Bereichen Fertigung, Mobilität, personalisierte Medizin
+Übergang von einzelnen Testprojekten zu konkreten, weitreichenden Wertschöpfungsaktivitäten Infrastruktur
+
+
+
+
+
+
+
+
+
+Australien  
+
+Im April 2019 veröffentlichte die Commonwealth Scientific and Industrial Research Organisation (CSIRO) im Auftrag des Australian Government Department of Industry Innovation and Science eine Artificial Intelligence Roadmap mit Fokus auf die wirtschaftliche Entwicklung Australiens mittels Künstlicher Intelligenz (KI). Parallel dazu publizierte CSIRO ein Diskussionspapier über einen ethischen Rahmen für KI.
+
+
+
+Politische Ziele
+Mit dem Wohlbefinden der australischen Bevölkerung als Prämisse wird KI als Technologie mit großem Nutzen, aber auch mit ethischem Risiko gesehen. Politische Ziele für den Einsatz von Künstlicher Intelligenz sind:
+
+Steigerung der Produktivität der australischen Industrie und des Wirtschaftswachstums
+Schaffen von Arbeitsplätzen und Erhöhung des Lebensstandards
+Reflektierte und ethische Nutzung von KI zur Verbesserung der Lebensbedingungen der Bürger, Verringerung der Unfalltoten im Straßenverkehr und Transformation der Gesellschaft
+
+
+
+
+Handlungsfelder
+Natürliche Ressourcen und Umwelt
+
+Verstärkter Einsatz von Landwirtschaftsrobotern, automatisierter Bergbautechnologie und intelligentem Umweltmanagement
+Verbessertes Ressourcenmanagement und erhöhte Effizienz in Land- und Forstwirtschaft, Bergbau und Fischerei
+
+Gesundheit, Alter und Behinderung
+
+Verringerung der Gesundheitsausgaben und Bereitstellung hochqualitativer KI-basierter Pflege für alle Bürgerinnen und Bürger
+KI-basierte Prävention und Behandlung, um chronische Krankheiten zu bekämpfen und den Herausforderungen einer alternden Gesellschaft zu begegnen
+Unterstützung von Menschen mit Behinderung und verbesserte Einbindung dieser in den Arbeitsmarkt mittels KI
+
+
+
+Städte und Infrastruktur
+
+Erhöhung der Sicherheit, Effizienz und Qualität der öffentlichen Infrastruktur durch KI-basierte Technologien
+Nutzung von KI in Planung, Design, Konstruktion, Betrieb und Wartung städtischer Infrastruktur mit besonderem Fokus auf Automatisierung und Sensorsystemen
+
+
+
+
+
+
+
+
+
+Belgien  
+
+In Belgien wurde im März 2019 auf Anstoß des stellvertretenden Ministerpräsidenten und Ministers der Digital Agenda die AI 4 Belgium Coalition gegründet. Dieser Zusammenschluss von Expertinnen und Experten verfolgt das Ziel, eine nationale Initiative zu schaffen, die Handlungsempfehlungen zu Künstlicher Intelligenz ausspricht. Das von dieser Gruppe veröffentlichte Maßnahmenpapier stellt Forderungen zu Bildung, Talenten, Daten und Institutionen und empfiehlt Investitionen in KI in Höhe von mindestens 1 Mrd. Euro bis 2030.
+
+
+
+Politische Ziele
+
+Vereinheitlichung und Zusammenführung bestehender KI-Initiativen und -Strategien der Regionen Flandern, Wallonien und Brüssel
+Nutzung von KI zur Vermeidung von Krankheiten, Verringerung des Energieverbrauchs, Erhöhung der Kaufkraft und Verbesserung des Verkehrsmanagements
+Investitionen von bis zu 30 Mrd. Euro in die allgemeine digitale Transformation
+Investition von 30 Mio. Euro durch die Region Flandern in die Forschung zu KI, deren Implementierung in Unternehmen sowie in Bildung und Ethik
+
+
+
+
+Handlungsfelder
+Bildungskonzept
+
+Erhöhung der Aufmerksamkeit auf sich wandelnde Berufsfelder und Anforderungsprofile
+Verbesserte Fortbildungsangebote für Bürgerinnen und Bürger und Entwicklung neuer Trainingsprogramme
+Verpflichtung der Arbeitsgeber, ihren Angestellten Angebote für lebenslanges Lernen zu machen und Einbindung der Universitäten
+Fokus auf Programmieren, algorithmisches Denken und Soft-Skills in den Schulen
+
+Verantwortungsvolle Datenstrategie
+
+Integration der Zivilgesellschaft in den ethischen Diskurs zu Künstlicher Intelligenz und Sensibilisierung von Akteuren aus der Politik
+Schaffen eines belgischen Ethik-Komitees zur Unterstützung von Unternehmen und staatlichen Akteuren in ethischen Fragen zu Künstlicher Intelligenz
+Einrichtung einer unabhängigen belgischen Daten-Sharing-Plattform und Erhöhung der Transparenz bestehender Datenplattformen
+
+
+
+Entmystifizierung und Verbreitung von KI
+
+Entwicklung eines Massiv Open Online Course (MOOC) zum Training von mindestens einem Prozent der belgischen Bevölkerung
+Öffentliches Programm zur Darstellung der positiven Aspekte von KI für die Gesellschaft
+Errichtung eines belgienweiten Hubs mit Zertifizierung als European Digital Innovation Hub
+Finanzielle Unterstützung kleine und mittlere Unternehmen, um mit KI experimentieren zu können
+
+Entwicklung, Anwerbung und Bindung von Talenten
+
+Einrichten von „Sandboxes“ als virtuelle Testbereiche für Software und Positionierung Belgiens als europäisches Labor zur KI-Forschung
+Einrichten von Bachelor- und Masterstudiengängen zu Künstlicher Intelligenz
+Erleichterung der Immigration für ausländische Top-Talente im Bereich KI
+Partnerschaften zwischen Industrie und öffentlichem Sektor, um praktische Trainings für Studierende zu bieten
+
+Selbstverständnis staatlicher Institutionen
+
+Transformation öffentlicher Institutionen hin zu Plattformen als Teil eines Ökosystems
+Neugestaltung staatlicher Vergabeverfahren, um neuartige Konzepte zu ermöglichen
+Einsetzen eines zentralen Chief Digital Officer zur Koordination landesweiter Bemühungen in Bezug auf KI
+
+
+
+
+
+
+
+
+
+China  
+
+Das chinesische Ministerium für Industrie und Informationstechnologie präsentierte im Juli 2017 unter dem Titel A Next Generation Artificial Intelligence Development Plan eine nationale Strategie für Künstliche Intelligenz. Das langfristige Ziel, bis 2030 weltweiter Innovationsführer bei KI zu sein, konkretisiert ein im Dezember 2017 veröffentlichter Dreijahresplan.
+
+
+
+Politische Ziele
+Die chinesische Regierung betrachtet Künstliche Intelligenz als Schlüsselindustrie der Zukunft. Mit einer umfangreichen Roadmap und der Bündelung aller Kräfte verfolgt sie klare wirtschaftspolitische Ziele.
+
+Bis 2020: Aufschließen mit den USA im Feld der Künstlichen Intelligenz
+Bis 2025: Erzielen größerer Durchbrüche und führende Rolle bei einzelnen KI-Anwendungen
+Bis 2030: Weltweite Führungsrolle bei Erforschung, Entwicklung und Anwendung von KI. Die nationale KI-Industrie (angestrebter Marktwert: 130 Milliarden Euro) leistet einen großen Beitrag zur Wertschöpfung des Landes.
+
+
+
+
+Handlungsfelder
+Offenes und kooperatives Innovationssystem für KI
+
+Bündelung aller Ressourcen aus Politik, Forschung und Wirtschaft für den Aufbau von Innovations- und Forschungszentren sowie Datenpools
+Entwicklung von KI-bezogenen Modellen, Methoden und Softwarelösungen für konkrete Anwendungen
+Fokus der Forschung auf Big Data, vernetzte Intelligenz und Schwarmintelligenz sowie hybride und autonome Systeme
+Förderung der interdisziplinären Forschung
+
+Anwendungen für eine hocheffiziente Smart Economy
+
+Entwicklung und Verbreitung von KI-Anwendungen in Schlüsselbranchen (z.B. Medizin, Smart City, Landwirtschaft, Sicherheit und Militär sowie verarbeitendes Gewerbe)
+Forcieren von Durchbrüchen bei vernetzter Mobilität, Service-Robotik, medizinische Diagnostik, Spracherkennung, Übersetzung, Smart Home
+Integration von KI-Technologien in industrielle Anwendungen (z.B. CNC, Industrieroboter)
+Förderung von Entwicklungsumgebungen und Open Source-Plattformen
+
+
+
+Know-how und Talente
+
+Aufbau von Trainingscentern für die Aus- und Weiterbildung
+Anwerben der weltweit besten KI-Forscher
+Bereitstellen von KI-Wissensbasen und Trainingsangeboten für einen raschen Wissenstransfer in die Industrie
+
+Unterstützende Rahmenbedingungen
+
+Etablierung von Standards für KI-Anwendungen
+Ausbau der Netzinfrastruktur
+Entwicklung von ethischen, politischen und regulatorischen Leitlinien zum Umgang mit KI
+
+
+
+
+
+
+
+
+
+Dänemark  
+
+Das Strategiepapier Strategy for Denmark’s Digital Growth stellte 2018 erstmals Policy-Initiativen für eine digitale Transformation vor. Darauf aufbauend wurde im März 2019 die nationale KI-Strategie Dänemarks veröffentlicht. Zentrale Ansatzpunkte sind das Gesundheitswesen, Energie und Versorgungsunternehmen, Landwirtschaft und Verkehr.
+
+
+
+Politische Ziele
+Dänemark strebt eine Vorreiterrolle in der Entwicklung verantwortungsvoller KI an. Vier Ziele sind dabei zentral:
+
+Entwicklung einer ethischen und menschenzentrierten Basis für KI
+Priorisierung und Unterstützung von KI-Forschung
+Setzung von Anreizen für Unternehmen zur Entwicklung und Nutzung von KI
+Sicherstellung der Nutzung von KI im öffentlichen Sektor zum Wohle von Bürgern und Gesellschaft
+
+
+
+
+Handlungsfelder
+Humankapital
+
+Vermehrte Nutzung von Bildungsangeboten für digitale und KI-bezogene Fähigkeiten
+Erzeugung einer Kultur des lebenslangen Lernens und der dauerhaften Weiterbildung der Arbeitskräfte
+
+Wertschöpfung
+
+Förderung der digitalen Forschung sowie der KI-Forschung
+Unterstützung bei Gründung und Wachstum von KI-Unternehmen
+Innovationsförderung durch Pilotprojekte
+
+
+
+Regulierung und Gesetzgebung
+
+Entwicklung eines ethischen Rahmens zur Verbesserung von Vertrauen und Sicherheit der KI
+Grundlage: Selbstbestimmung, Menschenwürde, Gleichheit und Gerechtigkeit 
+Evaluierung und Erweiterung des aktuellen Rechtsrahmens, um verantwortungsvolle KI-Entwicklung zu garantieren
+
+Gesellschaftliche Herausforderungen
+
+Laufende Verbesserung der Sicherheit und Vertrauenswürdigkeit der digitalen Wirtschaft
+Bereitstellung von Energie-, Ressourcen- und Smart-City-Daten für intelligente Lösungsansätze zur Emissions- und Verbrauchsreduktion
+
+
+
+
+
+
+
+
+
+Finnland  
+
+Das finnische Ministerium für Wirtschaft und Arbeit veröffentlichte im Dezember 2017 Empfehlungen für eine nationale KI-Strategie mit dem Titel Finland’s Age of Artificial Intelligence.
+
+
+
+Politische Ziele
+Ziel der Regierung ist es, Finnland als führende Nation bei KI-Anwendungen zu positionieren. Durch einen offenen Umgang mit Daten will sie dafür die Weichen in Wirtschaft und Verwaltung stellen.
+
+Stärkung der export- und dienstleistungsorientierten finnischen Wirtschaft durch KI-basierte Services und Geschäftsmodelle
+Fokus auf vier Sektoren: Energie, Medizin, Mobilität, Industrie
+Modernisierung der Verwaltung mit besseren Services für die Bürger
+
+
+
+
+Handlungsfelder
+Unternehmerische Ökosysteme für KI-Anwendungen
+
+Aufbau forschungsnaher Acceleratoren, in denen Unternehmen Anwendungen testen können
+Offene Pilot- und Testumgebungen für Start-ups, KMU und ausländische Unternehmen
+Hemmschwellen für Unternehmen senken: einfacher Zugang zu KI-Anwendungen, Programmierkurse (z.B. MOOC der University of Helsinki)
+
+Rechtsrahmen für die Nutzung von Daten
+
+Priorität auf der Bereitstellung der notwendigen Daten für neue Geschäftsmodelle (ohne Fokus auf Datenschutz)
+Unternehmen anregen, Datenpools effizient zu teilen
+Bürgern Zugriff auf öffentlich erhobene persönliche Daten ermöglichen
+Europäische Erweiterung des Rechtsrahmens gewünscht
+
+
+
+KI-Expertise als Standortfaktor
+
+Aufbau eines international renommierten Center of Excellence für KI
+Vermittlung eines grundlegenden Verständnisses für KI-Anwendungen an alle Bürger
+Einbindung von KI in anwendungsbezogene Studienfächer und in die berufliche Weiterbildung
+Positionierung Finnlands als Standort mit idealen staatlichen Rahmenbedingungen für KI-Forschung und -Entwicklung
+
+Öffentliche Verwaltung als Vorreiter bei KI
+
+Einbindung von KI in alle öffentliche Services
+Erarbeitung von KI-Anwendungen durch hochrangige Experten
+Ausbau der Kooperationen zwischen öffentlichem Sektor und Privatwirtschaft
+
+
+
+
+
+
+
+
+
+Frankreich  
+
+Im März 2018 präsentierte Staatspräsident Emmanuel Macron in einer Rede die Grundzüge einer französischen KI-Strategie mit dem Titel „AI for Humanity“. Eine wichtige Grundlage dafür bildete der ebenfalls im März 2018 veröffentlichte Bericht des französischen Abgeordneten Cédric Villani.
+
+
+
+Politische Ziele
+Frankreich betont, dass Künstliche Intelligenz in den Dienst der Menschen gestellt werden muss und spricht dem Staat dabei eine wichtige steuernde Funktion zu. Für den Ausbau von Forschung und Entwicklung von KI und deren Anwendung sind bis 2022 staatliche Investitionen in Höhe von 1,5 Milliarden Euro vorgesehen.
+
+Offene Datenpolitik für die Umsetzung von KI-Anwendungen
+Fokus auf vier Sektoren: Gesundheit, Umwelt, Mobilität, Sicherheit/Verteidigung
+Europäische Zusammenarbeit im Feld der KI
+
+
+
+
+Handlungsfelder
+KI-Ökosystem für Frankreich und Europa
+
+Etablierung einer nationalen Koordinationsstelle unter Leitung von INRIA zur Vernetzung französischer KI-Expertise
+Aufbau von vier bis fünf KI-Verbünden mit Partnern aus Wissenschaft und Wirtschaft (z.B.) PRAIRIE)
+Ausbau der KI-Forschung und Anwerbung internationaler Forscherinnen und Forscher
+
+Deutsch-Französische Zusammenarbeit
+Deutschland und Frankreich unterzeichneten am 16. Oktober 2019 eine gemeinsame KI-Roadmap („Erklärung von Toulouse“). Der Fahrplan sieht Folgendes vor:
+
+den Aufbau eines virtuellen Netzwerks zu KI (u.a. Kooperation der deutschen und französischen KI-Kompetenzzentren)
+die stärkere Vernetzung deutscher und französischer Wirtschaftsakteure
+einen gemeinsamer Ansatz für eine sichere, souveräne Dateninfrastruktur
+ein abgestimmtes Vorgehen bei der KI-Standardisierung
+einen gemeinsamer Ansatz bei Rechtsfragen zu KI
+sowie einen Diskurs über Sprunginnovationsprojekte.
+
+
+
+Rechtliche und ethische Fragen
+
+Anpassung des Rechtsrahmens an KI-Entwicklung (z.B. für autonomes Fahren bis 2022; dazu vorab regionale Experimente mit Ausnahmeregelungen)
+Dialog zu ethischen Fragen auf europäischer und internationaler Ebene (v.a. Kanada) mit dem Ziel, eine Organisation nach Vorbild des IPCC (Weltklimarat) für KI zu schaffen
+Transparenz von Algorithmen
+Ethischer Code für Programmierer
+
+Open Data
+
+Bereitstellung öffentlicher Daten für öffentlich geförderte Projekte
+Etablierung gemeinsamer Datenplattformen für den öffentlichen und privaten Sektor
+Öffnung der Datenbasis auf europäischer Ebene
+Öffentlicher Diskurs über Umgang mit Daten
+
+
+
+
+
+
+
+
+
+Großbritannien  
+
+Die britische Regierung veröffentlichte im November 2017 ein erstes Strategiepapier, das Künstliche Intelligenz als Baustein für wirtschaftliches und industrielles Wachstum definiert. Im März 2018 legte ein Sonderausschuss des House of Lords einen Bericht zu den wirtschaftlichen, ethischen und sozialen Auswirkungen von KI vor. Im April 2018 erschien mit dem AI Sector Deal eine britische KI-Strategie.
+
+
+
+Politische Ziele
+Die Regierung will Großbritannien im Zuge der Digitalisierung zur weltweit innovativsten Volkswirtschaft entwickeln. Künstliche Intelligenz soll gute Arbeitsplätze und größeren Wohlstand für alle bringen.
+
+Etablierung als attraktiver Technologiestandort für Gründer und Unternehmer
+Ausbau der digitalen Infrastruktur
+Förderung von KI-bezogenen Kooperationen
+
+
+
+
+Handlungsfelder
+Investitionsfreundliches Umfeld
+
+Erhöhung staatlicher Ausgaben für Forschung und Entwicklung
+Steuervergünstigungen für Forschung und Entwicklung im Bereich KI
+
+Aus- und Weiterbildung für KI
+
+Investitionen in den Unterricht von MINT-Fächern und in digitale Bildung
+Weiterbildung aller Bevölkerungsgruppen im Bereich KI, insbesondere in strukturschwachen Regionen
+
+
+
+Investitionen in digitale Infrastruktur
+
+Ausbau digitaler Mobilitätskonzepte sowie Förderung der Elektromobilität und digital gestützter Ladung
+Förderung des Baus von Smart Homes
+Investitionen in modernen Breitbandausbau
+
+Wirtschaftliche Entwicklung
+
+Förderung von Partnerschaften zwischen Staat und Industrie, v.a. in den Bereichen Gesundheit, Maschinenbau und Automobil
+Etablierung eines Investitionsfonds für die britische Wirtschaft, getragen von der British Business Bank
+Evaluation aller politischen Maßnahmen zur Verbesserung der wirtschaftlichen Innovationsfähigkeit
+
+
+
+
+
+
+
+
+
+Indien  
+
+Die indische Regierung hat das Potential von KI für die wirtschaftliche Transformierung des Landes erkannt und den regierungseigenen politischen Think Tank NITI Aayog mit der Entwicklung eines nationalen KI-Programms beauftragt. Nach mehreren Besprechungsrunden veröffentlichte NITI Aayog im Juni 2018 ein Diskussionspapier zur nationalen Strategie für Künstliche Intelligenz.
+
+
+
+Politische Ziele
+
+Ökonomischer Aufschwung durch KI-basierte Produkte, Dienste und Innovationen
+Soziale Entwicklung und Verbesserung des Lebensstandards durch KI
+Etablierung Indiens zu einem internationalen Testfeld der KI-Forschung
+Inhaltlicher Fokus der Anwendung von KI auf die Bereiche Gesundheit, Landwirtschaft, Bildung, Infrastruktur und Mobilität
+
+
+
+
+Handlungsfelder
+Forschung und Anwendung
+
+Bildung eines Centre of Research Excellence for AI (CORE)
+Förderung von nationalen KI-Stipendien, um hervorragende Absolventen zu halten und internationale Studierende anzuwerben
+Gewinnen von großen internationalen Wirtschaftsunternehmen zur Schaffung von International Centres for Transformational AI (ICTAI) für die Bereiche Gesundheit, Bildung, Landwirtschaft, Smart Mobility und Smart Cities
+Einrichtung einer Cloud-Plattform für Big Data mit einer großen KI-Computer-Infrastruktur, die alle CORE und ICTAI verbindet
+
+Umschulung und Training
+
+KI-Trainingseinheiten für Beschäftigte mit anschließender national anerkannter Zertifizierung
+KI-relevante Kurse bzw. Module in Schulen und Universitäten
+Einrichtung eines Komitees zur Überwachung der Veränderungen, welche durch KI im akademischen und beruflichen Umfeld angestoßen werden
+
+
+
+Beschleunigte Aneignung von KI
+
+Aufbau von öffentlichen Plattformen, um Datensätze aus dem Sozialsektor verfügbar zu machen
+Ausarbeitung von staatlichen Richtlinien zur Etablierung eines Datenmarktplatzes, um Kooperationen zu fördern sowie Zeit und Kosten einzusparen
+Förderung von Workshops, Vorträgen und eines Index mit den besten nationalen KI-Projekten für Arbeitgeber
+Bildung eines Netzwerks für regierungseigene KI-Forschungsprojekte, die für fortschrittliche Ergebnisse finanziell belohnt werden können
+Einrichtung von Fonds zur Finanzierung von KI-Projekten in Zusammenarbeit mit Landesregierungen
+
+Verantwortungsbewusste KI-Entwicklung
+
+Etablierung eines Ethikrats an jedem CORE und ICTAI
+
+
+
+
+
+
+
+
+
+Japan  
+
+Zur Förderung der Künstlichen Intelligenz in Japan wurde im April 2016 das Strategic Council for AI Technology gegründet. Im März 2017 veröffentlichte es die Artificial Intelligence Technology Strategy. Die dort geschilderten Ziele und Maßnahmen unterstützen die Vision der super-smarten Gesellschaft „Society 5.0“, die Premierminister Shinzō Abe seit einigen Jahren mit seiner Politik verfolgt („Abenomics“). Weitere Strategiepapiere Japans mit KI-Bezug sind die Industrialization Roadmap, die Integrated Innovation Strategy und die New Robot Strategy.
+
+
+
+Politische Ziele
+In Japan liegt der Fokus bei Künstlicher Intelligenz auf der Möglichkeit zu sozialer Entwicklung:
+
+Erhöhung der Produktivität der Gesellschaft sowie der Kreativität der Bevölkerung
+Führungsrolle bei medizinischer Versorgung und Wohlfahrtstechnologie durch die Nutzung von Big Data
+Verbessertes Reisen für Bürgerinnen und Bürger sowie Erhöhung der Umweltfreundlichkeit und Verhinderung jeglicher Unfälle bis 2030
+Schaffen einer robusten wirtschaftlichen Entwicklung von Künstlicher Intelligenz, einhergehend mit geeigneten Bewertungskriterien und Preisen
+
+
+
+
+Handlungsfelder
+Forschung und Entwicklung
+
+Verdreifachung der Investitionen von Unternehmen in Universitäten sowie F&E-Einrichtungen bis 2027
+Förderung von Fachkräften, vor allem im Top-Level Bereich der Industrie-Wissenschafts-Kooperation
+Schaffen einer Arbeits- und Wissenschaftsumgebung, die Anreize für KI-Experten bietet
+Verbesserung der Energieeffizienz und Reduzierung des Platzverbrauchs von Supercomputern
+
+Datenmanagement
+
+Erfassen notwendiger Informationen zur Schaffung einer effektiven Datenumgebung und Einbettung von Input/Output-Geräten (z.B. Sensoren)
+Schaffen von Anreizen für Unternehmen zur Bereitstellung ihrer Daten
+Erhöhung der Datendurchlässigkeit mit Hilfe von Standardprofilen und standardisierten Formaten für Daten
+
+Humanressourcen
+
+Reformen des Bildungssystems, von der Grundschule bis zur Universität
+Programmierklassen ab der Grundschule und Fokus auf Abschlüsse mit KI-Bezug an Universitäten
+
+
+
+Produktivität
+
+Kundenindividuelle Massenproduktion durch Automatisierung und Optimierung von Produktionssystemen
+Verbesserungen des Dienstleistungssektors
+Unterstützung von Start-Ups durch „Open Innovation“
+
+Gesundheit, medizinische Versorgung und Wohlfahrt
+
+Vermeiden von Krankheiten und Erhöhung der Lebenserwartung durch KI-basierte vorbeugende Medizin
+Verringerung der Sozialausgaben
+Bekämpfung der Probleme einer schrumpfenden Arbeitnehmerschaft
+
+Mobilität
+
+Erhöhung der Freizügigkeit, Umweltfreundlichkeit und Sicherheit im Reiseverkehr
+Etablierung von KI-basierten Sharing-Diensten für Personen und Güter
+
+
+
+
+
+
+
+
+
+Kanada  
+
+Die kanadische Regierung veröffentlichte 2017 die Pan-Canadian Artificial Intelligence Strategy, die vom Canadian Institute for Advanced Research (CIFAR) koordiniert wird. Die Regierung stellt dafür bis 2022 rund 108 Millionen Euro bereit.
+
+
+
+Politische Ziele
+In der Ankündigung der Strategie im Haushaltsplan von 2017 werden folgende Ziele hervorgehoben:
+
+Aufbau eines nationalen KI-Forschungsnetzwerks
+Meinungsführerschaft im globalen Diskurs über wirtschaftliche, politische, ethische und rechtliche Konsequenzen von Künstlicher Intelligenz
+Transfer der KI-Forschung in öffentliche und privatwirtschaftliche Anwendungen mit sozioökonomischem Nutzen für Kanada
+
+
+
+
+Handlungsfelder
+Ausbau der Forschung
+
+Aufbau von drei neuen Forschungszentren zu den Themen Deep Learning und Reinforcement Learning Research: Alberta Machine Intelligence Institute (AMII), Vector Institute und Mila
+Einrichtung neuer KI-Lehrstühle an Universitäten
+Fördern, Gewinnen und Halten von KI-Forscherinnen und -Forschern
+
+Vernetzung und Transfer
+
+Ausbau der neuen Forschungszentren zu zentralen Knotenpunkten eines nationalen Forschungsnetzwerks
+Unterstützung von Treffen, Kooperationen, Summer und Winter Schools
+
+
+
+Gesellschaftliche Diskussion
+
+Arbeitsgruppen zu wirtschaftlichen, politischen und gesellschaftlichen Auswirkungen von KI
+Initiierung eines internationalen und interdisziplinären Expertennetzwerks zu ethischer und inklusiver KI (gemeinsam mit der französischen Regierung)
+
+
+
+
+
+
+
+
+
+Niederlande  
+
+Die öffentlich-private Partnerschaft AINED legte Ende 2018 eine Roadmap für die Entwicklung einer niederländischen KI-Strategie vor. Im Oktober 2019 veröffentlichte die niederländische Regierung den Strategic Action Plan for Artificial Intelligence.
+
+
+
+Politische Ziele
+
+Erhalt von wirtschaftlichem Wachstum und Wohlstand
+Beitrag zu gesellschaftlichen Herausforderungen wie Überalterung der niederländischen Gesellschaft, Klimawandel und Ernährungssicherheit
+Wahrung von Persönlichkeitsrechten und Nicht-Diskriminierung
+
+
+
+
+Handlungsfelder
+Die niederländische Regierung legt den Fokus auf drei Bereiche
+Wirtschaftliche und gesellschaftliche Chancen von KI nutzen
+
+Entwicklung von Wissens- und Innovationsagenden für 2020 bis 2023 zu KI-Schlüsseltechnologien
+Forschung zu rechtlichen Prinzipien beim Einsatz von KI
+Nutzung von KI für öffentliche Aufgaben und Schulung von Beamtinnen und Beamten
+Veranstaltung von Runden Tischen für die Öffentlichkeit sowie Expertenmeetings zu KI
+Unterstützung von Firmengründungen mit Schwerpunkt KI durch verbesserten Zugang zu Gründungs- und Risikokapital
+Förderung von Synergien zwischen Wissenschaft und Wirtschaft zu fördern.
+Regionale Smart Industry Hubs, die KMU mit Tools und Trainingsmodulen zum verantwortungsvollen Nutzen mit KI unterstützen
+
+Stärkung der Grundlagen: Menschenrechte, Vertrauen, Verbraucherschutz, Sicherheit
+
+Förderung der Beteiligung niederländischer Unternehmen und Organisationen an der Entwicklung ethischen Leitlinien für KI durch die Expertengruppe der Europäischen Kommission
+Forschung zu transparenter, sozialer und verantwortungsvoller KI
+Aufbau von Know-how zu neuen Technologien sowie Geschäftsmodellen und deren Auswirkungen auf den Wettbewerb
+Forschung zum Einfluss von KI auf die nationale Sicherheit sowie zu Möglichkeiten des Einsatzes von KI zur IT- und Cybersicherheit
+
+
+
+Die richtigen Bedingungen schaffen: Forschung, Ausbildung, Daten
+
+Vorstellung einer KI-Agenda durch den niederländischen Forschungsrat (NWO)
+Gründung eines führenden europäischen KI-Forschungszentrums
+Investition in einen Supercomputer
+Stärkung internationaler KI-Kooperation
+Investitionen in Training und Entwicklung von KI-Anwendungen
+Schaffen eines nationalen Data Science-Trainingsprogramms
+Überarbeitung der Lehrpläne zu digitalen Kompetenzen unter Einbeziehung von Unternehmen
+Aktiver Einsatz für eine gemeinsamen europäische Datenplattform
+Investition im Bereich des High-Performance-Computing.
+
+
+
+
+
+
+
+
+
+Norwegen  
+
+Anfang 2020 veröffentlichte Norwegen für den zivilen Sektor die nationale Strategie für Künstliche Intelligenz. Der Fokus liegt auf der Entwicklung von verantwortungsvoller und vertrauenswürdiger KI, die geleitet ist von ethischen Prinzipien im Sinne der Menschenrechte und der Demokratie.
+
+
+
+
+Handlungsfelder
+Humankapital
+
+Förderung von Aus- und Weiterbildung neuer Arbeitskräfte in Bezug auf KI
+Maßnahmen zur Umschulung von Arbeitskräften
+
+Wertschöpfung
+
+Steigerung der Attraktivität norwegischer KI-Unternehmen auf europäischer und internationaler Ebene
+Fokus auf Anwendung und Innovationspotential von KI zur Werterzeugung in der Wirtschaft
+Vergrößerung der norwegischen Sprachdatenbank als Grundstein für eine erfolgreiche Wertschöpfung im Bereich KI-Sprachverarbeitung
+
+
+
+Regulierung
+
+Prüfung bestehender Regulierungen und deren Einfluss auf die Entwicklung und Vermarktung von KI
+Schaffen von Richtlinien für Transparenz und Verlässlichkeit von KI-Algorithmen
+
+Infrastruktur
+
+Förderung der Bereitstellung von hochqualitativen Datensätzen
+Erleichterung der gemeinsamen Datennutzung von öffentlichem und privatem Sektor
+
+
+
+
+
+
+
+
+
+Polen  
+
+Im Dezember 2020 wurde Polens nationale KI-Strategie verabschiedet. Der Fokus liegt auf den Bereichen Gesellschaft, Bildung, Wissenschaft, Wirtschaft, öffentliche Angelegenheiten und internationale Beziehungen. Strategischer Auftrag ist es, die Menschenwürde zu schützen und Bedingungen für einen fairen globalen Wettbewerb zu schaffen. Polen setzt dabei auf vertrauenswürdige KI und die Förderung eines KI-Ökosystems.
+
+
+
+
+Handlungsfelder
+Humankapital
+
+Darstellung der Notwendigkeit und der Vorteile von KI für die Bevölkerung
+Reformierung des polnischen Bildungssystems zur Förderung der KI- und Digitalkompetenzen von Schülerinnen und Schülern aller Bildungsstufen
+Bereitstellung von KI-Trainingsprogrammen, IT-Kursen, Programmier- und Datenverarbeitungskursen
+
+Wertschöpfung
+
+Einrichtung eines virtuellen Forschungsinstituts für Künstliche Intelligenz (VIR), in Zusammenarbeit mit Unternehmen, Universitäten und Nichtregierungsorganisationen
+Vielseitige Förderung von Forschung und Entwicklung sowie KI-Innovationen
+Einführung von KI im öffentlichen Sektor, um Potenziale voll auszuschöpfen
+
+Regulierung
+
+Einrichtung verschiedener Beobachtungsstellen und Lehrstühle zur Behandlung ethischer und rechtlicher Problemstellungen
+Beobachtung der europäischen und internationalen KI-Gesetzgebung und Regulierung
+
+
+
+Infrastruktur
+
+Festlegung einer Datenpolitik, um die Verfügbarkeit hochwertiger Daten zu gewährleisten und Interoperabilität und Datenaustausch zu verbessern
+Schaffen virtueller Datenlager, in denen Unternehmen ihre Industriedaten in vertrauenswürdigen und cybergesicherten Datenräumen gemeinsam nutzen können
+
+Gesellschaftliche Herausforderungen
+
+Investitionen in KI-Initiativen, die die Ziele des Europäischen Green Deal unterstützen
+Darunter: Transformation der Energiegewinnung, Umstellung von Fabriken auf Kreislaufproduktion, Schaffen umweltfreundlicher und intelligenter Gebäude und Infrastrukturen sowie Verringerung von Emissionen im Verkehrswesen
+Einrichtung von Weltraum-, Erd- und Meeresobservatorien für den Klimawandel
+
+
+
+
+
+
+
+
+
+Portugal  
+
+Im Juni 2019 stellte die portugiesische Regierung die nationale KI-Strategie AI Portugal 2030 vor. Dabei steht der Mensch als treibende Kraft der KI-Entwicklung im Vordergrund. Zentrale Themen sind dabei Integration, Bildung, Qualifikation, Spezialisierung und Forschung.
+
+
+
+
+Handlungsfelder
+Humankapital
+
+Befähigung und Stärkung der Bevölkerung in Bezug auf die Herausforderungen durch den Einsatz von KI-Technologien
+Anhebung des Niveaus von KI-Ausbildung
+Verbesserung der Qualifikationen der Arbeitskräfte und Förderung von KI-Spezialisierung
+
+Wertschöpfung
+
+Aufbau eines KI-Forschungs- und Unternehmensökosystems mit Hilfe staatlicher Investitionen und Anreize
+Förderung von KI-Produkten und -Dienstleistungen vom Labor bis zum Markt, um wissensintensive KI-Forschung und unternehmerische Ökosysteme zu stimulieren
+
+Regulierung
+
+Gründung eines Ethikausschusses zur Festlegung von Leitlinien für KI und Automatisierung
+Entwicklung eines Rechts- und Regulierungsrahmens zur Bewertung der Verlässlichkeit von KI-Entscheidungen
+Unterstützung von Unternehmen und Regulierungsbehörden bei der Entwicklung geeigneter rechtlicher Rahmenbedingungen
+
+
+
+Infrastruktur
+
+Einrichtung einer nationalen Daten-Infrastruktur als zentraler Speicher für Verwaltungsdaten
+Bereitstellung von Infrastruktur für Erprobung und Test von KI- und Robotik-Anwendungen
+
+Gesellschaftliche Herausforderungen
+
+Zusammenarbeit mit der portugiesischen Raumfahrtbehörde für den Einsatz von KI in der Analyse von Klima-, Umwelt- und Nachhaltigkeitsdaten
+
+
+
+
+
+
+
+
+
+Russland  
+
+Im Oktober 2019 veröffentlichte Russland seine nationale Strategie für Künstliche Intelligenz. Zu den darin formulierten Grundprinzipien, die die russische KI-Entwicklung leiten sollen, gehören Sicherheit, Transparenz, technologische Souveränität, Integrität des Innovationszyklus, Schutz der Menschenrechte, Kostenwirksamkeit sowie die Förderung des Wettbewerbs.
+
+
+
+Politische Ziele
+
+Verbesserung des Lebensstandards der russischen Bevölkerung
+Wahrung der nationalen Sicherheit und Rechtsstaatlichkeit
+Nachhaltige Wettbewerbsfähigkeit der russischen Wirtschaft
+International führende Position im Feld der Künstlichen Intelligenz
+
+
+
+
+Handlungsfelder
+Ausbau der KI-Forschung
+
+Neuausrichtung der Wissenschaft: Hauptziel ist die Entwicklung einer Allgemeinen Künstlichen Intelligenz (AGI); weitere Prioritäten: Entwicklung von algorithmischen Simulationen biologischer Systeme und selbstlernender autonomer Algorithmen
+Dauerhafte finanzielle Unterstützung und verstärkte Anreize für Investitionen in die KI-Entwicklung
+Implementierung interdisziplinärer Wissenschaftsprojekte und Patentrecherche in verschiedenen Wirtschaftssektoren
+Ausbau der wissenschaftlichen Infrastruktur und Schaffen von Datenbanken mit Zugriff für Wissenschaftler/innen
+
+Förderung der KI-Entwicklung
+
+Finanzielle Unterstützung für junge Softwareentwickler und Abbau der Eintrittsschranken für Pilotprojekte
+Etablierung von weltweit nutzbaren Open-Source Bibliotheken für KI, koordiniert durch russische WissenschaftlerInnen
+Schaffen von gemeinsamen Normen bezüglich der Sicherheit von KI-Software
+
+Verfügbarkeit von Daten zur KI-Entwicklung
+
+Förderung russischer Hersteller von Hochgeschwindigkeits- und energieeffizienten Prozessoren
+Vereinfachte Möglichkeiten zur Entwicklung und Testung von Prototypen in eigens geschaffenen, von führenden ExpertInnen gemeinschaftlich genutzten Zentren
+Etablierung von Hochleistungszentren für die Datenverarbeitung
+
+
+
+Qualifiziertes Personal
+
+Integration von neuen Modulen zu Programmierung, Deep Learning, Datenanalyse etc. auf allen Ebenen des Lernens sowie Intensivierung der MINT-Fächer in Schulen
+Weiterbildungsmöglichkeiten für Angestellte und Führungspersonal zu KI
+Anreize für die Rückkehr russischer KI-Experten aus dem Ausland sowie ausländischer KI-Spezialisten
+Öffentlichkeitsarbeit zum Nutzen von KI-Technologien, um Interesse für dieses Gebiet zu wecken
+
+Regulierung sozialer Mensch-Technik-Beziehungen
+
+Rechtliche Regulierung des Zugangs zu Daten für Gesellschaft, Wirtschaft und Wissenschaft
+Schaffen eines flexiblen regulatorischen Rechtssystems, das die öffentliche Sicherheit und Anreize zur Entwicklung von KI gewährleistet
+Etablierung von Regularien zur vereinfachten Testung von KI-Entwicklungen sowie der Möglichkeit, Entscheidungen an ein KI-System zu delegieren
+
+
+
+
+
+
+
+
+
+Schweden  
+
+Im Mai 2018 veröffentlichte Schweden mit dem National Approach for Artificial Intelligence eine erste, richtungsweisende KI-Strategie. Diese dient der Regierung als Referenz für weitere politische Initiativen, um Schwedens Wohlstand und Wettbewerbsfähigkeit mit Hilfe von KI zu stärken.
+
+
+
+Politische Ziele
+Schwerpunkte der schwedischen KI-Aktivitäten liegen auf den Themenbereichen Bildung und Weiterbildung, Innovation und Wertschöpfung, Rahmenbedingungen und Infrastruktur sowie Forschung.
+
+
+
+Handlungsfelder
+Humankapital
+
+Förderung von lebenslangem Lernen sowie der universitären Lehre in Bezug auf KI
+Evaluierung und Anpassung der Fähigkeiten der Erwerbsbevölkerung an einen sich durch KI verändernden Markt
+
+Wertschöpfung
+
+Schaffen einer gesunden Basis für erfolgreiche Wertschöpfung
+Maßnahmen: anwendungsnahe Forschungsumgebungen, starke Verbindungen zu internationalen KI-Initiativen und KI-Risikomanagement
+
+Regulierung
+
+Etablieren von Regeln, Standards, Normen und ethischen Grundsätzen für eine nachhaltige Entwicklung und Nutzung von KI
+Vorantreiben schwedischer und internationaler Standards und Vorschriften für eine risikofreie Nutzung von KI
+Schaffen einer Gesetzgebung zur Förderung des Einsatzes von KI und Minimierung von Risiken für die Gesellschaft und den Einzelnen
+
+
+
+Infrastruktur
+
+Etablieren einer digitalen Infrastruktur, hochwertigen Dateninfrastruktur und gut entwickelten Telekommunikations-Infrastruktur in Bezug auf Computerleistung, Konnektivität und Netzkapazität
+
+Gesellschaftliche Herausforderungen
+
+Beschleunigung von KI-Innovationen zur Bekämpfung von Klimawandel, Umweltproblemen sowie der Covid-19 Pandemie
+
+
+
+
+
+
+
+
+
+Singapur  
+
+Zur Förderung der Künstlichen Intelligenz startete die Regierung Singapurs durch die National Research Foundation (NRF) im Jahr 2017 die nationale Initiative AI Singapore. Diese ist über fünf Jahre mit 130 Mio. Euro ausgestattet und fördert über verschiedene Maßnahmen die Ausbildung von KI-Fachkräften und unterstützt Unternehmen. Bereits im November 2014 wurde mit der Smart-Nation-Initiative ein Instrument zur Lenkung und Entwicklung technologischer Neuerungen im städtischen Bereich geschaffen.
+
+
+
+Politische Ziele
+Singapur verfolgt mit seinen nationalen KI-Initiativen gesamtheitliche Ziele:
+
+Ausbau nationaler Kompetenzen im Bereich Künstliche Intelligenz für sozialen und wirtschaftlichen Fortschritt
+Förderung von KI-Experten und Aufbau eines KI-gestützten Wirtschaftssystems
+Förderung der wirtschaftsnahen Forschung zu Anwendungen in der digitalen Stadt (u.a. Leben, Transport, Gesundheit)
+
+
+
+
+Handlungsfelder
+Grand Challenges
+
+Unterstützung interdisziplinärer Forschungsteams bei der Lösung von KI-spezifischen Herausforderungen in den Bereichen Gesundheit, digitale Stadt und Finanzen
+
+100Experiments
+
+Finanzielle, personelle und organisatorische Unterstützung der Industrie bei KI-spezifischen Problemen sowie bei der Zusammenstellung von Expertenteams
+
+AI Apprenticeship Program
+
+Förderung lokaler Talente durch Kurse, Training in echten industriellen Anwendungen und Stipendien mit KI-Bezug
+
+
+
+AI For Industry
+
+Vermittlung praktischer KI-Grundlagen in der Programmiersprache Python mit Hilfe von Face-To-Face-Workshops und Online-Trainings für Ingenieure, Softwareentwickler und Manager
+
+AI For Everyone
+
+Schulung und Vermittlung grundlegender KI-Methoden (z.B. Machine Learning, Deep Learning) sowie deren Nutzung in Unternehmen
+
+Schwerpunkte weiterer Initiativen
+
+Unterstützung für kleinere und mittlere Unternehmen bei der Nutzung digitaler Technologien
+Erleichterung von Partnerschaften zwischen lokalen Unternehmen und Herstellern von KI-Anwendungen
+
+
+
+
+
+
+
+
+
+Spanien  
+
+Im Dezember 2020 veröffentliche Spanien den National AI Strategy Report. Ziel war die Entwicklung eines Rechtsrahmens für die staatliche Verwaltung, der eine innovative KI-Entwicklung ermöglicht.
+
+
+
+Politische Ziele
+Die Strategie verfolgt einen multidisziplinären Ansatz, der wirtschaftliche, soziale, umwelt- und verwaltungsbezogene Aspekte von KI verbindet. Zugleich soll KI als Teil der spanischen Wirtschaft durch konkrete, auf KI ausgerichtete Maßnahmen der nationalen Ebene gefördert werden, mit gleichzeitiger Anpassung an die EU-Politik.
+
+
+
+Handlungsfelder
+Humankapital
+
+Bereitstellung technischen Wissens für heutige und künftige Arbeitskräfte
+Förderung weiterführender Studienformen, vor allem multidisziplinärer Ansätze
+
+Wertschöpfung
+
+Koordinierung von Forschung, Entwicklung und Innovation durch Verknüpfung der Politik von Staat und autonomen Regionen
+Etablierung eines florierenden Innovationsumfelds, das die Entwicklung von KI-Technologien weiter fördert, durch Unterstützungsprogramme für Unternehmen und Testgebiete für Innovationen
+
+Regulierung
+
+Ethischer und rechtlicher Rahmen, der individuelle und kollektive Rechte schützt sowie das soziale Wohlergehen gewährleistet
+Einführung eines Kontrollsystems für Ethik in der KI und Entwicklung eines vertrauenswürdigen KI-Zertifikats.
+
+
+
+Infrastruktur
+
+Etablierung einer zentralen Datenverwaltungsstelle auf nationaler Ebene und Ernennung eines Chief Data Officers, verantwortlich für Initiativen zur Schaffung sicherer Datenspeicher in der EU und Koordinierung von KI-Anwendungen
+Förderung der KI-Infrastruktur für Verarbeitung natürlicher Sprache, insbesondere für Spanisch.
+
+Gesellschaftliche Herausforderungen
+
+Nutzung von KI zur Bekämpfung der Covid-19 Pandemie, um die Gesundheitssysteme besser auf derartige Ereignisse vorzubereiten zu können
+
+
+
+
+
+
+
+
+
+Südkorea  
+
+Die südkoreanische Regierung veröffentlichte im Dezember 2019 ihre Nationale Strategie für Künstliche Intelligenz. Die Strategie fokussiert die drei Kernbereiche KI-Ökosystem, Nutzbarmachung von Künstlicher Intelligenz sowie auf Menschen ausgerichtete KI. Innerhalb dieser benennt sie neun Handlungsfelder, denen insgesamt 100 einzelnen Vorhaben zugeordnet sind.
+
+
+
+Politische Ziele
+Mit ihrer KI-Strategie will die südkoreanische Regierung bis 2030 die Wettbewerbsfähigkeit des Landes im Bereich KI steigern. Dazu soll Künstliche Intelligenz umfassend nutzbar gemacht werden und eine harmonische Koexistenz von Mensch und KI sichergestellt werden. Konkret verfolgt die Regierung folgende Ziele:
+
+Aufbau eines weltweit führenden KI-Ökosystems
+Zum Land mit der bestmöglichen KI-Nutzung werden
+Verwirklichung menschenzentrierter KI
+
+
+
+
+Handlungsfelder
+KI-Infrastruktur verbessern
+
+Vollständiger Zugang zu öffentlichen Daten und deren Bereitstellung auf zehn großen Datenplattformen
+Einrichtung von Datenplattformen in staatlichen Einrichtungen (regierungsweit)
+Bereitstellen von Ressourcen im Bereich Hochleistungsrechner
+
+Wettbewerbsfähigkeit bei KI sicherstellen
+
+Entwicklung intelligenter Halbleiter der nächsten Generation und neuartiger KI-Prozessoren
+Vorausschauende Investitionen in die KI-Forschung und -Entwicklung
+Ausweitung der Förderung für KI-Grundlagenforschung und Kognitionswissenschaft
+Vollständige Neuorganisation von KI-Forschung und Entwicklung
+
+Umfassende Innovationen bei der Regulierung sicherstellen
+
+Schaffen einer Rahmengesetzgebung und Umgestaltung des Rechtssystems
+
+Globale KI-Start-ups fördern
+
+Aufbau eines KI-Investmentfonds
+Erkennen und Fördern von KI-Start-ups
+Anpassung des Rechtssystems zur Förderung von KI-Start-ups
+
+KI-Talente und Ausbildung der Bevölkerung fördern
+
+Förderung von KI-Master- und Promotionsabschlüssen sowie Erweiterung der KI-Absolventenprogramme
+Ausweitung der KI-Ausbildung für alle Militärangehörigen
+KI-Schulungen für Beschäftigte in KMU und Start-ups
+KI-Bildung für die breite Öffentlichkeit
+Fortlaufenden Erweiterung der Lehrpläne um KI-Inhalte
+
+
+
+KI-Technologie in allen Industriebereichen ausrollen
+
+Förderung intelligenter Fabriken auf der Grundlage von KI
+Aufbau industrieller Datenplattformen
+Unterstützung von innovativen KMU
+Unterstützung von Krankenhäusern bei der Nutzung von Medizindaten sowie Demonstration medizinischer KI-Dienstleistungen und -Produkte
+Entwicklung autonomer Fahrzeuge 
+
+Eine digitale Regierung aufbauen
+
+Förderung einer bürgerorientierten Problemlösungsplattform
+Analyse von Kriminalitätsdaten zur Vorhersage von und für den Umgang mit Verbrechen
+Entwicklung eines digitalen Dienstleistungsvertragssystems
+
+Netzwerk für integrative Beschäftigungssicherheit einrichten
+
+Bereitstellen einer nationalen Berufsinformationsplattform und eines Stellenvermittlungssystems
+Verbesserung der KI-Kompetenz von Lehrkräften und Dozenten
+
+Unerwünschtes Verhalten verhindern und eine KI-Ethik etablieren
+
+Entwicklung von intelligentem Informationsschutz mit KI
+Etablierung eines KI-Ethik-Kodex
+Entwicklung von Technologien zur Verhinderung von unerwünschtem KI-Verhalten und Einrichtung eines Kooperationssystems zwischen den Ministerien
+
+
+
+
+
+
+
+
+
+Türkei  
+
+Im August 2021 trat nach aktiver Beteiligung aller relevanten Akteure die National Artificial Intelligence Strategy 2021-2025 der Türkei in Kraft. Zur Umsetzung dieser Strategie wurde ein nationaler KI-Lenkungsausschuss eingerichtet, der bei der Ausarbeitung nationaler Politik im KI-Bereich mitwirkt.
+
+
+
+Politische Ziele
+Die Vision der Strategie ist die Erzeugung einer "Wertschöpfung auf globaler Ebene mit einem agilen und nachhaltigen KI-Ökosystem für eine wohlhabende Türkei". Bis 2025 stehen dabei folgende Ziele im Mittelpunkt:
+
+Anhebung des Beitrags von KI zum Bruttosozialprodukt auf fünf Prozent
+Anstellung von 50.000 Beschäftigten im KI-Sektor, davon 1.000 in staatlichen Institutionen
+Fokussierung bei KI-Anwendungen auf Vermarktungsmöglichkeiten und die Bedürfnisse lokaler Ökosysteme
+Aktive Beteiligung am internationalen Forschungs- und Standardisierungsprozess zu grenzüberschreitender Datennutzung und verantwortungsvoller KI
+
+
+
+
+Handlungsfelder
+Zum Erreichen der Ziele definiert die türkische KI-Strategie sechs strategische Prioritäten:
+
+Ausbildung von KI-Expertinnen und -Experten und Steigerung der KI-Beschäftigung
+Unterstützung von Forschung, Unternehmertum und Innovation
+
+Verbesserung von Anreizsetzung und Rechtsvorschriften zu geistigem Eigentum, Patenten und Exporten
+
+
+Erleichterung des Zugangs zu hochwertigen Daten und technischer Infrastruktur
+
+Schaffung gemeinsamer und verbesserter Zugangsmöglichkeiten zu Hochleistungsrechnerinfrastrukturen sowie Open Source-Software und Datenbanken
+
+
+
+
+
+
+Beschleunigung der sozioökonomischen Anpassung durch Regulierung
+
+Einführung eines agilen und integrativen Prozesses zur rechtlichen Harmonisierung, um ethische und rechtliche Szenarien zu testen und zu diskutieren
+
+
+Verstärkung der internationalen Zusammenarbeit
+Beschleunigung des Struktur- und Beschäftigungswandels
+
+
+
+
+
+
+
+
+
+USA  
+
+Im Mai 2023 veröffentlichte das White House Office of Science and Technology Policy (OSTP) unter der Biden-Harris-Regierung eine aktualisierte Fassung des National Artificial Intelligence Research and Development Strategic Plan. Die verabschiedeten Maßnahmen sollen den Rahmen für staatliche Fördermaßnahmen setzen und zugleich Forschung und Entwicklung sowie den Einsatz von vertrauenswürdiger KI vorantreiben. Der Bericht Artificial Intelligence (AI) and the Future of Teaching and Learning: Insights and Recommendations fasst zudem Chancen und Risiken von KI im Bildungswesen zusammen. Über eine Request for Information (RFI) bindet das OSTP die Öffentlichkeit in kritische KI-Fragen ein.
+
+
+
+Politische Ziele
+
+KI-Einsatz auf Basis demokratischer Werte sowie unter Wahrung der Rechte und Sicherheit Einzelner
+Entwicklung und Verwendung von KI-Systemen zur Förderung des öffentlichen Wohls
+Fokus auf internationaler Zusammenarbeit
+
+
+
+
+Handlungsfelder
+Langfristige Investitionen in die grundlegende und verantwortungsvolle KI-Forschung
+
+Förderung datenorientierter Methoden und föderierter Ansätze des maschinellen Lernens
+Entwicklung von KI-Systemen und -Simulationen in realen und virtuellen Umgebungen sowie Verbesserung der Wahrnehmungsfähigkeit von KI-Systemen
+Theoretische Fähigkeiten und Grenzen der KI verstehen
+
+Methodenentwicklung für die Zusammenarbeit zwischen Mensch und KI
+
+Suche nach verbesserten Modellen und Metriken
+Aufbau von Vertrauen und größeres Verständnis in die Mensch-KI-Interaktion
+
+Berücksichtigung der ethischen, rechtlichen und gesellschaftlichen Auswirkungen von KI
+
+Investitionen in die Grundlagenforschung zur Förderung von Grundwerten
+Soziale und ethische Risiken der KI verstehen und abmildern sowie Einsatz von KI zur Lösung ethischer, rechtlicher und gesellschaftlicher Probleme
+
+Gewährleistung der Sicherheit von KI-Systemen
+
+Entwicklung sicherer KI und Absicherung von KI
+
+Öffentliche Datensätze und Umgebungen für KI-Training und -Tests
+
+Entwicklung gemeinsam genutzter fortschrittlicher Computing- und Hardware-Ressourcen sowie Open-Source-Softwarebibliotheken und Toolkits
+
+
+
+Messung und Bewertung von KI-Systemen
+
+Erhöhung der Verfügbarkeit von KI-Testumgebungen
+Einbindung der KI-Community in Standards und Benchmarks
+
+Besseres Verständnis des nationalen KI-Fachkräftebedarfs
+
+Evaluierung des Bedarfs an KI-Fachkräften
+Ausbildung/Umschulung der Arbeitskräfte und Entwicklung von KI-Expertise unter Berücksichtigung ethischer, rechtlicher und gesellschaftlicher Implikationen
+Erforschung des Einflusses von vielfältigem und multidisziplinärem Fachwissen
+
+Ausweitung öffentlich-privater Partnerschaften
+
+Einbezug von vielfältigeren Interessensgruppen
+Verbesserung, Ausweitung und Schaffung von Mechanismen für F&E-Partnerschaften
+
+Schaffung eines prinzipienfesten und koordinierten Ansatzes für die internationale Zusammenarbeit in der KI-Forschung
+
+Internationale Zusammenarbeit für globale Herausforderungen (z.B. Nachhaltigkeit, Gesundheitsversorgung, Fertigung)
+Entwicklung von internationalen Standards und Richtlinien für vertrauenswürdige KI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation überspringen
+
+Datenschutz
+Impressum
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die von uns eingesetzten und einsetzbaren Cookies stellen wir Ihnen unter dem Link Cookie-Einstellungen in der Datenschutzerklärung vor. Voreingestellt werden nur zulässige Cookies, für die wir keine Einwilligung benötigen. 
+
+Ok, verstanden!
+mehr Info
+
+
+
+
+
+
+
+
+
+
+Die von uns eingesetzten und einsetzbaren Cookies stellen wir Ihnen unter dem Link Cookie-Einstellungen in der Datenschutzerklärung vor. Voreingestellt werden nur zulässige Cookies, für die wir keine Einwilligung benötigen.
+
+Erforderliche Cookies
+Diese Cookies sind notwendig, damit die grundlegenden Funktionen dieser Website funktionieren können, wie z. B. das sichere Einloggen, das Laden von Bildern oder die Auswahl Ihrer Cookie-Einstellungen.
+
+
+
+					Speichern
+				
+
+
+Bitte treffen Sie vor dem Speichern eine Auswahl!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
