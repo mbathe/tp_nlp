@@ -1,0 +1,778 @@
+IMMC.COM%282020%29591%20final.ENG.xhtml.1_EN_ACT_part1_v11.docx
+
+
+
+
+
+
+
+EUROPEAN COMMISSION
+Brussels, 24.9.2020
+COM(2020) 591 final
+COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS
+on a
+
+
+
+
+
+Digital Finance Strategy for the EU
+
+
+
+
+
+
+1.Context
+
+
+The future of finance is digital: consumers and businesses are more and more accessing financial services digitally, innovative market participants are deploying new technologies, and existing business models are changing. Digital finance has helped citizens and businesses tackle the unprecedented situation created by the Covid-19 pandemic. For example, online identity verification has enabled consumers to open accounts and use multiple financial services at a distance. A growing proportion of in-store payments are now digital and contactless, and on-line purchases (e-commerce) have significantly increased. Fintech solutions have helped to broaden and speed up access to loans, including loans supported by government in response to the Covid-19 crisis. Ensuring safe and reliable operation of digital infrastructures has also become more important, as more people access financial services online and financial sector employees themselves work remotely. 
+
+
+If there was still any doubt it is now clear: digital finance has a lot to offer, and the people and businesses of Europe are ready for it. 
+
+
+Europe must take full advantage of this in its recovery strategy to help repair the social and economic damage brought by the pandemic.
+1
+ Digital technologies will be key for relaunching and modernising the European economy across sectors. It will move Europe forward as a global digital player. At the same time, users of financial services must be protected against risks stemming from increased reliance on digital finance. 
+
+
+Supporting the digital transition in the EU is a key priority for the Commission, as set out earlier this year
+2
+ and more recently in the context of the recovery plan
+3
+.  Europe’s financial sector can build on many innovative projects across Member States, and on its leading role in areas such as digital payment technologies. Embracing digital finance will contribute to the overall digital transformation of our economy and society. This would bring significant benefits to both consumers and businesses. 
+
+
+Against the background of key trends in digital innovation (section 2), this communication sets out a strategic objective for digital finance in Europe  (section 3), and four priorities and related actions we intend to take to enable consumers and businesses to enjoy the benefits of digital finance while also mitigating risks (section 4). This Communication builds on the 2018 FinTech Action Plan,
+4
+ and the work of the European supervisory authorities (ESAs). It has also been informed by responses to our public consultation and the digital finance outreach events held in the first half of 2020
+5
+, the report on digital finance from the European Parliament
+6
+, the report of the expert group on regulatory obstacles to financial innovation (ROFIEG),
+7
+ the recommendations of the Capital Markets Union High-Level Forum,
+8
+and the SME strategy for a sustainable and digital Europe.
+9
+ 
+
+
+Payment services play a key role among digital financial services, being at the cutting edge of innovation and instrumental to support the digital economy. Digital payment solutions enable individuals and companies to transact safely and efficiently. They are indispensable for paying in shops and in e-commerce, settling bills, repaying loans or mortgages, transferring money, paying salaries or pensions.  As such, they require specific policy measures which are developed in the communication entitled “A Retail Payments Strategy for the EU”, published together with this communication.
+10
+ 
+
+
+
+2.The background: digital innovation trends
+
+
+The digital transformation of the economy has changed innovation and business models including in financial services. 
+
+
+Innovation increasingly takes a digital form, making it easier for firms to grow. To an ever-increasing extent, innovation implies new products, processes or business models enabled by digital technologies. From having a mere support function, information technology (IT) systems in combination with appropriate software have become a core pillar of business activities for many firms. This is because digitalisation offers substantial new opportunities, as digital networks and data services generally facilitate economies of scale, enabling the provision of more qualitative services at a lower cost .
+
+
+Innovation cycles are accelerating, becoming more open and collaborative. Digital technologies and applications are increasingly built in a modular way, communicating with each other via application programming interfaces (APIs). They make it possible to tailor services more closely to customer demand. They also provide more opportunities for experimentation and collaboration between various actors. This may have a number of consequences for the way financial services are provided. 
+
+
+Data is becoming a key asset for innovation along with IT infrastructure. Data has become more important than ever for financial services. The availability of digital data enables more accurate prediction of future events, thereby allowing for the provision of bespoke services. Analysing a merged dataset provides more insights than analysing each dataset separately. The economic benefits derived from a specific dataset are higher when multiple parties have simultaneous access to it. In addition, use of associated technologies is necessary to maximise data value. IT infrastructure today increasingly sits in the cloud, offering a high degree of operational flexibility and facilitating access to advanced data processing technology. These developments also raise important new issues for protecting consumers and a responsible use of their data.
+
+
+At the same time, innovation is changing market structures. Europe is home to many successful Fintech start-ups. Incumbent firms are fundamentally overhauling their business models, often in cooperation with Fintech companies. Technology companies both large (“BigTech”) and small are increasingly active in financial services. These developments are changing the nature of risks to consumers, users and financial stability and they may also have a significant impact on competition in financial services.
+
+
+
+3.Our strategic objective: to embrace digital finance for the good of consumers and businesses
+
+
+Europe and its financial sector must embrace these trends and all the opportunities offered by the digital revolution. 
+
+
+Europe must drive digital finance with strong European market players in the lead. 
+
+
+Our aim is to make the benefits of digital finance available to European consumers and businesses. 
+
+
+
+
+Europe should promote digital finance based on European values and a sound regulation of risks. 
+
+
+Our consultations with stakeholders across Europe have shown broad and strong support for this objective, on manifold grounds:
+
+
+·Embracing digital finance would unleash innovation and create opportunities to develop better financial products for consumers including for people currently unable to access financial services. It unlocks new ways of channelling funding to EU businesses, in particular SMEs.
+
+
+·Boosting digital finance would therefore support Europe’s economic recovery strategy and the broader economic transformation. It would open up new channels to mobilise funding in support of the Green Deal and the New Industrial Strategy for Europe.
+
+
+·As digital finance cuts across borders, it also has the potential to enhance financial market integration in the Banking Union and the Capital Markets Union
+11
+ and thereby to strengthen Europe’s Economic and Monetary Union.
+
+
+·Finally, a strong and vibrant European digital financial sector would  strengthen Europe’s ability to retain and reinforce our open strategic autonomy in financial services and, by extension, our capacity to regulate and supervise the financial system to protect Europe’s financial stability and our values.
+
+
+To achieve this strategic objective, the next section presents four priorities that will guide our actions for the remainder of this mandate and a set of accompanying measures.
+
+
+
+4.Four priorities for the digital transformation of the EU financial sector
+
+
+In light of the trends and objectives outlined above, and as supported by the vast majority of respondents participating in the public consultation underpinning this strategy,
+12
+ four priorities will guide EU actions to promote digital transformation up to 2024. 
+
+
+The first priority is to tackle fragmentation in the Digital Single Market for financial services, thereby  enabling European consumers to access cross-border services and help European financial firms’ scale up their digital operations (4.1). Many firms have confirmed that scaling up across borders is essential for them, because on-line services are costly to develop but cheap to reproduce and often require deployment at considerable scale. A larger potential market across borders makes it easier to raise the funds needed to develop such services. It gives consumers genuine access to cross border services. Firms achieving scale may also be able to provide such services at a lower price and higher quality.
+
+
+The second priority is to ensure that the EU regulatory framework facilitates digital innovation in the interest of consumers and market efficiency (4.2). Innovations based on or making use of distributed ledger technology (DLT) or artificial intelligence (AI) have the potential to improve financial services for consumers and businesses. The regulatory framework for financial services should ensure that they are used in a responsible way, in line with EU values. More broadly, faster, more open and collaborative innovation cycles call for regular examination of and adjustments to EU financial services legislation and supervisory practices, to ensure that they support digital innovation and remain appropriate and relevant in evolving market environments. 
+
+
+The third priority is to create a European financial data space to promote data-driven innovation, building on the European data strategy, including enhanced access to data and data sharing within the financial sector (4.3).
+13
+ The EU has ensured that companies including financial firms publish comprehensive financial and non-financial information on their operations and products. It has also led the way in opening up the sharing of data on payments accounts as part of the revised Payment Services Directive. Further steps towards enhanced data sharing and openness across and within sectors, in compliance with  data protection and competition rules, will enable the financial sector to fully embrace data-driven innovation. This will encourage the creation of innovative products for consumers and businesses, and will support broader policy objectives, such as the as the creation of a single market for data. It will also contribute to facilitating access to data needed to channel funding in support of sustainable investments.
+
+
+The fourth priority is to address new challenges and risks associated with the digital transformation (4.4). Financial services migrate to digital environments with fragmented ecosystems, comprising interconnected digital service providers falling partially outside financial regulation and supervision. Digital finance may therefore make it more challenging for the existing regulatory and supervisory frameworks to safeguard financial stability, consumer protection, market integrity, fair competition and security. To ensure that digital finance’s enable better financial products for consumers and businesses these risks must be addressed.  The Commission will therefore pay particular attention to the principle “same activity, same risk, same rules”, not least to safeguard the level playing field between existing financial institutions and new market participants. 
+
+
+Across these four priorities, the Commission will pay particular attention to promoting the new opportunities that digital finance offer to consumers and to protecting consumers wherever appropriate. This will notably be in due compliance with data protection rules, in particular the General Data Protection Regulation
+14
+ (GDPR). 
+
+
+The Commission also remains committed to continue working closely with our international partners, since the benefits of digital finance are best harnessed if their deployment is based on international principles and standards. 
+
+
+
+4.1.Removing fragmentation in the Digital Single Market
+
+
+The digital finance strategy is designed to build on the opportunities offered by the Single Market, to offer consumers and firms the benefits of digital financial services. A well-functioning Single Market for digital financial services will help improve access to financial services for consumers and retail investors in the EU through more innovative, diverse and inclusive banking, investment and insurance services. 
+
+
+·Enabling EU-wide interoperable use of digital identities
+
+
+
+
+By 2024, the EU should implement a sound legal framework enabling the use of interoperable digital identity solutions which will enable new customers to access financial services quickly and easily (“on boarding”). This framework should be based on more harmonised anti-money laundering (AML) and counter-terrorism financing (CTF) rules and a revised framework for electronic identification and trust services for electronic transactions (e-IDAS Regulation)
+15
+. It should enable customer data to be reused subject to informed customer consent, which is based on full transparency about the consequences and implications of such reuse. 
+
+
+The recent lockdown has highlighted just how essential digital financial services that function smoothly are for consumers and businesses interacting remotely. However, much more needs to be done before remote ‘on-boarding’ of financial services will work effectively and seamlessly. This needs to work both in domestic and cross-border settings, in full compliance with AML/CTF requirements and with a view to facilitating compliance with other regulatory on-boarding requirements, for example to assess a customer’s suitability for certain investment products. The Commission will facilitate financial service providers’ safe remote on-boarding of customers across the EU in three steps.
+
+
+First, the Commission is today inviting the European Banking Authority (EBA) to develop guidelines in close coordination with the other European Supervisory Authorities by Q3 2021. These aim to ensure greater convergence on the elements related to identification and verification needed for on-boarding purposes, and on the manner and extent to which financial service providers are allowed to rely on customer due diligence (CDD) processes carried out by third parties, including other financial service providers. In parallel, the Commission will engage with the European Data Protection Board (EDPB) to clarify all data protection aspects in the context of reusing ‘on-boarding’ information for other purposes (e.g. ‘on-boarding’ with another provider, access to other non-banking services). 
+
+
+Second, as part of the upcoming legislative proposals for a new AML/CTF framework, the Commission will further define and harmonise CDD requirements to facilitate the use of innovative technologies and allow for seamless cross-border operation, without the need to apply different processes or comply with additional requirements in each Member State. This will make it easier to identify customers and check their credentials ), while ensuring full compliance with the AML/CTF risk-based approach. For instance, this could be done by stating what ID documents are needed to establish a person’s identity, and by clarifying which technologies can be used to check ID remotely. The Commission review of AML/CTF rules will also aim to propose: 
+
+
+·improving and clarifying access to data to enhance financial service providers’ ability to authenticate the identity of the customer; 
+
+
+·further specifying, by means of technical standards, aspects relating to detailed identification and authentication elements for on-boarding purposes; and 
+
+
+·further developing, by means of technical standards, reliance on third parties to meet CDD requirements, including issues associated with liability , transparency and ethical use. 
+
+
+These technical standards would build on the EBA guidelines mentioned under the first point.
+
+
+Finally, as part of the planned review of the e-IDAS Regulation, the Commission is considering improving its effectiveness, extending its application to the private sector and promoting trusted digital identities for all Europeans. The revision of the Regulation will provide a future-proof regulatory framework supporting an EU-wide, simple, trusted and secure system for managing identities in the digital space.
+
+
+Building on these measures and in the context of its work on open finance (see section 4.3), the Commission intends to enable the integration of further elements so that digital identities can be used, for example, for ‘on-boarding’ with another financial institution. This could for example include elements linked to investor suitability or customer credit profile.
+
+
+·Facilitating the scaling up of digital financial services across the Single Market
+
+
+By 2024, the principle of passporting and a one-stop shop licensing should apply in all areas which hold strong potential for digital finance. Firms should be able to rely on close cooperation between national supervisory innovation facilitators within the European Forum of Innovation Facilitators (EFIF), and a new EU digital finance platform. 
+
+
+A long-standing principle in the single market is that consumers and businesses should have genuine access to cross-border services provided by firms established and supervised in another Member State in line with commonly agreed rules (“passporting”). Any remaining obstacles to cross-border provision of such services should be particularly low for digital services. However, as highlighted by many respondents to the public consultation, EU fintech firms often can only provide services only within their own country or restrict access to their digital platforms to customers located in a limited list of EU jurisdictions. The main reasons for that are that regulatory framework differs from country to country , entailing disproportionate compliance costs for operators active in several countries.
+
+
+The Commission is amending the regulatory framework to introduce the possibility of passporting in key areas relevant to digital finance. The Crowdfunding Regulation, agreed by the co-legislators in December 2019 will introduce common rules and passporting for various types of crowdfunding services, including credit intermediation, and today’s Commission proposals on crypto-assets will propose common rules and passporting for crypto-asset issuers and service providers. The Commission will also consider the relevance of passporting in other areas, for example in the context of examining the prudential regulation of non-bank lending, with due attention to consumer protection rules (see section 4.4 below). It will also examine possible ways to enable the certification of technical solutions designed to help firms meeting their regulatory compliance obligations (“RegTech”
+16
+), support common approaches in that field, including interoperability. At the same time, the practical application of passporting requires close cooperation between home and host supervisors to ensure that commonly agreed rules are enforced and applied consistently. The Commission encourages the European Supervisory Authorities (ESAs) to continue and step up their work to promote cooperation and supervisory convergence.
+
+
+The retail payments strategy furthermore sets out how the Commission intends to tackle a number of specific regulatory issues in the area of payments, such as existing practices where foreign IBAN account numbers are refused (“IBAN discrimination”).
+
+
+Responses to the consultation also show that stakeholders continue to attach great importance to the work of supervisory innovation facilitators, such as innovation hubs and regulatory sandboxes, also in a cross-border context. The Commission will work with the ESAs to strengthen the innovation network provided by the European Forum of Innovation Facilitator (EFIF)
+17
+. It will also promote national innovation facilitators, e.g. through the structural reform support programme
+18
+. In particular, the Commission will work with the EFIF to ensure that it offers by mid-2021 a procedural framework for launching cross-border testing and other mechanisms facilitating firms’ interaction with supervisors from different Member States. 
+
+
+To encourage cooperation between private and public stakeholders, the Commission, in cooperation with EFIF, will establish a new EU digital finance platform. The new platform will serve as a channel to interact online and on an ongoing basis with this new digital finance ecosystem building on the positive feedback received after the digital finance outreach. It will also offer an interface to the EFIF and to national innovation facilitators and national e-licensing procedures. Going forward, it could be developed into a broader platform for cooperation and a data space that could be used by industry or supervisory authorities to test innovation. The platform will be designed to be eligible for potential funding from the digital Europe programme which will support the roll–out of collaboration platforms for mainstreamining digital technologies.. 
+
+
+Supervising digital finance requires enhanced cooperation between various authorities. The EFIF will therefore involve representatives from, for example, the European Data Protection Board (EDPB), the Commission services responsible for competition enforcement, and relevant national authorities beyond the financial sector. They will attend EFIF meetings as observers, to discuss the challenges raised by innovative business models combining financial and non-financial services.
+
+
+Supervising digital finance requires significant new skills. The Commission will continue to help upgrade supervisors’ technical skills, including through the EU Fintech Lab
+19
+. The Commission also stands ready to design targeted assistance programmes with national authorities. This could for example be done through the structural reform support programme
+20
+.  
+
+
+
+Key actions   
+
+
+
+
+
+
+The Commission will propose in 2021 as part of a broader initiative on AML/CFT to harmonise rules on customer onboarding and will build on the upcoming review of e-IDAS to implement an interoperable cross-border framework for digital identities.
+
+
+The Commission will explore the need to introduce additional harmonised licensing and passporting regimes, work with the ESAs to strengthen EFIF, and establish an EU digital finance platform to foster cooperation between private and public stakeholders. 
+
+
+
+
+4.2. Adapting the EU regulatory framework to facilitate digital innovation
+
+
+The purpose of the digital finance strategy is to ensure that the EU regulatory framework for financial services is fit for the digital age. This includes enabling the use of innovative technologies and making the framework compatible with prevailing best practice in software production and deployment. Many respondents to the public consultation took the view that EU rules should be more technology neutral and innovation friendly, and should be able to adjust to innovations more rapidly, while continuing to respect all the rules ensuring their safe and secure functioning and user protection.
+
+
+·Enabling EU markets in crypto-assets and tokenised financial instruments
+
+
+By 2024, the EU should put in place a comprehensive framework enabling the uptake of distributed ledger technology (DLT) and crypto-assets in the financial sector. It should also address the risks associated with these technologies.
+
+
+Crypto-assets and their associated blockchains can bring significant opportunities in finance: potentially cheap and fast payments, especially for cross-border and international transactions, new funding possibilities for SMEs and more efficient capital markets. Utility tokens can serve as enablers of decentralised blockchain networks and stablecoins can underpin machine-to-machine payments in mobility, energy and manufacturing sectors. However, they also involve risks, and should therefore be properly regulated and supervised.
+
+
+The Commission is today presenting a legislative proposal
+21
+ to accompany this strategy. The proposal clarifies the application of existing EU rules to crypto-assets, introduces a pilot regime for crypto-assets covered by these rules and establishes a new EU legal framework for crypto-assets that are not covered by these rules, based on a taxonomy of definitions of different types of crypto-assets. The latter includes utility tokens and dedicated rules to regulate the particular risks for financial stability and monetary sovereignty linked to asset-referenced tokens (also known as ‘stablecoins’) used for payment purposes. Additional interpretative guidance on the application of existing rules will improve regulatory clarity, enabling the financial sector to reap efficiency gains through wider use of distributed ledger technology (DLT) in capital markets, while continuing to respect the safety and security rules and maintaining a high level of user protection. 
+
+
+At the same time, in light of ongoing work carried out by the Basel Committee, the Commission will consider updating the prudential rules for crypto-assets held by financial firms. The Commission will also explore how to leverage DLT to improve capital-raising operations of SMEs. 
+
+
+Digital technologies also hold potential for central banks to develop central bank digital currencies as a digital alternative to cash and a catalyst for continued innovation in payments, ﬁnance and commerce. As detailed in the retail payments strategy, the Commission supports the work of central banks, and in particular, the ECB, to consider issuing a retail central bank digital currency (CBDC) available to the general public, while safeguarding the legal tender of euro cash. 
+
+
+Finally, to encourage the development of and investment in low or zero emission DLT and the Internet of Things, the Commission, working with the platform on sustainable finance, will aim to integrate these sectors by 2021 in the sustainable finance taxonomy. 
+
+
+·Promoting cooperation and the use of cloud computing infrastructure
+
+
+Cloud computing makes it far easier to scale up rapidly and flexibly and to shift to a modular IT architecture that promotes cooperation and fits best with cloud-native digital applications. To facilitate this and ensure that EU banks and financial services can reap the benefits offered by the use of cloud services in a highly secure customer-facing environment, the Commission is today proposing an oversight framework for critical third-party ICT providers to the financial sector
+22
+, such as cloud service providers. In the context of a highly concentrated market, the Commission proposed in the EU data strategy to launch a European cloud services marketplace, integrating the full stack of cloud service offering by the end of 2022. This marketplace will facilitate access to alternative cloud service providers, including in the financial sector. 
+
+
+The Commission will also support cooperation through a further shift towards activity-based regulation (see section 4.4 below). Other cloud policy measures that aim at increasing competition and market fluidity, building on the already available self-regulatory codes of conduct developed by the industry as regards switching cloud service providers and porting data are expected to foster cloud adoption in the financial sector. The Commission has requested the EU cybersecurity agency (ENISA) to develop a cybersecurity certification scheme for cloud services in conformity with the Cybersecurity Act, which will support trust in cloud use, notably by financial services and regulators. Further action may include measures on how to facilitate the migration towards a modular IT architecture and to allow for collaboration with other players. Such relationships could also be nurtured as part of the EU Digital Finance platform (see section 4.1 above), bringing together incumbents and new market entrants. 
+
+
+·Promoting investments in software by adapting prudential rules on intangible assets
+
+
+Digital transformation requires significant investments in software by the financial industry. Currently, the prudential treatment of software investments differs across jurisdictions, with European banks facing more stringent capital requirements  than  banks in other jurisdictions. In order to facilitate the transition towards a more digitalised banking sector, the Commission will shortly adopt regulatory technical standards currently being developed by the EBA. 
+
+
+·Promoting the uptake of artificial intelligence tools
+
+
+By 2024, the Commission, working together with the ESAs, aims to ensure clarity as regards  supervisory expectations about how the legislative framework on financial services should apply to artificial intelligence (AI) applications.    
+
+
+The essential promise of the latest AI tools is that they make prediction more accessible. This should help firms save on costs. Also,  as prediction technology becomes more accurate and reliable over time, it may lead to more productive business models and new ways to compete. On the consumer side, the use of AI applications could make it possible for firms to provide better and more tailored services at lower cost. In some cases, it could also enable people previously excluded from financial services to access them. 
+
+
+
+
+As set out in the White Paper on artificial intelligence, the Commission will promote the use of AI by proposing significant investments at EU level and put forward a new AI regulatory framework reflecting our European values. 
+
+
+The overwhelming majority of participants to the public consultation felt that the EU financial sector needed guidance at EU level on the use of AI applications in finance and their regulatory treatment. The financial industry referred to the lack of legal clarity about the impact of EU rules in this context. Customers mentioned the lack of understanding and transparency about how a particular outcome is obtained, fearing biases and exploitative profiling, as well as difficulties in contesting AI-based outcomes. Supervisory authorities referred to the lack of expertise and clarity on how specific EU rules need to be applied (e.g. as regards explainability of AI models). 
+
+
+As a result, the Commission will invite the ESAs and the ECB to explore the possibility of developing regulatory and supervisory guidance on the use of AI applications in finance. This guidance should follow the upcoming proposal for a new regulatory framework for AI planned in 2021. The European supervisory authorities will also rely on the work they have recently initiated in this area, including advice by the Expert Group on Digital Ethics set up by the European Insurance and Occupational Pensions Authority. The European supervisory authorities should aim to ensure clarity on supervisory expectations and mitigation of risks, so that AI-based solutions can be applied in the EU financial sector in a safe,  sound and ethical manner. As regards more general challenges related to the use of AI tools in compliance with GDPR
+23
+, or risks of collusive behaviour by means of price-adjusting AI tools, these will feed into the follow-up process to the Commission’s AI White Paper.
+
+
+·Ensuring a future proof legislative framework on an on-going basis
+
+
+The Commission aims to ensure through regular legislative reviews and interpretative guidance that the EU regulatory framework for financial services neither prescribes nor prevents the use of particular technologies while also ensuring that regulatory objectives continue to be met. 
+
+
+Regulatory uncertainty hampers innovation in finance, and can also harm consumers or investors. In addition to the key issues raised in this strategy, the Commission will integrate aspects of digital finance in all upcoming legislative reviews, wherever relevant. 
+
+
+As digital innovation advances, new regulatory questions are likely to arise. The Commission will regularly carry out a Digital Finance Outreach to identify emerging issues. On that basis, it will  provide guidance on the interpretation of the EU regulatory framework through regular interpretative communications. The first interpretative communication to be issued in 2021 will ensure additional clarity on the treatment of crypto-assets, complementing the relevant Commission legislative proposals.
+
+
+
+Key actions    
+
+
+The Commission is proposing today a new EU legislative framework for crypto-assets, including asset-referenced tokens (also known as ‘stablecoins’) and utility tokens.
+
+
+Through regular reviews, the Commission will ensure that potential material regulatory obstacles to innovation stemming from legislation on financial services are removed. It will regularly provide interpretative guidance on how existing legislation on financial services is to be applied to new technologies.
+
+
+
+4.3. Promoting data-driven innovation in finance by establishing a common financial data space
+
+
+In its new data strategy for Europe
+24
+, the Commission highlighted the need for better access to data and data sharing within the EU, creating broader access to public and private data to the benefits of people, businesses and the broader public interest. As part of these efforts, and in close connection with activities across other sectors, the Commission aims to set up a common financial data space through a number of more specific measures set out in this section. The Commission’s  objective is to help integrate European capital markets, channel investments into sustainable activities, support innovation and bring efficiencies for consumers and businesses. The Commission will set up a group of data experts in close cooperation with the ESAs to provide advise on the technical aspects of establishing a common financial data space.
+
+
+·Facilitating real-time digital access to all regulated financial information
+
+
+By 2024, information to be publically released under EU financial services legislation should be  disclosed in standardised and machine-readable formats. As part of its CMU Action Plan, the Commission will implement EU infrastructure to facilitate access to all publicly available disclosure relevant to capital markets.
+
+
+Financial institutions are currently required to make a wealth of financial information public. In a digital context, the Commission intends to ensure that regulated information is provided in electronic machine-readable formats. As regards public disclosure, the Commission intends to ensure that financial information already made available publically by companies through national registers is considered as high value data sets in the context of the Open Data Directive. In addition, starting with the proposal on crypto assets, the Commission will propose legislative amendments to EU financial services legislation requiring public disclosure to be made systematically available in machine-readable formats. In the context of the Capital Markets Union, the Commission will support the development of an EU infrastructure and interoperability to facilitate access to all publicly available disclosures. This infrastructure will be designed to be eligible for potential funding from the new digital Europe programme, which will support the development of EU digital capacities to advance the take up of and accessibility to new technologies.
+
+
+·Promoting innovative IT tools to facilitate reporting and supervision
+
+
+By 2024, the EU aims to put in place the necessary conditions to enable the use of innovative technologies, including RegTech
+25
+ and SupTech
+26
+ tools, for supervisory reporting by regulated entities and supervision by authorities. It should also promote the sharing of data between supervisory authorities. Building on the outcomes of the fitness check of supervisory reporting requirements
+27
+, the Commission, together with the ESAs will develop a strategy on supervisory data in 2021 to help ensuring that (i) supervisory reporting requirements (including definitions, formats, and processes) are unambiguous, aligned, harmonised and suitable for automated reporting, (ii) full use is made of available international standards and identifiers including the Legal Entity Identifier, and (iii) supervisory data is reported in machine-readable electronic formats and is easy to combine and process. This will facilitate the use of RegTech tools for reporting and SupTech tools for data analysis by authorities.
+
+
+The Commission also aims to ensure that key parts of EU regulation are accessible to natural language processing, are machine readable and executable, and more broadly facilitate the design and implementation of reporting requirements. It will also encourage the use of modern IT tools for information sharing among national and EU authorities. As a first step in the domain of machine readable and executable reporting, the Commission has launched a pilot project for a limited set of reporting requirements.
+
+
+·Promoting business-to-business data sharing in the EU financial sector and beyond (open finance)
+
+
+By 2024, the EU should have an open finance framework in place, in line with the EU Data Strategy, the upcoming Data Act, and Digital Services Act. This will be coordinated with the review of the Payment Services Directive.
+
+
+
+
+The revised Payment Services Directive (PSD2) marked an important step towards the sharing and use of customer-permissioned data by banks and third party providers to create new services (“open finance”). The Commission will launch the review of the Payment Services Directive in 2021, including an assessment of its scope. 
+
+
+Open finance can lead to better financial products, better targeted advice and improved access for consumers and greater efficiency in business-to-business transactions. Access to more customer data would also enable service providers to offer more personalised services that are better tailored to customers’ specific needs. A balanced regulatory framework for the sharing of data on financial products will support the financial sector in fully embracing data-driven finance, and effectively protect data subjects, who must have full control over their data.
+
+
+The Commission will therefore propose legislation on a broader open finance framework by mid-2022. It will build on the upcoming initiative focusing on data access, including the upcoming Data Act, and the Digital Services Act
+28
+. The Commission is already reviewing its competition policy to ensure that it is fit for the digital age
+29
+. In this context, it will also determine whether sector-specific measures are needed to ensure fair access to platforms for all financial service providers. As announced in the retail payments strategy, the Commission will explore initiatives at EU level to address the current issues faced by payment services providers when trying to access near field communication (NFC) antennas available on certain mobile platforms (such as phones or tablets) and used for effective contactless payments. The open finance framework will also build on the initiatives on digital identities mentioned above. 
+
+
+
+Key actions   
+
+
+The Commission will amend EU legislation to ensure that publicly disclosed information is available in standardised and machine-readable formats, and will set up an EU-funded infrastructure for public disclosure. 
+
+
+The Commission will present a strategy on supervisory data in 2021.
+
+
+The Commission will present a legislative proposal for a new open finance framework by mid-2022, building on and in full alignment with broader data access initiatives.
+
+
+
+
+4.4. Addressing the challenges and risks associated with digital transformation
+
+
+The digital transformation of the financial sector is not without challenges and risks, some of which are transversal in nature due to the digital environment itself, whilst others are more specific to the individual policy initiatives set out above. 
+
+
+·Safeguarding financial stability, protecting investors and consumers, based on the “same activity, same risk, same rules” principle
+
+
+By 2024, the EU prudential and conduct regulation and supervision should be adapted to be future proof for the new financial ecosystem, including traditional regulated financial institutions and technology providers offering financial services.
+
+
+Technology companies – large and small – are increasingly entering financial services, either directly or indirectly. While many technology providers are now offering payments and related services, respondents to the Commission’s public consultation expect that online provision of other financial services, such as loans, insurance, and asset management for consumers and businesses develops further. Large technology companies also often act as intermediaries by bundling various services and products with associated financial services, such as payments, financing or insurance and thus become marketplaces for financial services. They can scale up financial services quickly across their large user bases and radically change market structures, sometimes adversely affecting competition. Finally, large technology companies also provide many of the digital technology solutions that are used in the provision of financial services, including hardware, software and cloud-based solutions for the financial industry. 
+
+
+Technology companies are therefore likely to become an integral part of the financial ecosystem, and most respondents to the public consultation expect risks to increase as a consequence. It is important to address all these risks, not only those affecting customers (policy-holders, investors and depositors) but also broader financial stability issues and competition in financial services markets. Such issues are significant both as regards technology companies’ provision of, and consumers and businesses’ access to, financial services, as well as the potential spill-over effects between the financial and non-financial parts of mixed groups. In this context, regulation and supervision should be proportionate, based on the principle of “same activity, same risk, same rules” and pay particular attention to the risks of significant operators. 
+
+
+Furthermore, technology is contributing to breaking up previously integrated value chains for a given financial service. While most financial services have traditionally been offered by one provider, digital technologies have made it possible for firms to specialise in a particular leg in the value chain. This increases competition and may improve efficiency. However, it also makes value chains more complex, making it harder for supervisors to have an overview of the risks in the value chain, especially if the entities involved are subject to different regulatory and supervisory frameworks.
+
+
+The Commission will, where necessary, adapt the existing conduct and prudential EU legal frameworks so as to continue safeguarding financial stability and protecting customers in line with the “same activity, same risk, same rules” principle. The Commission will cooperate with the ECB, national central banks and competent authorities in this process as appropriate.
+
+
+First, as set out in the Retail Payments Strategy, the Commission will review the Payment Services Directive and the E-Money Directive.
+
+
+Second, it will assess how to ensure comprehensive supervision of the more fragmented value chains and the new providers of financial services. One possibility, included in the proposal on crypto assets presented alongside this strategy, is to establish a supervisory college for the ecosystem of a given financial services value chain. This would improve cooperation and ensure that no risk is ignored.
+
+
+Third, the Commission will explore ways to ensure that the prudential supervisory perimeter is broad enough to capture risks arising from platforms’ and technology firms’ financial services provision and from techno-financial conglomerates and groups. To that end, it will review whether provisions on group supervision in EU financial services legislation, such as the Financial Conglomerates Directive (FICOD), have a sufficiently broad and flexible institutional scope to adapt to a constantly changing financial market structure regardless of the corporate structure and the group’s main activities. The supplementary supervision of group risks entailed by FICOD could also be one way to beef up cooperation between sectoral supervisors so as to have a general overview of bundled financial services offered by various providers. 
+
+
+Fourth, the Commission is considering the need for legislative proposals to address potential risks stemming from potential large-scale lending operations by firms outside the banking perimeter, which may entail both micro and macro-prudential risks. 
+
+
+
+
+To prepare these actions, the Commission is requesting advice from the European supervisory authorities on how to address “same activity, same risk, same rules” issues, more fragmented value chains, the scope of the supervisory perimeter and prudential risks related to non-bank lending, and will decide on the necessary legislative amendments by mid-2022. 
+
+
+·Protecting consumers and the public interest
+
+
+The EU must integrate into all measures taken to implement this strategy the objective of continuously empowering and protecting consumers to ensure that they benefit from a broader access, under safe conditions, to innovative products and services. The protection of the public interest against the risk of money laundering, terrorist financing and any other financial misbehaviours including tax evasion should progress in parallel.
+
+
+In a digital world, consumers and investors can access a greater range of financial services, including cheaper and more innovative services. Interoperable digital identities will make it easier to access these products remotely and across borders. At the same time, there was a broad consensus among those who took part to the public consultation that with technology companies gaining market share in financial services, consumers will face additional risks, which could include the unwanted consequences of a potential reduction in competition. 
+
+
+The Commission will integrate the objective of facilitating consumers’ access to financial services, while addressing the risks for them, into the implementation of all elements of this strategy. A new framework for safe remote identification referred to in section 4.1, easier access to public disclosures and a new open finance framework referred to in section 4.3 are particularly important in this respect. 
+
+
+The Commission will assess whether and how the customer protection and conduct aspects of a number of items of EU legislations can be improved to take account of new, digital ways of providing financial services. The sectoral financial services framework includes a number of consumer and personal data protection rules, including rules on conduct of business, information disclosure, credit worthiness or advice. The Distance Marketing of Financial Services Directive sets out additional requirements as regards sales of financial services at a distance. In the context of  upcoming legislative reviews, the Commission will systematically assess whether consumer protection rules and the regulatory framework to fight money laundering, terrorist financing and any other financial misbehaviours including tax evasion are suited to the digital world, and propose legislative amendments where needed. 
+
+
+Finally, to ensure that European consumers are made aware of these opportunities and that digital financial products and services fulfil their potential to fight financial exclusion, the Commission is ready to help fund financial literacy programmes focusing on digitalisation to be implemented by Member States, for example through the structural reform support service. The Commission will also duly consider the digital aspect of the actions proposed on financial literacy in the CMU action plan.
+30
+ 
+
+
+·Strengthening digital operational resilience
+
+
+Reinforcement of digital operational resilience of financial market participants is a necessary cross-cutting measure. The increased reliance on digital and remote technologies as a result of Covid-19 has illustrated this once even more. The EU cannot afford to have the operational resilience and security of its digital financial infrastructure and services called into question. There  is also a need  to minimise the risk of client funds being stolen or their data compromised. Alongside this strategy, the Commission is today presenting a proposal designed to enhance the operational resilience of the financial sector. This complements the ongoing review of the Directive on security of network and information systems.
+31
+
+
+
+
+
+
+Key actions    
+
+
+The Commission will propose by mid-2022 the necessary adaptations to the existing financial services legislative framework with respect to consumer protection and prudential rules, in order to protect end-users of digital finance, safeguard financial stability, protect the integrity of the EU financial sector and ensure a level playing field. 
+
+
+The Commission is presenting today a proposal for a new EU framework for strengthening digital operational resilience.
+
+
+
+
+5.Conclusion
+
+
+This strategy identifies key priorities and objectives for digital finance in Europe over the four years to come, based on output from extensive contacts with stakeholders.
+
+
+To achieve these objectives, the Commission is committing to a number of important measures. 
+
+
+In addition, private stakeholders, national authorities and the EU must work closely together. Building on the digital finance outreach, the Commission encourages consumers, businesses, established financial firms, new fintech companies and their employees to engage actively in the implementation of this strategy. The Commission will work together with the legislators and the supervisory community at both European and national level. Member States and national supervisors should continue and expand their numerous innovative initiatives, amplifying their effects beyond national markets to encompass the EU single market as a whole. 
+
+
+Acting together, Europe can lead on digital finance, to support the economic recovery and benefit Europe’s people and businesses.
+
+
+
+
+
+
+(1)
+
+
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Region, Europe's moment: Repair and Prepare for the Next Generation, COM/2020/456 final, 27.05. 2020
+
+
+
+
+(2)
+
+
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Region, Shaping Europe’s Digital Future, COM(2020) 67 final, 19.02.2020 
+
+
+
+
+(3)
+
+
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Region, Europe's moment: Repair and Prepare for the Next Generation, COM/2020/456 final
+
+
+
+
+(4)
+
+
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Region on a FinTech Action plan, COM(/2018)/109 final, 08.03.2018
+
+
+
+
+(5)
+
+
+ 
+https://ec.europa.eu/info/publications/digital-finance-outreach-2020_en
+ 
+
+
+
+
+(6)
+
+
+  Report with recommendations to the Commission on Digital Finance: emerging risks in crypto-assets - regulatory and supervisory challenges in the area of financial services, institutions and markets” (2020/2034(INL)), 
+https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2020/2034(INL)&l=en
+
+
+
+
+(7)
+
+
+ On 13 December 2019 the Expert Group on Regulatory Obstacles to Financial Innovation (ROFIEG), set up by the European Commission in June 2018, published its recommendations on how to create an accommodative framework for technology-enabled provision of financial services. 
+https://ec.europa.eu/info/publications/191113-report-expert-group-regulatory-obstacles-financial-innovation_en
+
+
+
+
+(8)
+
+
+ 
+https://ec.europa.eu/info/publications/cmu-high-level-forum_en
+ 
+
+
+
+
+(9)
+
+
+ Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions on An SME Strategy for a sustainable and digital Europe, COM(2020)203,  10.03.2020 
+https://ec.europa.eu/info/sites/info/files/communication-sme-strategy-march-2020_en.pdf
+
+
+
+
+(10)
+
+
+ Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions on a retail payments  strategy for Europe, COM(2020)592
+
+
+
+
+(11)
+
+
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - A Capital Markets Union for people and businesses-new action plan, COM(2020)590
+
+
+
+
+(12)
+
+
+ 
+https://ec.europa.eu/info/consultations/finance-2020-digital-finance-strategy_en
+
+
+
+
+(13)
+
+
+  Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions on A European Data Strategy, COM(2020) 66 final, 19.02.2020
+
+
+
+
+(14)
+
+
+ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
+
+
+
+
+(15)
+
+
+ Regulation (EU) No 910/2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC, OJ L 257, 28.8.2014, p. 73–114.
+
+
+
+
+(16)
+
+
+ RegTech: Regulatory Technology is a sub-set of FinTech that focuses on technologies that may facilitate the delivery of regulatory requirements more efficiently and effectively than existing capabilities
+
+
+
+
+(17)
+
+
+ The EFIF was established further to the January 2019 
+
+Joint ESA report on regulatory sandboxes and innovation hubs
+
+ which identified a need for action to promote greater coordination and cooperation between innovation facilitators to support the scaling up of FinTech across the single market
+
+
+
+
+(18)
+
+
+ The structural reform support programme (SRSP) is an EU programme that provides tailor-made support to all EU countries for their institutional, administrative and growth-enhancing reforms 
+
+
+
+
+(19)
+
+
+ The EU FinTech Lab was established under the 2018 FinTech action plan and gathers service providers, financial institutions and supervisors to deep dive into specific technologies or applications.
+
+
+
+
+(20)
+
+
+ The structural reform support programme (SRSP) is an EU programme that provides tailor-made support to all EU countries for their institutional, administrative and growth-enhancing reforms 
+
+
+
+
+(21)
+
+
+ Proposal for a Regulation of the European Parliament and of the Council on Markets in Crypto-assets and amending Directive (EU) 2019/1937, COM(2020) 593 and proposal for a Regulation of the European Parliament and of the Council on a Pilot Regime for market infrastructures based on distributed ledger technology - COM(2020)594
+
+
+
+
+(22)
+
+
+ Proposal for a Regulation of the European Parliament and the Council on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014 and (EU) No 909/2014 - COM(2020)595
+
+
+
+
+
+(23)
+
+
+ The consultation highlighted many issues where efficient use of AI tools could be inhibited by such GDPR principles as data anonymity, the right to be forgotten, rights with respect to automated decision-making rules, data minimisation and purpose limitation. 
+
+
+
+
+(24)
+
+
+  Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Regions on A European Data Strategy, COM(2020) 66 final, 19.02.2020
+
+
+
+
+(25)
+
+
+ RegTech: Regulatory Technology is a sub-set of FinTech that focuses on technologies that may facilitate the delivery of regulatory requirements more efficiently and effectively than existing capabilities
+
+
+
+
+(26)
+
+
+ SupTech: Supervisory Technology is a sub-set of FinTech that uses of innovative technology to support supervision. It helps supervisory authorities to digitise reporting and regulatory processes
+
+
+
+
+(27)
+
+
+ 
+https://ec.europa.eu/info/consultations/finance-2017-supervisory-reporting-requirements_en
+
+
+
+
+(28)
+
+
+ https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12417-Digital-Services-Act-deepening-the-Internal-Market-and-clarifying-responsibilities-for-digital-services
+
+
+
+
+(29)
+
+
+ The Commission is currently reviewing the rules applicable to horizontal and vertical agreements, as well as the Market Definition Notice. Moreover, in June 2020 the Commission launched a public consultation in order to assess whether a New Competition Tool may be required in order to  address structural competition problems that current competition rules cannot tackle in the most efficient manner. More information on these review processes can be found in the website for the Directorate General for Competition: 
+https://ec.europa.eu/competition/consultations/open.html
+
+
+
+
+(30)
+
+
+ Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions - A Capital Markets Union for people and businesses-new action plan, COM(2020)590 
+
+
+
+
+(31)
+
+
+ Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (OJ L 194, 19.7.2016, p. 1).
+
+
+
+
+
+
+
