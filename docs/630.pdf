@@ -1,0 +1,579 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+<title>The ODI</title>
+<meta name="description" content="The ODI was founded in 2012 by Sir Tim Berners-Lee and Sir Nigel Shadbolt, placing us at the heart of the data economy. Our primary mission is to foster transparency, accountability, and innovation through data." />
+<meta property="og:title" content="The ODI" />
+<meta property="og:description" content="The ODI was founded in 2012 by Sir Tim Berners-Lee and Sir Nigel Shadbolt, placing us at the heart of the data economy. Our primary mission is to foster transparency, accountability, and innovation through data.">
+<meta property="og:site_name" content="The ODI">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://theodi.org/">
+<meta name="twitter:title" content="The ODI" />
+<meta name="twitter:description" content="The ODI was founded in 2012 by Sir Tim Berners-Lee and Sir Nigel Shadbolt, placing us at the heart of the data economy. Our primary mission is to foster transparency, accountability, and innovation through data." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="https://theodi.org/" /><meta name="twitter:creator" content="https://twitter.com/ODIHQ" />
+<link rel="shortcut icon" href="/static/images/favicons/favicon.e3498a0650a3.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/images/favicons/apple-touch-icon.b553c230ad47.png">
+<link rel="icon" type="image/png" href="/static/images/favicons/favicon-32x32.b86927dc25c1.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/static/images/favicons/favicon-16x16.4992b7d88245.png" sizes="16x16">
+<link rel="manifest" href="/static/images/favicons/site.b9aa277fcfc3.webmanifest">
+<link rel="mask-icon" href="/static/images/favicons/safari-pinned-tab.b7273d073195.svg" color="#312783">
+<meta name="apple-mobile-web-app-title" content="The ODI">
+<meta name="application-name" content="The ODI">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-config" content="/static/images/favicons/browserconfig.a493ba0aa0b8.xml">
+<meta name="theme-color" content="#ffffff">
+<script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-W9RNZ2M');</script>
+
+<link rel="stylesheet" type="text/css" href="/static/css/main.min.5ba78f211e9b.css"><meta name="csrf-token" content="qXGarq8O2lvKMK0BTVLmR6YC0kjo0RP3dYZk0MI5TYngLNO5VCJaIkNZ4XwduLax">
+</head>
+<body class="home-page">
+<div class="cookies-banner">
+<div class="contained-width">
+<form class="cookies-banner__form">
+<p>We use necessary cookies that allow our site to work. We also set optional cookies that help us improve our website.</p>
+<p>For more information about the types of cookies we use, and to manage your preferences, <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="/cookies/" rel="noopener noreferrer nofollow" target="_blank">visit our Cookies policy here.</a></p>
+<div class="cookies-banner__options">
+<a href="/cookies/?ret=/" class="cookies-banner__link">Cookie settings</a>
+<button class="btn cookies-banner__button" type="submit">Accept all cookies</button>
+</div>
+</form>
+</div>
+</div>
+<nav role="navigation" class="navigation" id="PrimaryNav">
+<div class="navigation__items-wrapper contained-width">
+<a href="/" aria-label="Go to home page" class="navigation__home-link">
+<span class="odi-logo"><svg viewBox="0 0 77.1 32.3" preserveAspectRatio="xMinYMin" xml:space="preserve">
+<path d="M77 .4v31.5H62V21.4c-2 6.5-8 10.5-15.8 10.5H32.1V21.5c-2.2 6.2-8.3 10.7-15.4 10.7C7.6 32.2.3 25 .3 16.2S7.6.2 16.7.2c7.1 0 13.2 4.5 15.4 10.7V.4h14.1C54 .4 60 4.4 62 10.9V.4h15z"></path>
+</svg>
+<svg viewBox="0 0 77.1 32.3" preserveAspectRatio="xMinYMin" xml:space="preserve">
+<path d="M32.4 17.3c-.1 0-.3.1-.4.1-.1 0-.3.1-.4.1-.2 0-.3 0-.5.1-.2 0-.3.1-.4.1s-.3.1-.4.2-.2.2-.2.3c-.1.1-.1.3-.1.5s0 .3.1.5.2.2.3.3c.1.1.2.1.4.1h.4c.4 0 .7-.1.9-.2.2-.1.4-.3.5-.5s.2-.4.2-.6V17c-.1.2-.2.3-.4.3zm-3.8-2.8c.2-.3.4-.6.8-.8.3-.2.7-.3 1.1-.4.4-.1.8-.1 1.2-.1s.7 0 1.1.1c.4.1.7.2 1 .3.3.2.5.4.7.6.2.3.3.6.3 1.1v3.8c0 .3 0 .7.1 1 0 .3.1.5.2.7h-2c0-.1-.1-.2-.1-.4 0-.1 0-.2-.1-.4-.3.3-.7.6-1.1.7s-.8.2-1.3.2c-.3 0-.7 0-.9-.1-.3-.1-.6-.2-.8-.4-.2-.2-.4-.4-.5-.7-.1-.3-.2-.6-.2-1s.1-.8.2-1c.1-.3.3-.5.6-.6.2-.2.5-.3.8-.4s.6-.1.9-.2c.3 0 .6-.1.9-.1s.5-.1.8-.1.4-.1.5-.2.2-.3.2-.5 0-.4-.1-.5l-.3-.3s-.2-.1-.4-.1h-.5c-.4 0-.7.1-.9.3s-.3.5-.4.9h-1.9c-.2-.7-.1-1.1.1-1.4zm-1.4-1.1v1.4h-1.4v3.7c0 .3.1.6.2.7s.3.2.7.2h.6V21c-.2 0-.3 0-.6.1h-.6c-.3 0-.6 0-.9-.1s-.5-.1-.7-.3c-.2-.1-.4-.3-.5-.5s-.2-.5-.2-.9v-4.4h-1.2v-1.4h1.2v-2.2h1.9v2.2l1.5-.1zm-7.5 3.9c-.1 0-.3.1-.4.1s-.3.1-.4.1c-.2 0-.3 0-.5.1-.2 0-.3.1-.4.1s-.3.1-.4.2l-.3.3c-.1.1-.1.3-.1.5s0 .3.1.5.2.2.3.3c.1.1.2.1.4.1h.4c.4 0 .7-.1.9-.2.2-.1.4-.3.5-.5s.2-.4.2-.6V17c-.1.2-.2.3-.3.3zm-3.8-2.8c.2-.3.5-.6.8-.8s.7-.3 1.1-.4c.4-.1.8-.1 1.2-.1.3 0 .7 0 1.1.1s.7.2 1 .3c.3.2.5.4.7.6.2.3.3.6.3 1.1v3.8c0 .3 0 .7.1 1 0 .3.1.5.2.7h-2c0-.1-.1-.2-.1-.4V20c-.3.3-.7.6-1.1.7s-.9.2-1.3.2c-.3 0-.7 0-.9-.1-.3-.1-.6-.2-.8-.4-.2-.2-.4-.4-.5-.7-.1-.3-.2-.6-.2-1s.1-.8.2-1c.2-.3.3-.5.6-.6.2-.2.5-.3.8-.4s.6-.1.9-.2c.3 0 .6-.1.9-.1s.5-.1.8-.1c.2-.1.4-.1.5-.2s.2-.3.2-.5 0-.4-.1-.5l-.3-.3c-.1-.1-.2-.1-.4-.1h-.5c-.4 0-.7.1-.9.3-.2.2-.3.5-.4.9h-1.9c-.3-.7-.2-1.1 0-1.4zm-3.7 5.3c-.2.4-.5.7-.9.9-.3.2-.7.3-1.2.3s-1-.1-1.4-.3c-.4-.2-.7-.5-1-.9s-.5-.8-.6-1.3c-.1-.5-.2-1-.2-1.5s.1-1 .2-1.4c.1-.5.3-.9.6-1.2.3-.4.6-.6 1-.9.4-.2.8-.3 1.4-.3.4 0 .8.1 1.2.3s.7.5.9.8v-3.7h1.9v10.2h-1.8l-.1-1zm0-3.6c-.1-.3-.2-.5-.3-.7s-.3-.4-.5-.5-.5-.2-.8-.2-.6.1-.8.2c-.2.1-.4.3-.5.5s-.2.5-.3.8c-.1.3-.1.6-.1.9s0 .6.1.9.2.5.3.8c.1.2.3.4.5.5s.5.2.8.2.6-.1.8-.2.4-.3.5-.5.2-.5.3-.8.1-.6.1-.9-.1-.7-.1-1z"></path>
+<path d="M6.9 32h2v-6.8h-2V32zm0-7.9h2v-1.5h-2v1.5zm48.2 6.3c-.3-.3-.5-.7-.5-1.3h5.1c0-.5 0-1-.1-1.5s-.3-.9-.6-1.3-.6-.7-1.1-.9c-.4-.2-1-.3-1.6-.3-.5 0-1 .1-1.5.3-.4.2-.8.4-1.1.8-.3.3-.6.7-.7 1.1s-.3.9-.3 1.4.1 1 .3 1.5.4.8.7 1.1c.3.3.7.6 1.1.7.4.1 1 .3 1.5.3.8 0 1.5-.2 2.1-.5.6-.4 1-.9 1.3-1.8H58c-.1.2-.2.4-.5.6s-.6.3-1 .3c-.7-.1-1.1-.2-1.4-.5zm2.2-3.6c.2.2.4.6.5 1.1h-3.2c0-.1 0-.3.1-.5s.1-.3.3-.5c.1-.1.3-.3.5-.4s.5-.1.8-.1c.4 0 .7.1 1 .4zm-6.8-1.6v-2h-2v2h-1.2v1.3h1.2v4c0 .3.1.6.2.8.1.2.3.4.5.5s.4.2.7.2.6.1.9.1H52v-1.5h-.6c-.3 0-.6 0-.7-.2-.1-.1-.2-.3-.2-.6v-3.4h1.4v-1.3l-1.4.1zM46.1 32v-6.8h-2v3.6c0 .7-.1 1.2-.4 1.5-.2.3-.6.5-1.2.5-.5 0-.8-.1-1-.4s-.3-.7-.3-1.3v-3.8h-2v4.2c0 .4 0 .8.1 1.2.1.3.2.6.4.9.2.2.4.4.8.6.3.1.8.2 1.3.2.4 0 .8-.1 1.2-.3.4-.2.7-.5 1-.9v1l2.1-.2zM37 25.2v-2h-2v2h-1.2v1.3H35v4c0 .3.1.6.2.8.1.2.3.4.5.5s.4.2.7.2.6.1.9.1h1.2v-1.5h-.6c-.3 0-.6 0-.7-.2-.2-.1-.2-.3-.2-.6v-3.4h1.4v-1.3l-1.4.1zM30.9 32h1.9v-6.8h-2l.1 6.8zm0-7.9h1.9v-1.5h-2l.1 1.5zm-2.7 1.1v-2h-2v2H25v1.3h1.2v4c0 .3.1.6.2.8.1.2.3.4.5.5s.4.2.7.2c.3 0 .6.1.9.1h1.2v-1.5h-.6c-.3 0-.6 0-.7-.2-.1-.1-.2-.3-.2-.6v-3.4h1.4v-1.3l-1.4.1zm-8.3 5.1c-.1-.1-.1-.3-.1-.5H18c0 .5.1.8.3 1.1.2.3.4.5.8.7.3.2.7.3 1.1.4s.8.1 1.2.1c.4 0 .8 0 1.2-.1.4-.1.7-.2 1-.4.3-.2.6-.4.7-.7.2-.3.3-.7.3-1.1 0-.3-.1-.6-.2-.8-.1-.2-.3-.4-.5-.5s-.5-.3-.7-.4c-.3-.1-.6-.2-.8-.2-.3-.1-.6-.1-.8-.2-.3-.1-.5-.1-.7-.2s-.4-.2-.5-.3c-.1-.1-.2-.2-.2-.4 0-.1 0-.3.1-.3.1-.1.2-.1.3-.2.1 0 .2-.1.3-.1h.4c.3 0 .7.1.9.2.3.1.4.4.4.7h1.9c0-.4-.2-.8-.3-1-.2-.3-.4-.5-.7-.7-.3-.2-.6-.3-1-.4h-1.3s-.8 0-1.1.1c-.4.1-.7.2-1 .3-.3.2-.5.4-.7.7s-.3.6-.3 1.1c0 .3.1.6.2.8.1.2.3.4.5.5s.4.2.7.3c.3.1.6.2.8.2.7.1 1.2.3 1.6.4s.6.4.6.6 0 .3-.1.4l-.3.3c-.1.1-.3.1-.4.1h-.4c-.2 0-.4 0-.6-.1-.2 0-.3-.1-.5-.2-.1.1-.2 0-.3-.2zm-9.6-5.1V32h2v-3.6c0-.7.1-1.2.3-1.5s.6-.5 1.2-.5c.5 0 .8.1 1 .4s.3.7.3 1.3V32H17v-4.2c0-.4 0-.8-.1-1.2-.1-.3-.2-.6-.4-.9-.2-.2-.5-.4-.8-.6-.3-.1-.8-.2-1.3-.2-.4 0-.8.1-1.2.3-.4.2-.7.5-1 .9v-1l-1.9.1z"></path>
+<path d="M34.1.4v1c.3-.4.6-.8 1-1s.8-.3 1.2-.3c.5 0 1 .1 1.3.2s.6.4.8.6c.2.3.3.6.4 1s.1.8.1 1.3v4.6h-2V3.7c0-.6-.1-1.1-.3-1.4s-.5-.5-1-.5-.9.2-1.2.5c-.2.3-.4.9-.4 1.7v4h-2V.4h2.1zm-7.8 5.7c.3.3.7.5 1.3.5.4 0 .7-.1 1-.3.3-.2.5-.4.5-.7h1.7c-.3.9-.7 1.6-1.3 1.9-.6.4-1.3.6-2.1.6-.6 0-1.1-.1-1.5-.3-.5-.2-.8-.5-1.2-.8-.3-.3-.6-.8-.7-1.3-.2-.5-.3-1-.3-1.6s.1-1.1.3-1.6c.2-.5.4-.9.8-1.3.3-.4.7-.6 1.2-.8s.9-.3 1.5-.3 1.1.1 1.6.4c.5.2.8.6 1.1 1 .3.4.5.9.6 1.4.2.6.2 1.1.2 1.7h-5.2c0 .7.2 1.2.5 1.5zm2.2-4c-.2-.3-.6-.4-1.1-.4-.3 0-.6.1-.8.2-.2.1-.4.2-.5.4s-.2.3-.3.5c-.1.2-.1.4-.1.5H29c-.1-.5-.2-.9-.5-1.2zM17.4.4v1c.2-.4.5-.7.9-.9s.8-.3 1.2-.3c.6 0 1.1.1 1.5.3s.8.5 1 .9c.3.4.5.8.6 1.3s.2 1 .2 1.5-.1 1-.2 1.5-.3.9-.6 1.2c-.3.4-.6.6-1 .9-.4.2-.9.3-1.4.3-.4 0-.9-.1-1.2-.3-.4-.2-.7-.5-.9-.8v3.6h-2V.4h1.9zm2.6 6c.2-.1.4-.3.5-.5s.2-.5.3-.8c.1-.3.1-.6.1-.9 0-.3 0-.6-.1-.9s-.2-.6-.3-.8c-.1-.2-.3-.4-.5-.6-.2-.1-.5-.2-.8-.2s-.6.1-.8.2c-.2.1-.4.3-.5.5-.1.2-.2.5-.3.8-.1.3-.1.6-.1.9 0 .3 0 .6.1.9s.2.5.3.8c.1.2.3.4.5.5s.5.2.8.2c.3.1.6 0 .8-.1zM7.2 2.5c.2-.5.4-.9.7-1.2.3-.3.7-.6 1.2-.8s1-.3 1.5-.3 1.1.1 1.5.3c.5.2.8.5 1.2.8.3.3.6.8.8 1.3s.3 1 .3 1.6-.1 1.1-.3 1.6-.4.9-.7 1.2-.7.6-1.2.8-1 .3-1.5.3-1.1-.1-1.6-.3c-.4-.2-.8-.4-1.1-.8-.4-.3-.6-.7-.8-1.2-.2-.5-.3-1.1-.3-1.7S7 3 7.2 2.5zM9 5c0 .3.1.6.3.8.1.2.3.4.5.6s.5.2.8.2.6-.1.8-.2c.3-.2.5-.4.6-.6s.2-.5.3-.8.1-.6.1-.9c0-.3 0-.6-.1-.9s-.2-.5-.3-.8c-.1-.2-.3-.4-.5-.5s-.5-.2-.8-.2-.6.1-.8.2c-.3.2-.5.3-.6.6-.1.2-.2.4-.3.7 0 .3-.1.6-.1.9 0 .3.1.6.1.9z"></path>
+</svg></span>
+</a>
+<a href="#main" class="skip-link">Skip to content</a>
+<ul class="navigation__level-one" tabindex="-1">
+<li>
+<button class="navigation__level-one-btn" aria-expanded="false" aria-controls="submenu-1">
+About us
+<svg width="9" height="6" viewBox="0 0 9 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 1L4.5 4.5L1 1" stroke="#E2E6E9" stroke-width="1.53184" />
+</svg>
+</button>
+<div class="navigation__level-two" id="submenu-1">
+<div class="navigation__level-two-layout contained-width">
+<div class="navigation__level-two-blurb desktop-only">
+<h2><a class="navigation__level-two-blurb-link" href="/about-the-odi/">About us</a></h2>
+<p>The ODI is a non-profit company committed to promoting and advancing trust in data, including open data, shared data and closed - or private - data.</p>
+</div>
+<div class="navigation__level-two-nav-items">
+<div class="navigation__level-two-top-nav">
+<button class="navigation__level-two-back mobile-only">
+<svg aria-hidden="true" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.56997 10.1395L1.00029 5.56982L5.56997 1.00014" stroke="white" />
+</svg>
+Back
+</button>
+<a href="/about-the-odi/" class="mobile-only navigation__level-two-landing-page">About us</a>
+</div>
+<ul class="navigation__level-two-list">
+<li><a href="/about-the-odi/our-vision/">Our vision, mission and principles</a></li>
+<li><a href="/about-the-odi/our-strategy/">Our strategy</a></li>
+<li><a href="/about-the-odi/impact/">Impact</a></li>
+<li><a href="/about-the-odi/the-odi-team/">The ODI team</a></li>
+<li><a href="/about-the-odi/work-with-us/">Work with us</a></li>
+<li><a href="/about-the-odi/governance/">Governance</a></li>
+<li><a href="/about-the-odi/key-documents/">Key documents</a></li>
+<li><a href="/about-the-odi/press-and-media/">Press and media</a></li>
+<li><a href="/insights/guides/the-odi-brand-book/">The ODI brand book</a></li>
+</ul>
+</div>
+<div class="navigation__level-two-highlight desktop-only">
+<img src="https://theodi.cdn.ngo/media/images/Screenshot_2023-09-27_at_16.37.13.2e16d0ba.fill-210x198.png" width="210" height="198" alt="Five year strategy cover">
+<div class="navigation__level-two-highlight-text">
+<h2 class="navigation__level-two-highlight-text navigation__highlight-title">Our five year plan</h2>
+<p>Download The ODI&#39;s five year strategy</p>
+<a class="cta-link btn" href="/documents/2/ODI-Five-Year-Strategy-2023-2028.pdf">Read it here</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<button class="navigation__level-one-btn" aria-expanded="false" aria-controls="submenu-2">
+What we do
+<svg width="9" height="6" viewBox="0 0 9 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 1L4.5 4.5L1 1" stroke="#E2E6E9" stroke-width="1.53184" />
+</svg>
+</button>
+<div class="navigation__level-two" id="submenu-2">
+<div class="navigation__level-two-layout contained-width">
+<div class="navigation__level-two-blurb desktop-only">
+<h2><a class="navigation__level-two-blurb-link" href="/what-we-do/">What we do</a></h2>
+<p>We provide training, consultancy services, tools and guides that enable organisations to become more confident and capable in their stewardship and use of data.</p>
+</div>
+<div class="navigation__level-two-nav-items">
+<div class="navigation__level-two-top-nav">
+<button class="navigation__level-two-back mobile-only">
+<svg aria-hidden="true" width="6" height="11" viewBox="0 0 6 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.56997 10.1395L1.00029 5.56982L5.56997 1.00014" stroke="white" />
+</svg>
+Back
+</button>
+<a href="/what-we-do/" class="mobile-only navigation__level-two-landing-page">What we do</a>
+</div>
+<ul class="navigation__level-two-list">
+<li><a href="/what-we-do/research/">Our research</a></li>
+<li><a href="/what-we-do/consultancy-and-products/">Consultancy and products</a></li>
+<li><a href="/learning/">Learning</a></li>
+<li><a href="/what-we-do/commercial-partnerships/">Commercial partnerships</a></li>
+<li><a href="/membership/">Membership</a></li>
+<li><a href="/what-we-do/policy/">Policy</a></li>
+<li><a href="/what-we-do/engagement/">Engagement</a></li>
+<li><a href="/what-we-do/data-as-culture/">Data as culture</a></li>
+</ul>
+</div>
+<div class="navigation__level-two-highlight desktop-only">
+<img src="https://theodi.cdn.ngo/media/images/data-ethics-illustration-1.2e16d0ba.fill-210x198.png" width="210" height="198" alt="the ODI Adrian Philpott Caley Dewhurt">
+<div class="navigation__level-two-highlight-text">
+<h2 class="navigation__level-two-highlight-text navigation__highlight-title">Ready for consultancy?</h2>
+<p>Find out about our consultancy and off-the-shelf products</p>
+<a class="cta-link btn" href="/what-we-do/get-in-touch/">Get in touch</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a href="https://learning.theodi.org" class="navigation__level-one-link">
+Learning
+</a>
+</li>
+<li>
+<a href="/membership/" class="navigation__level-one-link">
+Membership
+</a>
+</li>
+<li>
+<a href="/insights/" class="navigation__level-one-link">
+Insights
+</a>
+</li>
+<li>
+<a href="/news-and-events/" class="navigation__level-one-link">
+News &amp; events
+</a>
+</li>
+<a class="mobile-only" href="/account/register/">Register</a>
+<a class="mobile-only" href="/account/login/">Log in</a>
+</ul>
+<div class="navigation__level-zero">
+<a href="/search" aria-label="Search">
+<svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="8.31422" cy="8.31422" r="7.79408" stroke="#E2E6E9" stroke-width="1.04028" />
+<path d="M13.5293 14.4966L18.8447 19.812" stroke="#E2E6E9" stroke-width="1.04028" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+</a>
+<a class="desktop-only" href="/account/register/">Register</a>
+<a class="desktop-only" href="/account/login/">Log in</a>
+<div class="navigation__navigation-toggle-wrapper mobile-only">
+<button class="navigation__navigation-toggle" aria-expanded="false" aria-label="Show navigation links">
+<svg class="icon-burger" width="30" height="27" viewBox="0 0 30 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 2H29.5714" stroke="white" stroke-width="2.19048" />
+<path d="M0 13.5H29.5714" stroke="white" stroke-width="2.19048" />
+<path d="M0 25H29.5714" stroke="white" stroke-width="2.19048" />
+</svg>
+<svg class="icon-cross" viewBox="0 0 18 18" width="30" height="30" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="icon-cross">
+<path stroke="#fff" stroke-width="1" stroke-linecap="round" d="m1.636 1.222 14.142 14.142M15.556 1.414 1.414 15.556" />
+</svg>
+</button>
+</div>
+</div>
+</div>
+</nav>
+<header class="header--homepage">
+<div class="contained-width">
+<h1 class="header--homepage__title">Advancing trust in data</h1>
+</div>
+</header>
+<main id="main">
+<div class="main-content main-content__body">
+<section class="
+    highlight-block
+
+    
+        highlight-block--small
+    
+
+    
+        highlight-block--white
+    
+    ">
+<div class="highlight-block__layout highlight-block--image-right">
+<div class="highlight-block__image-container">
+<picture>
+<source srcset="https://theodi.cdn.ngo/media/images/9.1_Face-Blue-ArticleHeroBanner-11.2e16d0ba.fill-665x402.png, https://theodi.cdn.ngo/media/images/9.1_Face-Blue-ArticleHeroBanner-1.2e16d0ba.fill-1330x804.png 2x" media="(min-width: 800px)">
+<img src="https://theodi.cdn.ngo/media/images/9.1_Face-Blue-ArticleHeroBanner-11.2e16d0ba.fill-665x402.png" srcset="https://theodi.cdn.ngo/media/images/9.1_Face-Blue-ArticleHeroBanner-11.2e16d0ba.fill-332x201.png 332w, 
+                        https://theodi.cdn.ngo/media/images/9.1_Face-Blue-ArticleHeroBanner-11.2e16d0ba.fill-665x402.png 665w, 
+                        https://theodi.cdn.ngo/media/images/9.1_Face-Blue-ArticleHeroBanner-1.2e16d0ba.fill-1330x804.png 1330w" alt="9.1 Face-Blue-ArticleHeroBanner-1110x452-ODI-Research" loading="lazy" fetchpriority="auto" decoding="async" class="highlight-block__image image_right" sizes="(max-width: 400px) 332px,
+                600px">
+</picture>
+</div>
+<div class="highlight-block__body">
+<h2 class="highlight-block__title">The future of data and AI</h2>
+<p><p data-block-key="xikws">Generative AI can help close the data divide, allowing anyone, not just those with specialist skills, to publish, find, and make sense of data. Find out more</p></p>
+<a href="/insights/projects/the-future-of-data-and-ai/" class="cta-link">The future of data and AI</a>
+</div>
+</div>
+</section>
+<section class="
+    highlight-block
+
+    
+        highlight-block--small
+    
+
+    
+        highlight-block--grey
+    
+    ">
+<div class="highlight-block__layout highlight-block--image-left">
+<div class="highlight-block__image-container">
+<picture>
+<source srcset="https://theodi.cdn.ngo/media/images/data-ethics-illustration-1.2e16d0ba.fill-665x402_vfYXcKG.png, https://theodi.cdn.ngo/media/images/data-ethics-illustration-1.2e16d0ba.fill-1330x804_XVWzesE.png 2x" media="(min-width: 800px)">
+<img src="https://theodi.cdn.ngo/media/images/data-ethics-illustration-1.2e16d0ba.fill-665x402_vfYXcKG.png" srcset="https://theodi.cdn.ngo/media/images/data-ethics-illustration-1.2e16d0ba.fill-332x201_RWnZByQ.png 332w, 
+                        https://theodi.cdn.ngo/media/images/data-ethics-illustration-1.2e16d0ba.fill-665x402_vfYXcKG.png 665w, 
+                        https://theodi.cdn.ngo/media/images/data-ethics-illustration-1.2e16d0ba.fill-1330x804_XVWzesE.png 1330w" alt="the ODI Adrian Philpott Caley Dewhurt" loading="lazy" fetchpriority="auto" decoding="async" class="highlight-block__image image_left" sizes="(max-width: 400px) 332px,
+                600px">
+</picture>
+</div>
+<div class="highlight-block__body">
+<h2 class="highlight-block__title">What we do</h2>
+<p><p data-block-key="yd62t">The ODI works with organisations to build data infrastructure, knowledge, and strategies that create trust in data and data practices. We bring together businesses, governments, and civil society to generate economic benefits and tackle real-world challenges using data.</p></p>
+</div>
+</div>
+</section>
+<section class="card-group card-group--standard">
+<div class="contained-width">
+<ul class="card-group__list">
+<li class="card-group__list-item card">
+<picture>
+<source srcset="https://theodi.cdn.ngo/media/images/9.1_GridFace-Blue-1920x1080-ODI-Re.2e16d0ba.fill-350x250.png, https://theodi.cdn.ngo/media/images/9.1_GridFace-Blue-1920x1080-ODI-Re.2e16d0ba.fill-700x500.png 2x" media="(min-width: 800px)">
+<img src="https://theodi.cdn.ngo/media/images/9.1_GridFace-Blue-1920x1080-ODI-Re.2e16d0ba.fill-350x250.png" srcset="https://theodi.cdn.ngo/media/images/9.1_GridFace-Blue-1920x1080-ODI-Re.2e16d0ba.fill-175x125.png 175w, 
+                        https://theodi.cdn.ngo/media/images/9.1_GridFace-Blue-1920x1080-ODI-Re.2e16d0ba.fill-350x250.png 350w, 
+                        https://theodi.cdn.ngo/media/images/9.1_GridFace-Blue-1920x1080-ODI-Re.2e16d0ba.fill-700x500.png 700w" alt="Grid+Face-Blue-1920x1080" loading="lazy" fetchpriority="auto" decoding="async" class sizes="(max-width: 400px) 175px,
+                600px">
+</picture>
+<div class="card__text">
+<h3 class="card__title">Our research</h3>
+<p class="card__blurb">We advance trust in data and data-centric technologies through inter-disciplinary research and development.</p>
+</div>
+<a class="cta-link" href="/what-we-do/research/">Read more</a>
+</li>
+<li class="card-group__list-item card">
+<picture>
+<source srcset="https://theodi.cdn.ngo/media/images/0006-AbstractGraphicODIweb20230920.2e16d0ba.fill-350x250.png, https://theodi.cdn.ngo/media/images/0006-AbstractGraphicODIweb20230920.2e16d0ba.fill-700x500.png 2x" media="(min-width: 800px)">
+<img src="https://theodi.cdn.ngo/media/images/0006-AbstractGraphicODIweb20230920.2e16d0ba.fill-350x250.png" srcset="https://theodi.cdn.ngo/media/images/0006-AbstractGraphicODIweb20230920.2e16d0ba.fill-175x125.png 175w, 
+                        https://theodi.cdn.ngo/media/images/0006-AbstractGraphicODIweb20230920.2e16d0ba.fill-350x250.png 350w, 
+                        https://theodi.cdn.ngo/media/images/0006-AbstractGraphicODIweb20230920.2e16d0ba.fill-700x500.png 700w" alt="Abstract 6" loading="lazy" fetchpriority="auto" decoding="async" class sizes="(max-width: 400px) 175px,
+                600px">
+</picture>
+<div class="card__text">
+<h3 class="card__title">Our consultancy &amp; products</h3>
+<p class="card__blurb">Find out about our consultancy and off-the-shelf products - designed to help you make the most of data and upgrade your data practices.</p>
+</div>
+<a class="cta-link" href="/what-we-do/consultancy-and-products/">Read more</a>
+</li>
+<li class="card-group__list-item card">
+<picture>
+<source srcset="https://theodi.cdn.ngo/media/images/0007-AbstractGraphicODIweb20230920.2e16d0ba.fill-350x250.png, https://theodi.cdn.ngo/media/images/0007-AbstractGraphicODIweb20230920.2e16d0ba.fill-700x500.png 2x" media="(min-width: 800px)">
+<img src="https://theodi.cdn.ngo/media/images/0007-AbstractGraphicODIweb20230920.2e16d0ba.fill-350x250.png" srcset="https://theodi.cdn.ngo/media/images/0007-AbstractGraphicODIweb20230920.2e16d0ba.fill-175x125.png 175w, 
+                        https://theodi.cdn.ngo/media/images/0007-AbstractGraphicODIweb20230920.2e16d0ba.fill-350x250.png 350w, 
+                        https://theodi.cdn.ngo/media/images/0007-AbstractGraphicODIweb20230920.2e16d0ba.fill-700x500.png 700w" alt="Abstract 7" loading="lazy" fetchpriority="auto" decoding="async" class sizes="(max-width: 400px) 175px,
+                600px">
+</picture>
+<div class="card__text">
+<h3 class="card__title">Our policy work</h3>
+<p class="card__blurb">Talk to us about emerging data policy and digital technology issues. We’ll help you to understand the global legal and regulatory data landscape.</p>
+</div>
+<a class="cta-link" href="/what-we-do/policy/">Read more</a>
+</li>
+</ul>
+</div>
+</section>
+<section class="
+    highlight-block
+
+    
+        highlight-block--small
+    
+
+    
+        highlight-block--white
+    
+    ">
+<div class="highlight-block__layout highlight-block--image-right">
+<div class="highlight-block__image-container">
+<picture>
+<source srcset="https://theodi.cdn.ngo/media/images/The_ODI_in_2023_-_16-9_Web_image3x.2e16d0ba.fill-665x402.png, https://theodi.cdn.ngo/media/images/The_ODI_in_2023_-_16-9_Web_image3.2e16d0ba.fill-1330x804.png 2x" media="(min-width: 800px)">
+<img src="https://theodi.cdn.ngo/media/images/The_ODI_in_2023_-_16-9_Web_image3x.2e16d0ba.fill-665x402.png" srcset="https://theodi.cdn.ngo/media/images/The_ODI_in_2023_-_16-9_Web_image3x.2e16d0ba.fill-332x201.png 332w, 
+                        https://theodi.cdn.ngo/media/images/The_ODI_in_2023_-_16-9_Web_image3x.2e16d0ba.fill-665x402.png 665w, 
+                        https://theodi.cdn.ngo/media/images/The_ODI_in_2023_-_16-9_Web_image3.2e16d0ba.fill-1330x804.png 1330w" alt="The ODI in 2023 - 16-9 Web image@3x" loading="lazy" fetchpriority="auto" decoding="async" class="highlight-block__image image_right" sizes="(max-width: 400px) 332px,
+                600px">
+</picture>
+</div>
+<div class="highlight-block__body">
+<h2 class="highlight-block__title">Annual Review</h2>
+<p><p data-block-key="xngm4">Our achievements in 2023 across research, training, policy advocacy, and global outreach have set us on a strong course for the years ahead.</p></p>
+<a href="/documents/495/Annual_Review_-_The_ODI_in_2023.pdf" class="cta-link">Annual Review - The ODI in 2023</a>
+</div>
+</div>
+</section>
+<section class="
+    highlight-block
+
+    
+        highlight-block--small
+    
+
+    
+        highlight-block--grey
+    
+    ">
+<div class="highlight-block__layout highlight-block--image-left">
+<div class="highlight-block__image-container">
+<picture>
+<source srcset="https://theodi.cdn.ngo/media/images/learning-640x360-1-pink.2e16d0ba.fill-665x402_UKr9FVM.png, https://theodi.cdn.ngo/media/images/learning-640x360-1-pink.2e16d0ba.fill-1330x804_nkSske4.png 2x" media="(min-width: 800px)">
+<img src="https://theodi.cdn.ngo/media/images/learning-640x360-1-pink.2e16d0ba.fill-665x402_UKr9FVM.png" srcset="https://theodi.cdn.ngo/media/images/learning-640x360-1-pink.2e16d0ba.fill-332x201_TG2GFvt.png 332w, 
+                        https://theodi.cdn.ngo/media/images/learning-640x360-1-pink.2e16d0ba.fill-665x402_UKr9FVM.png 665w, 
+                        https://theodi.cdn.ngo/media/images/learning-640x360-1-pink.2e16d0ba.fill-1330x804_nkSske4.png 1330w" alt="ODI Learning" loading="lazy" fetchpriority="auto" decoding="async" class="highlight-block__image image_left" sizes="(max-width: 400px) 332px,
+                600px">
+</picture>
+</div>
+<div class="highlight-block__body">
+<h2 class="highlight-block__title">Our courses</h2>
+<p><p data-block-key="dux4z">Our learning courses are an opportunity to develop your skills with the support of the ODI’s expert trainers. Through interactive webinars and online platforms, you will engage with your learning group, share ideas, gain help when needed and access a wide range of resources.</p></p>
+<a href="https://learning.theodi.org/" class="cta-link">Explore our courses</a>
+</div>
+</div>
+</section>
+<section class="
+    highlight-block
+
+    
+        highlight-block--small
+    
+
+    
+        highlight-block--white
+    
+    ">
+<div class="highlight-block__layout highlight-block--image-right">
+<div class="highlight-block__image-container">
+<picture>
+<source srcset="https://theodi.cdn.ngo/media/images/Email_Banner_-_ODI_Membership_2023.2e16d0ba.fill-665x402_7wk1C2X.png, https://theodi.cdn.ngo/media/images/Email_Banner_-_ODI_Membership_202.2e16d0ba.fill-1330x804_UGDuWD9.png 2x" media="(min-width: 800px)">
+<img src="https://theodi.cdn.ngo/media/images/Email_Banner_-_ODI_Membership_2023.2e16d0ba.fill-665x402_7wk1C2X.png" srcset="https://theodi.cdn.ngo/media/images/Email_Banner_-_ODI_Membership_2023.2e16d0ba.fill-332x201_C4JwZo4.png 332w, 
+                        https://theodi.cdn.ngo/media/images/Email_Banner_-_ODI_Membership_2023.2e16d0ba.fill-665x402_7wk1C2X.png 665w, 
+                        https://theodi.cdn.ngo/media/images/Email_Banner_-_ODI_Membership_202.2e16d0ba.fill-1330x804_UGDuWD9.png 1330w" alt="Email Banner - ODI Membership 20230908" loading="lazy" fetchpriority="auto" decoding="async" class="highlight-block__image image_right" sizes="(max-width: 400px) 332px,
+                600px">
+</picture>
+</div>
+<div class="highlight-block__body">
+<h2 class="highlight-block__title">Membership</h2>
+<p><p data-block-key="0yq0x">Looking to enhance your organisation&#x27;s data practices? Join our active membership network of organisations and individuals transforming their data strategies. Stay updated with the latest data policy, news, events, and innovations. Our global network comprises businesses, startups, data experts, and government leaders who are discovering and sharing innovative data solutions.</p></p>
+<a href="/membership/" class="cta-link">Become a member</a>
+</div>
+</div>
+</section>
+<div class="key-stats-block" id="key-stats-block">
+<div class="contained-width">
+<h2 class="key-stats-block__title">Our impact</h2>
+<ul class="key-stats-block__list unlist grid--3-col">
+<li>
+<span class="key-stats-block__stat"><span class="stats__index">60000</span></span>
+<p class="key-stats-block__stat-description">people trained through courses in the banking, government and media sectors</p>
+</li>
+<li>
+<span class="key-stats-block__stat">$<span class="stats__index">395</span>bn</span>
+<p class="key-stats-block__stat-description">anticipated size of the global open banking market by 2026</p>
+</li>
+<li>
+<span class="key-stats-block__stat"><span class="stats__index">300</span></span>
+<p class="key-stats-block__stat-description">early stage organisations we&#39;ve supported</p>
+</li>
+</ul>
+</div>
+</div>
+
+<section class="featured-block ">
+<div class="contained-width featured-block__header">
+<h2>Impact stories</h2>
+</div>
+<div class="contained-width featured-block__layout">
+<div class="featured-block__highlighted-card">
+<div class="featured-block__highlighted-card__img">
+<picture>
+<source srcset="https://theodi.cdn.ngo/media/images/utilities-water-case-study-illustr.2e16d0ba.fill-368x400.png, https://theodi.cdn.ngo/media/images/utilities-water-case-study-illustr.2e16d0ba.fill-736x800.png 2x" media="(min-width: 800px)">
+<img src="https://theodi.cdn.ngo/media/images/utilities-water-case-study-illustr.2e16d0ba.fill-368x400.png" srcset="https://theodi.cdn.ngo/media/images/utilities-water-case-study-illustr.2e16d0ba.fill-184x200.png 184w, 
+                        https://theodi.cdn.ngo/media/images/utilities-water-case-study-illustr.2e16d0ba.fill-368x400.png 368w, 
+                        https://theodi.cdn.ngo/media/images/utilities-water-case-study-illustr.2e16d0ba.fill-736x800.png 736w" alt="utilities water case study illustration credit Philpott Design case study" loading="lazy" fetchpriority="auto" decoding="async" class sizes="(max-width: 400px) 184px,
+                600px">
+</picture>
+</div>
+<div class="featured-block__highlighted-card-body">
+<p class="featured-block__type">Impact story</p>
+<h2 class="featured-block__highlighted-card-title"><a href="/insights/impact-stories/case-study-utilities-convening-the-water-sector-to-deliver-value-from-open-data/" class="featured-block__highlighted-card-link">Convening the water sector to deliver value from open data</a>
+</h2>
+<div class="featured-block__highlighted-card-body-text">
+Convening the water sector to deliver value from open data
+</div>
+<a href="/insights/impact-stories/case-study-utilities-convening-the-water-sector-to-deliver-value-from-open-data/"><svg class="right-arrow" viewBox="-2.4 -2.4 28.80 28.80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g stroke-width="0"></g>
+<g stroke-linecap="butt" stroke-linejoin="round"></g>
+<g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.2929 4.29289C12.6834 3.90237 13.3166 3.90237 13.7071 4.29289L20.7071 11.2929C21.0976 11.6834 21.0976 12.3166 20.7071 12.7071L13.7071 19.7071C13.3166 20.0976 12.6834 20.0976 12.2929 19.7071C11.9024 19.3166 11.9024 18.6834 12.2929 18.2929L17.5858 13H4C3.44772 13 3 12.5523 3 12C3 11.4477 3.44772 11 4 11H17.5858L12.2929 5.70711C11.9024 5.31658 11.9024 4.68342 12.2929 4.29289Z" fill="#000000"></path>
+</g>
+</svg></a>
+</div>
+</div>
+<div class="featured-block__secondary-cards">
+<div class="featured-block__secondary-card">
+<p class="featured-block__type">Impact story</p>
+<h2 class="featured-block__secondary-card-title">
+<a href="/insights/impact-stories/case-study-the-value-of-sharing-data-to-build-trust/" class="featured-block__secondary-card-link">Case study: The value of sharing data to build trust</a>
+</h2>
+<a href="/insights/impact-stories/case-study-the-value-of-sharing-data-to-build-trust/"><svg class="right-arrow" viewBox="-2.4 -2.4 28.80 28.80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g stroke-width="0"></g>
+<g stroke-linecap="butt" stroke-linejoin="round"></g>
+<g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.2929 4.29289C12.6834 3.90237 13.3166 3.90237 13.7071 4.29289L20.7071 11.2929C21.0976 11.6834 21.0976 12.3166 20.7071 12.7071L13.7071 19.7071C13.3166 20.0976 12.6834 20.0976 12.2929 19.7071C11.9024 19.3166 11.9024 18.6834 12.2929 18.2929L17.5858 13H4C3.44772 13 3 12.5523 3 12C3 11.4477 3.44772 11 4 11H17.5858L12.2929 5.70711C11.9024 5.31658 11.9024 4.68342 12.2929 4.29289Z" fill="#000000"></path>
+</g>
+</svg></a>
+</div>
+<div class="featured-block__secondary-card">
+<p class="featured-block__type">Impact story</p>
+<h2 class="featured-block__secondary-card-title">
+<a href="/insights/impact-stories/supporting-open-and-trustworthy-health-data-ecosystems-in-europe-with-roche/" class="featured-block__secondary-card-link">Supporting open and trustworthy health data ecosystems in Europe with Roche</a>
+</h2>
+<a href="/insights/impact-stories/supporting-open-and-trustworthy-health-data-ecosystems-in-europe-with-roche/"><svg class="right-arrow" viewBox="-2.4 -2.4 28.80 28.80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g stroke-width="0"></g>
+<g stroke-linecap="butt" stroke-linejoin="round"></g>
+<g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.2929 4.29289C12.6834 3.90237 13.3166 3.90237 13.7071 4.29289L20.7071 11.2929C21.0976 11.6834 21.0976 12.3166 20.7071 12.7071L13.7071 19.7071C13.3166 20.0976 12.6834 20.0976 12.2929 19.7071C11.9024 19.3166 11.9024 18.6834 12.2929 18.2929L17.5858 13H4C3.44772 13 3 12.5523 3 12C3 11.4477 3.44772 11 4 11H17.5858L12.2929 5.70711C11.9024 5.31658 11.9024 4.68342 12.2929 4.29289Z" fill="#000000"></path>
+</g>
+</svg></a>
+</div>
+<div class="featured-block__secondary-card">
+<p class="featured-block__type">Impact story</p>
+<h2 class="featured-block__secondary-card-title">
+<a href="/insights/impact-stories/case-study-policy-experimentalism-in-the-fourth-industrial-revolution/" class="featured-block__secondary-card-link">Case study: Policy – experimentalism in the Fourth Industrial Revolution</a>
+</h2>
+<a href="/insights/impact-stories/case-study-policy-experimentalism-in-the-fourth-industrial-revolution/"><svg class="right-arrow" viewBox="-2.4 -2.4 28.80 28.80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g stroke-width="0"></g>
+<g stroke-linecap="butt" stroke-linejoin="round"></g>
+<g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.2929 4.29289C12.6834 3.90237 13.3166 3.90237 13.7071 4.29289L20.7071 11.2929C21.0976 11.6834 21.0976 12.3166 20.7071 12.7071L13.7071 19.7071C13.3166 20.0976 12.6834 20.0976 12.2929 19.7071C11.9024 19.3166 11.9024 18.6834 12.2929 18.2929L17.5858 13H4C3.44772 13 3 12.5523 3 12C3 11.4477 3.44772 11 4 11H17.5858L12.2929 5.70711C11.9024 5.31658 11.9024 4.68342 12.2929 4.29289Z" fill="#000000"></path>
+</g>
+</svg></a>
+</div>
+</div>
+</div>
+</section>
+<section class="newsletter">
+<div class="contained-width newsletter__layout">
+<h2 class="newsletter__title">The Week in Data</h2>
+<div class="newsletter__body">
+<div class="rich-text"><p data-block-key="eb7xq">There’s always something exciting going on in the world of data. Keep your finger on the pulse with our weekly digests – with everything from breaking news to cutting-edge innovations, free talks and event discounts. Oh, and we’re not averse to the occasional pun!</p></div>
+<a class="newsletter__link" href="/sign-up-to-the-week-in-data/">Sign up today</a>
+</div>
+</div>
+</section>
+</div>
+</main>
+<footer class="footer">
+<div class="contained-width footer__layout">
+<div class="footer__content-contact">
+<span class="odi-logo">
+<svg viewBox="0 0 77.1 32.3" preserveAspectRatio="xMinYMin" xml:space="preserve">
+<path d="M77 .4v31.5H62V21.4c-2 6.5-8 10.5-15.8 10.5H32.1V21.5c-2.2 6.2-8.3 10.7-15.4 10.7C7.6 32.2.3 25 .3 16.2S7.6.2 16.7.2c7.1 0 13.2 4.5 15.4 10.7V.4h14.1C54 .4 60 4.4 62 10.9V.4h15z"></path>
+</svg>
+<svg viewBox="0 0 77.1 32.3" preserveAspectRatio="xMinYMin" xml:space="preserve">
+<path d="M32.4 17.3c-.1 0-.3.1-.4.1-.1 0-.3.1-.4.1-.2 0-.3 0-.5.1-.2 0-.3.1-.4.1s-.3.1-.4.2-.2.2-.2.3c-.1.1-.1.3-.1.5s0 .3.1.5.2.2.3.3c.1.1.2.1.4.1h.4c.4 0 .7-.1.9-.2.2-.1.4-.3.5-.5s.2-.4.2-.6V17c-.1.2-.2.3-.4.3zm-3.8-2.8c.2-.3.4-.6.8-.8.3-.2.7-.3 1.1-.4.4-.1.8-.1 1.2-.1s.7 0 1.1.1c.4.1.7.2 1 .3.3.2.5.4.7.6.2.3.3.6.3 1.1v3.8c0 .3 0 .7.1 1 0 .3.1.5.2.7h-2c0-.1-.1-.2-.1-.4 0-.1 0-.2-.1-.4-.3.3-.7.6-1.1.7s-.8.2-1.3.2c-.3 0-.7 0-.9-.1-.3-.1-.6-.2-.8-.4-.2-.2-.4-.4-.5-.7-.1-.3-.2-.6-.2-1s.1-.8.2-1c.1-.3.3-.5.6-.6.2-.2.5-.3.8-.4s.6-.1.9-.2c.3 0 .6-.1.9-.1s.5-.1.8-.1.4-.1.5-.2.2-.3.2-.5 0-.4-.1-.5l-.3-.3s-.2-.1-.4-.1h-.5c-.4 0-.7.1-.9.3s-.3.5-.4.9h-1.9c-.2-.7-.1-1.1.1-1.4zm-1.4-1.1v1.4h-1.4v3.7c0 .3.1.6.2.7s.3.2.7.2h.6V21c-.2 0-.3 0-.6.1h-.6c-.3 0-.6 0-.9-.1s-.5-.1-.7-.3c-.2-.1-.4-.3-.5-.5s-.2-.5-.2-.9v-4.4h-1.2v-1.4h1.2v-2.2h1.9v2.2l1.5-.1zm-7.5 3.9c-.1 0-.3.1-.4.1s-.3.1-.4.1c-.2 0-.3 0-.5.1-.2 0-.3.1-.4.1s-.3.1-.4.2l-.3.3c-.1.1-.1.3-.1.5s0 .3.1.5.2.2.3.3c.1.1.2.1.4.1h.4c.4 0 .7-.1.9-.2.2-.1.4-.3.5-.5s.2-.4.2-.6V17c-.1.2-.2.3-.3.3zm-3.8-2.8c.2-.3.5-.6.8-.8s.7-.3 1.1-.4c.4-.1.8-.1 1.2-.1.3 0 .7 0 1.1.1s.7.2 1 .3c.3.2.5.4.7.6.2.3.3.6.3 1.1v3.8c0 .3 0 .7.1 1 0 .3.1.5.2.7h-2c0-.1-.1-.2-.1-.4V20c-.3.3-.7.6-1.1.7s-.9.2-1.3.2c-.3 0-.7 0-.9-.1-.3-.1-.6-.2-.8-.4-.2-.2-.4-.4-.5-.7-.1-.3-.2-.6-.2-1s.1-.8.2-1c.2-.3.3-.5.6-.6.2-.2.5-.3.8-.4s.6-.1.9-.2c.3 0 .6-.1.9-.1s.5-.1.8-.1c.2-.1.4-.1.5-.2s.2-.3.2-.5 0-.4-.1-.5l-.3-.3c-.1-.1-.2-.1-.4-.1h-.5c-.4 0-.7.1-.9.3-.2.2-.3.5-.4.9h-1.9c-.3-.7-.2-1.1 0-1.4zm-3.7 5.3c-.2.4-.5.7-.9.9-.3.2-.7.3-1.2.3s-1-.1-1.4-.3c-.4-.2-.7-.5-1-.9s-.5-.8-.6-1.3c-.1-.5-.2-1-.2-1.5s.1-1 .2-1.4c.1-.5.3-.9.6-1.2.3-.4.6-.6 1-.9.4-.2.8-.3 1.4-.3.4 0 .8.1 1.2.3s.7.5.9.8v-3.7h1.9v10.2h-1.8l-.1-1zm0-3.6c-.1-.3-.2-.5-.3-.7s-.3-.4-.5-.5-.5-.2-.8-.2-.6.1-.8.2c-.2.1-.4.3-.5.5s-.2.5-.3.8c-.1.3-.1.6-.1.9s0 .6.1.9.2.5.3.8c.1.2.3.4.5.5s.5.2.8.2.6-.1.8-.2.4-.3.5-.5.2-.5.3-.8.1-.6.1-.9-.1-.7-.1-1z"></path>
+<path d="M6.9 32h2v-6.8h-2V32zm0-7.9h2v-1.5h-2v1.5zm48.2 6.3c-.3-.3-.5-.7-.5-1.3h5.1c0-.5 0-1-.1-1.5s-.3-.9-.6-1.3-.6-.7-1.1-.9c-.4-.2-1-.3-1.6-.3-.5 0-1 .1-1.5.3-.4.2-.8.4-1.1.8-.3.3-.6.7-.7 1.1s-.3.9-.3 1.4.1 1 .3 1.5.4.8.7 1.1c.3.3.7.6 1.1.7.4.1 1 .3 1.5.3.8 0 1.5-.2 2.1-.5.6-.4 1-.9 1.3-1.8H58c-.1.2-.2.4-.5.6s-.6.3-1 .3c-.7-.1-1.1-.2-1.4-.5zm2.2-3.6c.2.2.4.6.5 1.1h-3.2c0-.1 0-.3.1-.5s.1-.3.3-.5c.1-.1.3-.3.5-.4s.5-.1.8-.1c.4 0 .7.1 1 .4zm-6.8-1.6v-2h-2v2h-1.2v1.3h1.2v4c0 .3.1.6.2.8.1.2.3.4.5.5s.4.2.7.2.6.1.9.1H52v-1.5h-.6c-.3 0-.6 0-.7-.2-.1-.1-.2-.3-.2-.6v-3.4h1.4v-1.3l-1.4.1zM46.1 32v-6.8h-2v3.6c0 .7-.1 1.2-.4 1.5-.2.3-.6.5-1.2.5-.5 0-.8-.1-1-.4s-.3-.7-.3-1.3v-3.8h-2v4.2c0 .4 0 .8.1 1.2.1.3.2.6.4.9.2.2.4.4.8.6.3.1.8.2 1.3.2.4 0 .8-.1 1.2-.3.4-.2.7-.5 1-.9v1l2.1-.2zM37 25.2v-2h-2v2h-1.2v1.3H35v4c0 .3.1.6.2.8.1.2.3.4.5.5s.4.2.7.2.6.1.9.1h1.2v-1.5h-.6c-.3 0-.6 0-.7-.2-.2-.1-.2-.3-.2-.6v-3.4h1.4v-1.3l-1.4.1zM30.9 32h1.9v-6.8h-2l.1 6.8zm0-7.9h1.9v-1.5h-2l.1 1.5zm-2.7 1.1v-2h-2v2H25v1.3h1.2v4c0 .3.1.6.2.8.1.2.3.4.5.5s.4.2.7.2c.3 0 .6.1.9.1h1.2v-1.5h-.6c-.3 0-.6 0-.7-.2-.1-.1-.2-.3-.2-.6v-3.4h1.4v-1.3l-1.4.1zm-8.3 5.1c-.1-.1-.1-.3-.1-.5H18c0 .5.1.8.3 1.1.2.3.4.5.8.7.3.2.7.3 1.1.4s.8.1 1.2.1c.4 0 .8 0 1.2-.1.4-.1.7-.2 1-.4.3-.2.6-.4.7-.7.2-.3.3-.7.3-1.1 0-.3-.1-.6-.2-.8-.1-.2-.3-.4-.5-.5s-.5-.3-.7-.4c-.3-.1-.6-.2-.8-.2-.3-.1-.6-.1-.8-.2-.3-.1-.5-.1-.7-.2s-.4-.2-.5-.3c-.1-.1-.2-.2-.2-.4 0-.1 0-.3.1-.3.1-.1.2-.1.3-.2.1 0 .2-.1.3-.1h.4c.3 0 .7.1.9.2.3.1.4.4.4.7h1.9c0-.4-.2-.8-.3-1-.2-.3-.4-.5-.7-.7-.3-.2-.6-.3-1-.4h-1.3s-.8 0-1.1.1c-.4.1-.7.2-1 .3-.3.2-.5.4-.7.7s-.3.6-.3 1.1c0 .3.1.6.2.8.1.2.3.4.5.5s.4.2.7.3c.3.1.6.2.8.2.7.1 1.2.3 1.6.4s.6.4.6.6 0 .3-.1.4l-.3.3c-.1.1-.3.1-.4.1h-.4c-.2 0-.4 0-.6-.1-.2 0-.3-.1-.5-.2-.1.1-.2 0-.3-.2zm-9.6-5.1V32h2v-3.6c0-.7.1-1.2.3-1.5s.6-.5 1.2-.5c.5 0 .8.1 1 .4s.3.7.3 1.3V32H17v-4.2c0-.4 0-.8-.1-1.2-.1-.3-.2-.6-.4-.9-.2-.2-.5-.4-.8-.6-.3-.1-.8-.2-1.3-.2-.4 0-.8.1-1.2.3-.4.2-.7.5-1 .9v-1l-1.9.1z"></path>
+<path d="M34.1.4v1c.3-.4.6-.8 1-1s.8-.3 1.2-.3c.5 0 1 .1 1.3.2s.6.4.8.6c.2.3.3.6.4 1s.1.8.1 1.3v4.6h-2V3.7c0-.6-.1-1.1-.3-1.4s-.5-.5-1-.5-.9.2-1.2.5c-.2.3-.4.9-.4 1.7v4h-2V.4h2.1zm-7.8 5.7c.3.3.7.5 1.3.5.4 0 .7-.1 1-.3.3-.2.5-.4.5-.7h1.7c-.3.9-.7 1.6-1.3 1.9-.6.4-1.3.6-2.1.6-.6 0-1.1-.1-1.5-.3-.5-.2-.8-.5-1.2-.8-.3-.3-.6-.8-.7-1.3-.2-.5-.3-1-.3-1.6s.1-1.1.3-1.6c.2-.5.4-.9.8-1.3.3-.4.7-.6 1.2-.8s.9-.3 1.5-.3 1.1.1 1.6.4c.5.2.8.6 1.1 1 .3.4.5.9.6 1.4.2.6.2 1.1.2 1.7h-5.2c0 .7.2 1.2.5 1.5zm2.2-4c-.2-.3-.6-.4-1.1-.4-.3 0-.6.1-.8.2-.2.1-.4.2-.5.4s-.2.3-.3.5c-.1.2-.1.4-.1.5H29c-.1-.5-.2-.9-.5-1.2zM17.4.4v1c.2-.4.5-.7.9-.9s.8-.3 1.2-.3c.6 0 1.1.1 1.5.3s.8.5 1 .9c.3.4.5.8.6 1.3s.2 1 .2 1.5-.1 1-.2 1.5-.3.9-.6 1.2c-.3.4-.6.6-1 .9-.4.2-.9.3-1.4.3-.4 0-.9-.1-1.2-.3-.4-.2-.7-.5-.9-.8v3.6h-2V.4h1.9zm2.6 6c.2-.1.4-.3.5-.5s.2-.5.3-.8c.1-.3.1-.6.1-.9 0-.3 0-.6-.1-.9s-.2-.6-.3-.8c-.1-.2-.3-.4-.5-.6-.2-.1-.5-.2-.8-.2s-.6.1-.8.2c-.2.1-.4.3-.5.5-.1.2-.2.5-.3.8-.1.3-.1.6-.1.9 0 .3 0 .6.1.9s.2.5.3.8c.1.2.3.4.5.5s.5.2.8.2c.3.1.6 0 .8-.1zM7.2 2.5c.2-.5.4-.9.7-1.2.3-.3.7-.6 1.2-.8s1-.3 1.5-.3 1.1.1 1.5.3c.5.2.8.5 1.2.8.3.3.6.8.8 1.3s.3 1 .3 1.6-.1 1.1-.3 1.6-.4.9-.7 1.2-.7.6-1.2.8-1 .3-1.5.3-1.1-.1-1.6-.3c-.4-.2-.8-.4-1.1-.8-.4-.3-.6-.7-.8-1.2-.2-.5-.3-1.1-.3-1.7S7 3 7.2 2.5zM9 5c0 .3.1.6.3.8.1.2.3.4.5.6s.5.2.8.2.6-.1.8-.2c.3-.2.5-.4.6-.6s.2-.5.3-.8.1-.6.1-.9c0-.3 0-.6-.1-.9s-.2-.5-.3-.8c-.1-.2-.3-.4-.5-.5s-.5-.2-.8-.2-.6.1-.8.2c-.3.2-.5.3-.6.6-.1.2-.2.4-.3.7 0 .3-.1.6-.1.9 0 .3.1.6.1.9z"></path>
+</svg>
+</span>
+<address class="footer__address">
+Open Data Institute, <br/>
+4th Floor, Kings Place, 90 York Way, London N1 9AG
+</address>
+<p class="footer__copyright">
+<span>&#169 The Open Data Institute. 2024</span>
+</p>
+</div>
+<div class="footer__main-navigation">
+<ul>
+<li><a href="/our-policies/">Our policies</a></li>
+<li><a href="/about-the-odi/contact-us/">Contact us</a></li>
+<li><a href="/about-the-odi/press-and-media/">Press and media</a></li>
+<li><a href="/insights/guides/the-odi-brand-book/">The ODI brand book</a></li>
+<li><a href="/about-the-odi/work-with-us/">Work with us</a></li>
+<li><a href="/sign-up-to-the-week-in-data/">Sign up to The Week in Data</a></li>
+</ul>
+</div>
+<ul class="footer__social-media">
+<li>
+<a rel="noopener noreferrer" target="_blank" class="social-links__link facebook" href="https://www.facebook.com/MyODIHQ/" aria-label="Visit our Facebook">
+<svg xmlns="http://www.w3.org/2000/svg" height="30" width="30" viewBox="0 0 512 512"><path fill="#feffff" d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z" /></svg>
+</a>
+</li>
+<li>
+<a rel="noopener noreferrer" target="_blank" class="social-links__link twitter" href="https://twitter.com/ODIHQ" aria-label="Visit our Twitter">
+<svg xmlns="http://www.w3.org/2000/svg" height="30" width="30" viewBox="0 0 512 512"><path fill="#feffff" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" /></svg>
+</a>
+</li>
+<li>
+<a rel="noopener noreferrer" target="_blank" class="social-links__link linkedin" href="https://uk.linkedin.com/company/the-open-data-institute" aria-label="Visit our Linkedin">
+<svg width="30px" height="30px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g transform="translate(0.9134, 0.017)" fill="#FFFFFF">
+<path d="M10.6971893,3.81320251 C9.16869318,3.81320251 8.2262769,4.69935514 7.84783681,5.28409531 L7.79157315,5.28409531 L7.65962147,4.0201724 L5.16794514,4.0201724 C5.20545425,4.83197662 5.24363316,5.81391143 5.24363316,6.96396742 L5.24430297,6.96396742 L5.24430297,13.2487521 L8.11374958,13.2487521 L8.11374958,7.92580806 C8.11374958,7.6612349 8.15058888,7.39800136 8.2262769,7.20911622 C8.41449223,6.6806397 8.88536547,6.13340864 9.67841514,6.13340864 C10.7166136,6.13340864 11.131893,6.94387325 11.131893,8.13411756 L11.131893,13.2480823 L14,13.2480823 L14,7.77443203 C14,5.05770106 12.5847011,3.81320251 10.6971893,3.81320251 Z"></path>
+<polygon points="2.94553061 4.01883279 0.0760840023 4.01883279 0.0760840023 13.2474125 2.94553061 13.2474125"></polygon>
+<path d="M1.5094677,0 C0.585136155,0 -0.0176887627,0.622249277 0.000395984807,1.45347786 C-0.0176887627,2.24518792 0.585805961,2.88552194 1.49205275,2.88552194 C2.43580865,2.88552194 3.03930338,2.24518792 3.03930338,1.45347786 C3.02121863,0.622249277 2.43580865,0 1.5094677,0 L1.5094677,0 Z"></path>
+</g>
+</g>
+</svg>
+</a>
+</li>
+</ul>
+<div class="footer__badge">
+<a href="https://www.ngosource.org/about-equivalency-determination-on-file-badge" aria-label="Equivalency Determination on File Badge">
+<img src="/static/images/ngos_ed_on_file_widget.4114ecd7b72a.png" width="300" height="115" alt>
+</a>
+</div>
+</div>
+</footer>
+<script type="text/javascript" src="/static/js/main.min.7684f978d3bd.js"></script>
+</body>
+</html>

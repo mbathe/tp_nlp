@@ -1,0 +1,395 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Artificial Intelligence at the service of the citizen &mdash; AI White Paper draft documentation</title>
+                
+    <link rel="stylesheet" href="_static/css/theme.css" type="text/css" /> 
+    <link rel="stylesheet" href="_static/css/custom.css" type="text/css" />  
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="top" title="AI White Paper draft documentation" href="#" />
+    <link rel="next" title="﻿Making the most of artificial intelligence in Italy and Europe" href="doc/making_the_most.html" />  
+    <script src="_static/js/modernizr.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:200,300,400,600,700,900" rel="stylesheet">
+
+
+<!-- RTD Extra Head -->
+
+<!-- 
+Always link to the latest version, as canonical.
+http://docs.readthedocs.org/en/latest/canonical.html
+-->
+<link rel="canonical" href="http://libro-bianco-ia.readthedocs.io/en/latest/" />
+
+<link rel="stylesheet" href="https://media.readthedocs.org/css/readthedocs-doc-embed.css" type="text/css" />
+
+<script type="text/javascript" src="_static/readthedocs-data.js"></script>
+
+<!-- Add page-specific data, which must exist in the page js, not global -->
+<script type="text/javascript">
+READTHEDOCS_DATA['page'] = 'index'
+READTHEDOCS_DATA['source_suffix'] = '.rst'
+</script>
+
+<script type="text/javascript" src="https://media.readthedocs.org/javascript/readthedocs-analytics.js"></script>
+
+<!-- end RTD <extrahead> -->
+<script async type="text/javascript" src="/_/static/javascript/readthedocs-addons.js"></script><meta name="readthedocs-project-slug" content="ai-white-paper" /><meta name="readthedocs-version-slug" content="latest" /><meta name="readthedocs-resolver-filename" content="/" /><meta name="readthedocs-http-status" content="200" /></head>
+
+<body class="wy-body-for-nav" role="document">
+<div id="slimheader">
+    <!-- Pushy Menu -->
+<nav class="pushy pushy-left">
+    <div class="pushy-content">
+        <div class="pushy-close-button">
+        <a class="pushy-link" href="#">
+        <img src="data:image/png;base64,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">
+        </a>
+        </div><!--/pushy-close-button-->
+        <ul>
+            <li class="pushy-link">
+                <a href="https://ia.italia.it/">Task force</a>
+            </li>
+            <li class="pushy-link">
+                <a href="https://ia.italia.it/community">Community</a>
+            </li>
+            <li class="pushy-link current">
+                <a href="https://whitepaper-ia.readthedocs.io/">White paper</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<!-- Site Overlay -->
+<div class="site-overlay"></div>
+
+<!-- Your Content -->
+<div id="container">
+    <!-- Menu Button -->
+
+</div>
+    <div class="sh__wrapper">
+    <div class="sh__institutional">
+        <a class="pushy-menu-btn menu-btn" href="#"><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTkuMnB4IiBoZWlnaHQ9IjE2cHgiIHZpZXdCb3g9IjAgMCAxMiAxMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSIxMDI0dXAiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSItLWhvbWUtLS1wYXJhbGxheC0tLW1vYmlsZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTI0LjAwMDAwMCwgLTIwLjAwMDAwMCkiIGZpbGw9IiNGRkZGRkYiPgogICAgICAgICAgICA8ZyBpZD0iLW5ldHdvcmstc2xpbS1oZWFkZXIiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTI0LDI0IEwzNiwyNCBMMzYsMjYgTDI0LDI2IEwyNCwyNCBaIE0yNCwyMCBMMzIsMjAgTDMyLDIyIEwyNCwyMiBMMjQsMjAgWiBNMjQsMjggTDMyLDI4IEwzMiwzMCBMMjQsMzAgTDI0LDI4IFoiIGlkPSJpY29uLXNtYWxsLWJ1cmdlciI+PC9wYXRoPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="></a>
+
+        <a href="http://www.agid.gov.it/" title="Agid">Agenzia per l'Italia Digitale</a>
+    </div><!--/sh__institutional-->
+    <div class="sh__tabs">
+    <ul class="sh__tabsul">
+      <li class="network-title delimiter">Task force IA
+        <img class="u-alignTop u-margin-left-s u-margin-right-s" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIxLjAuMiwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxpdmVsbG9fMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgd2lkdGg9IjY4cHgiIGhlaWdodD0iNjJweCIgdmlld0JveD0iMCAwIDY4IDYyIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA2OCA2MjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiNGRkZGRkY7fQo8L3N0eWxlPgo8cGF0aCBpZD0iRmlsbC0xIiBjbGFzcz0ic3QwIiBkPSJNNTkuNSwwQzY0LjIsMCw2OCwzLjgsNjgsOC40VjYyaC04LjVWMTEuMmMwLTEuNS0xLjMtMi44LTIuOC0yLjhIMTEuM2MtMS42LDAtMi44LDEuMy0yLjgsMi44VjYyCglIMFY4LjRDMCwzLjgsMy44LDAsOC41LDBINTkuNXoiLz4KPHBvbHlnb24gaWQ9IkZpbGwtNCIgY2xhc3M9InN0MCIgcG9pbnRzPSIzMC4zLDYyIDM4LjYsNjIgMzguNiwyOC4zIDMwLjMsMjguMyAiLz4KPHBhdGggaWQ9IkZpbGwtNiIgY2xhc3M9InN0MCIgZD0iTTI1LjcsMzEuNWMwLTIuMy0xLjktNC4xLTQuMS00LjFzLTQuMSwxLjgtNC4xLDQuMXMxLjksNC4xLDQuMSw0LjFTMjUuNywzMy43LDI1LjcsMzEuNSIvPgo8L3N2Zz4K">
+      </li>
+      <li class=""><a href="https://ia.italia.it/">Web</a></li>
+      <li class=""><a href="https://ia.italia.it/community/">Community</a></li>
+      <li class="current"><a href="https://ai-white-paper.readthedocs.io//">AI White Paper</a></li>
+    </ul>
+    </div><!--/.sh__tabs-->
+		<div class="burger" data-toggle="wy-nav-top">
+		  <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAzMiAzMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02LjEsOC45bDE3LDE3YzAuOCwwLjgsMi4xLDAuOCwyLjgsMGMwLjgtMC44LDAuOC0yLjEsMC0yLjhsLTE3LTE3Yy0wLjgtMC44LTIuMS0wLjgtMi44LDBTNS4zLDguMiw2LjEsOC45eiINCgkvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTIzLjEsNi4xbC0xNywxN2MtMC44LDAuOC0wLjgsMi4xLDAsMi44YzAuOCwwLjgsMi4xLDAuOCwyLjgsMGwxNy0xN2MwLjgtMC44LDAuOC0yLjEsMC0yLjgNCglDMjUuMSw1LjMsMjMuOCw1LjMsMjMuMSw2LjF6Ii8+DQo8L3N2Zz4=">
+		</div>
+    </div><!--/.wrapper-->
+</div><!--/#slimheader-->
+
+
+     
+    <div class="wy-grid-for-nav">
+
+        
+        <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+            <div class="wy-side-scroll">
+                <div class="wy-side-nav-search">
+                    
+                    <div class="branding clearfix">
+                        <div class="branding--logo">
+                            <a href="https://ia.italia.it">
+                              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="68px" height="62px" viewBox="0 0 68 62" style="enable-background:new 0 0 68 62;" xml:space="preserve">
+                                <style type="text/css">
+                                  .st0{fill:#FFFFFF;}
+                                </style>
+                                <path id="Fill-1" class="st0" d="M59.5,0C64.2,0,68,3.8,68,8.4V62h-8.5V11.2c0-1.5-1.3-2.8-2.8-2.8H11.3c-1.6,0-2.8,1.3-2.8,2.8V62 H0V8.4C0,3.8,3.8,0,8.5,0H59.5z"/>
+                                <polygon id="Fill-4" class="st0" points="30.3,62 38.6,62 38.6,28.3 30.3,28.3 "/>
+                                <path id="Fill-6" class="st0" d="M25.7,31.5c0-2.3-1.9-4.1-4.1-4.1s-4.1,1.8-4.1,4.1s1.9,4.1,4.1,4.1S25.7,33.7,25.7,31.5"/>
+                              </svg>
+                          </a>
+                        </div>
+                        <!--
+                        <div class="branding--content">
+                            <h2 class="branding--title">
+                                <span class="branding--title--branch">/ <a href="https://ai.italia.it">docs</a></span>
+                            </h2>
+                        </div>
+                        -->
+                    </div>
+
+                    
+                    
+                    <h1 class="project-title"><a href="#" > AI White Paper </a>
+                       
+                        
+                        <br/><small>version: </small><span class="version">draft</span>
+                    </h1>
+                       
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Cerca nel documento" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div> 
+                </div>
+
+                <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                   
+                  
+                    
+                  
+                    
+                      <ul>
+<li class="toctree-l1"><a class="reference internal" href="doc/making_the_most.html">﻿Making the most of artificial intelligence in Italy and Europe</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doc/a_new_common_culture.html">﻿A new common culture for the innovation of public services</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doc/for_those_who.html">﻿For those who do not have time: Summary of the White Paper</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doc/capitolo_1.html">﻿Chapter 1 - Italy and digital services</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_1.html#introduction">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_1.html#an-overview-of-digital-government-in-italy">An overview of digital government in Italy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_1.html#the-italian-digital-strategy">The Italian digital strategy</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="doc/capitolo_2.html">﻿Chapter 2 - Artificial intelligence today</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_2.html#the-main-application-areas">The main application areas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_2.html#the-potential-of-ai-in-public-administration">The potential of AI in Public Administration</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="doc/capitolo_3.html">Chapter 3: The challenges of AI at the service of citizens</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_1.html">﻿Challenge 1: Ethics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_2.html">﻿Challenge 2: Technology</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_3.html">﻿Challenge 3: Skills</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_4.html">﻿Challenge 4: Role of data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_5.html">﻿Challenge 5: Legal context</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_6.html">﻿Challenge 6: Accompanying the transformation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_7.html">﻿Challenge 7: Preventing inequalities</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_8.html">﻿Challenge 8: Measuring the impact</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_9.html">﻿Challenge 9: The human being</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="doc/raccomandazioni.html">﻿Recommendations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doc/and_now.html">And now? The first steps for an AI-ready PA</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#area-of-application-of-ai-solution">Area of application of AI solution</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#well-planned-initial-investiments">Well-planned initial investiments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#let-s-not-forget-the-three-year-plan">Let’s not forget the three-year plan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#start-small">Start small</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#work-on-data">Work on data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#development-of-professionalism-and-skills">Development of professionalism and skills</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#stay-updated">Stay updated</a></li>
+</ul>
+</li>
+</ul>
+
+                    
+                    
+                </div>
+            </div>
+        </nav>
+
+        <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+            
+            <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+				    
+                <div class="logo">
+                  <a href="https://ai.italia.it">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="68px" height="62px" viewBox="0 0 68 62" style="enable-background:new 0 0 68 62;" xml:space="preserve">
+                      <style type="text/css">
+                        .st0{fill:#FFFFFF;}
+                      </style>
+                      <path id="Fill-1" class="st0" d="M59.5,0C64.2,0,68,3.8,68,8.4V62h-8.5V11.2c0-1.5-1.3-2.8-2.8-2.8H11.3c-1.6,0-2.8,1.3-2.8,2.8V62 H0V8.4C0,3.8,3.8,0,8.5,0H59.5z"/>
+                      <polygon id="Fill-4" class="st0" points="30.3,62 38.6,62 38.6,28.3 30.3,28.3 "/>
+                      <path id="Fill-6" class="st0" d="M25.7,31.5c0-2.3-1.9-4.1-4.1-4.1s-4.1,1.8-4.1,4.1s1.9,4.1,4.1,4.1S25.7,33.7,25.7,31.5"/>
+                    </svg>
+                  </a>
+                </div>
+                <div class="title">
+                  <a href="#">AI White Paper</a>
+                </div>
+                <div class="burger" data-toggle="wy-nav-top">
+                  <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAzMiAzMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00LDhoMjRjMS4xLDAsMi0wLjksMi0ycy0wLjktMi0yLTJINEMyLjksNCwyLDQuOSwyLDZTMi45LDgsNCw4eiIvPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTI4LDE0SDRjLTEuMSwwLTIsMC45LTIsMnMwLjksMiwyLDJoMjRjMS4xLDAsMi0wLjksMi0yUzI5LjEsMTQsMjgsMTR6Ii8+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjgsMjRINGMtMS4xLDAtMiwwLjktMiwyczAuOSwyLDIsMmgyNGMxLjEsMCwyLTAuOSwyLTJTMjkuMSwyNCwyOCwyNHoiLz4NCjwvc3ZnPg==">
+                </div>
+            
+            </nav>
+            <div class="nav-overlay" data-toggle="wy-nav-top"></div>
+
+
+            
+            <div class="wy-nav-content">
+                <div class="rst-content">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="#">Table of contents </a> &raquo;</li>
+        
+      <li>Artificial Intelligence at the service of the citizen</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            
+              <a href="https://github.com/task-force-ia/taskforce-ia-doc-en/blob/master/./index.rst" class="fa fa-github"> Vedi su GitHub</a>
+            
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+                    <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+                        <div itemprop="articleBody">
+                            
+  <p><strong>White paper</strong></p>
+<div class="section" id="artificial-intelligence-at-the-service-of-the-citizen">
+<h1>Artificial Intelligence at the service of the citizen<a class="headerlink" href="#artificial-intelligence-at-the-service-of-the-citizen" title="Permalink to this headline">¶</a></h1>
+<p>The White Paper, edited by the AI Task Force promoted by the Agency for Digital Italy, is the result of a consultation, synthesis and analysis process that has involved hundreds of public and private subjects dealing with Artificial Intelligence in Italy.</p>
+<p>The consultation ended on <strong>March 12th 2018</strong>.</p>
+<p>The Italian version of the White Paper was presented on <strong>March 21, 2018</strong>.</p>
+<p>The English version of the White Paper is available in PDF version (<a class="reference external" href="https://ia.italia.it/en/assets/whitepaper.pdf">https://ia.italia.it/en/assets/whitepaper.pdf</a>).</p>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="doc/making_the_most.html">﻿Making the most of artificial intelligence in Italy and Europe</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doc/a_new_common_culture.html">﻿A new common culture for the innovation of public services</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doc/for_those_who.html">﻿For those who do not have time: Summary of the White Paper</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doc/capitolo_1.html">﻿Chapter 1 - Italy and digital services</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_1.html#introduction">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_1.html#an-overview-of-digital-government-in-italy">An overview of digital government in Italy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_1.html#the-italian-digital-strategy">The Italian digital strategy</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="doc/capitolo_2.html">﻿Chapter 2 - Artificial intelligence today</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_2.html#the-main-application-areas">The main application areas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_2.html#the-potential-of-ai-in-public-administration">The potential of AI in Public Administration</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="doc/capitolo_3.html">Chapter 3: The challenges of AI at the service of citizens</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_1.html">﻿Challenge 1: Ethics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_2.html">﻿Challenge 2: Technology</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_3.html">﻿Challenge 3: Skills</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_4.html">﻿Challenge 4: Role of data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_5.html">﻿Challenge 5: Legal context</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_6.html">﻿Challenge 6: Accompanying the transformation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_7.html">﻿Challenge 7: Preventing inequalities</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_8.html">﻿Challenge 8: Measuring the impact</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/capitolo_3_sfida_9.html">﻿Challenge 9: The human being</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="doc/raccomandazioni.html">﻿Recommendations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="doc/and_now.html">And now? The first steps for an AI-ready PA</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#area-of-application-of-ai-solution">Area of application of AI solution</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#well-planned-initial-investiments">Well-planned initial investiments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#let-s-not-forget-the-three-year-plan">Let’s not forget the three-year plan</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#start-small">Start small</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#work-on-data">Work on data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#development-of-professionalism-and-skills">Development of professionalism and skills</a></li>
+<li class="toctree-l2"><a class="reference internal" href="doc/and_now.html#stay-updated">Stay updated</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+                        </div>
+                        <div class="articleComments">
+                            
+                        </div>
+                    </div>
+                    <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="doc/making_the_most.html" class="btn float-right" title="﻿Making the most of artificial intelligence in Italy and Europe" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        CC0 1.0 Universal - Agenzia per l&#39;Italia Digitale.
+      
+        <span class="commit">
+          Revisione <code>5531eab6</code>.
+        </span>
+      
+
+    </p>
+  </div>
+  Generato con <a href="http://sphinx-doc.org/">Sphinx</a> usando il tema ufficiale <a href="https://github.com/italia/sphinx_italia_theme">Italia</a> basato sul <a href="https://github.com/snide/sphinx_rtd_theme">tema</a> fornito da <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+                </div>
+            </div>
+
+        </section>
+
+    </div>
+    
+    
+    
+    
+
+  
+ 
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT: './',
+            VERSION: 'draft',
+            COLLAPSE_INDEX: false,
+            FILE_SUFFIX: '.html',
+            HAS_SOURCE: true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/jquery/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/jquery/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/underscore.js"></script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/doctools.js"></script>
+    <script type="text/javascript" src="https://media.readthedocs.org/javascript/readthedocs-doc-embed.js"></script>
+    <script type="text/javascript" src="_static/js/offcanvas.js"></script>     
+    <script type="text/javascript">
+        jQuery(function() {
+            SphinxRtdTheme.StickyNav.enable();
+        });
+    </script>
+     
+
+</body>
+
+</html>

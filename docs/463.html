@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="ministerstvo,průmysl,obchod,podnikání,zahraniční obchod,spotřebitel,energetika,stavebnictví,suroviny,průmysl,e-komunikace,pošta,Mládek" />
+    <meta name="format-detection" content="telephone=no"/>
+
+    <title>Stránka neexistuje - Page is not found | MPO</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="all">
+
+    <!-- Custom CSS -->
+    <link href="/css/mpo.css" rel="stylesheet">
+    <link href="/css/mpo-print.css" media="print" rel="stylesheet">
+    <link href="/css/bootstrap-datepicker.css" media="print" rel="stylesheet">
+
+    <!-- lightgallery CSS -->
+    <link rel="stylesheet" type="text/css" href="/js/lightgallery/css/lightgallery-bundle.css">
+    <link rel="stylesheet" type="text/css" href="/js/justifiedgallery/justifiedGallery.min.css">
+
+    <!-- Custom Fonts -->
+    <!-- <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"> -->
+    <link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script>var dataLayer = dataLayer || []; // Google Tag Manager</script>
+
+<!--WTD_A(cookies)-->
+
+<!--WTD_A(chatbot)-->
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <script src="/js/cookieconsent.min.js" type="text/javascript"></script>
+
+</head>
+<body>
+
+    <script>
+        const technical_cookies = ['PHPSESSID', 'WTDGUID', 'BNES_PHPSESSID', 'BNES_WTDGUID', 'cookieconsent_status'];
+
+        function check_cookie_name(name) {
+            var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+            if (match) {
+                // console.log(match[2]);
+                return false;
+            } else {
+                return true;
+            }
+        }
+
+        function removeCookies() {
+            let allCookies = document.cookie.split('; ');
+            let cookie_list_names = [];
+            // console.log('cl', cookie_list);
+            for (let cl of allCookies) {
+                let clvalue = cl.split('=');
+                cookie_list_names.push(clvalue[0]);
+                // console.log('clnp', clvalue[0]);
+            }
+            let cookies_to_remove = cookie_list_names.filter(function (val) {
+                return technical_cookies.indexOf(val) == -1;
+            });
+
+            // console.log('trm', cookies_to_remove);
+
+            for (var i of cookies_to_remove) {
+                var remove = true;
+                var hostname = window.location.hostname;
+                var cookieRemoved = false;
+                var index = 0;
+
+                // console.log('ck', i);
+
+                if (remove) {
+                    while (!cookieRemoved && hostname !== '') {
+                        // console.log('hn', hostname);
+                        document.cookie = i + "=; Max-Age=-99999999; path=/; domain=." + hostname + ";";
+                        cookieRemoved = check_cookie_name(i);
+                        if (!cookieRemoved) {
+                            document.cookie = i + "=; Max-Age=-99999999; path=/; domain=" + hostname + ";";
+                            cookieRemoved = check_cookie_name(i);
+                        }
+
+                        index = hostname.indexOf('.');
+
+                        hostname = (index === -1) ? '' : hostname.substring(index + 1);
+                    }
+
+                    if (!cookieRemoved) {
+                        document.cookie = i + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/;';
+                    }
+                }
+            }
+        }
+
+        window.addEventListener("load", function () {
+            window.cookieconsent.initialise({
+                "type": 'opt-in',
+                "position": "bottom",
+                "theme": "classic",
+                "cookie": {
+                    "expiryDays": 365,
+                },
+                "palette": {
+                    "popup": {
+                        "background": "#00488c",
+                        "text": "#ffffff"
+                    },
+                    "button": {
+                        "background": "#737373",
+                        "text": "#ffffff"
+                    }
+                },
+                "content": {
+                    "allow": "Souhlasím",
+                    "deny": "Nesouhlasím"
+                },
+                "elements": {
+                    messagelink: '<span id="cookieconsent:desc" class="cc-message">S Vaším souhlasem bychom rádi využívali soubory cookies k vyhodnocování souhrnných statistik provozu. Statistika návštěvnosti (analytické cookies) nám pomáhá monitorovat funkčnost portálu, míru využití jednotlivých stránek, a vylepšovat tak hlavně to, co návštěvníky nejvíce zajímá. Udělený souhlas můžete kdykoliv odvolat prostřednictvím odkazu "Souhlas s použitím cookies" v zápatí webu. K zajištění chodu webových stránek používáme technické cookies. Popis jednotlivých cookies, dobu jejich zpracování a další informace k využívání analytických nástrojů k tvorbě statistik provozu stránek naleznete na stránce <a style="color: #ffffff;" href="/cz/rozcestnik/ministerstvo/ochrana-osobnich-udaju/zasady-pouzivani-souboru-cookie--257148/">Zásady používání souborů cookie</a>.</span>'
+                },
+                "revokable": true,
+                "revokeBtn": '<div class="cc-revoke {{classes}}" id="cookie-settings-float_button">Souhlas s použitím cookies</div>',
+                onInitialise: function(status) {
+                    if (!this.hasConsented()) {
+                        removeCookies();
+                    }
+                },
+                onPopupOpen: function () {
+                    if (!this.hasConsented()) {
+                        removeCookies();
+                    }
+                },
+            });
+        });
+    </script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NQL3XN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NQL3XN');</script>
+<!-- End Google Tag Manager -->
+    <!-- Header -->
+<header role="banner">
+    <div class="container" id="top-mpo">
+      <div class="row">
+          <div class="col-xs-2">
+             <p id="accesslink">
+                Přeskočit na: <a href="#bs-main-navbar">navigaci</a> | <a href="#content">hlavní obsah stránky</a>
+             </p>
+             <a href="/" class="navbar-brand" style="">
+                <img class="img-responsive img-hover" alt="MPO - úvodní stránka" src="/images/2016/logo.gif">
+             </a>
+          </div>
+          <div class="col-xs-10">
+              <div class="row">
+                  <div class="col-xs-12">
+                      <ul class="nav navbar-nav navbar-right">
+                          <li>
+                          <li><a href="/cz/rozcestnik/kontakty/kontakty-na-ministerstvo-prumyslu-a-obchodu--22974/">Kontakty</a></li>
+                          <!--WTD_A(jazyk)-->
+                          <li><a onclick="window.open(this.href); return false" class="ikon_top" href="http://on.fb.me/1npFANf" aria-label="Facebook"><i class="fa fa-facebook"></i></a></li>
+                          <li><a onclick="window.open(this.href); return false" class="ikon_top" href="https://twitter.com/mpo_tweetuje" aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
+                          <li><a onclick="window.open(this.href); return false" class="ikon_top" href="https://www.linkedin.com/company/ministry-of-industry-and-trade-of-the-czech-republic/" aria-label="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                          <li><a onclick="window.open(this.href); return false" class="ikon_top" href="https://www.youtube.com/channel/UCwNM5NKJgVBGaaF-dHZq0wQ" aria-label="Youtube"><i class="fa fa-youtube"></i></a></li>
+                      </ul>
+                  </div>
+                      <div class="nav navbar-nav navbar-right" style="margin-right: 12px !important; margin-bottom: 0px !important;">
+                          <!--WTD_A(prihlaseni)-->
+                      </div>
+              </div>
+              <div class="row">
+                  <div class="col-xs-6">
+
+                  </div>
+                  <div class="col-xs-6">
+                      <div class="sidebar-search">
+                          <div class="custom-search-form">
+                          <label for="searchtext"><span style="display:none">Vyhledávání</span></label>
+                              <form action="/hledani.html" method="post" role="search">
+                              <input id="searchtext" aria-label="Hledaný text" name="searchtext" type="text" class="form-control" placeholder="Hledaný text ...">                                                    <span class="input-group-btn">        
+                              <button class="btn btn-primary" type="submit" id="Action" name="Action" aria-label="Vyhledat">
+                                  <i class="fa fa-search"></i>
+                              </button></span>
+<input type="hidden" name="lid" value="1" />
+                    
+                              </form>
+                          </div>
+                          <!-- /input-group -->
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <!-- /.row -->
+    </div>
+    <!-- /.Header -->
+
+<!-- Header Navigation -->
+    <nav class="navbar navbar-inverse navbar-static-top navbar-mpo" role="navigation" aria-label="hlavní navigace">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" aria-label="Rozbalit hlavní menu" data-target="#bs-main-navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+                   <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-main-navbar"><ul class="nav subnav-nav vissible-xs-block hidden-sm hidden-md hidden-lg"><li>
+<a href="/en/">Homepage</a><ul><li>
+<a href="/"><span class="active">Úvodní stránka</span></a><ul>
+<li><a href="/cz/rozcestnik/"><span>Rozcestník</span></a></li>
+<li><a href="/cz/podnikani/"><span>Podnikání</span></a></li>
+<li><a href="/cz/zahranicni-obchod/"><span>Zahraniční obchod</span></a></li>
+<li><a href="/cz/ochrana-spotrebitele/"><span>Ochrana spotřebitele</span></a></li>
+<li><a href="/cz/energetika/"><span>Energetika</span></a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/"><span>Stavebnictví a suroviny</span></a></li>
+<li><a href="/cz/prumysl/"><span>Průmysl</span></a></li>
+<li><a href="/cz/e-komunikace-a-posta/"><span>e-Komunikace a pošta</span></a></li>
+</ul>
+</li></ul>
+</li></ul>
+<ul class="nav nav-justified navbar-nav hidden-xs">
+<li class="dropdown">
+<a href="/cz/rozcestnik/" class="dropdown-toggle" data-hover="dropdown">Rozcestník</a><ul class="dropdown-menu">
+<li><a href="/cz/rozcestnik/ministerstvo/">Ministerstvo</a></li>
+<li><a href="/cz/rozcestnik/uredni-deska/">Úřední deska</a></li>
+<li><a href="/cz/rozcestnik/pro-media/tiskove-zpravy/stranka-669">Pro média</a></li>
+<li><a href="/cz/rozcestnik/povinne-informace/">Povinné informace</a></li>
+<li><a href="/cz/rozcestnik/analyticke-materialy-a-statistiky/">Analytické materiály a statistiky</a></li>
+<li><a href="/cz/rozcestnik/poradni-organy-a-zmocnenci-vlady/">Poradní orgány a zmocněnci vlády</a></li>
+<li><a href="/cz/rozcestnik/rada-kvality-cr/">Rada kvality ČR</a></li>
+<li><a href="/cz/rozcestnik/rovnost-zen-a-muzu/">Rovnost žen a mužů</a></li>
+<li><a href="/cz/rozcestnik/podpora-rovnych-prilezitosti-pro-ozp/">Podpora rovných příležitostí pro OZP</a></li>
+<li><a href="/cz/rozcestnik/kariera/">Kariéra</a></li>
+<li><a href="/cz/rozcestnik/kontakty/kontakty-na-ministerstvo-prumyslu-a-obchodu--22974/">Kontakty</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/cz/podnikani/" class="dropdown-toggle" data-hover="dropdown">Podnikání</a><ul class="dropdown-menu">
+<li><a href="/cz/podnikani/narodni-plan-obnovy/">Národní plán obnovy</a></li>
+<li><a href="/cz/podnikani/zivnostenske-podnikani/">Živnostenské podnikání</a></li>
+<li><a href="/cz/podnikani/regulace-reklamy/zpusoby-regulace-reklamy--282318/">Regulace reklamy</a></li>
+<li><a href="/cz/podnikani/regulace-podnikani-a-snizovani-administrativni-zateze/">Regulace podnikání a snižování administrativní zátěže</a></li>
+<li><a href="/cz/podnikani/spolecenska-odpovednost-organizaci/">Společenská odpovědnost organizací</a></li>
+<li><a href="/cz/podnikani/podnikatelska-rada/">Podnikatelská rada</a></li>
+<li><a href="/cz/podnikani/podnikatelska-rada/ochrana-osobnich-udaju-gdpr/">Ochrana osobních údajů (GDPR)</a></li>
+<li><a href="/cz/podnikani/vnitrni-obchod/">Vnitřní obchod</a></li>
+<li><a href="/cz/podnikani/standardizace/">Standardizace</a></li>
+<li><a href="/cz/podnikani/male-a-stredni-podnikani/">Malé a střední podnikání</a></li>
+<li><a href="/cz/podnikani/financni-nastroje/financni-nastroje--249797/">Finanční nástroje</a></li>
+<li><a href="/cz/podnikani/dotace-a-podpora-podnikani/">Dotace a podpora podnikání</a></li>
+<li><a href="/cz/podnikani/digitalni-ekonomika/">Digitální ekonomika</a></li>
+<li><a href="/cz/podnikani/podpora-vyzkumu-a-vyvoje/">Podpora výzkumu, vývoje a inovací</a></li>
+<li><a href="/cz/podnikani/ris3-strategie/">RIS3 strategie</a></li>
+<li><a href="/cz/podnikani/rodinne-podnikani/">Rodinné podnikání</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/cz/zahranicni-obchod/" class="dropdown-toggle" data-hover="dropdown">Zahraniční obchod</a><ul class="dropdown-menu">
+<li><a href="/cz/zahranicni-obchod/informace-v-souvislosti-s-invazi-ruska-na-ukrajinu/informace-v-souvislosti-s-invazi-ruska-na-ukrajinu--266138/">Informace v souvislosti s invazí Ruska na Ukrajinu</a></li>
+<li><a href="/cz/zahranicni-obchod/o-brexitu/">O brexitu</a></li>
+<li><a href="/cz/zahranicni-obchod/vychodni-partnerstvi/konference-10-let-vychodniho-partnerstvi-ekonomicka-konvergence-a-obchodni-prilezitosti--244578/">Východní partnerství</a></li>
+<li><a href="/cz/zahranicni-obchod/podpora-exportu/">Podpora exportu</a></li>
+<li><a href="/cz/zahranicni-obchod/podnikani-v-EU/">Podnikání v EU</a></li>
+<li><a href="/cz/zahranicni-obchod/spolecna-obchodni-politika-eu/">Společná obchodní politika EU</a></li>
+<li><a href="/cz/zahranicni-obchod/narodni-kontaktni-misto-pro-odpovedne-obchodni-chovani/">Národní kontaktní místo pro odpovědné obchodní chování</a></li>
+<li><a href="/cz/zahranicni-obchod/mezinarodni-obchodni-dohody/">Mezinárodní obchodní dohody</a></li>
+<li><a href="/cz/zahranicni-obchod/mezinarodni-obchod-dle-teritorii/">Mezinárodní obchod dle teritorií</a></li>
+<li><a href="/cz/zahranicni-obchod/mezinarodni-organizace-a-obchod/">Mezinárodní organizace a obchod</a></li>
+<li><a href="/cz/zahranicni-obchod/licencni-sprava/">Licenční správa</a></li>
+<li><a href="/cz/zahranicni-obchod/proverovani-zahranicnich-investic/">Prověřování zahraničních investic</a></li>
+<li><a href="/cz/zahranicni-obchod/ekonomicka-migrace/">Ekonomická migrace</a></li>
+<li><a href="/cz/zahranicni-obchod/statistiky-zahranicniho-obchodu/">Statistiky zahraničního obchodu</a></li>
+<li><a href="/cz/zahranicni-obchod/cr-v-eu/">ČR v EU</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/cz/ochrana-spotrebitele/" class="dropdown-toggle" data-hover="dropdown">Ochrana spotřebitele</a><ul class="dropdown-menu">
+<li><a href="/cz/ochrana-spotrebitele/prehledne-o-ochrane-spotrebitele/">Přehledně o ochraně spotřebitele</a></li>
+<li><a href="/cz/ochrana-spotrebitele/pruvodce-pro-spotrebitele/pruvodce-pro-spotrebitele--246414/">Průvodce pro spotřebitele</a></li>
+<li><a href="/cz/ochrana-spotrebitele/informace-pro-spotrebitele/">Aktuální informace</a></li>
+<li><a href="/cz/ochrana-spotrebitele/mimosoudni-reseni-spotrebitelskych-sporu-adr/">Mimosoudní řešení spotřebitelských sporů - ADR</a></li>
+<li><a href="/cz/ochrana-spotrebitele/hromadne-rizeni/">Hromadné řízení</a></li>
+<li><a href="/cz/ochrana-spotrebitele/bezpecnost-vyrobku/">Bezpečnost výrobků</a></li>
+<li><a href="/cz/ochrana-spotrebitele/dozor-nad-trhem/">Dozor nad trhem</a></li>
+<li><a href="/cz/ochrana-spotrebitele/pravni-predpisy-pro-ochranu-spotrebitele/">Právní předpisy pro ochranu spotřebitele</a></li>
+<li><a href="/cz/ochrana-spotrebitele/informace-pro-spotrebitelske-organizace/informace-pro-spotrebitelske-organizace--243941/">Informace pro spotřebitelské organizace</a></li>
+<li><a href="/cz/ochrana-spotrebitele/eu-a-spotrebitel/">EU a spotřebitel</a></li>
+<li><a href="/cz/ochrana-spotrebitele/mezinarodni-aktivity-v-oblasti-ochrany-spotrebitele/">Mezinárodní aktivity v oblasti ochrany spotřebitele</a></li>
+<li><a href="/cz/ochrana-spotrebitele/uzitecne-kontakty/">Užitečné kontakty</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/cz/energetika/" class="dropdown-toggle" data-hover="dropdown">Energetika</a><ul class="dropdown-menu">
+<li><a href="/cz/energetika/strategicke-a-koncepcni-dokumenty/">Strategické a koncepční dokumenty</a></li>
+<li><a href="/cz/energetika/rada-vlady-pro-energetickou-a-surovinovou-strategii-cr/">Rada vlády pro energetickou a surovinovou strategii ČR</a></li>
+<li><a href="/cz/energetika/uhelna-komise/">Uhelná komise</a></li>
+<li><a href="/cz/energetika/energeticka-legislativa/">Energetická legislativa</a></li>
+<li><a href="/cz/energetika/plynarenstvi-a-kapalna-paliva/">Plynárenství a kapalná paliva</a></li>
+<li><a href="/cz/energetika/uspory-energie/uspory-energie--276975/">Úspory energie</a></li>
+<li><a href="/cz/energetika/mezinarodni-spoluprace/">Mezinárodní spolupráce</a></li>
+<li><a href="/cz/energetika/statni-energeticka-politika/">Státní energetická politika</a></li>
+<li><a href="/cz/energetika/vyzkum-a-vyvoj-v-energetice/">Výzkum a vývoj v energetice</a></li>
+<li><a href="/cz/energetika/statistika/">Statistika</a></li>
+<li><a href="/cz/energetika/typove-plany-reseni-krizi/">Typové plány řešení krizí</a></li>
+<li><a href="/cz/energetika/jaderna-energetika-a-nove-jaderne-zdroje/">Jaderná energetika a nové jaderné zdroje</a></li>
+<li><a href="/cz/energetika/nakladani-s-radioaktivnimi-odpady/">Nakládání s radioaktivními odpady</a></li>
+<li><a href="/cz/energetika/elektroenergetika/">Elektroenergetika</a></li>
+<li><a href="/cz/energetika/konference-seminare/">Konference, semináře</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/cz/stavebnictvi-a-suroviny/" class="dropdown-toggle" data-hover="dropdown">Stavebnictví a suroviny</a><ul class="dropdown-menu">
+<li><a href="/cz/stavebnictvi-a-suroviny/kontaktni-misto-pro-stavebni-vyrobky/">Kontaktní místo pro stavební výrobky</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/stavebni-vyrobky/">Stavební výrobky</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/strategicke-dokumenty-pro-udrzitelne-stavebnictvi/">Strategické dokumenty pro udržitelné stavebnictví</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/bim/">BIM</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/stavebnictvi-40/">Stavebnictví 4.0</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/konference-seminare/">Konference, semináře</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/informace-z-odvetvi/">Informace z odvětví</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/souteze/">Soutěže</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/stavebni-urad/">Stavební úřad</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/projekty-spolecneho-zajmu/">Projekty společného zájmu</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/surovinova-politika/">Surovinová politika</a></li>
+<li><a href="/cz/stavebnictvi-a-suroviny/komoditni-burzy/">Komoditní burzy</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/cz/prumysl/" class="dropdown-toggle" data-hover="dropdown">Průmysl</a><ul class="dropdown-menu">
+<li><a href="/cz/prumysl/komentar-k-vyvoji-prumyslu/">Komentář k vývoji průmyslu</a></li>
+<li><a href="/cz/prumysl/zpracovatelsky-prumysl/">Zpracovatelský průmysl</a></li>
+<li><a href="/cz/prumysl/kulturni-a-kreativni-odvetvi/">Kulturní a kreativní odvětví</a></li>
+<li><a href="/cz/prumysl/politika-druhotnych-surovin-cr/">Politika druhotných surovin ČR</a></li>
+<li><a href="/cz/prumysl/prumysl-ctyri/">Průmysl 4.0</a></li>
+<li><a href="/cz/prumysl/prumyslova-politika-eu/">Průmyslová politika EU</a></li>
+<li><a href="/cz/prumysl/chemicke-latky-a-smesi/">Chemické látky a směsi</a></li>
+<li><a href="/cz/prumysl/prumysl-a-zivotni-prostredi/">Průmysl a životní prostředí</a></li>
+<li><a href="/cz/prumysl/autorizace-profesnich-kvalifikaci/">Autorizace profesních kvalifikací</a></li>
+<li><a href="/ippc/">IPPC - integrovaná prevence a omezování znečištění</a></li>
+<li><a href="/cz/prumysl/strategicke-projekty/">Strategické projekty</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="/cz/e-komunikace-a-posta/" class="dropdown-toggle" data-hover="dropdown">e-Komunikace a pošta</a><ul class="dropdown-menu">
+<li><a href="/cz/e-komunikace-a-posta/studie-k-narodnimu-planu-obnovy/">Studie k Narodnímu plánu obnovy</a></li>
+<li><a href="/cz/e-komunikace-a-posta/elektronicke-komunikace/">Elektronické komunikace</a></li>
+<li><a href="/cz/e-komunikace-a-posta/postovni-sluzby/">Poštovní služby</a></li>
+</ul>
+</li>
+</ul>
+</div>
+            <!-- /.navbar-collapse -->
+
+        </div>
+        <!-- /.container -->
+    </nav>
+    <!-- /.Header Navigation -->
+
+</header>
+
+<main atribut id="content" role="main">
+<!--WTD_A(h1_sr_only)-->
+    <!-- Page Content -->
+    <div class="container">
+            <!-- Breadcrumbs -->
+    <div class="breadcrumbs">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+<nav role='navigation' aria-label="drobečková navigace">
+<ol class="breadcrumb"><li><a href="/">Úvodní stránka</a></li></ol>
+</nav>
+</div>
+            </div>
+        </div>
+    </div>
+    <!-- /.Breadcrumbs -->
+
+
+        <div class="row">
+            <!-- Block Left -->
+            <div class="block_left col-sm-8">
+
+                <!-- Block Content -->
+                <div class="block_content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h1>Stránka neexistuje / Page is not found</h1>
+                        </div>
+
+                    </div>
+                    <p>Je nám líto, ale vámi požadovaná stránka na tomto webu neexistuje. </p><p>Je možné, že jste učinili chybu v URL adrese. </p><p>Pokud se domníváte, že je chyba na naší straně, prosím, <a href="mailto:webmaster@mpo.cz">kontaktujte šéfredaktora</a> těchto stránek. </p><p>Požadovanou stránku můžete nalézt také pomocí <a href="/cz/rozsirene-hledani.html">vyhledávání</a> nebo <a href="/cz/mapa-stranek.html">mapy stránek</a>.<br /><br /></p><p></p><p><hr /></p><p></p><p>Sorry, the requested page does not exist on this address. </p><p>You might have made error in URL address. </p><p>If you are persuaded that error is on our side please <a href="mailto:webmaster@mpo.cz">contact webmaster</a>. </p><p>The requested page may be found also with <a href="/en/rozsirene-hledani.html">Search</a> or <a href="/en/mapa-stranek.html">Sitemap</a>.</p>
+
+                <!--WTD_A(media)-->
+                </div>
+                <!-- /.Block Content -->
+
+                <!--WTD_A(prilohy-ke-stazeni)-->
+                   
+                    <div class="block_icon_middle">
+                        <div class="block_ikony">
+                            <div class="row">
+                            <div class="col-sm-6 col-xs-4">
+                                <a class="first" href="" onclick="window.print(); return false;"><span class="fa fa-print"></span>Tisk</a>
+                            </div>
+                            <div class="col-sm-6 col-xs-8 text-right">
+                                <ul class="share-buttons">
+                                  <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.mpo.cz" target="_blank" title="Sdílet na Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img src="/images/2016/Google+.svg" alt="Sdílet na Google+" /></a></li>
+                                  <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.mpo.cz&title=&summary=&source=http%3A%2F%2Fwww.mpo.cz" target="_blank" title="Sdílet na LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img src="/images/2016/LinkedIn.svg" alt="Sdílet na LinkedIn" /></a></li>                                 
+                                  <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fwww.mpo.cz&text=:%20http%3A%2F%2Fwww.mpo.cz" target="_blank" title="Sdílet na Twitteru" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="/images/2016/Twitter.svg" alt="Sdílet na Twitteru" /></a></li>
+                                  <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.mpo.cz&t=" title="Sdílet na Facebooku" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="/images/2016/Facebook.svg" alt="Sdílet na Facebooku" /></a></li>
+                                </ul>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <!-- Block News Top -->
+
+                <!--WTD_A(souvisejici-zpravy)-->
+
+            </div>
+            <!-- Block Left -->
+
+            <!-- Block Right Menu -->
+            <div class="col-sm-4 block_right_menu">
+                <!--WTD_A(prave-menu)-->
+                <div class="menu_right_second hidden-xs">
+                <!--WTD_A(priority)-->
+                </div>
+                <!--WTD_B(1)-->
+
+            </div>
+            <!-- /.Block Right Menu -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- Page Content -->
+    <div class="container">
+        <!-- Link bottom -->
+        <div class="link_bottom_block hidden-xs">
+        <div role="region" aria-labelledby="nadpis_partneri">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3 class="text-uppercase" id="nadpis_partneri">Partneři mpo  /  Důležité odkazy</h3>
+                </div>
+            </div>
+
+            <div class="link_bottom">              <div class="row">
+                  <div class="col-xs-2"><a href="http://www.czechtrade.cz/" aria-label="Czech Trade" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/ct_logo_basic_RGB_S_2.png" alt="Czech Trade" /></a></div>
+                  <div class="col-xs-2"><a href="https://www.vlada.cz/" aria-label="Úřad vlády České republiky" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/vlada.gif" alt="Úřad vlády České republiky" /></a></div>
+                  <div class="col-xs-2"><a href="http://www.coi.cz/" aria-label="Česká Obchodní Inspekce" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-06.gif" alt="Česká Obchodní Inspekce" /></a></div>
+                  <div class="col-xs-2"><a href="http://www.puncovniurad.cz/cz/" aria-label="Puncovní úřad" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-07.gif" alt="Puncovní úřad" /></a></div>
+                  <div class="col-xs-2"><a href="http://www.businessinfo.cz/" aria-label="BusinessInfo.cz - oficiální portál pro podnikání a export" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/Loga/BusinessInfo_logo_202110.png" alt="BusinessInfo.cz - oficiální portál pro podnikání a export" /></a></div>
+                  <div class="col-xs-2"><a href="/ippc/" aria-label="Integrovaná prevence a omezování znečištění" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/assets/cz/prumysl/prumysl-a-zivotni-prostredi/ippc-integrovana-prevence-a-omezovani-znecisteni/2016/12/IPPC_logo_3.jpg" alt="Integrovaná prevence a omezování znečištění" /></a></div>
+              </div>
+
+
+              <div class="row">
+                  <div class="col-xs-2"><a href="http://www.czechinvest.org/" aria-label="Czech Invest" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/Loga/CzechInvest_logo_202110.png" alt="Czech Invest" /></a></div>
+                  <div class="col-xs-2"><a href="http://www.agentura-api.org/" aria-label="Agentura pro podnikání a inovace" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/api_barva2.jpg" alt="Agentura pro podnikání a inovace" /></a></div>
+                  <div class="col-xs-2"><a href="/dokument159758.html" aria-label="CRM - Jednotný registrační formulář" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-05.gif" alt="CRM - Jednotný registrační formulář" /></a></div>
+                  <div class="col-xs-2"><a href="http://surao.cz/" aria-label="Správa úložišť radioaktivních odpadů" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-11.gif" alt="Správa úložišť radioaktivních odpadů" /></a></div>
+                  <div class="col-xs-2"><a href="http://www.cr-sei.cz/" aria-label="Státní energetická inspekce" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-09.gif" alt="Státní energetická inspekce" /></a></div>
+              </div>
+
+              <div class="row">
+                  <div class="col-xs-3"><a href="http://www.businessinfo.cz/cz/clanek/podnikatelske-cinnosti-jkm/jednotna-kontaktni-mista-jkm-cr/1001788/57804/" aria-label="Jednotné kontaktní místo" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-04.gif" alt="Jednotné kontaktní místo" /></a></div>
+                  <div class="col-xs-1"><a href="http://www.cuzzs.cz/cs/" aria-label="Český úřad pro zkoušení zbraní a střeliva" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-10.gif" alt="Český úřad pro zkoušení zbraní a střeliva" /></a></div>
+                  <div class="col-xs-1"><a href="http://www.unmz.cz/urad/unmz" aria-label="Úřad pro technickou normalizaci, metrologii a státní zkušebnictví" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-08.gif" alt="Úřad pro technickou normalizaci, metrologii a státní zkušebnictví" /></a></div>
+                  <div class="col-xs-1"><a href="http://www.svum.cz/cz" aria-label="Výzkumné a testovací centrum materiálů" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-15.gif" alt="Výzkumné a testovací centrum materiálů" /></a></div>
+                  <div class="col-xs-1"><a href="https://www.cmi.cz/" aria-label="Český metrologický institut" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-14.gif" alt="Český metrologický institut" /></a></div>
+                  <div class="col-xs-2"><a href="http://www.rzp.cz/" aria-label="Registr živnostenského podnikání" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/rzp.gif" alt="Registr živnostenského podnikání" /></a></div>                  
+                  <div class="col-xs-1"><a href="http://www.esfcr.cz/" aria-label="Evropský sociální fond" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-03.gif" alt="Evropský sociální fond" /></a></div>
+                  <div class="col-xs-2"><a href="https://ezu.cz/" aria-label="Elektrotechnický zkušební ústav" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/ezu_logo.gif" alt="Elektrotechnický zkušební ústav" /></a></div>
+              </div></div>
+
+        </div>
+        </div>
+        <!-- /.Link bottom -->
+
+    </div>
+    <!-- /.container Page Content -->
+</main>
+
+    <!-- Footer -->
+<footer role="contentinfo">
+    <div class="footer_one">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 big_padding footer-info">
+                    <div class="row">
+                        <div class="col-xs-12 text-uppercase bottom_title"><h2 class="pull-left">Informace pro vás</h3></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-6 footer-info-1">
+                            <ul>                                <li><a href="/cz/rozcestnik/kontakty/kontakty-na-ministerstvo-prumyslu-a-obchodu--22974/">Kontakty</a></li>
+                                <li><a href="/cz/rozcestnik/pro-media/tiskove-zpravy/stranka-669">Pro média</a></li>
+                                <li><a href="/cz/mapastranek.html">Mapa stránek</a></li></ul>
+                        </div>
+                        <div class="col-xs-6 footer-info-2">
+                            <ul>                                <li><a href="/cz/rss.html">RSS</a></li>
+                                <li><a href="/cz/rozcestnik/ministerstvo/ochrana-osobnich-udaju/prohlaseni-o-zpracovani-osobnich-udaju-na-ministerstvu-prumyslu-a-obchodu--237325/">Ochrana osobních údajů</a></li>
+                                <li><a href="/cz/rozcestnik/ministerstvo/o-ministerstvu/elektronicka-podatelna-mpo--7672/">Elektronická podatelna</a></li>
+</ul>
+                        </div>
+                        <div class="col-xs-6 footer-info-3">
+                            <ul>                                <li><a href="http://portal.gov.cz/portal/obcan/" target="_blank">Portál veřejné správy</a></li>
+                                <li><a href="http://www.businessinfo.cz/" target="_blank">BusinessInfo.cz</a></li>
+                                <li><a href="/cz/rozcestnik/uredni-deska/ostatni/prohlaseni-o-pristupnosti--7029/">Prohlášení o přístupnosti</a></li>
+</ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-6 big_padding footer-port-soc">
+                    <div class="row">
+                        <div class="col-xs-12 text-uppercase bottom_title"><h2 class="pull-left">Podportály MPO</h3></div>
+                        <div class="col-xs-12">
+                            <ul>                                <li><a href="http://www.rzp.cz/" target="_blank">Živnostenský rejstřík</a></li>
+                                <li><a href="http://www.sikulove-mpo.cz/" target="_blank">Dětská skupina</a></li></ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-6 big_padding footer-port-soc">
+                    <div class="row">
+                        <div class="col-xs-12 text-uppercase bottom_title"><h2 class="pull-right">Sociální média</h3></div>
+                        <div class="col-xs-12">
+                            <div class="ikon_bottom pull-right">
+                            	<a onclick="window.open(this.href); return false" href="https://www.youtube.com/channel/UCwNM5NKJgVBGaaF-dHZq0wQ" aria-label="Youtube"><span class="fa fa-youtube"><span style="display:none">Youtube</span></span></a>
+                                <a onclick="window.open(this.href); return false" href="https://www.linkedin.com/company/ministry-of-industry-and-trade-of-the-czech-republic/" aria-label="Linkedin"><span class="fa fa-linkedin"><span style="display:none">Linkedin</span></span></a>
+                                <a onclick="window.open(this.href); return false" href="https://twitter.com/mpo_tweetuje" aria-label="Twitter"><span class="fa fa-twitter"><span style="display:none">Twitter</span></span></a>
+                                <a onclick="window.open(this.href); return false" href="http://on.fb.me/1npFANf" aria-label="Facebook"><span class="fa fa-facebook"><span style="display:none">Facebook</span></span></a>                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="container footer_two">
+        <div class="row">
+            <div class="col-lg-12">
+                <p class="pull-left">&copy; Copyright 2005 - 2024 MPO <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/cz/" target="_blank"><img src="https://i.creativecommons.org/l/by-nc-nd/3.0/cz/80x15.png" alt="Licenční ujednání" /></a></p>
+                <p class="pull-right"><a href="#top-mpo">&#xffea; Nahoru</a></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer_three">
+        <div class="container">
+            <div class="link_bottom first hidden-xs">
+              <div class="row">
+                  <div class="col-xs-12">
+                      <a href="https://www.esfcr.cz/" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-17.png" alt="ESF" /></a>
+                      <a href="http://ec.europa.eu/contracts_grants/funds_cs.htm" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-18.png" alt="ESIF" /></a>
+                      <a href="https://www.esfcr.cz/detail-clanku/-/asset_publisher/BBFAoaudKGfE/content/op-lidske-zdroje-a-zamestnanost-op-lzz-" onclick="window.open(this.href); return false"><img class="img-responsive img-hover" src="/images/2016/link_bottom-19.png" alt="OP LZZ" /></a>
+                 </div>
+              </div>
+            </div>
+        </div>
+    </div>
+</footer>
+    <!-- /.Footer -->
+
+        <!-- jQuery -->
+    <script src="/js/jquery.js"></script>
+    <script src="/js/custom.js"></script>
+
+    <!-- lightgallery -->
+    <script src="/js/lightgallery/lightgallery.min.js"></script>
+    <script src="/js/lightgallery/plugins/zoom/lg-zoom.min.js"></script>
+    <script src="/js/lightgallery/plugins/fullscreen/lg-fullscreen.min.js"></script>
+    <script src="/js/lightgallery/plugins/thumbnail/lg-thumbnail.min.js"></script>
+    <script src="/js/lightgallery/plugins/autoplay/lg-autoplay.min.js"></script>
+    <script src="/js/justifiedgallery/jquery.justifiedGallery.min.js"></script>
+    <script src="/js/gallery-init.js"></script>    <!-- Bootstrap Core JavaScript -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap-hover-dropdown.min.js"></script>
+    <script src="/js/fotorama.js"></script>
+    <script src="/js/treenav.js"></script>
+<script>
+$(document).ready(function() {
+    $('.image-frame').hover(function(){
+		$('.image-caption',this).slideToggle('slow');
+	}, function(){
+		$('.image-caption',this).slideToggle('slow');
+    });
+});
+</script>
+
+
+</body>
+</html>

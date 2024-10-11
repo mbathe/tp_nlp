@@ -1,6 +1,2 @@
-preprocessed/
-docs/
-*.log
-/corpus.txt
 **/__pycache__/
 **/*.pyc
