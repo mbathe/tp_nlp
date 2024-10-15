@@ -1,4 +1,4 @@
-from pre_processing import Processing
+from tp_nlp.src.code.CreateCorpus.cleaning_paul import Processing
 
 if __name__ == '__main__':
     preprocessing = Processing(
