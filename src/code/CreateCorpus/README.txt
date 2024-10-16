@@ -25,3 +25,5 @@ python preprocess.py
 107 : file = open(f"{t.strip('*')}/{i}.txt", "w", encoding="utf8")
 
 python create_corpus.py -d preprocessed/ -t themes.json
+
+for push, to delete
