@@ -1,5 +1,4 @@
 from tqdm import tqdm
-import glob
 import re
 from nltk.tokenize import WordPunctTokenizer
 from nltk.corpus import stopwords

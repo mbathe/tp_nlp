@@ -136,8 +136,6 @@
 144|Study on the implications of advanced digital technologies (including AI systems) for the concept of responsibility within a human rights framework|Council of Europe (MSI-AUT)
 145|Study on the Human Rights Dimensions of Automated Data Processing techniques|Council of Europe (MSI-NET)
 146|Uncovered, The Discoverability of Public Interest Content Online|Council of Europe (MSI-REF)
-148|Recommendation on Technological convergence, AI and human rights|Council of Europe (Parliamentary Assembly)
-149|Report “Democracy hacked how to respond”|Council of Europe (Parliamentary Assembly)
 158|Artificial Intelligence and its Impact on Young People|Council of Europe (Youth Department)
 159|Declaration on Youth Participation in AI Governance|Council of Europe (Youth Department)
 160|Conclusions of the Expert Seminar on E-relevance of Culture in the age of AI|Council of Europe and Croatian Presidency of the Committee of Ministers
@@ -175,6 +173,7 @@
 200|Deon - An Ethics Checklist for data scientists|DrivenData
 201|Law, Technology and Innovation|DTIBR (Centro de pesquisa em direito, tecnologia e inovaçao), Expert Editora Digital
 202|Data preprocessing techniques for classification without discrimination|Eindhoven University of Technology
+204|A Moral Framework for Understanding of Fair ML through Economic Models of Equality of Opportunity|ETH Zurich
 205|AI, the global landscape of ethics guidelines|ETH Zurich
 206|The global landscape of AI ethics guidelines|ETH Zurich
 207|Guidelines for the responsible use of artificial intelligence and other digital technologies in human resources - Richtlinien für den verantwortungsvollen Einsatz von Künstlicher Intelligenz und weiteren digitalen Technologien in der Personalarbeit|Ethics council HR Tech - Ethikbeirat HR Tech
@@ -307,6 +306,7 @@
 332|AI Principles|Future of Life Institute
 333|Automated Decision-Making Under the GDPR: Practical Cases from Courts and Data Protection Authorities|Future of Privacy Forum
 334|Unfairness by algorithm: Distilling the Harms of automated decision making|Future of Privacy Forum
+335|G20 Ministerial Statement on Trade and Digital Economy|G20
 337|Ethical Guidelines of the German Informatics Society|German Informatics Society - Gesellschaft für Informatik
 338|Conclusions from the Conference "Human Rights in the Era of AI - Europe as international Standard Setter for Artificial Intelligence"|German Presidency of the Committee of Ministers
 339|The GNI Principles on Freedom of Expression and Privacy|Global Network Initiative
@@ -326,6 +326,7 @@
 354|Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society|Government of the Republic of Korea
 356|The National Reform Programme for 2018|Government of the Republic of Lithuania
 357|National orientation for artificial intelligence - Nationell inriktning för artificiell intelligens|Government offices - Regeringskansliet (Sweden)
+358|National Approach to Artificial Intelligence|Government Offices (Sweden)
 359|Draft Research Code of Practice and Draft Accreditation Criteria|Government Statistics Authority (United Kingdom)
 360|Draft Statistics Statement of Principles and Draft Code of Practice on changes to data systems|Government Statistics Authority (United Kingdom)
 361|‘Principled’ artificial intelligence could improve justice|H5 (Nicolas Economou)
@@ -378,7 +379,6 @@
 410|Global opinion and expectations about AI|Ipsos
 411|Standardization in the area of Artificial Intelligence (ISO/IEC JTC 1/SC 42)|ISO
 412|Strategic Program on Artificiel Intelligence 2022-2024|Italian Government
-414|AI Strategy 2019 – AI for Everyone: People, Industries, Regions and Governments|Japanese Government
 416|AI Ethics Kakao|Kakako Corp
 417|Blockchain & Artificial Intelligence task force|Kenyan Government
 420|Analysis of current global AI developments with a focus on Europe|Konrad-Adenauer-Stiftung
@@ -476,6 +476,7 @@
 528|Non-paper on the impact of artificial intelligence and freedom of expression|Organization for Security and Co-operation in Europe (OSCE)
 529|From What to How: An Initial Review of Publicly Available AI Ethics Tools, Methods and Research to Translate Principles into Practices|Oxford Internet Institute
 530|Prolegomena to a White Paper on an Ethical Framework for a Good AI Society|Oxford Internet Institute
+531|Finnish One Hundred - A New Opportunity 2018-2037 - Suomen sata uutta mahdollisuutta 2018–2037|Parliament (Finland)
 532|Action Plan of the Federal Government on the Report of the Ethics Committee Automated and Networked Driving (Ethics Rules for Driving Computers) - Maßnahmenplan der Bundesregierung zum Bericht der Ethik-Kommission Automatisiertes und Vernetztes Fahren (Ethik-Regeln für Fahrcomputer)|Parliament (Germany)
 533|Future Technology Artificial Intelligence as a Success Factor for a Strong and Innovative Europe - A Statement on the EU Commission's White Paper on AI (German)|Parliament (Germany)
 538|Tenets|Partnership on AI
@@ -511,7 +512,6 @@
 575|Smart Dubai AI Ethics Principles & Guidelines|Smart Dubai
 576|Ethical Principles for Artificial Intelligence and Data Analytics|Software & Information Industry Association (SIIA), Public Policy Division
 577|Shanghai Initiative on Artificial Intelligence Security Development|Sohu
-578|Sony Group AI Ethics Guidelines|Sony
 579|National Strategy on AI|Spain
 580|Statute book of good practices in data protection for Big Data - Código de buenas prácticas en protección de datos para proyectos de Big Data|Spanish Agency for Data Protection (AEPD - Spain)
 581|Dutch Artificial Intelligence Manifesto|Special Interest Group on Artificial Intelligence (SIGAI), ICT Platform Netherlands (IPN)
@@ -586,6 +586,7 @@
 657|The right to privacy in the digital age|United Nations (OHCHR)
 658|United Nations Development Program - Digital Strategy 2022-2025|United Nations (UNDP)
 660|Towards Responsible Artificial Intelligence Innovation - Second Interpol-UNICRI Report on AI for law enforcement|United Nations (UNICRI), Interpol
+661|Artificial Intelligence and Children's Rights|United Nations Children's Fund (UNICEF)
 662|Policy Guidance on AI for Children|United Nations Children's Fund (UNICEF)
 663|Artificial Intelligence Needs Assessment - Survey In Africa|United Nations Educational Scientific and Cultural Organization (UNESCO)
 664|Artificial intelligence: the promises and the threats|United Nations Educational Scientific and Cultural Organization (UNESCO)

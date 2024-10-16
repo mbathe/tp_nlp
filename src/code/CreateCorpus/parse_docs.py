@@ -5,17 +5,20 @@ import magic
 
 from Parser import Parser
 
-LOG_FILE = "parse.log"
-OUT_FOLDER = "./txts"
+current_working_directory = os.getcwd()
+
+LOG_FILE = current_working_directory+"\\logs\\parse.log"
+OUT_FOLDER = current_working_directory+"\\..\\..\\docfile\\txts\\"
 log_fp = open(LOG_FILE, "w")
 
 p = Parser(log_file=log_fp)
 
 # Create output directory if it does not exist
 if not os.path.exists(OUT_FOLDER):
+    print(OUT_FOLDER + " did not exist, created.")
     os.makedirs(OUT_FOLDER)
 
-all_files = [f for f in glob.glob("./docs/*")]
+all_files = [f for f in glob.glob(current_working_directory+"\\..\\..\\docfile\\docs\\*")]
 
 for i in tqdm(range(len(all_files))):
     fname = all_files[i]

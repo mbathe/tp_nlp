@@ -9,11 +9,11 @@ requests.packages.urllib3.disable_warnings()
 
 current_working_directory = os.getcwd()
 
-URL_FILE = current_working_directory+"/docfile/list_urls.txt"
-MANIFESTOS_FILE = current_working_directory+"/docfile/all_manifestos.csv"
-UA_FILE = current_working_directory+"/docfile/user_agents.txt"
-OUT_FOLDER = current_working_directory+"../docfile/docs"
-LOG_FILE = current_working_directory+"/logs/dl_docs.log"
+URL_FILE = current_working_directory+"\\docfile\\list_urls.txt"
+MANIFESTOS_FILE = current_working_directory+"\\docfile\\all_manifestos.csv"
+UA_FILE = current_working_directory+"\\docfile\\user_agents.txt"
+OUT_FOLDER = current_working_directory+"\\..\\..\\docfile\\docs"
+LOG_FILE = current_working_directory+"\\logs\\dl_docs.log"
 
 log_fp = open(LOG_FILE, "w", encoding="utf8")
 
@@ -32,44 +32,43 @@ def csv_to_dict(filepath):
             manifestos_list.append(manifesto)
     return manifestos_list
 
+manifestos_list = csv_to_dict(MANIFESTOS_FILE)
+list_of_urls = [x["URL"]
+                for x in manifestos_list if x["Status"].lower() == "included"]
+user_agents = [x.strip() for x in open(UA_FILE, encoding="utf8").readlines()]
 
-# manifestos_list = csv_to_dict(MANIFESTOS_FILE)
-# list_of_urls = [x["URL"]
-#                 for x in manifestos_list if x["Status"].lower() == "included"]
-# user_agents = [x.strip() for x in open(UA_FILE, encoding="utf8").readlines()]
+# Create output directory if it does not exist
+if not os.path.exists(OUT_FOLDER):
+    os.makedirs(OUT_FOLDER)
 
-# # Create output directory if it does not exist
-# if not os.path.exists(OUT_FOLDER):
-#     os.makedirs(OUT_FOLDER)
+f_metadata = open(current_working_directory+"\\docfile\\mapaie-metadata.csv", "w", encoding="utf8")
 
-# f_metadata = open("mapaie-metadata.csv", "w", encoding="utf8")
+for i in tqdm(range(len(manifestos_list))):
+    manifesto = manifestos_list[i]
+    title = manifesto["Name of the document"]
+    institution = manifesto["Institution"]
+    url = manifesto["URL"]
 
-# for i in tqdm(range(len(manifestos_list))):
-#     manifesto = manifestos_list[i]
-#     title = manifesto["Name of the document"]
-#     institution = manifesto["Institution"]
-#     url = manifesto["URL"]
+    try:
+        headers = {
+            "User-Agent": choice(user_agents), "Referer": "http://perdu.com"}
+        response = requests.get(url, headers=headers, timeout=10, verify=False)
+    except requests.exceptions.RequestException as e:
+        print(f"ERR: {url}, {e}", file=log_fp)
 
-#     try:
-#         headers = {
-#             "User-Agent": choice(user_agents), "Referer": "http://perdu.com"}
-#         response = requests.get(url, headers=headers, timeout=10, verify=False)
-#     except requests.exceptions.RequestException as e:
-#         print(f"ERR: {url}, {e}", file=log_fp)
+    if response.status_code == 200:
+        print(f"{url},OK", file=log_fp)
+        if url[-4:] == ".pdf":
+            with open(f"{OUT_FOLDER}/{i}.pdf", "wb") as f:
+                f.write(response.content)
+        else:
+            with open(f"{OUT_FOLDER}/{i}.html", "wb") as f:
+                f.write(response.content)
+        f_metadata.write(f"{i}|{title}|{institution}\n")
 
-#     if response.status_code == 200:
-#         print(f"{url},OK", file=log_fp)
-#         if url[-4:] == ".pdf":
-#             with open(f"{OUT_FOLDER}/{i}.pdf", "wb") as f:
-#                 f.write(response.content)
-#         else:
-#             with open(f"{OUT_FOLDER}/{i}.html", "wb") as f:
-#                 f.write(response.content)
-#         f_metadata.write(f"{i}|{title}|{institution}\n")
+    else:
+        # if we received any error http code
+        print(f"ERR: {url},{response.status_code}", file=log_fp)
 
-#     else:
-#         # if we received any error http code
-#         print(f"ERR: {url},{response.status_code}", file=log_fp)
-
-# log_fp.close()
-# f_metadata.close()
+log_fp.close()
+f_metadata.close()

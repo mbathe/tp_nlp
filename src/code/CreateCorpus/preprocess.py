@@ -13,32 +13,38 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 nltk.download('stopwords')
 corpus = []
 stop_words = set(stopwords.words('english'))
-OUT_FOLDER = "preprocessed/"
+
+current_working_directory = os.getcwd()
+
+OUT_FOLDER = current_working_directory+"\\..\\..\\docfile\\preprocessed\\"
 
 # Create output directory if it does not exist
 if not os.path.exists(OUT_FOLDER):
+    print(OUT_FOLDER + " did not exist, created.")
     os.makedirs(OUT_FOLDER)
 
-print(f'Preprocessing...')
-for i, filename in enumerate(tqdm(glob.glob('txts/*.txt'))):
-    name = filename.split('\\')[1].split('.')[0]
+print('Preprocessing...')
+for i, filename in enumerate(tqdm(glob.glob(current_working_directory+"\\..\\..\\docfile\\txts\\*.txt"))):
+    name = filename.split('\\')[-1].split('.')[0]
     with open(filename, encoding="utf8") as f:
         lines = f.read().strip()
+
         # Tokenize
         tokens = word_tokenize(lines)
+
         # Remove tokens with length < 3, not a link and not in stop words
 
         tokens = (' ').join([t.lower() for t in tokens
                              if len(t) >= 3
                              and (t.isalpha() or t in r"!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~")
                              and t.lower() not in stop_words
-                             and not "http" in t.lower()
+                             and "http" not in t.lower()
                              ])
 
         # ngrams ?
 
         # Save tokens
-        corpus.append((' ').join(tokens))
+        corpus.append(('').join(tokens))
 
 
 # TF-IDF

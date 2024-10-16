@@ -51,7 +51,8 @@ for filepath in glob.glob(os.path.join(txt_folder, '*.txt')):
             text = file.read().strip()  # Retire les espaces inutiles
             # Vérifier que le texte n'est pas vide ou trop court
             if len(text) < 20:  # Si le texte contient moins de 20 caractères, ignorer
-                print(f"Le fichier {filepath} est trop court ou vide, il est ignoré.")
+                print(f"Le fichier {
+                      filepath} est trop court ou vide, il est ignoré.")
                 continue
             # Détecter la langue du texte
             lang = detect(text)
@@ -60,7 +61,8 @@ for filepath in glob.glob(os.path.join(txt_folder, '*.txt')):
             # Si la langue détectée est l'anglais, copier le fichier dans txts_2
             if lang == "en":
                 english_files.append(filepath)
-                shutil.copy(filepath, output_folder)  # Copier le fichier en anglais dans txts_2
+                # Copier le fichier en anglais dans txts_2
+                shutil.copy(filepath, output_folder)
             else:
                 non_english_files.append(filepath)
     except Exception as e:
@@ -69,7 +71,8 @@ for filepath in glob.glob(os.path.join(txt_folder, '*.txt')):
 # Afficher le résultat avec les noms complets des langues
 print("Nombre de fichiers par langue détectée :")
 for lang, count in lang_count.items():
-    lang_full = lang_names.get(lang, lang)  # Utiliser le nom complet ou le code si inconnu
+    # Utiliser le nom complet ou le code si inconnu
+    lang_full = lang_names.get(lang, lang)
     print(f"{lang_full}: {count} fichiers")
 
 # Afficher les fichiers qui ne sont pas en anglais
@@ -81,4 +84,5 @@ else:
     print("\nTous les fichiers sont en anglais.")
 
 # Afficher le nombre de fichiers copiés dans txts_2
-print(f"\n{len(english_files)} fichiers anglais ont été copiés dans {output_folder}.")
+print(f"\n{len(english_files)} fichiers anglais ont été copiés dans {
+      output_folder}.")
