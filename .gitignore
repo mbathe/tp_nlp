@@ -1,5 +1,10 @@
 preprocessed/
 txts/
 docs/
-**/__pycache__/
-**/*.pyc
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env/
+.idea/
+.vscode/

@@ -22,3 +22,16 @@ pip install -r requirements.txt
 Snakemake should be installed on the side.
 
 You can then run `snakemake -c4` to download PDF files and extract their contents. PDF files are stored in `./pdfs`, and textual contents in ` ./txts/`.
+
+# 11/10/2024
+
+Mot clef et résumé d'un texte
+Plusieurs textes .txt en anglais, qui traitent de l'éthique de l'IA.
+
+---> collecter les pdf/html ok
+--> Parser ok
+--> CLeaning ok
+--> Tf Idf sur chaque document pour trouver les mots clefs
+--> Julian : Tf-IDS sur le corpus entier. 
+Paul : Trouver les mots clefs dans le corpus en sommant les tf-idf par document. 
+Alex : autre stratégie + tester les mots du prof.
