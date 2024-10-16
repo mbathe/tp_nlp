@@ -1,3 +1,5 @@
+import glob
+import os
 from tqdm import tqdm
 import re
 from nltk.corpus import stopwords
@@ -8,6 +10,8 @@ from collections import defaultdict
 from rake_nltk import Rake
 from nltk.tokenize import word_tokenize
 import spacy
+from dotenv import load_dotenv
+load_dotenv()
 
 
 class Processing:
@@ -24,9 +28,12 @@ class Processing:
         self.vec = None
 
     def process_corpus(self):
+        corpus_text = ""
+        print(glob.glob(os.path.join(os.getenv('TXT_FOLDER'), "*.txt")))
         # Lire le corpus
-        with open(self.corpus_file, "r", encoding="utf-8") as f:
-            corpus_text = f.read().strip().lower()
+        for file in tqdm(glob.glob(os.path.join(os.getenv('TXT_FOLDER'), "*.txt"))):
+            with open(file, "r", encoding="utf-8") as f:
+                corpus_text += " "+f.read().strip().lower()
 
         self.documents = sent_tokenize(corpus_text)
         self.corpus = corpus_text
@@ -70,7 +77,7 @@ class Processing:
     def get_key_words(self):
         dictionnaire = dict(
             zip(self.tokens, np.zeros(len(self.tokens))))
-        token_count_doc = zip(self.tokens, np.ones(len(self.tokens)))
+        token_count_doc = dict(zip(self.tokens, np.ones(len(self.tokens))))
         for i in tqdm(range(len(self.tf_idf_dict))):
             for k in self.tf_idf_dict[i].keys():
                 dictionnaire[k] += self.tf_idf_dict[i][k]
