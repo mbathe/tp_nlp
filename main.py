@@ -14,5 +14,3 @@ if __name__ == '__main__':
         print("aloso" in set(stopwords.words('english')))
     # print(len(list(keys_words.keys())))
     print(list(keys_words.keys())[0:40])
-
-   # print(preprocessing.tfidf_filter())

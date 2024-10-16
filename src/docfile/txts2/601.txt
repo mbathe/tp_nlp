@@ -1,0 +1,435 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artificial Intelligence and National Security | Thales Group
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+Global
+
+
+Markets
+
+
+Career
+
+
+Investor
+
+
+Journalist
+
+
+Customer Online
+
+
+Supplier
+
+
+
+
+
+
+
+
+Countries
+
+
+
+
+
+
+
+en
+
+
+English
+
+
+
+
+
+
+Accessibility
+
+Default
+High Contrast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Search
+
+Close
+
+
+Search form
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+You are here :
+Home
+
+
+
+
+
+
+
+Artificial Intelligence and National Security
+
+
+
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In today’s rapidly changing world, artificial intelligence (AI) is a commonly used terminology that is not always clearly understood. As AI applications are being rapidly adopted it is important to understand what that means, who is using it and to what end. These are especially important questions for national security.
+To identify national strategies and implications of AI for governments and industry, Thales engaged with the Center for Strategic and International Studies (CSIS) who developed an independent report on AI and its potential implications on national security and national security policy. The report, authored and recently published by CSIS, Artificial Intelligence and National Security: The Importance of the AI Ecosystem, analyses the policy frameworks such as ethical AI usage, investment strategy, adoption challenges, operationalization of AI, and international approaches to AI in the national security domain.
+View and download the full report.
+SUMMARY OF Report KEY FINDINGS AND RECOMMENDATIONS
+
+Trust 
+
+The importance and necessity of AI transparency is application-specific.
+Trust must be met across algorithms, data, and outcomes.
+Users must understand the mechanisms by which systems can be spoofed.
+
+Security 
+
+Robust and resilient digital capability requires balancing development, operations, and security. 
+A culture of network risk management and cybersecurity ownership throughout and across organizations is critical. 
+
+People 
+
+Applying AI requires a skilled and educated workforce with domain expertise, technical training, and the appropriate tools. 
+Organizations must cultivate a culture of data excellence. 
+Success for users in machine learning requires iteration, experimentation, and learning through early sub-optimal performance. 
+
+Digital Capability 
+
+An organization must build the foundational digital capability to successfully apply AI technologies (e.g., database management, information integration). This is necessary to pay down the tech debt. 
+Gaining competitive advantage through information and analytics is an enterprise-wide endeavor from headquarters to the deployed warfighter. 
+
+Policy 
+
+Ethical policies and standards must guide the application and implementation of AI technologies. 
+The U.S. government must strengthen its own AI ecosystem through the following steps: 
+
+Reform hiring authorities and security clearance processing to support bringing in key government and access for contractor personnel.
+Improve the government’s ability to acquire and iterate developmental software by changing budgeting practices for software development.
+Engage industry broadly and spread bets, utilizing small- to medium-sized data science firms in addition to the tech and defense industry giants, because the problem-specific nature of AI and the early stage of the field mean it is impossible to know where the breakthroughs will come from.
+Invest in early stage research and development, specifically those areas requiring federal support that may be less commercially viable.
+Develop tools for AI trust, security, explainability, validation, and verification that can address the high threshold for AI reliability that many government applications will require.
+
+
+Leveraging AI capability means structuring organizations to support the right mix of technical knowledge and domain expertise. 
+The U.S. government must recognize the implications of international activity in AI and move to:
+
+Protect the robust private sector AI ecosystem in the United States and partner nations from attacks and detrimental investment; and 
+Leverage partner nation resources by working first with those partners with common objectives, equipment, and data-sharing agreements while building that commonality with additional partners.
+
+
+
+RELATED RESOURCES
+
+Video: Report launch event
+Video: Defining the AI Ecosystem
+Video: Building the AI Ecosystem for National Security
+Press release:  Thales USA report launch announcement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+Defence and Security
+
+
+Digital Identity and Security
+
+
+Aerospace
+
+
+Space
+
+
+Transverse markets
+
+
+Specific solutions
+
+
+
+
+
+
+Social networks
+
+
+Linkedin
+
+
+Twitter
+
+
+Facebook
+
+
+Youtube
+
+
+Instagram
+
+
+
+
+Contact us
+
+
+            Thales Headquarters
+      
+
++33 (0) 1 57 77 80 00
+
+
+Send a message
+
+
+
+
+
+
+
+
+
+Global
+
+
+Markets
+
+
+Career
+
+
+Investor
+
+
+Journalist
+
+
+Customer Online
+
+
+Supplier
+
+
+
+
+
+
+
+
+© 2024 Thales
+
+
+Credits
+
+
+Terms of Use 
+
+
+Personal Data
+
+
+Sitemap
+
+
+Accessibility: partially accessible 
+
+
+
+
+
+
+
+
+
+

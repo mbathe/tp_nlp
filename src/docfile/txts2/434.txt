@@ -1,0 +1,991 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Facial recognition: It’s time for action - Microsoft On the Issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+Microsoft
+
+
+
+Microsoft On the Issues
+
+
+
+
+Microsoft On the Issues
+
+
+
+
+                            Microsoft On the Issues
+                        
+
+
+
+
+ Home 
+
+
+
+Our Company
+
+
+About Microsoft
+
+
+Company Timeline
+
+
+Global Diversity & Inclusion
+
+
+Microsoft on the Issues
+
+
+Microsoft Stories
+
+
+Official Microsoft Blog
+
+
+Regional News Centers
+Regional News Centers
+
+
+Microsoft Asia
+
+
+Microsoft Europe
+
+
+Microsoft India
+
+
+Microsoft Latin America
+
+
+Microsoft Middle East & Africa
+
+
+
+
+
+ 
+
+News and Stories
+
+
+Accessibility Blog
+
+
+AI Blog
+
+
+Customer Stories
+
+
+Education Stories
+
+
+Feature Stories
+
+
+Innovation Stories
+
+
+Microsoft Conexiones
+
+
+Microsoft Life
+
+
+Microsoft on the Issues
+
+
+Microsoft Research
+
+
+Microsoft Podcasts
+
+
+Official Microsoft Blog
+
+
+Product blogs
+Product blogs
+
+
+Azure
+
+
+Devices
+
+
+Microsoft 365
+
+
+Windows
+
+
+Xbox
+
+
+
+
+Security Blog
+
+
+AI for Business
+
+
+Microsoft Industry Blogs
+
+
+
+ 
+
+Topics
+
+
+Accessibility
+
+
+Access to Broadband
+
+
+AI for Good
+
+
+COVID-19
+
+
+Cybersecurity
+
+
+Digital Safety
+
+
+Fundamental Rights
+
+
+Journalism
+
+
+Open Data
+
+
+Philanthropies
+
+
+Privacy
+
+
+Responsible AI
+
+
+Skills
+
+
+Sustainability
+
+
+United Nations
+
+
+Washington State
+
+
+
+ 
+Cloud Principles
+
+
+
+Press Tools
+
+
+Image Gallery
+
+
+Press Releases
+
+
+Microsoft News on Twitter
+
+
+Events
+
+
+Executive Biographies
+
+
+Microsoft CEO
+
+
+Press Contacts
+
+
+Board of Directors
+
+
+Facts About Microsoft
+
+
+Investor Relations
+
+
+Worldwide News
+
+
+Video & Broll
+
+
+Executive Speeches
+
+
+Press Kits
+Press Kits
+
+
+Automotive and Mobility
+
+
+Dynamics 365
+
+
+Healthcare
+
+
+Manufacturing
+
+
+Microsoft 365
+
+
+Mixed Reality
+
+
+Philanthropies
+
+
+Surface
+
+
+Telecom
+
+
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+ 
+
+
+
+ All Microsoft
+
+
+Global
+
+
+Microsoft 365
+
+
+Teams
+
+
+Copilot
+
+
+Windows
+
+
+Surface
+
+
+Xbox
+
+
+Deals
+
+
+Small Business
+
+
+Support
+
+
+
+
+Software
+Software
+
+
+Windows Apps
+
+
+AI
+
+
+Outlook
+
+
+OneDrive
+
+
+Microsoft Teams
+
+
+OneNote
+
+
+Microsoft Edge
+
+
+Skype
+
+
+
+
+PCs & Devices  
+PCs & Devices  
+
+
+Computers
+
+
+Shop Xbox
+
+
+Accessories
+
+
+VR & mixed reality
+
+
+Certified Refurbished
+
+
+Trade-in for cash
+
+
+
+
+Entertainment
+Entertainment
+
+
+Xbox Game Pass Ultimate
+
+
+PC Game Pass
+
+
+Xbox games
+
+
+PC and Windows games
+
+
+Movies & TV
+
+
+
+
+Business
+Business
+
+
+Microsoft Cloud
+
+
+Microsoft Security
+
+
+Dynamics 365
+
+
+Microsoft 365 for business
+
+
+Microsoft Power Platform
+
+
+Windows 365
+
+
+Microsoft Industry
+
+
+Small Business
+
+
+
+
+Developer & IT  
+Developer & IT  
+
+
+Azure
+
+
+Developer Center
+
+
+Documentation
+
+
+Microsoft Learn
+
+
+Microsoft Tech Community
+
+
+Azure Marketplace
+
+
+AppSource
+
+
+Visual Studio
+
+
+
+
+Other
+Other
+
+
+Microsoft Rewards 
+
+
+Free downloads & security
+
+
+Education
+
+
+Gift cards
+
+
+Licensing
+
+
+Unlocked stories
+
+
+
+
+View Sitemap
+
+
+
+
+
+
+
+
+
+
+Search
+Search blogs.microsoft.com/on-the-issues/
+
+
+
+
+ No results
+
+
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Facial recognition: It’s time for action 
+
+
+Dec 6, 2018
+
+| 
+	Brad Smith - Vice Chair & President
+
+
+
+
+
+
+
+
+ 
+
+
+In July, we shared our views about the need for government regulation and responsible industry measures to address advancing facial recognition technology. As we discussed, this technology brings important and even exciting societal benefits but also the potential for abuse. We noted the need for broader study and discussion of these issues. In the ensuing months, we’ve been pursuing these issues further, talking with technologists, companies, civil society groups, academics and public officials around the world. We’ve learned more and tested new ideas. Based on this work, we believe it’s important to move beyond study and discussion. The time for action has arrived.
+We believe it’s important for governments in 2019 to start adopting laws to regulate this technology. The facial recognition genie, so to speak, is just emerging from the bottle. Unless we act, we risk waking up five years from now to find that facial recognition services have spread in ways that exacerbate societal issues. By that time, these challenges will be much more difficult to bottle back up.
+In particular, we don’t believe that the world will be best served by a commercial race to the bottom, with tech companies forced to choose between social responsibility and market success. We believe that the only way to protect against this race to the bottom is to build a floor of responsibility that supports healthy market competition. And a solid floor requires that we ensure that this technology, and the organizations that develop and use it, are governed by the rule of law.
+While we don’t have answers for every potential question, we believe there are sufficient answers for good, initial legislation in this area that will enable the technology to continue to advance while protecting the public interest. It’s critical that governments keep pace with this technology, and this incremental approach will enable faster and better learning across the public sector. We’ve summarized our ideas below, and we will prioritize this topic in our public policy discussions in selected states and countries.
+We also believe that while it’s better to address these issues broadly, we should not wait for governments to act. We and other tech companies need to start creating safeguards to address facial recognition technology. We believe this technology can serve our customers in important and broad ways, and increasingly we’re not just encouraged, but inspired by many of the facial recognition applications our customers are deploying. But more than with many other technologies, this technology needs to be developed and used carefully. After substantial discussion and review, we have decided to adopt six principles to manage these issues at Microsoft. We are sharing these principles now, with a commitment and plans to implement them by the end of the first quarter in 2019.
+We will also release new materials and training resources to help our customers use this technology in a responsible way. Especially at this stage of its development and more so than for many other products, facial recognition technology requires that tech companies and customers work together to deploy these services successfully. We are committed to working closely with customers in the public and private sectors alike.
+Governments and the tech sector both play a vital role in ensuring that facial recognition technology creates broad societal benefits while curbing the risk of abuse. While many of the issues are becoming increasingly clear, the technology is young. We need to tackle the initial questions now and learn as we go, developing more knowledge and expertise as the technology evolves and public sector experience deepens. It’s possible and perhaps likely that additional steps will be needed with time. But as Mark Twain once noted, “The secret of getting ahead is getting started.” The time to start is now.
+Opportunities from facial recognition
+As with all new technology, the uses of facial recognition are multiplying in both predictable and surprising ways. But it’s increasingly clear that a great many of these uses have created many new and positive benefits for people around the world.
+It’s striking to review the breadth of this innovation. Police in New Delhi recently trialed facial recognition technology and identified almost 3,000 missing children in four days. Historians in the United States have used the technology to identify the portraits of unknown soldiers in Civil War photographs taken in the 1860s. Researchers successfully used facial recognition software to diagnose a rare, genetic disease in Africans, Asians and Latin Americans. And in October, the National Australia Bank designed a proof of concept to enable customers to withdraw money from an Automatic Teller Machine using facial recognition and a PIN.
+Microsoft is one of several companies playing a leading role in developing facial recognition technology.  We’re working with customers around the world, while acting aggressively on industry-leading efforts to improve the capability of this technology to recognize faces with a range of ages and skin tones. Just last month, a new evaluation conducted by the National Institute of Standards and Technology, or NIST, verified the progress we’ve made in developing facial recognition technology that now ranks in the top tier across the IT sector. The algorithms Microsoft submitted to that evaluation were consistently ranked as the most accurate or nearly the most accurate of 127 algorithms tested.  We believe in the future of facial recognition technology and the positive role it can play.
+Problems that need to be addressed
+At the same time, we need to be clear-eyed about the risks and potential for abuse. As we’ve continued to assess where this technology is heading, we believe there are three problems that governments need to address.
+First, especially in its current state of development, certain uses of facial recognition technology increase the risk of decisions and, more generally, outcomes that are biased and, in some cases, in violation of laws prohibiting discrimination.
+Second, the widespread use of this technology can lead to new intrusions into people’s privacy.
+And third, the use of facial recognition technology by a government for mass surveillance can encroach on democratic freedoms.
+We believe all three of these problems should be addressed through legislation, as described below.
+Addressing bias and discrimination
+First, especially in the current state of development, certain uses of facial recognition technology increase the risk of decisions, outcomes and experiences that are biased and even in violation of discrimination laws. Recent research has demonstrated, for example, that some facial recognition technologies have encountered higher error rates when seeking to determine the gender of women and people of color. This makes it especially important that Microsoft and other tech companies continue the work needed to identify and reduce these errors and improve the accuracy and quality of facial recognition tools and services. This work is underway, and we’re making important progress. It’s equally critical that we work with customers closely to ensure that facial recognition services are deployed properly in ways that will reduce these risks. Over time, we believe that well-functioning market forces can encourage the technology innovation that is needed.
+But we also believe that new laws are needed in this area, and for two distinct reasons. First, market forces will work well only if potential customers are well-informed and able to test facial recognition technology for accuracy and risks of unfair bias, including biases that arise in the context of specific applications and environments. Tech companies currently vary in their willingness to make their technology available for this purpose. As a result, some academic tests of these services have omitted some of the market leaders. And when important advocacy organizations have tried to perform tests, they’ve almost immediately been met by rejections and criticism by some providers who claim that the testing is deficient. As a society, we need legislation that will put impartial testing groups like Consumer Reports and their counterparts in a position where they can test facial recognition services for accuracy and unfair bias in a transparent and even-handed manner.
+We believe new laws can address this need with a two-pronged approach:
+
+Requiring transparency. Legislation should require tech companies that offer facial recognition services to provide documentation that explains the capabilities and limitations of the technology in terms that customers and consumers can understand.
+Enabling third-party testing and comparisons. New laws should also require that providers of commercial facial recognition services enable third parties engaged in independent testing to conduct and publish reasonable tests of their facial recognition services for accuracy and unfair bias. A sensible approach is to require tech companies that make their facial recognition services accessible using the internet also make available an application programming interface or other technical capability suitable for this purpose.
+
+There’s a second reason we believe new legislation is needed in this area now, and it points to additional measures that new laws should address. While we’re hopeful that market forces may eventually solve issues relating to bias and discrimination, we’ve witnessed an increasing risk of facial recognition services being used in ways that may adversely affect consumers and citizens – today.
+It’s obviously of little solace to think about the eventual improvements in this technology if it misidentifies you and is used in a way that deprives you of the ability to access government services, obtain admission to an event or purchase commercial products. These problems can be exacerbated when organizations deploy facial recognition beyond the limits of the current technology or in a manner that is different from what was intended when they were designed. We believe that a new law can help address these concerns without imposing onerous obligations on businesses and other users. This too involves a two-pronged legal approach:
+
+Ensuring meaningful human review. While human beings of course are not immune to errors or biases, we believe that in certain high-stakes scenarios, it’s critical for qualified people to review facial recognition results and make key decisions rather than simply turn them over to computers. New legislation should therefore require that entities that deploy facial recognition undertake meaningful human review of facial recognition results prior to making final decisions for what the law deems to be “consequential use cases” that affect consumers. This includes where decisions may create a risk of bodily or emotional harm to a consumer, where there may be implications on human or fundamental rights, or where a consumer’s personal freedom or privacy may be impinged.
+Avoiding use for unlawful discrimination. Finally, it’s important for the entities that deploy facial recognition services to recognize that they are not absolved of their obligation to comply with laws prohibiting discrimination against individual consumers or groups of consumers. This provides additional reason to ensure that humans undertake meaningful review, given their ongoing and ultimate accountability under the law for decisions that are based on the use of facial recognition.
+
+Protecting people’s privacy
+Second, the widespread use of facial recognition technology can lead to new intrusions into people’s privacy. For example, every public establishment could install cameras connected to the cloud with real-time facial recognition services.
+Interestingly, the privacy movement in the United States was born from improvements in camera technology. In 1890, future Supreme Court Justice Louis Brandeis took the first step in advocating for privacy protection when he co-authored an article with colleague Samuel Warren in the Harvard Law Review advocating “the right to be let alone.” The two argued that the development of “instantaneous photographs” and their circulation by newspapers for commercial gain had created the need to protect people with a new “right to privacy.”
+Technology today gives a new meaning to “instantaneous photographs” that Brandeis and Warren probably never imagined. From the moment one steps into a shopping mall, it’s possible not only to be photographed but to be recognized by a computer wherever one goes. Beyond information collected by a single camera in a single session, longer-term histories can be pieced together over time from multiple cameras at different locations. A mall owner could choose to share this information with every store. Stores could know immediately when you visited them last and what you looked at or purchased, and by sharing this data with other stores, they could predict what you’re looking to buy on your current visit.
+Our point is not that the law should deprive commercial establishments of this new technology. To the contrary, we are among the companies working to help stores responsibly use this and other digital technology to improve shopping and other consumer experiences. We believe that a great many shoppers will welcome and benefit from improvements in customer service that will result.
+But people deserve to know when this type of technology is being used, so they can ask questions and exercise some choice in the matter if they wish. Indeed, we believe this type of transparency is vital for building public knowledge and confidence in this technology. New legislation can provide for this in a straightforward approach:
+
+Ensuring notice. The law should require that entities that use facial recognition to identify consumers place conspicuous notice that clearly conveys that these services are being used.
+Clarifying consent. The law should specify that consumers consent to the use of facial recognition services when they enter premises or proceed to use online services that have this type of clear notice.
+
+In effect, this approach will mean that people will have the opportunity to vote with their feet – or their keyboards or thumbs. They’ll be informed, and they can ask questions or take their business elsewhere if they wish.
+We appreciate that some, including consumer groups, will argue that the law should go farther, especially when it comes to the issue of consumer consent. In Europe, it already does. It’s important to consider these views. For example, consent to use facial recognition services could be subject to background privacy principles, such as limitations on the use of the data beyond the initially defined purposes and the rights of individuals to access and correct their personal data. But from our perspective, this is also an area, perhaps especially in the United States, where this new regulation might take one quick step and then we all can learn from experience before deciding whether additional steps should follow.
+Protecting democratic freedoms and human rights
+Third, the use of facial recognition technology by a government can encroach on democratic freedoms and human rights. Democracy has always depended on the ability of people to assemble, to meet and talk with each other and even to discuss their views both in private and in public. This in turn relies on the ability of people to move freely and without constant government surveillance.
+There are many governmental uses of facial recognition technology that will protect public safety and promote better services for the public without raising these types of concerns. There is an increasing number of such services in place already, and we should encourage them subject to the other protections described here.
+But there is one potential use for facial recognition technology that could put our fundamental freedoms at risk. When combined with ubiquitous cameras and massive computing power and storage in the cloud, a government could use facial recognition technology to enable continuous surveillance of specific individuals. It could follow anyone anywhere, or for that matter, everyone everywhere. It could do this at any time or even all the time. This use of facial recognition technology could unleash mass surveillance on an unprecedented scale.
+Unprecedented, but not unimagined. As George Orwell described in his novel “1984,” one vision of the future would require that citizens must evade government surveillance by finding their way secretly to a blackened room to tap in code with hand signals on each other’s arms – because otherwise cameras and microphones will capture and record their faces, voices and every word. Orwell sketched that vision nearly 70 years ago. Today technology makes that type of future possible.
+But not inevitable.
+We must ensure that the year 2024 doesn’t look like a page from the novel “1984.” An indispensable democratic principle has always been the tenet that no government is above the law. Today this requires that we ensure that governmental use of facial recognition technology remain subject to the rule of law. New legislation can put us on this path.
+
+Limiting ongoing government surveillance of specified individuals. To protect against the use of facial recognition to encroach on democratic freedoms, legislation should permit law enforcement agencies to use facial recognition to engage in ongoing surveillance of specified individuals in public spaces only when:
+
+a court order has been obtained to permit the use of facial recognition services for this monitoring; or
+where there is an emergency involving imminent danger or risk of death or serious physical injury to a person.
+
+
+
+It will be important for legislators to consider the standards for obtaining court orders in this area. For the most part, we believe this should be based on traditional rules like probable cause for search warrants. But there may be other narrow circumstances that also should be permissible, such as appropriate uses to help locate missing persons.
+It’s worth noting that this approach builds on the U.S. Supreme Court’s recent decisions. In June, the court decided that the government cannot obtain without a search warrant the cellphone records that show the cell sites, and hence the physical locations, where someone has traveled. In Carpenter v. United States, Chief Justice John Roberts wrote for a majority of the court that an individual has a “legitimate expectation of privacy in the record of his physical movements” that are recorded in these cell site records.
+Even though we travel with our phones in public and in effect share our location with our cellular provider, the Supreme Court concluded that our location records are covered by the Fourth Amendment to the Constitution and its protection of our right to be secure in our “persons, houses, papers, and effects, against unreasonable searches and seizures.” Therefore, the court decided that the government cannot track our movements through our phones and these cell site records unless it secures from an independent judge a search warrant based on probable cause to believe that we have committed a crime.
+Put in this context, facial recognition raises a new constitutional question: do our faces deserve the same protection as our phones? From our perspective, the answer is a resounding yes.
+As a company, Microsoft has brought four lawsuits against the U.S. government since 2013 to protect people’s privacy rights in an era when new technology can enable mass surveillance. We repeatedly have sought to preserve longstanding protections – and in our view timeless values – that are embodied in the First and Fourth Amendments to the Constitution. From our vantage point, it’s important to act before an excessive use of facial recognition technology can put these freedoms at risk. And while these issues ultimately may find their way to the U.S. Supreme Court, as one of our four cases did this past February, they should begin with the people who are elected by the people to protect our rights – our legislators in state capitals and Washington, D.C.
+ 
+Looking beyond law and regulation
+While we believe that new laws and regulations are indispensable, we also recognize that they are not a substitute for the responsibility that needs to be exercised by tech companies. In July, we announced that we would undertake work to assess and develop additional principles to govern our facial recognition work. Today, we make good on an important aspect of this work by publishing the principles that we will adopt for Microsoft’s facial recognition work and inviting feedback to guide our implementation of them.
+
+Over the past six months, we have spent considerable time seeking input and advice from our employees, customers, public officials, academics and groups across civil society. We have benefitted from discussions in the United States and around the world. We have decided to take the next step today by adopting six principles that address the concerns we believe governments need to address as well. These are:
+
+Fairness. We will work to develop and deploy facial recognition technology in a manner that strives to treat all people fairly.
+Transparency. We will document and clearly communicate the capabilities and limitations of facial recognition technology.
+Accountability. We will encourage and help our customers to deploy facial recognition technology in a manner that ensures an appropriate level of human control for uses that may affect people in consequential ways.
+Non-discrimination. We will prohibit in our terms of service the use of facial recognition technology to engage in unlawful discrimination.
+Notice and consent. We will encourage private sector customers to provide notice and secure consent for the deployment of facial recognition technology.
+Lawful surveillance. We will advocate for safeguards for people’s democratic freedoms in law enforcement surveillance scenarios, and will not deploy facial recognition technology in scenarios that we believe will put these freedoms at risk.
+
+Next week we will publish a document detailing these principles, and we will work in the coming months to gather feedback and suggestions from interested individuals and groups on how we can best implement them.
+As we take this step, we’re cognizant of the need to create policies, processes and tools to make these principles effective across our company. We will pursue this work and will formally launch these principles, together with this supporting framework, before the end of March 2019.
+As with the regulatory issues discussed here, we’re taking an incremental approach with the adoption of these principles. We readily recognize that we don’t yet have all the answers. Given the early stage of facial recognition technology, we don’t even know all the questions. But we believe that taking a principled approach will provide valuable experience that will enable us to learn faster. As we do, we’re committed to sharing what we learn, perhaps most especially with our customers through new material and training resources that will enable them to adopt facial recognition in a manner that gives their stakeholders and the public the confidence they deserve.
+Tags: Brad Smith, facial recognition technology, Responsible AI 
+
+
+
+
+ More Cybersecurity StoriesStanding up for democratic values and protecting stability of cyberspace: Principles to limit the threats posed by cyber mercenaries April 11, 2023Digital Crimes Unit: Leading the fight against cybercrime May 3, 2022Keeping your vote safe and secure: A story from inside the 2020 election June 22, 2021
+
+
+
+
+
+
+
+
+Follow us:
+
+
+
+
+
+
+					Check us out on RSS				
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's new
+
+
+Surface Pro
+
+
+Surface Laptop
+
+
+Surface Laptop Studio 2
+
+
+Surface Laptop Go 3
+
+
+Microsoft Copilot
+
+
+AI in Windows
+
+
+Explore Microsoft products
+
+
+Windows 11 apps
+
+
+
+
+Microsoft Store
+
+
+Account profile
+
+
+Download Center
+
+
+Microsoft Store support
+
+
+Returns
+
+
+Order tracking
+
+
+Certified Refurbished
+
+
+Microsoft Store Promise
+
+
+Flexible Payments
+
+
+
+
+Education
+
+
+Microsoft in education
+
+
+Devices for education
+
+
+Microsoft Teams for Education
+
+
+Microsoft 365 Education
+
+
+How to buy for your school
+
+
+Educator training and development
+
+
+Deals for students and parents
+
+
+Azure for students
+
+
+
+
+
+
+Business
+
+
+Microsoft Cloud
+
+
+Microsoft Security
+
+
+Dynamics 365
+
+
+Microsoft 365
+
+
+Microsoft Power Platform
+
+
+Microsoft Teams
+
+
+Microsoft 365 Copilot
+
+
+Small Business
+
+
+
+
+Developer & IT
+
+
+Azure
+
+
+Developer Center
+
+
+Documentation
+
+
+Microsoft Learn
+
+
+Microsoft Tech Community
+
+
+Azure Marketplace
+
+
+AppSource
+
+
+Visual Studio
+
+
+
+
+Company
+
+
+Careers
+
+
+About Microsoft
+
+
+Company news
+
+
+Privacy at Microsoft
+
+
+Investors
+
+
+Diversity and inclusion
+
+
+Accessibility
+
+
+Sustainability
+
+
+
+
+
+
+English (United States)
+
+
+Your Privacy Choices Opt-Out Icon
+
+
+
+
+
+Your Privacy Choices
+
+
+
+
+Your Privacy Choices Opt-Out Icon
+
+
+
+
+
+Your Privacy Choices
+
+
+
+Consumer Health Privacy
+
+
+
+
+Contact us
+
+
+Privacy
+
+
+Manage cookies
+
+
+Terms of use
+
+
+Trademarks
+
+
+About our ads
+
+© Microsoft 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

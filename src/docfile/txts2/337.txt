@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethical Guidelines - Gesellschaft für Informatik e.V.
+
+
+
+Zum Hauptinhalt springenSUCHEMENÜ
+                                
+                                
+                                        Mitglied werden
+                                    
+                            
+                                
+                                
+                                        meine GI
+                                    
+                            AktuellesÜbersichtMeldungenThemen-BlogVeranstaltungenWettbewerbeWahlenPresseArbeits- und PositionspapiereÜber unsÜbersichtLeitungOrganisationGliederungenPersonenPartnerHistorieJobsFreiwilligendienstKontaktNetzwerkÜbersichtFachbereicheRegionalgruppenHochschulgruppenJunge GIMentoringBotschafterinnen und BotschafterFachgremienSonstige GremienPartnerServiceÜbersichtDigitale BibliothekPublikationenVergünstigungenGI-BahnticketInformatiklexikonStellenanzeigenStudiengängeVerleihInfomaterialMitgliedschaftÜbersichtBeitragsinformationenHäufige FragenMitgliedsantragKündigungSepa MandatKreditkarten ZahlungProjekteÜbersichtAllianz für informatische BildungBYTE ChallengeCivic Data LabClimate Data Entrepreneurial ClubComeThinkAgainCommon Grounds ForumDeutscher MobilitätspreisECO:DIGITGrand Challenges 2025Green CodingInformatik-MonitorK3I-CyclingNetDGTNFDIxCSQUADRIGARTeKIVergangene Projekte
+                                                    
+                                                    
+                                                            Mitglied werden
+                                                        
+                                                
+                                                    
+                                                    
+                                                            meine GI
+                                                        
+                                                Sie sind hier:gi.deÜber unsOrganisationUnsere Ethischen LeitlinienEthical GuidelinesEthical Guidelines of the German Informatics SocietyBonn, June 29, 2018PreambleThe German Informatics Society (GI) is a registered non-profit organization. With these guidelines, the GI seeks to establish that matters of professional ethics or moral conflicts become the subject of collaborative reflection and action. The guidelines are designed to offer a point of orientation not only to members of the GI association, but to all persons involved in the design, manufacture, operation or use of IT systems. The ethical guidelines outlined herein express the intent of GI members to conduct themselves in accordance with the values that form the basis of Basic Law for the Federal Republic of German and the Charter of Fundamental Rights of the European Union.The GI and its members are committed to adhering to these guidelines. They also seek to insure that these guidelines find acknowledgement in public discourse outside the GI.GI members are especially committed to respecting and protecting human dignity. Whenever norms of the state, society or the private sphere come into conflict with these values, GI members must address the issue. GI members conduct themselves in such a way as to advocate for the right to self-determination in information and communications technologies, and for the right to guarantee confidentiality and integrity of IT systems. GI members advocate for discrimination-free organizational structures which take into consideration the divergent needs and diversity of all human beings in the design, manufacture, operation and use of IT systems. GI members seek to engage and educate the public in discourse concerning the ethical and moral issues pertinent to their individual and institutional conduct. In a networked world, it is imperative that all potential courses of action be subject to interdisciplinary consideration regarding their foreseeable impact and potential consequences. This is the challenge for each of our members. The fact that the guidelines established here are as open as they are is testimony to the fact that moral conduct cannot be governed by a definitive code of ethics or stringent regulations.Section 1: Professional CompetenceGI members stay abreast of the current state of science and technology in their respective areas of specialization; they take new developments into account and provide constructive criticism. GI members are constantly working to improve their professional competencies. Section 2: Expertise and Communicative CompetenceGI members are constantly improving their levels of expertise and communicative competencies in order to meet the demands relevant to their duties in the design, manufacture, operation and use of IT systems and to understand the surrounding professional and technical contexts. In order to assess the consequences of IT-systems in the application environment and to propose suitable solutions, there must be a willingness to understand and take into account the rights, needs and interests of those parties who are impacted by them.Section 3: Legal Expertise GI members are familiar with and observant of pertinent legal regulations concerning the design, manufacture, operation and use of IT systems. GI members, in conjunction with their expertise and professional competencies, participate actively in drafting legislative regulations.  Section 4: Powers of Discernment GI members sharpen their powers of discernment to render themselves better equipped to contribute to design processes with individual and collective accountability. This presupposes not only a willingness to call into question and to make judgments about individual and collective actions in public discourse, but also the ability to acknowledge the limits of one’s own powers of discernment.  Section 5: Conditions of Employment GI members are active proponents of socially equitable contractual agreements concerning terms of employment, inclusive of opportunities for professional development and shared governance. Section 6: Organizational Structures GI members advocate for organizational structures which foster and facilitate socially equitable contractual agreements concerning terms of employment.  Section 7: Teaching and Learning GI members who are computer science instructors foster in their students the capacity for critical thinking; they prepare learners to accept their own individual and collective responsibility, and they act as role models in this regard.  Section 8: Research GI members who conduct research in the field of computer science adhere to the rules of best practices in scientific research.  Of particular importance in this regard is openness and transparency in dealing with criticism and conflicts of interest, the ability to express and to accept criticism as well as the willingness to allow the impact of one’s own scientific work in the research process to become the subject of discussion. Scientific research breaches boundaries. These must be clearly articulated.  Section 9: Courage of Convictions GI members staunchly advocate for the protection and safeguarding of human dignity, even when this is not explicitly mandated by laws, contracts or other norms, or when these stand in direct opposition to the protection and safeguarding of human dignity. This applies even in situations in which GI members’ obligations to clients conflict with their responsibility to third-party stakeholders.  Section 10: Social Accountability  In the design, manufacture, operation and use of IT systems, GI members should contribute to the betterment of local and global living conditions. GI members are responsible for the social and societal consequences of their work. Their influence on positioning, marketing and further development of IT systems should contribute to the socially acceptable and sustainable application of these technologies.   Section 11: Facilitating Self-Determination   GI members work toward ensuring that those people impacted by the usage and conditions of use of IT systems are granted adequate opportunity to participate in the design of these systems. This is especially pertinent with regard to systems whose application involves the exerting influence over, monitoring, or surveillance of said populations.  Section 12: The German Informatics Society  The German Informatics Society encourages its members to adhere to these guidelines at all times. The GI shall attempt to mediate between parties in situations in which conflicts arise. Downloads: Ethical Guidelines
+							Poster-Ethical Guidelines
+						GI-RadarLinkedInYouTubeRSSxTeilenLanguageDeutschEnglisch© 2024 Gesellschaft für Informatik e.V.Über unsImpressumDatenschutzProblem melden
+
+
+
+Cookie Einstellungen
+
+Auf unserer Webseite werden Cookies verwendet. Einige davon werden zwingend benötigt, während es uns andere ermöglichen, Ihre Nutzererfahrung auf unserer Webseite zu verbessern. Wir bitten hiermit um Erlaubnis, die folgenden Cookies verwenden zu dürfen. Diese Einwilligung ist freiwillig, nicht für die Nutzung der Website erforderlich und kann jederzeit widerrufen werden.
+
+
+
+
+
+
+
+Essenziell
+
+Essentielle Cookies werden für grundlegende Funktionen der Webseite wie z.B. für die Anmeldung im Mitgliederbereich benötigt. Dadurch ist gewährleistet, dass die Webseite einwandfrei funktioniert.
+
+Cookie Informationen anzeigen
+
+
+
+
+
+Name
+omCookieConsent
+
+
+
+
+Anbieter
+gi.de
+
+
+Laufzeit
+1 Jahr
+
+
+Zweck
+Enthält die gewählten Tracking-Optin-Einstellungen.
+
+
+
+
+
+
+Name
+fe_typo_user / PHPSESSID
+
+
+
+
+Anbieter
+gi.de
+
+
+Laufzeit
+aktuelle Session
+
+
+Zweck
+Dieses Cookie ist ein Standard-Session-Cookie von TYPO3. Es speichert im Falle eines Benutzer-Logins die Session-ID. So kann der eingeloggte Benutzer wiedererkannt werden und es wird ihm Zugang zu geschützten Bereichen gewährt.
+
+
+
+
+
+
+
+
+
+
+Statistik
+
+Diese Gruppe beinhaltet alle Skripte für analytisches Tracking und zugehörige Cookies. Es hilft uns die Nutzererfahrung der Website zu verbessern.
+
+Cookie Informationen anzeigen
+
+
+
+
+
+Name
+_pk_id.1.9dca
+
+
+
+
+Anbieter
+Matomo
+
+
+Laufzeit
+13 Monate
+
+
+Zweck
+Dieses Cookie wird von der Open-Source-Software Matomo für die statistische Auswertung der Besucherzugriffe verwendet.
+
+
+
+
+
+
+Name
+_pk_ses.1.9dca
+
+
+
+
+Anbieter
+Matomo
+
+
+Laufzeit
+30 Minuten
+
+
+Zweck
+Dieses Cookie wird von der Open-Source-Software Matomo für die statistische Auswertung der Besucherzugriffe verwendet.
+
+
+
+
+
+
+
+
+
+
+
+Nur essenzielle
+Alle akzeptieren
+
+
+
+
+
+
+
+
+
+
+
