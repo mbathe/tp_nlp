@@ -14,11 +14,14 @@ pycryptodome = "^3.21.0"
 nltk = "^3.9.1"
 tqdm = "^4.66.5"
 requests = "^2.32.3"
-numpy = "^2.1.2"
+numpy = "^2.0.0"
 scikit-learn = "^1.5.2"
 bs4 = "^0.0.2"
 python-magic = "^0.4.27"
 python-magic-bin = "^0.4.14"
+rake-nltk = "^1.0.6"
+rake-keyword = "^0.0.1"
+spacy = "^3.8.2"
 
 
 [build-system]
