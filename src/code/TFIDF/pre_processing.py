@@ -42,7 +42,7 @@ class Processing:
         self.tf_idf_dict = [{} for i in range(len(self.documents))]
         for i, full_content in enumerate(tqdm(self.documents)):
             content = re.sub(
-                r'(#\S+|@\S+|\S*@\S*\s?|http\S+|word01|word02|word03|[^A-Za-z0-9]\'\'|\d+|<[^>]*>|[^A-Za-z0-9\'\- ]+)',
+                r'(#\S+|@\S+|\S*@\S*\s?|http\S+|[^A-Za-z0-9]\'\'|\d+|<[^>]*>|[^A-Za-z0-9\'\- ]+)',
                 "",
                 full_content
             )
@@ -72,6 +72,7 @@ class Processing:
                     document_count / (token_doc_count[token] + 1))
                 # self.vec[i, tokens_index[token]] += self.tf_idf_dict[i][token]
     # .....
+
     def get_key_words(self):
         dictionnaire = dict(
             zip(self.tokens, np.zeros(len(self.tokens))))
@@ -95,7 +96,7 @@ class Processing:
 
         # To get keyword phrases ranked highest to lowest.
         corpus_text = re.sub(
-            r'(#\S+|@\S+|\S*@\S*\s?|http\S+|word01|word02|word03|[^A-Za-z0-9]\'\'|\d+|<[^>]*>|[^A-Za-z0-9\' ]+)',
+            r'(#\S+|@\S+|\S*@\S*\s?|http\S+|[^A-Za-z0-9]\'\'|\d+|<[^>]*>|[^A-Za-z0-9\' ]+)',
             "",
             corpus_text
         )
