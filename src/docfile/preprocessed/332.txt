@@ -1,0 +1,1 @@
+padding rgba center tambahkan jarak antara card width ukuran lebar card tetap img width ukuran gambar tetap height ukuran gambar tetap height ketinggian tetap untuk elemen overflow hidden sembunyikan teks yang lebih panjang ukuran teks judul tetap span ukuran teks deskripsi tetap color color ukuran ikon media sosial tetap margin hover color
