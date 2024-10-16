@@ -25,7 +25,7 @@ if not os.path.exists(OUT_FOLDER):
 
 print('Preprocessing...')
 for i, filename in enumerate(tqdm(glob.glob(current_working_directory+"\\..\\..\\docfile\\txts\\*.txt"))):
-    name = filename.split('\\')[-1].split('.')[0]
+
     with open(filename, encoding="utf8") as f:
         lines = f.read().strip()
 

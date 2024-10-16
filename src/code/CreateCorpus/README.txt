@@ -25,7 +25,3 @@ python preprocess.py
 107 : file = open(f"{t.strip('*')}/{i}.txt", "w", encoding="utf8")
 
 python create_corpus.py -d preprocessed/ -t themes.json
-
-### Commande pour la règle `clean` (nettoyer les fichiers intermédiaires) ### NON-UTILISEE !!!
-
-rm -rf docs txts preprocessed

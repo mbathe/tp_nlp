@@ -1,9 +1,6 @@
 import argparse
 import numpy
-import sys
 import glob
-from pathlib import Path
-from nltk.corpus import stopwords
 from tqdm import tqdm
 import ujson as json
 import os
