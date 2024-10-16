@@ -66,7 +66,7 @@ class Processing:
                 self.tf_idf_dict[i][token] *= np.log(
                     document_count / (token_doc_count[token] + 1))
                 # self.vec[i, tokens_index[token]] += self.tf_idf_dict[i][token]
-    # ..
+    # .....
     def get_key_words(self):
         dictionnaire = dict(
             zip(self.tokens, np.zeros(len(self.tokens))))
