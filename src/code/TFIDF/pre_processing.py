@@ -29,8 +29,6 @@ class Processing:
 
     def process_corpus(self):
         corpus_text = ""
-        print(glob.glob(os.path.join(os.getenv('TXT_FOLDER'), "*.txt")))
-        # Lire le corpus
         for file in tqdm(glob.glob(os.path.join(os.getenv('TXT_FOLDER'), "*.txt"))):
             with open(file, "r", encoding="utf-8") as f:
                 corpus_text += " "+f.read().strip().lower()
