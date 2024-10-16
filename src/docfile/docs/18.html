@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Brainstorm about the ethical implications of your project and represent them in a canvas.">
+        <meta name="keywords" content="ethics canvas, ethics, social entrepreneurship, research, innovation, privacy, business development, business model canvas, open source tools">
+        
+        <!-- favicon -->
+        <link rel="icon" href="icon/favicon.ico"/>
+        
+        <title>The Ethics Canvas</title>
+        <!-- Mailchimp -->
+        <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+        <!-- Google font -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+        <!-- Mailchimp style -->
+        <link rel="stylesheet" type="text/css" href="css/mailchimp.css">
+        <!-- Slick Carousel jQuery plugin style -->
+        <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+        <!-- Slick Carousel Theme style (Creates a basic layout)-->
+        <link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+        <!-- Main Style -->
+        <link rel="stylesheet" type="text/css" href="css/landing.css">
+    </head>
+    <body>
+        
+        <div class="container-fluid">
+            <div class="row header">
+                <header class=" col-md-4 col-md-offset-4 text-center">
+                    <!--logo -->
+                    <h1 class="page_title text-center">
+                        <a class="logo " href="index.html">
+                            <img src="icon/logo.svg" alt="Online Ethics Canvas"/>
+                        </a>
+                    </h1>
+                </header>
+            </div>
+            
+            <!-- ===================================
+            Slick Carousel slider area
+            =================================== -->
+            <div class="container-fluid">
+                <div class="slider-area col-md-12 text-center">
+                    <!-- ======= The markup for the Slick Carousel  ======== -->
+                    <div class="slickCarousel">
+                        <div class="carousel-content">
+                            <div class="row">
+                                <div class="carousel-content-elements col-md-4 col-md-offset-4 ">
+                                    <!-- <h2>Content 1</h2> -->
+                                    <p>
+                                        Brainstorm in a group about the ethical implications of your project and represent them in a canvas.
+                                    </p>
+                                </div>
+                                <!--  end of .col-md-3 -->
+                            </div>
+                            <!--  end of inner content#1 .row -->
+                        </div>
+                        <!--  end of .carousel-content #1-->
+                        <div class="carousel-content">
+                            <div class="row">
+                                <div class="carousel-content-elements col-md-4 col-md-offset-4 ">
+                                    <!-- <h2>Content 2 </h2> -->
+                                    <p>
+                                        Analyse the ethical concerns of your project and find suitable solutions.
+                                    </p>
+                                </div>
+                                <!--  end of .col-md-3 -->
+                            </div>
+                            <!--  end of inner content#2 .row -->
+                        </div>
+                        <!--  end of .carousel-content #2-->
+                        <div class="carousel-content">
+                            <div class="row">
+                                <div class="carousel-content-elements col-md-4 col-md-offset-4 ">
+                                    <!-- <h2>Content 3</h2> -->
+                                    <p>
+                                        Join the community, learn from similar use cases and share your experiences.
+                                    </p>
+                                </div>
+                                <!--  end of .col-md-3 -->
+                            </div>
+                            <!--  end of inner content#3 .row -->
+                        </div>
+                        <!--  end of .carousel-content #3-->
+                    </div>
+                    <!-- end of Slick Carousel markup-->
+                </div>
+                <!-- end of .slider-area -->
+            </div>
+            <!-- end of .container-fluid 0f the slider area -->
+            
+            <!-- ========================================
+            3 Link Areas (Online, sign up, download)
+            ========================================= -->
+            <div class="row user-area">
+                <!-- try it online -->
+                <div class=" try-online col-md-4 ">
+                    <h2>Try the Canvas Online</h2>
+                    <p>Start using the online Ethics Canvas without registration, and export your work in PDF or JSON format.</p>
+                    <!-- link to the online canvas -->
+                    <a class="btn try-canvas" href="canvas/index.php">
+                        <span>Try It Online</span>
+                    </a>
+                </div>
+                <!-- sign up/sign in -->
+                <div class=" sign-up-in col-md-4 " id="login-area">
+                    <h2>Sign Up to Save Your Canvas</h2>
+                    <p>Create an account so you can save your work in your dashboard.</p>
+                    
+                    <!-- ======================================= -->
+                    <div>
+                        <ul class="nav nav-tabs">
+                            <li class=" active" id="sign-up-pill">
+                                <a data-toggle="pill" href="#signup-tab">Sign Up</a>
+                            </li>
+                            <li id="log-in-pill">
+                                <a data-toggle="pill" href="#login-tab">
+                                    Log In</a>
+                            </li>
+                            <li id="forgot-password-pill">
+                                <a data-toggle="pill" href="#reset-password-tab">
+                                    New Password</a>
+                            </li>
+                        </ul>
+
+                        <div class="tab-content">
+                            <div id="signup-tab" class="tab-pane fade in active">
+                                <!-- ===================
+                                Sign up form area
+                                ====================== -->
+                                <div class="form-signup-feedback "></div>
+                                <form class="sign-up-form" action="sign-up.php" method="post" has-feedback>
+                                    <!-- first name -->
+                                    <div class="input-area">
+                                        <label for="firstname-signup">
+                                            Name</label>
+                                        <p>
+                                            <input id="firstname-signup" name="firstname-signup" type="text" required/>
+                                        </p>
+                                        <div class="form-message " id="name-register-message"></div>
+                                    </div>
+                                    <!-- email -->
+                                    <div class="input-area">
+                                        <label for="email-signup">
+                                            Email</label>
+                                        <p>
+                                            <input id="email-signup" name="email-signup" type="email" required/>
+                                        </p>
+                                        <div class="form-message " id="email-register-message"></div>
+                                    </div>
+                                    <!-- password -->
+                                    <div class="input-area">
+                                        <label for="password-signup">Password</label>
+                                        <p>
+                                            <input id="password-signup" name="password-signup" type="password" required/>
+                                        </p>
+                                        <div class="form-message " id="pass-register-message"></div>
+                                    </div>
+                                    <!-- passworf confirmation -->
+                                    <div class="input-area">
+                                        <label for="password-signup-conf">Repeat Password</label>
+                                        <p>
+                                            <input id="password-signup-conf" name="password-signup-conf" type="password" required/>
+                                            
+                                        </p>
+                                        <div class="form-message " id="pass-conf-register-message"></div>
+                                    </div>
+                                    <!-- sign up button -->
+                                    <button class="btn sign-up" type="submit" id="sign-up-btn" name="sign-up">
+                                        <span>Sign Up</span>
+                                    </button>
+                                </form>
+                            </div>
+                            <!-- second pill content -->
+                            <div id="login-tab" class="tab-pane fade">
+                                <!-- ===================
+                                log in form area
+                                ====================== -->
+                                <div class="form-login-feedback "></div>
+                                <form class="log-in-form" action="log-in.php" method="post">
+                                    <!-- email -->
+                                    <div class="input-area">
+                                        <label for="email-login">Email</label>
+                                        <p>
+                                            <input id="email-login" name="email-login" type="email" required/>
+                                        </p>
+                                        <div class="form-message" id="email-login-message"></div>
+                                    </div>
+                                    <!-- password -->
+                                    <div class="input-area">
+                                        <label for="password-login">Password</label>
+                                        <p>
+                                            <input id="password-login" name="password-login" type="password" required/>
+                                        </p>
+                                        <div class="form-message" id="pass-login-message"></div>
+                                    </div>
+                                    <div class="forgot-password">
+                                        <a href="#">Forgot your password?</a>
+                                    </div>
+                                    <!-- log in button -->
+                                    <button class="btn log-in" type="submit" id="log-in-btn" name="sign-up">
+                                        <span>Log In</span>
+                                    </button>
+                                </form>
+                            </div>
+                            <!-- end of second pill content -->
+                            <!-- third pill content -->
+                            <div id="reset-password-tab" class="tab-pane fade">
+                                <!-- ========================
+                                reset password form area
+                                =========================== -->
+                                <div class="form-reset-password-feedback "></div>
+                                <form class="reset-password-form" action="reset-password.php" method="post">
+                                    <!-- email -->
+                                    <div class="input-area">
+                                        <label for="email-reset-password">Your Email</label>
+                                        <p>
+                                            <input id="email-reset-password" name="email-reset-password" type="email" required/>
+                                        </p>
+                                        <div class="form-message " id="reset-password-message"></div>
+                                    </div>
+                                    <!-- reset password button -->
+                                    <button class="btn reset-password" type="submit" id="reset-password-btn" name="reset-password">
+                                        <span>Reset My Password</span>
+                                    </button>
+                                </form>
+                            </div>
+                            <!-- end of third pill content -->
+                        </div>
+                    </div>
+                </div>
+                <!-- download as pdf -->
+                <div class="download-pdf col-md-4 ">
+                    <h2>Download a PDF Version</h2>
+                    <p>Work offline. Download a printable version of the Ethics Canvas to use it in workshops. <b>Need help?</b> <a href="download/handbook.pdf" target="_blank" download>Download the handbook</a> for further details and examples.</p>
+                    <!-- The attribute is not supported in Safari-->
+                    <a class="btn download-canvas" href="download/online-ethics-canvas.pdf" target="_blank" download>
+                        <span>Download as PDF</span>
+                    </a>
+                </div>
+            </div>
+            <!-- end of .row .user-area -->
+            <!-- ===================
+            HOW IT WORKS
+            ===================-->
+            <div class="row">
+                <div class="how-it-works col-md-8 col-md-offset-2">
+                    <h2>HOW IT WORKS</h2>
+                    <p>
+                        The Ethics Canvas helps you structure ideas about the ethical implications of the projects you are working on, to visualise them and to resolve them.
+                    </p>
+                    <img src="img/canvas-screen.png"/>
+                </div>
+                <div class="how-it-works col-md-8 col-md-offset-2">
+                    <p>
+                        Add cards with your ideas to the fields of the canvas. Drag and drop cards to different fields. Link cards to each other, for instance specific stakeholders to specific ethical concerns. The Canvas is dynamic and will adapt to your workflow.
+                    </p>
+                    <p>
+                        You’ll get an overview of the most prominent ethical concerns of your project by glancing at the canvas. No complicated setup or configuration is required; just plug and play!
+                    </p>
+                </div>
+            </div>            
+            <!-- ======================
+            ABOUT THE ETHICS CANVAS
+            =======================-->
+            <div class="row">
+                <div class="about-ethics-canvas col-md-8 col-md-offset-2">
+                    <h2>ABOUT THE ETHICS CANVAS</h2>
+                    <p>The Ethics Canvas has been developed to encourage educators, entrepreneurs, engineers and designers to engage with ethics in their research and innovation projects. Research and innovation foster great benefits for society, but also raise
+                        important ethical concerns.
+                    </p>
+                </div>
+            </div>
+            <div class=" chalky-canvas about-ethics-canvas container-fluid">
+                <img src="img/the-ethics-canvas.jpg" alt="The Ethics Canvas"/>
+            </div>
+            <div class="row">
+                <div class="about-ethics-canvas col-md-8 col-md-offset-2">
+                    <p>
+                        The big data revolution raises important privacy concerns. Progress in automation such as self-driving cars raises responsibility issues. Sharing platforms trigger social conflicts and precarious workers protesting on the streets.
+                    </p>
+                    <p>
+                        These and other concerns need to be dealt with, but cannot be dealt with by ethicists alone. Identifying and solving ethical concerns needs a collaborative effort, with people from different disciplines and in different professional roles working
+                        together.
+                    </p>
+                    <p>
+                        The Ethics Canvas responds to this need, by providing an easy to use collaborative tool that assists in the identification, analysis and solving of ethical implications in research and innovation projects. It is both suitable for offline use, as a
+                        paper canvas, and for online use, as an online collaborative tool.
+                    </p>
+                </div>
+            </div>
+            <!-- ======================
+            OUR VALUES
+            =======================-->
+            <div class="row our-values">
+                <h2>OUR VALUES</h2>
+                <div class="nonprofit col-md-3 col-sm-6">
+                    <img src="icon/heart.svg"/>
+                    <h3>Driven by Conviction, Not by Money</h3>
+                    <p>We are a non-profit organisation. We work on the canvas for the purpose of empowering people, not for making money.
+                    </p>
+                </div>
+                <div class="inclusive col-md-3 col-md-6">
+                    <img src="icon/world.svg"/>
+                    <h3>Inclusive Design</h3>
+                    <p>We believe that the Ethics Canvas should be accessible to everyone. Therefore, joining is free. Also, the Ethics Canvas has a Creative Commons license. With proper attribution, everyone is able to use, modify and reuse the Ethics Canvas.
+                    </p>
+                </div>
+                <div class="open-source col-md-3 col-sm-6">
+                    <img src="icon/open.svg"/>
+                    <h3>Subscribing to the Open Source Principles</h3>
+                    <p>The online Ethics Canvas is an open source project, which means that the code is openly available. We support and adhere to the open source principles of transparency, participation and collaboration.
+                    </p>
+                </div>
+                <div class=" data-privacy col-md-3 col-sm-6 ">
+                    <img src="icon/key.svg"/>
+                    <h3>Responsible Use of Personal Data</h3>
+                    <p>As a platform that tries to promote ethics, our core priority is to focus on ethical data handling. Explicit consent for the use of personal data will always be asked, with clear and simple terms and conditions. Personal data will only be gathered
+                        for research purposes and community building purposes, never for commercial purposes.
+                    </p>
+                    <p>No third party exchange of personal data will happen through our online platform.
+                    </p>
+                </div>
+            </div>
+            <!-- end of .row .our-values -->
+            <!-- ======================
+            MEAT THE TEAM
+            =======================-->
+            <div class="row meet-the-team">
+                <div class="col-md-10 col-md-offset-1">
+                    <h2>MEET THE TEAM</h2>
+                    <p class="team-intro">A team of researchers in the
+                        <a class="adapt" href="http://adaptcentre.ie/">ADAPT Centre</a>
+                        has developed the Ethics Canvas. It is the result of a truly multidisciplinary effort, pulling together expertise from the areas of ethics, computer science and business development.
+                    </p>
+                </div>
+                <div class="team-member wessel col-md-4 col-sm-6">
+                    <h3 class="member-name">
+                        Wessel Reijers</h3>
+                    <p class="member-role">Concept developer, ethics
+                    </p>
+                    <p class="member-contact"> wessel@ethicscanvas.org
+                    </p>
+                    <img src="img/wessle.jpg" alt="Wessel Reijers, Concept developer in the Online Ethics Canvas project"/>
+                    <p>
+                        Wessel is doing research in the areas of philosophy and ethics of technology in the ADAPT Centre. His main focus is on how to integrate ethics in the practices of research and innovation.
+                    </p>
+                    <p>
+                        Currently, he is working on developing a theoretical, narrative approach to understand how technologies mediate human relations. Also, he works on a practical application of his research in the so-called "ethics canvas", which is a tool for
+                        researchers to explore ethical issues.
+                    </p>
+                </div>
+                <div class="team-member dave col-md-4 col-sm-6">
+                    <h3 class="member-name">David Lewis</h3>
+                    <p class="member-role">Coordinator</p>
+                    <p class="member-contact">dave@ethicscanvas.org
+                    </p>
+                    <img src="img/dave.jpg" alt="David Lewis, Coordinator in the Online Ethics Canvas project" />
+                    <p>
+                        Dave is a Research Lecturer in the Knowledge and Data Engineering Group of the School of Computer Science and Statistics at Trinity College Dublin. He moved to TCD in 2002 from University College London where he worked for 11 years as a Research
+                        Fellow in the Computer Science Department.
+                    </p>
+                    <p>
+                        Dave's research interests are in the Semantic Modelling and Policy-Based Management in self-managing networks, services and organisations.
+                    </p>
+                <!-- </div> -->
+            </div>
+            <div class=" team-member killian col-md-4 col-sm-6">
+                <h3 class="member-name">Dr.Killian Levacher
+                </h3>
+                <p class="member-role">Concept developer, ethics
+                </p>
+                <p class="member-contact">killian@ethicscanvas.org
+                </p>
+                <img src="img/killian.jpg" alt="Dr.Killian Levacher, Concept developer in the Online Ethics Canvas project"/>
+                <p>
+                    Dr. Killian Levacher is a post-doctoral researcher at the ADAPT Centre, based in Trinity College the University of Dublin (TCD).
+                    His research focuses upon advancing the state of the art in the area of Deep Learning NLP within the context of Personalised Siri-like Dialogue Systems.
+                </p>
+                <p>
+                    Prior to joining the ADAPT centre, Killian obtained an MSc and PhD in TCD, for which he received multiple academic awards (best research thesis and best academic results)
+                </p>
+            </div>
+        </div>
+        <!-- end of first .row .meet-the-team -->
+        <div class="row meet-the-team">
+            <div class="team-member arturo col-md-4 col-sm-6">
+                <h3>Arturo Calvo
+                </h3>
+                <p class="member-role">Concept developer and business developer</p>
+                <p class="member-contact">arturo@ethicscanvas.org
+                </p>
+                <img src="img/arturo.jpg" alt="Arturo Calvo, Concept developer and business development in the Online Ethics Canvas project"/>
+                <p>
+                    Arturo is a software professional with experience in the industry and in academia. As a Software Architect at <a href="http://www.adaptcentre.ie" target="_new">ADAPT Centre</a>, he coordinates the overall technology of a set of research projects ranging from Machine Learning to Ethics.</p><p> Passionate about entrepreneurship and technology, he is very active in the Dublin startup ecosystem. Arturo founded three companies in the past, and he is CTO of a new one: <a href="https://www.sedicii.com" target="_new">Sedicii</a>. He is the main organiser of the <a href="http://www.meetup.com/Machine-Learning-Dublin/" target="_new">Machine Learning Dublin</a> meetup group.
+                </p>
+            </div>
+            <div class=" team-member andreas col-md-4   col-sm-6 ">
+                <h3>Andreas Burburan
+                </h3>
+                <p class="member-role">
+                    Web developer and Interaction Designer
+                </p>
+                <p class="member-contact">
+                    a.burburan@gmail.com
+                </p>
+                <img src="img/andreas.jpg" alt="Andreas Burburan, web developer and interaction designer in the Online Ethics Canvas project"/>
+                <p>
+                    Andreas is a web developer and interaction designer. With a long experience in both fields, he is passionate about building beautiful and intuitive digital products that deliver value to the user.<br /><br />Driven by social conscience and this passion, Andreas is especially intrigued by the application of technology for the benefit of human interests, and hopes that his work in the Online Ethics Canvas project will contribute to this aim.
+                </p>
+            </div>
+            <div class=" team-member farnoosh col-md-4 col-sm-6 ">
+                <h3>Farnoosh Mohri
+                </h3>
+                <p class="member-role">
+                    Front-end developer and Interaction Designer</p>
+                <p class="member-contact">farnoosh@ethicscanvas.org
+                </p>
+                <img src="img/farnoosh.jpg" alt="Farnoosh Mohri, Concept developer and business development in the Online Ethics Canvas project"/>
+                <p>
+                    Farnoosh is a front-end developer and interaction designer. She has a great passion for technology and how it can empower us as humans. She has studied web and multimedia development and she has been involved in different design and development projects with start-ups at Innovation Park in Sweden.
+                </p>
+                <p>
+                    Farnoosh believes that our global digital connection and engagement is a crucial part of the human experience. She has joined the Online Ethics Canvas team at ADAPT Centre, as a wish to create new possibilities through innovative digital content, and contribute to a better world.
+                </p>
+            </div>
+        </div>
+        <!--  end of second .row .meet-the-team -->
+        <!-- ======================
+        OUR PARTNERS
+        =======================-->
+        <div class="row our-partners">
+            <h2>OUR PARTNERS</h2>
+            <div class="nonprofit col-md-3 col-sm-6">
+                <a href="http://adaptcentre.ie/"><h3>ADAPT Centre</h3>
+                    <img src="icon/adapt_logo.png" alt="logo of ADAPT Centre"/>
+                </a>
+                <p>
+                </p>
+            </div>
+            <div class="inclusive col-md-3 col-md-6">
+                <a href="https://www.tcd.ie/"><h3>Trinity College Dublin</h3>
+                    <img src="icon/TCD_logo.png" alt="logo of Trinity College Dublin"/></a>
+                <p>
+                </p>
+            </div>
+            <div class="open-source col-md-3 col-sm-6">
+                <a href="http://www.dcu.ie/"><h3>Dublin City University</h3>
+                    <img src="icon/DCU_logo.png" alt="logo of Dublin City University"/></a>
+                <p>
+                </p>
+            </div>
+            <div class=" data-privacy col-md-3 col-sm-6 ">
+                <a href="http://www.sfi.ie/"><h3>Science Foundation Ireland</h3>
+                    <img src="icon/SFI_logo.png" alt="logo of Science Foundation Ireland"/></a>
+                <p>
+                </p>
+            </div>
+        </div>
+        <!-- end of .row .our-values -->
+        <!-- =========================
+        Embedding Mailchimp
+        =========================== -->
+        <div id="mc_embed_signup" class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3">
+            <form action="//ethicscanvas.us13.list-manage.com/subscribe/post?u=53efa44306740eee9f381db25&amp;id=7d7866e017" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div id="mc_embed_signup_scroll">
+                    <h2>
+                        <!-- aria-hidden="true" attribute for accessibility of icons (hide the decorative icons from the screen reader) -->
+                        <span class="envelope-icon glyphicon glyphicon-envelope
+                                     " aria-hidden="true"></span>Subscribe to the Ethics Canvas mailing list</h2>
+                    <div class="mc-field-group">
+                        <label for="mce-FNAME">First Name
+                        </label>
+                        <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+                        <label for="mce-LNAME">Last Name
+                        </label>
+                        <input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
+                        <label for="mce-EMAIL">Email Address
+                        </label>
+                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                    </div>
+                    <div id="mce-responses" class="clear">
+                        <div class="response" id="mce-error-response" style="display:none"></div>
+                        <div class="response" id="mce-success-response" style="display:none"></div>
+                    </div>
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_53efa44306740eee9f381db25_7d7866e017" tabindex="-1" value=""></div>
+                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button Subscribe"></div>
+                </div>
+            </form>
+        </div>
+        <!-- End of Mailchimp -->
+        <!-- FOOTER -->
+        <div class="row">
+            <footer class="col-md-12 text-center">
+                <div class="contact">
+                    <h2>Contact us:</h2>
+                    <p>hello@ethicscanvas.org</p>
+                </div>
+                <div class="license">
+                    <p>The Ethics Canvas is adapted from Alex Osterwalder’s Business Model Canvas.</p>
+                    <p>The Business Model Canvas is designed by: Business Model Foundry AG.
+                    </p>
+                    <p>
+                        This work is licensed under the Creative Commons Attribution-Share Alike 3.0 unported license.</p>
+                    <p class="cc"><span class="glyphicon glyphicon-list" aria-hidden="true"></span> View a copy of this license on:</p>
+                    <p>
+                        <a href="https://creativecommons.org/licenses/by-sa/3.0/">creativecommons.org</a>
+                    </p>
+                    <p class="bmc"><span class="glyphicon glyphicon-th-large" aria-hidden="true"></span>
+                        View the original Business Model Canvas on:
+                    </p>
+                    <p>
+                        <a href="https://strategyzer.com/canvas">strategyzer.com</a>
+                    </p>
+                </div>
+                <div class="license-icons">
+                    <ul>
+                        <li><img src="icon/by.large.png" alt="ethics-canvas-by-icon"/> </li>
+                        <li><img src="icon/share.large.png" alt="ethics-canvas-share-icon"/> </li>
+                        <li><img src="icon/cc.large.png" alt="ethics-canvas-cc-icon"/> </li>
+                        <li> <img src="icon/remix.large.png" alt="ethics-canvas-remix-icon"/></li>
+                        <li> <img src="icon/sa.large.png" alt="ethics-canvas-sa-icon"/></li>
+                    </ul>
+                </div>
+                <p class="ethics-copy terms"><a href="privacy-terms/terms.html">Terms of Service</a></p>
+                <p class="ethics-copy privacy"><a href="privacy-terms/privacy.html">Privacy Policy</a></p>
+                <p class="ethics-copy">The ADAPT Centre for Digital Content Technology</p> <p class="ethics-copy">is funded under the SFI Research Centres Programme (Grant 13/RC/2106).</p><p class="ethics-copy">It is co-funded under the European Regional Development Fund.</p>
+                <p class="ethics-copy">Ethics Canvas v1.8&nbsp;|&nbsp;&copy; ADAPT Centre &amp; Trinity College Dublin &amp; Dublin City University, 2017</p>
+            </footer>
+        </div>
+        <!-- end of outer container-fluid -->
+        
+        <!-- Add jQuery -->
+        <script src="https://code.jquery.com/jquery-3.0.0.min.js" integrity="sha256-JmvOoLtYsmqlsWxa7mDSLMwa6dZ9rrIdtrrVYRnDRH0=" crossorigin="anonymous"></script>
+        <!-- jquery UI  -->
+        <script src="https://code.jquery.com/ui/1.12.0-rc.2/jquery-ui.min.js" integrity="sha256-55Jz3pBCF8z9jBO1qQ7cIf0L+neuPTD1u7Ytzrp2dqo=" crossorigin="anonymous"></script>
+        
+        <!-- Mailchimp Script-->
+        <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+        <script type="text/javascript">
+            (function($) {
+                window.fnames = new Array();
+                window.ftypes = new Array();
+                fnames[0] = 'EMAIL';
+                ftypes[0] = 'email';
+                fnames[1] = 'FNAME';
+                ftypes[1] = 'text';
+                fnames[2] = 'LNAME';
+                ftypes[2] = 'text';
+            }(jQuery));
+            var $mcj = jQuery.noConflict(true);
+        </script>
+        
+        <!-- jQuery -->
+        <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+        <!-- Bootstrap -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+        <!-- The Slick Carousel jQuery plugin (slider) -->
+        <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+        <!-- The app javascript -->
+        <script src="js/landing.js" charset="utf-8"></script>
+    </body>
+</html>

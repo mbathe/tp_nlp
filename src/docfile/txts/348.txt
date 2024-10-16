@@ -1,0 +1,179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+People + AI Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guidebook
+Explorables
+Tools
+Research
+Events
+
+
+
+
+
+
+
+We are Designers
+People + AI Research (PAIR) is a multidisciplinary team at Google that explores the human side of AI by doing fundamental research, building tools, creating design frameworks, and working with diverse communities. 
+We believe that for machine learning to achieve its positive potential, it needs to be participatory, involving the communities it affects and guided by a diverse set of citizens, policy-makers, activists, artists and more. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check out our work
+
+
+
+
+People + AI Guidebook
+
+A friendly, practical guide that lays out some best practices for creating useful, responsible AI applications.
+
+
+Get Started
+
+
+
+
+
+
+Tic-Tac-Toe the Hard Way
+
+Podcast where a writer and a software engineer explore the human choices that shape machine learning systems by building competing tic-tac-toe agents.
+
+
+Listen to Podcast
+
+
+
+
+
+
+AI Explorables
+
+Highly interactive, visual, and approachable explanations of key AI concepts.
+
+
+Start exploring
+
+
+
+
+
+
+PAIR @ Medium
+
+Exploring ML ideas and issues, in non-technical features and conversations with diverse voices from around the world.
+
+
+Explore issues + ideas
+
+
+
+
+
+
+Our Tools & Platforms
+
+We build open-source tools to help make ML models more understandable, reliable, and fair.
+
+
+Explore PAIR tools 
+
+
+
+
+
+
+Our Research
+
+Our research into computer science, HCI, and design focuses on making ML more understandable, trustworthy, reliably fair, and useful.
+
+
+Browse our collection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google Research
+Google Design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

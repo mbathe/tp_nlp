@@ -1,0 +1,1 @@
+color margin auto width height position relative infinite linear animation infinite linear translatez translatez transform translatez keyframes

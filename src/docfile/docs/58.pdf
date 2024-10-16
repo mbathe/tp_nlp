@@ -1,0 +1,1395 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js',
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-P3S378D');</script>
+  <!-- End Google Tag Manager -->
+
+  <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="Explore issues related to human rights and developments in technology and how the Commission works to protect human rights in this area." />
+<link rel="canonical" href="https://humanrights.gov.au/our-work/technology-and-human-rights" />
+<meta property="og:url" content="https://humanrights.gov.au/our-work/technology-and-human-rights" />
+<meta property="og:title" content="Technology and Human Rights" />
+<meta property="og:image" content="https://humanrights.gov.au/sites/default/files/2019-12/iStock-1068366006_870x500.jpg" />
+<meta property="og:image:url" content="https://humanrights.gov.au/sites/default/files/2019-12/iStock-1068366006_870x500.jpg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebSite",
+            "@id": "https://humanrights.gov.au/our-work/technology-and-human-rights",
+            "name": "Australian Human Rights Commission",
+            "url": "https://humanrights.gov.au",
+            "publisher": {
+                "@type": "GovernmentOrganization",
+                "@id": "https://humanrights.gov.au",
+                "name": "Australian human rights commission",
+                "url": "https://humanrights.gov.au"
+            },
+            "inLanguage": "English"
+        }
+    ]
+}</script>
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Technology and Human Rights | Australian Human Rights Commission</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_LT5l0ETBOQ9S56LZ7jF2FIyO94zWrjqV8kUf0E7-4lc.css?delta=0&amp;language=en&amp;theme=ahrc&amp;include=eJxVzVEOQiEMRNENIaxpHlQeSWlJCxpcvYkajT-Tk_m5KGUqZCd8EK-mMoNvn9TTAaeQGe77z53cUclDVqMkah3cHhRwWk5Ze1d5u7Ie4IvPzU1qGDBUwzg9FVsDHH9PXDLWwc1PKuHW6O7ptbFrWfxNixZ6AjmMRrg" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_1J0sB9nd5EEThZ_vfHtIc-gR9SreW0tDsTARr6GUB9M.css?delta=1&amp;language=en&amp;theme=ahrc&amp;include=eJxVzVEOQiEMRNENIaxpHlQeSWlJCxpcvYkajT-Tk_m5KGUqZCd8EK-mMoNvn9TTAaeQGe77z53cUclDVqMkah3cHhRwWk5Ze1d5u7Ie4IvPzU1qGDBUwzg9FVsDHH9PXDLWwc1PKuHW6O7ptbFrWfxNixZ6AjmMRrg" />
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.13.2/themes/smoothness/jquery-ui.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_txBzOUJzeigZO1jvX81HbkPKh-2o0WYFEgieVvV0gEY.css?delta=3&amp;language=en&amp;theme=ahrc&amp;include=eJxVzVEOQiEMRNENIaxpHlQeSWlJCxpcvYkajT-Tk_m5KGUqZCd8EK-mMoNvn9TTAaeQGe77z53cUclDVqMkah3cHhRwWk5Ze1d5u7Ie4IvPzU1qGDBUwzg9FVsDHH9PXDLWwc1PKuHW6O7ptbFrWfxNixZ6AjmMRrg" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_YKdx-B-8z5xn7Owae6n_VCRqp8MGAUzigR-RQmUIACk.css?delta=5&amp;language=en&amp;theme=ahrc&amp;include=eJxVzVEOQiEMRNENIaxpHlQeSWlJCxpcvYkajT-Tk_m5KGUqZCd8EK-mMoNvn9TTAaeQGe77z53cUclDVqMkah3cHhRwWk5Ze1d5u7Ie4IvPzU1qGDBUwzg9FVsDHH9PXDLWwc1PKuHW6O7ptbFrWfxNixZ6AjmMRrg" />
+
+      <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/17659","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"facebook_pixel":{"facebook_id":"1654069391548251","events":[{"event":"ViewContent","data":"{\u0022content_name\u0022:\u0022Technology and Human Rights\u0022,\u0022content_type\u0022:\u0022audience_page\u0022,\u0022content_ids\u0022:[\u002217659\u0022]}"}],"fb_disable_advanced":false,"eu_cookie_compliance":false,"donottrack":true},"user":{"uid":0,"permissionsHash":"132217d8ac17c1f7089e8dccaa2b4a07e70349a7794dc70e18fe43c57688ce8b"}}</script>
+<script src="/sites/default/files/js/js_vaeREIUi9lIPAhXrc4fuLs0mpJk9UdOKYYEN4TIntAw.js?scope=header&amp;delta=0&amp;language=en&amp;theme=ahrc&amp;include=eJxVi0EOwyAMBD-UhCdFizEQxeDKRmrz-x5oq_Q2O6NFSkPRr4APbNm0jyWDOKqe--N4sYT_uaAaBdLWtE8uohGy-rjk6GU6ZxjVyZWR2H49mj6djQTu3-_dvQEpaTpY"></script>
+<script src="https://cdn-oc.readspeaker.com/script/14232/webReader/webReader.js?pids=wr&amp;disable=translation" type="text/javascript" id="rs_req_Init"></script>
+
+                  <link rel="shortcut icon"
+                href="/themes/custom/ahrc/dist/img/favicon.ico">
+        </head>
+<body id="main"  class="fontyourface">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3S378D"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a href="#main-content" id="mc-link" class="visually-hidden focusable">
+  Skip to main content
+</a>
+<noscript><img src="https://www.facebook.com/tr?id=1654069391548251&amp;ev=PageView&amp;noscript=1" alt="" height="1" width="1" /></noscript>
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+	
+<header class="site-header hide-for-print">
+	<div class="grid-container">
+  <div class="grid-x grid-padding-x align-middle">
+    <div class="cell small-8 large-2 small-order-2">
+      <a href="/" class="logo"><img src="/themes/custom/ahrc/dist/img/logo.svg"
+                                    alt="The Australian Human Rights Commission"></a>
+    </div>
+
+    <div class="cell large-7 small-order-3 large-order-2">
+      <nav id="nav" class="nav">
+        <div class="nav__mobile-close-holder">
+          <button type="button" class="nav__mobile-close hide-for-large"
+                  data-toggle="nav"><img
+              src="/themes/custom/ahrc/dist/img/icons/close.svg" alt="Close Icon">
+          </button>
+        </div>
+
+          <nav  id="block-ahrc-main-menu" class="block block-menu navigation menu--main">
+            
+  <span class="visually-hidden" id="block-ahrc-main-menu-menu">Main navigation</span>
+  
+
+                        <ul class="nav__ul no-bullet">
+      <li class="nav__li">
+      <a href="/about" class="nav__link" aria-controls="About_menu" aria-expanded="false" data-drupal-link-system-path="node/2">About</a>
+              <button type="button" class="js-mobile-lvl-2-toggle hide-for-large">
+          <img src="/themes/custom/ahrc/dist/img/icons/arrow-white.svg"
+               alt="Arrow Icon">
+        </button>
+                          <ul class="nav-lvl-2 nav-lvl-2__box">
+              <li class="nav-lvl-2__li">
+          <a href="/about/contact" class="nav-lvl-2__link" data-drupal-link-system-path="node/10">Contact</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/about/news" class="nav-lvl-2__link" data-drupal-link-system-path="about/news">News</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="https://humanrights.gov.au/get-involved/2024-australian-human-rights-awards" class="nav-lvl-2__link">Human Rights Awards</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/about/what-are-human-rights" class="nav-lvl-2__link" data-drupal-link-system-path="node/8456">What are human rights?</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/about/commissioners" class="nav-lvl-2__link" data-drupal-link-system-path="node/653">Commissioners &amp; Executive</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/about/jobs" class="nav-lvl-2__link" data-drupal-link-system-path="node/17069">Jobs</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/about/media-contacts" class="nav-lvl-2__link" data-drupal-link-system-path="node/656">Media contacts</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/about/corporate-info" class="nav-lvl-2__link" data-drupal-link-system-path="node/15274">Corporate info</a>
+                  </li>
+            </ul>
+    
+          </li>
+      <li class="nav__li">
+      <a href="/our-work" class="nav__link" aria-controls="Our_Work_menu" aria-expanded="false" data-drupal-link-system-path="node/4">Our Work</a>
+              <button type="button" class="js-mobile-lvl-2-toggle hide-for-large">
+          <img src="/themes/custom/ahrc/dist/img/icons/arrow-white.svg"
+               alt="Arrow Icon">
+        </button>
+                          <ul class="nav-lvl-2 nav-lvl-2__box">
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/publications" class="nav-lvl-2__link" data-drupal-link-system-path="our-work/publications">Publications</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/aboriginal-and-torres-strait-islander-social-justice" class="nav-lvl-2__link" data-drupal-link-system-path="node/11">Aboriginal and Torres Strait Islander Social Justice</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/age-discrimination" class="nav-lvl-2__link" data-drupal-link-system-path="node/12">Age Discrimination</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/asylum-seekers-and-refugees" class="nav-lvl-2__link" data-drupal-link-system-path="node/13">Asylum Seekers and Refugees</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/business-and-human-rights" class="nav-lvl-2__link" data-drupal-link-system-path="node/17000">Business and Human Rights</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/childrens-rights" class="nav-lvl-2__link" data-drupal-link-system-path="node/14">Children&#039;s Rights</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/disability-rights" class="nav-lvl-2__link" data-drupal-link-system-path="node/17921">Disability Rights</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/lgbti" class="nav-lvl-2__link" data-drupal-link-system-path="node/19">LGBTIQ+</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/race-discrimination" class="nav-lvl-2__link" data-drupal-link-system-path="node/18069">Race Discrimination</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/rights-and-freedoms" class="nav-lvl-2__link" data-drupal-link-system-path="node/17">Rights and Freedoms</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/sex-discrimination" class="nav-lvl-2__link" data-drupal-link-system-path="node/18">Sex Discrimination</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/technology-and-human-rights" class="nav-lvl-2__link is-active" data-drupal-link-system-path="node/17659" aria-current="page">Technology and Human Rights</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/legal" class="nav-lvl-2__link" data-drupal-link-system-path="node/15261">Legal</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/our-work/projects" class="nav-lvl-2__link" data-drupal-link-system-path="our-work/projects">Projects</a>
+                  </li>
+            </ul>
+    
+          </li>
+      <li class="nav__li">
+      <a href="/education" class="nav__link" aria-controls="Education_menu" aria-expanded="false" data-drupal-link-system-path="node/5">Education</a>
+              <button type="button" class="js-mobile-lvl-2-toggle hide-for-large">
+          <img src="/themes/custom/ahrc/dist/img/icons/arrow-white.svg"
+               alt="Arrow Icon">
+        </button>
+                          <ul class="nav-lvl-2 nav-lvl-2__box">
+              <li class="nav-lvl-2__li">
+          <a href="/education/training" class="nav-lvl-2__link" data-drupal-link-system-path="node/16944">Training</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/education/teachers" class="nav-lvl-2__link" data-drupal-link-system-path="education/teachers">Teachers</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/students" class="nav-lvl-2__link">Students</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/education/employers" class="nav-lvl-2__link" data-drupal-link-system-path="node/15262">Employers</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/education/stats-facts" class="nav-lvl-2__link" data-drupal-link-system-path="node/18389">Stats &amp; Facts</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/education/human-rights-explained-fact-sheets" class="nav-lvl-2__link" data-drupal-link-system-path="node/922">Human Rights Explained fact sheets</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/education/vocational-education/publications" class="nav-lvl-2__link" data-drupal-link-system-path="our-work/34/publications">Publications</a>
+                  </li>
+            </ul>
+    
+          </li>
+      <li class="nav__li">
+      <a href="/get-involved" class="nav__link" aria-controls="Get_involved_menu" aria-expanded="false" data-drupal-link-system-path="node/8">Get involved</a>
+              <button type="button" class="js-mobile-lvl-2-toggle hide-for-large">
+          <img src="/themes/custom/ahrc/dist/img/icons/arrow-white.svg"
+               alt="Arrow Icon">
+        </button>
+                          <ul class="nav-lvl-2 nav-lvl-2__box">
+              <li class="nav-lvl-2__li">
+          <a href="/get-involved/have-your-say" class="nav-lvl-2__link" data-drupal-link-system-path="node/16122">Have your say</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/get-involved/australian-human-rights-awards" class="nav-lvl-2__link" data-drupal-link-system-path="node/17731">Human Rights Awards</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/about/get-involved/events" class="nav-lvl-2__link" data-drupal-link-system-path="about/get-involved/events">Events list</a>
+                  </li>
+              <li class="nav-lvl-2__li">
+          <a href="/about/mailing-lists" class="nav-lvl-2__link" data-drupal-link-system-path="node/8554">Subscribe</a>
+                  </li>
+            </ul>
+    
+          </li>
+      </ul>
+    
+
+<div class="nav-lvl2-wrapper-active hide-for-large" style="display:none;">
+  <div class="wrapper-header-lvl2">
+    <div class="nav__mobile-close-holder nav__mobile-close-holder--lvl-2">
+      <button type="button"
+              class="back js-mobile-lvl-2-toggle-back btn-lvl-2-back">
+        <img src="/themes/custom/ahrc/dist/img/icons/chevron-left.svg"
+             alt="Chevron Left Icon">Back
+      </button>
+      <button type="button" class="nav__mobile-close" data-toggle="nav">
+        <img src="/themes/custom/ahrc/dist/img/icons/close.svg"
+             alt="Close Icon">
+      </button>
+    </div>
+  </div>
+  <ul class="cloned-content-menu">
+  </ul>
+</div>
+
+
+  </nav>
+
+
+
+        <div class="grid-container hide-for-large">
+          <div class="grid-x grid-padding-x">
+            <div class="cell">
+              <a href="/complaints" class="button secondary large expanded">Complaints</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+
+    <div class="cell small-2 large-1 small-order-1 large-order-2">
+      <button type="button" class="site-header__toggle-search ahrc-ef-img-zoom"
+              data-toggle="search-panel">
+        <img src="/themes/custom/ahrc/dist/img/icons/search.svg" alt="Search">
+      </button>
+    </div>
+
+    <div class="cell large-2 large-order-2 show-for-large">
+      <a href="/complaints#main-content"
+         class="button secondary site-header__main-btn">Complaints</a>
+    </div>
+
+    <div class="cell small-2 large-shrink small-order-2 hide-for-large">
+      <button type="button" class="site-header__hamburger" data-toggle="nav"
+              aria-expanded="false">
+        <img src="/themes/custom/ahrc/dist/img/icons/hamburger.svg"
+             alt="Main navigation menu">
+      </button>
+    </div>
+  </div>
+</div>
+</header>
+
+<div id="search-panel" class="search-panel reveal full" data-reveal="data-reveal">
+	<div class="search-panel__grid grid-container">
+		<div class="grid-x">
+			<div class="cell large-10">
+				<form action="/search" method="get" id="search-block-form" accept-charset="UTF-8" data-drupal-form-fields="edit-keys">
+					<h2 class="search-panel__label h1">Search</h2>
+					<div class="search">
+						<label class="hide" for="edit-keys-top-search">Search</label>
+						<input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys-top-search" type="search" id="edit-keys-top-search" name="keys" value="" size="15" maxlength="128" class="search__field label--absolute" placeholder="What are you looking for?">
+						<button type="submit" class="search__submit">
+							<span class="show-for-sr">search</span>
+							<img src="/themes/custom/ahrc/dist/img/icons/search.svg" alt="Search Icon" aria-label="Search">
+						</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<div class="search-panel__close-holder">
+		<button type="button" data-toggle="search-panel" class="search-panel__close"><img src="/themes/custom/ahrc/dist/img/icons/close.svg" alt="Close Icon">
+		</button>
+	</div>
+</div>
+
+
+
+<main id="main-content">
+	<div class="grid-container">
+		  <div data-drupal-messages-fallback class="hidden"></div>
+
+
+	</div>
+			<div class="wrapper-main-content ">
+			  <div id="block-ahrc-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="17659" class="node node--type-audience-page node--view-mode-full">
+
+  <div class="content-header section">
+    <div class="content-header__inner grid-container">
+      <div class="content-header__grid grid-x grid-padding-x align-bottom">
+        <div class="cell medium-7 ">
+                    <div class="wrapper-system-breadcrumbs hide-for-print">
+  <div id="block-ahrc-breadcrumbs">
+    
+        
+          
+  <nav aria-label="You are here:">
+    <ul class="breadcrumbs">
+              <li>
+                                    <a href="/">Australian Human Rights Commission</a>
+                              </li>
+              <li>
+                                    <a href="/our-work">Our Work</a>
+                              </li>
+              <li>
+                      Technology and Human Rights
+                  </li>
+          </ul>
+  </nav>
+
+      </div>
+</div>
+
+
+          
+          <h1 class="content-header__title"><span class="field field--name-title field--type-string field--label-hidden">Technology and Human Rights</span>
+</h1>
+          
+                      <p class="lead">
+  <p>Learn more about how human rights-centred design and deployment must be at the heart of all technology.&nbsp;</p>
+
+</p>
+                  </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div
+        class="cell large-9">
+                  
+    <img loading="lazy" src="/sites/default/files/2019-12/iStock-1068366006_870x500.jpg" width="870" height="500" alt="Woman with high tech headsup display" />
+
+
+
+              </div>
+
+              <div class="sidebar-holder cell large-5">
+          <aside id="sidebar" class="sidebar sidebar-no-overlapping"
+                 data-toggler=".sidebar--mobile-active">
+            <button type="button" data-toggle="sidebar" class="sidebar-header">
+              <span class="sidebar-header__title h4">Menu</span>
+              <span class="sidebar-header__toggle"><img
+                  src="/themes/custom/ahrc/dist/img/icons/chevron-right.svg"
+                  alt="Chevron Right Icon"></span>
+            </button>
+            <ul class="sidenav no-bullet">
+                              <li class="sidenav__li">
+                  <a href="/our-work/technology-and-human-rights/about-human-rights-and-technology"
+                     class="sidenav__link">About Human Rights and Technology</a>
+                </li>
+                              <li class="sidenav__li">
+                  <a href="/our-work/technology-and-human-rights/projects/current"
+                     class="sidenav__link">Current Projects</a>
+                </li>
+                              <li class="sidenav__li">
+                  <a href="/our-work/technology-and-human-rights/news"
+                     class="sidenav__link">News</a>
+                </li>
+                              <li class="sidenav__li">
+                  <a href="/our-work/technology-and-human-rights/projects/past"
+                     class="sidenav__link">Past Projects</a>
+                </li>
+                              <li class="sidenav__li">
+                  <a href="/our-work/technology-and-human-rights/publications"
+                     class="sidenav__link">Publications</a>
+                </li>
+                          </ul>
+          </aside>
+        </div>
+          </div>
+  </div>
+
+            
+      <div class="grid-container element-relative">
+  <div class="grid-x grid-padding-x">
+    <div class="cell large-8 social-links-content-flex">
+      <div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve">
+        <a rel="nofollow" class="rsbtn_play" title="Listen to this page using ReadSpeaker webReader"
+           href="https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=14232&amp;lang=en_au&amp;readclass=rs-readclass&amp;url=/our-work/technology-and-human-rights">
+          <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+          <span class="rsbtn_right rsimg rsplay rspart"></span>
+        </a>
+      </div>
+      <div class="social-share-column hide-for-print">
+        Share
+        <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+          <ul>
+            <li><a class="a2a_button_facebook"><img src="/themes/custom/ahrc/dist/img/icons/facebook-white.svg"
+                                                    alt="Facebook Icon"></a></li>
+            <li><a class="a2a_button_twitter"><img src="/themes/custom/ahrc/dist/img/icons/twitter-white.svg"
+                                                   alt="Twitter Icon"></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="node__content rs-readclass">
+	  
+    
+  <div class="section">
+  <div class="section__header grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="cell auto">
+        <h2 class="section__title">Meet the Commissioner</h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      
+  <div class="cell">
+  <div class="profile box box-text">
+    <div class="grid-x grid-padding-x">
+      <div class="cell">
+        <h3 class="h4">Lorraine Finlay</h3>
+      </div>
+
+      <div class="cell large-6 wysiwyg">
+        <p>Lorraine's most recent roles have been as the Senior Human Trafficking Specialist with the Australian Mission to ASEAN and as a law lecturer at Murdoch University. In her academic role, Lorraine has lectured in criminal law, constitutional law and international human rights, and has been recognised with several national and university awards for her teaching and research.</p>
+
+<p>Before moving to academia, Lorraine worked as a State Prosecutor with the Office of the Director of Public Prosecutions (WA) and as a Judges' Associate at the High Court of Australia. Lorraine holds a dual Masters in Law from New York University and the National University of Singapore.</p>
+
+      </div>
+
+      <div class="cell large-5">
+        <ul class="no-bullet">
+          
+  
+  
+<li>
+  <a href="https://twitter.com/lorrainejfinlay?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+     class="profile-social-link ahrc-ef-commisioner-social">
+    <img src="/themes/custom/ahrc/dist/img/icons/twitter.svg"
+         alt="Follow commissioner on Twitter">
+    <span>Follow Lorraine Finlay on Twitter</span>
+  </a>
+</li>
+
+
+        </ul>
+        
+    <img loading="lazy" src="/sites/default/files/styles/commissioner_pic_270x340/public/2023-05/Actual%20Lorraine%20Finlay%20Headshot%20%28002%29.jpg?itok=9B1MZyO5" width="270" height="340" alt="A headshot of Australian Human Rights Commissioner, Lorraine Finlay" class="profile__thumb image-style-commissioner-pic-270x340" />
+
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+  </div>
+</div>
+
+    <div class="paragraph paragraph--type--block-reference paragraph--view-mode--default">
+          
+  <div class="views-element-container block block-views block-views-blockhomepage-news-aow-latest-news" id="block-views-block-homepage-news-aow-latest-news">
+  
+    
+      <div><div class="view view-homepage-news view-id-homepage_news view-display-id-aow_latest_news js-view-dom-id-963215531f0579b7719976c4f211c90b8d0d83e1ab1817e1898a6aede3e0d3b1 section">
+  
+  
+
+      <div class="section__header grid-container">
+        <div class="grid-x grid-padding-x align-bottom">
+            <div class="cell auto">
+                <h2 class="section__title">Latest News</h2>
+            </div>
+            <div class="cell shrink">
+              <a href="/our-work/863/news" class="sidenav__link section__more-link h4">All News</a>
+            </div>
+        </div>
+    </div>
+  
+  
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x" data-equalizer>
+                  
+<article  data-history-node-id="18394" class="node node--type-sub node--promoted node--view-mode-news cell large-4">
+    <div class="card" data-equalizer-watch>
+                    <div class="card-section">
+                
+            <span class="field field--name-field-cmn-area-of-work field--type-entity-reference field--label-hidden field__item"><div class="taxonomy-term vocabulary-area-of-work">
+  <div class="content eyebrow">
+    
+
+                  <span class="field field--name-field-svg-icon field--type-file field--label-hidden field__item"><img alt=""
+                                                                  src="/sites/default/files/2023-04/ai-man-dark.svg"
+                                                                  class="svg-icon-resize"/></span>
+      
+    
+            <span class="field field--name-name field--type-string field--label-hidden field__item">Technology and Human Rights</span>
+      
+  </div>
+</div>
+</span>
+      
+                
+                                  <h3 class="node__title card__title h4-st">
+                    <a href="/our-work/legal/submission/combatting-misinformation-and-disinformation-bill-2024" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Combatting Misinformation and Disinformation Bill 2024 </span>
+</a>
+                  </h3>
+                                
+                <p class="card__author"></p>
+                <p class="card__desc">
+    Learn more about the Communications Legislation Amendment (Combatting Misinformation and Disinformation) Bill 2024 and how it impacts human rights.
+
+
+
+</p>
+                <p class="card__date">
+  <time datetime="2024-10-09T14:01:01Z" class="datetime">10 October, 2024</time>
+
+</p>
+                <div class="card__category"><img src="/themes/custom/ahrc/dist/img/icons/submission.svg" alt="Category, Submission" data-tooltip title="Submission" data-position="top" data-alignment="center"></div>
+                </div>
+            </div>
+</article>
+
+                        
+<article  data-history-node-id="18306" class="node node--type-sub node--promoted node--view-mode-news cell large-4">
+    <div class="card" data-equalizer-watch>
+                    <div class="card-section">
+                
+            <span class="field field--name-field-cmn-area-of-work field--type-entity-reference field--label-hidden field__item"><div class="taxonomy-term vocabulary-area-of-work">
+  <div class="content eyebrow">
+    
+
+                  <span class="field field--name-field-svg-icon field--type-file field--label-hidden field__item"><img alt=""
+                                                                  src="/sites/default/files/2023-04/ai-man-dark.svg"
+                                                                  class="svg-icon-resize"/></span>
+      
+    
+            <span class="field field--name-name field--type-string field--label-hidden field__item">Technology and Human Rights</span>
+      
+  </div>
+</div>
+</span>
+      
+                
+                                  <h3 class="node__title card__title h4-st">
+                    <a href="/our-work/legal/submission/criminalising-deepfake-sexual-material" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Criminalising deepfake sexual material</span>
+</a>
+                  </h3>
+                                
+                <p class="card__author"></p>
+                <p class="card__desc">
+    Learn more about proposed amendments to the Criminal Code which criminalises the creation and transmission of sexual deepfakes.
+
+
+
+</p>
+                <p class="card__date">
+  <time datetime="2024-07-11T15:01:01Z" class="datetime">12 July, 2024</time>
+
+</p>
+                <div class="card__category"><img src="/themes/custom/ahrc/dist/img/icons/submission.svg" alt="Category, Submission" data-tooltip title="Submission" data-position="top" data-alignment="center"></div>
+                </div>
+            </div>
+</article>
+
+                        
+<article  data-history-node-id="18194" class="node node--type-sub node--promoted node--view-mode-news cell large-4">
+    <div class="card" data-equalizer-watch>
+                    <div class="card-section">
+                
+            <span class="field field--name-field-cmn-area-of-work field--type-entity-reference field--label-hidden field__item"><div class="taxonomy-term vocabulary-area-of-work">
+  <div class="content eyebrow">
+    
+
+                  <span class="field field--name-field-svg-icon field--type-file field--label-hidden field__item"><img alt=""
+                                                                  src="/sites/default/files/2023-04/ai-man-dark.svg"
+                                                                  class="svg-icon-resize"/></span>
+      
+    
+            <span class="field field--name-name field--type-string field--label-hidden field__item">Technology and Human Rights</span>
+      
+  </div>
+</div>
+</span>
+      
+                
+                                  <h3 class="node__title card__title h4-st">
+                    <a href="/our-work/legal/submission/adopting-ai-australia" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Adopting AI in Australia</span>
+</a>
+                  </h3>
+                                
+                <p class="card__author"></p>
+                <p class="card__desc">
+    Learn more about how Australia can adopt artificial intelligence safely and with respect for human rights.
+
+
+</p>
+                <p class="card__date">
+  <time datetime="2024-05-14T15:01:01Z" class="datetime">15 May, 2024</time>
+
+</p>
+                <div class="card__category"><img src="/themes/custom/ahrc/dist/img/icons/submission.svg" alt="Category, Submission" data-tooltip title="Submission" data-position="top" data-alignment="center"></div>
+                </div>
+            </div>
+</article>
+
+            </div>
+</div>
+
+  
+</div>
+
+
+</div>
+
+  </div>
+
+
+      </div>
+
+    <div class="paragraph paragraph--type--block-reference paragraph--view-mode--default">
+          
+  <div class="views-element-container block block-views block-views-blockhomepage-news-aow-current-projects" id="block-views-block-homepage-news-aow-current-projects">
+  
+    
+      <div><div class="view view-homepage-news view-id-homepage_news view-display-id-aow_current_projects js-view-dom-id-b831793eb010d2eeae0347bc9c16261173d6ae2e9c8560ba1e3cdb5b39170e63 section">
+  
+  
+
+      <div class="section__header grid-container">
+        <div class="grid-x grid-padding-x align-bottom">
+            <div class="cell auto">
+                <h2 class="section__title">Top Projects</h2>
+            </div>
+            <div class="cell shrink">
+              <a href="/our-work/863/projects" class="sidenav__link section__more-link h4">All Projects</a>
+            </div>
+        </div>
+    </div>
+  
+      <div class="grid-container">
+      <div class="grid-x grid-padding-x">
+        <div class="views-element-container"><div class="view view-homepage-news view-id-homepage_news view-display-id-aow_current_project_attachments js-view-dom-id-5928f86b61a318471c27c576dc16722dd314a215c6b76d83fc9596f9a073f2bb">
+  
+    
+
+          
+  <div class="section">
+
+    
+    <div class="grid-container">
+    <div class="grid-x grid-padding-x" data-equalizer>
+                  
+  
+<article  data-history-node-id="17967" class="node node--type-pro node--promoted node--sticky node--view-mode-projects-attachment cell">
+  <div class="card card--banner">
+    <div class="card__thumb">
+      
+    <img loading="lazy" src="/sites/default/files/styles/project_main_800x500/public/2024-03/adobestock_720196436.jpeg?itok=dcPG-Hng" width="770" height="460" alt="A brain" class="image-style-project-main-800x500" />
+
+
+
+
+    </div>
+    <div class="card-section">
+      
+            <span class="field field--name-field-cmn-area-of-work field--type-entity-reference field--label-hidden field__item"><div class="taxonomy-term vocabulary-area-of-work">
+  <div class="content eyebrow">
+    
+
+                  <span class="field field--name-field-svg-icon field--type-file field--label-hidden field__item"><img alt=""
+                                                                  src="/sites/default/files/2023-04/ai-man-dark.svg"
+                                                                  class="svg-icon-resize"/></span>
+      
+    
+            <span class="field field--name-name field--type-string field--label-hidden field__item">Technology and Human Rights</span>
+      
+  </div>
+</div>
+</span>
+      
+      
+              <h3 class="node__title card__title">
+          <a href="/our-work/technology-and-human-rights/projects/neurotechnology-and-human-rights" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Neurotechnology and Human Rights </span>
+</a>
+        </h3>
+            
+      <p class="card__desc">
+    Learn more about the Australian Human Rights Commission&#039;s project on the human rights risks associated with neurotechnology.
+
+
+
+</p>
+    </div>
+  </div>
+</article>
+
+            </div>
+</div>
+
+    
+  </div>
+
+  
+
+  </div>
+</div>
+
+      </div>
+    </div>
+  
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x" data-equalizer>
+                  
+<article  data-history-node-id="17967" class="node node--type-pro node--promoted node--sticky node--view-mode-news cell large-4">
+  <div class="card" data-equalizer-watch>
+    <div class="card-section">
+      
+            <span class="field field--name-field-cmn-area-of-work field--type-entity-reference field--label-hidden field__item"><div class="taxonomy-term vocabulary-area-of-work">
+  <div class="content eyebrow">
+    
+
+                  <span class="field field--name-field-svg-icon field--type-file field--label-hidden field__item"><img alt=""
+                                                                  src="/sites/default/files/2023-04/ai-man-dark.svg"
+                                                                  class="svg-icon-resize"/></span>
+      
+    
+            <span class="field field--name-name field--type-string field--label-hidden field__item">Technology and Human Rights</span>
+      
+  </div>
+</div>
+</span>
+      
+
+      
+              <h3 class="node__title card__title h4-st">
+          <a href="/our-work/technology-and-human-rights/projects/neurotechnology-and-human-rights" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Neurotechnology and Human Rights </span>
+</a>
+        </h3>
+            
+
+    </div>
+  </div>
+</article>
+
+                        
+<article  data-history-node-id="17832" class="node node--type-pro node--promoted node--view-mode-news cell large-4">
+  <div class="card" data-equalizer-watch>
+    <div class="card-section">
+      
+            <span class="field field--name-field-cmn-area-of-work field--type-entity-reference field--label-hidden field__item"><div class="taxonomy-term vocabulary-area-of-work">
+  <div class="content eyebrow">
+    
+
+                  <span class="field field--name-field-svg-icon field--type-file field--label-hidden field__item"><img alt=""
+                                                                  src="/sites/default/files/2023-04/ai-man-dark.svg"
+                                                                  class="svg-icon-resize"/></span>
+      
+    
+            <span class="field field--name-name field--type-string field--label-hidden field__item">Technology and Human Rights</span>
+      
+  </div>
+</div>
+</span>
+      
+
+      
+              <h3 class="node__title card__title h4-st">
+          <a href="/our-work/technology-and-human-rights/projects/hria-tool-ai-banking" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">HRIA Tool: AI in Banking</span>
+</a>
+        </h3>
+            
+
+    </div>
+  </div>
+</article>
+
+                        
+<article  data-history-node-id="17693" class="node node--type-pro node--promoted node--view-mode-news cell large-4">
+  <div class="card" data-equalizer-watch>
+    <div class="card-section">
+      
+            <span class="field field--name-field-cmn-area-of-work field--type-entity-reference field--label-hidden field__item"><div class="taxonomy-term vocabulary-area-of-work">
+  <div class="content eyebrow">
+    
+
+                  <span class="field field--name-field-svg-icon field--type-file field--label-hidden field__item"><img alt=""
+                                                                  src="/sites/default/files/2023-04/ai-man-dark.svg"
+                                                                  class="svg-icon-resize"/></span>
+      
+    
+            <span class="field field--name-name field--type-string field--label-hidden field__item">Technology and Human Rights</span>
+      
+  </div>
+</div>
+</span>
+      
+
+      
+              <h3 class="node__title card__title h4-st">
+          <a href="/our-work/technology-and-human-rights/projects/technical-paper-addressing-algorithmic-bias-ai" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Technical Paper: Addressing Algorithmic Bias in AI</span>
+</a>
+        </h3>
+            
+
+    </div>
+  </div>
+</article>
+
+            </div>
+</div>
+
+  
+
+</div>
+
+
+</div>
+
+  </div>
+
+
+      </div>
+
+  <div class="section">
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="cell">
+        
+  <div class="quicklinks box-text">
+  <h3 class="quicklinks__title h4">Quick Links</h3>
+  <div class="quicklinks__ul  no-bullet grid-x grid-padding-x" role="list">
+    <div class="access-visuallyhidden" role="listitem">&nbsp;</div>
+          <div class="cell large-4" role="listitem"><div role="list">   
+    <div class="quicklinks__li" role="listitem">
+    <a href="/about/contact"
+       class="quicklinks__link">Contact Us</a>
+  </div>
+
+
+  
+    
+    <div class="quicklinks__li" role="listitem">
+    <a href="/complaints#main-content"
+       class="quicklinks__link">Make a human rights complaint</a>
+  </div>
+
+
+  
+    
+    <div class="quicklinks__li" role="listitem">
+    <a href="/about/get-involved/events"
+       class="quicklinks__link">Events</a>
+  </div>
+
+
+      </div></div><div class="cell large-4" role="listitem"><div role="list">   
+      </div></div>    
+  </div>
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  </div>
+      <div class="grid-container">
+      <div class="section">
+        <div class="grid-x grid-padding-x">
+          
+          
+<div class="field field--name-field-cmn-extended-taxa field--type-entity-reference field--label-hidden tags">
+  <span class="field__label tags__title">Tags</span>
+      <span class="field__item label"><a
+        href="/about/news?keys=Artificial Intelligence">Artificial Intelligence</a></span>
+      <span class="field__item label"><a
+        href="/about/news?keys=Facial Recognition Technology">Facial Recognition Technology</a></span>
+      <span class="field__item label"><a
+        href="/about/news?keys=Metaverse">Metaverse</a></span>
+      <span class="field__item label"><a
+        href="/about/news?keys=Privacy and Data">Privacy and Data</a></span>
+      <span class="field__item label"><a
+        href="/about/news?keys=Technology">Technology</a></span>
+  </div>
+
+        </div>
+      </div>
+    </div>
+  </article>
+
+  </div>
+
+
+		</div>
+	</main>
+
+
+<svg style="display: none;">
+	<symbol id="face_with_megaphone" viewbox="0 0 171 96" fill="none" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+		<path d="M5.71293 51.8581C5.93352 51.5156 6.45597 51.5969 6.56046 51.9916C6.78105 52.7927 7.5299 54.1104 7.58214 54.5284C7.79693 56.2873 8.2265 57.0826 9.06822 57.7618C9.74161 58.3075 11.9301 59.0853 12.4061 59.6716C13.0969 60.5192 9.21916 61.2274 8.74315 62.6612C8.29616 63.0444 7.79693 67.8219 7.00164 68.4662C6.04962 68.4662 6.87974 65.9004 6.42114 64.4027C6.05543 63.2127 2.59564 61.8717 1.77714 61.5002C0.616136 60.9197 1.19664 60.3392 0.424569 60.8094C0.291054 60.8907 4.34295 59.1608 4.77252 56.8098C4.89442 56.148 4.94667 53.7157 5.05696 53.0539C5.09179 52.845 5.41107 52.3225 5.70712 51.8639L5.71293 51.8581Z" fill="currentColor"/>
+		<path d="M10.0902 63.5785C10.0902 63.5785 10.0902 63.5964 10.0304 63.5605C10.0843 63.5785 10.1082 63.5606 10.0902 63.5785Z" fill="#020555"/>
+		<path d="M6.96855 69.7144C7.74642 69.5693 7.83349 68.3792 8.01345 67.7291C8.43141 66.0166 9.03513 64.2171 10.0046 62.7368C10.7302 61.8428 11.868 61.4829 12.7736 60.8095C14.3235 59.6427 12.9071 59.0448 11.8041 58.4701C10.7882 57.9477 9.99295 57.164 9.55758 56.1249C8.62297 54.6969 8.8842 52.6651 7.64193 51.417C6.81181 50.7204 5.22124 50.7379 4.68718 51.8176C3.87448 53.6404 4.72201 56.1829 3.11402 57.6806C2.33615 58.3772 1.21579 58.8939 0.548211 59.666C-1.22232 61.5642 1.74985 62.2666 3.02695 62.969C4.0138 63.7179 5.33154 64.3912 5.81335 65.5464C5.97589 65.9876 6.00492 66.4578 6.03394 66.928C6.11521 67.7813 6.03394 69.3313 6.89889 69.7028H6.96855V69.7144ZM8.08891 62.8181C7.02079 64.6525 5.81916 62.8993 4.76265 62.1853C3.86287 61.7848 1.68599 61.0998 2.88763 59.8459C3.41008 59.3235 4.03702 58.9171 4.51883 58.3656C5.00065 57.8083 5.09934 56.955 5.13417 56.1887C5.15158 55.4921 5.10514 54.7549 5.66823 54.2615C6.26614 53.6752 7.06143 53.919 7.39812 54.6504C7.75803 55.2309 7.68837 56.0436 8.00764 56.6125C8.3037 57.0537 8.60556 57.5007 8.82615 57.9825C9.12801 58.6675 9.88847 58.9635 10.4399 59.3989C11.0553 59.8459 10.6838 60.4496 10.1729 60.7689C9.27314 61.3726 8.51848 61.8022 8.13535 62.7194L8.08311 62.8123L8.08891 62.8181Z" fill="#020555"/>
+		<path d="M18.526 63.0624C18.526 63.0624 18.526 63.0803 18.4662 63.0444C18.52 63.0624 18.5439 63.0444 18.526 63.0624Z" fill="#020555"/>
+		<path d="M19.2974 37.9242C20.5862 56.4654 36.4919 68.5166 54.7196 68.5166C72.9473 68.5166 85.6022 50.0799 84.3135 31.5387C83.0248 12.9975 68.8431 1.36426 50.6154 1.36426C32.3877 1.36426 18.0087 19.383 19.2974 37.9242Z" fill="white"/>
+		<path d="M39.3999 14.9017C40.5957 14.8843 41.8497 15.1571 43.0397 15.1455C43.8698 15.0526 44.5315 15.4473 45.3906 15.726C46.1395 16.0743 47.0509 16.4226 47.8984 16.6954C48.7634 17.1947 51.1434 20.3642 46.72 18.6169C44.9959 17.6474 43.1326 16.9973 41.1589 17.096C40.0153 16.9334 39.0458 16.8464 37.9545 17.0727C37.223 17.2353 37.0431 16.4226 37.1882 15.8769C37.3856 14.9249 38.5757 14.9365 39.3129 14.9075H39.3999V14.9017Z" fill="#020555"/>
+		<path d="M63.8038 24.9968C62.6777 25.3915 61.3947 25.5251 60.2744 25.914C59.5139 26.2681 58.7592 26.0939 57.8652 26.1056C57.0467 26.0127 56.0715 25.9662 55.1775 25.972C54.1965 25.7689 50.9456 23.5107 55.6883 23.7719C57.6272 24.1493 59.601 24.1783 61.447 23.4643C62.5848 23.2611 63.531 23.0347 64.4946 22.4832C65.139 22.1001 65.5627 22.8141 65.5975 23.3772C65.7078 24.3408 64.5759 24.7066 63.8851 24.9678L63.8038 24.9968Z" fill="#020555"/>
+		<path d="M79.9658 17.1132C80.8308 16.3933 79.8613 15.1453 79.2983 14.4777C78.0908 12.7246 76.5815 11.0469 75.1012 9.53762C73.174 7.7787 71.6995 5.60764 69.1104 4.67883C67.1309 4.16219 65.6623 2.47294 63.6015 2.25235C61.5697 2.25815 60.0024 0.818512 57.9764 0.714022C56.322 0.632752 54.3135 0.29025 52.6533 0C51.411 0.110295 50.1978 0.0406407 48.9439 0.150936C46.5116 0.365721 44.1083 0.708208 41.7863 1.52091C38.5994 2.3278 35.6968 3.75584 32.893 5.40446C28.5392 9.02098 24.4641 13.2122 22.1712 18.4773C21.8635 19.1333 21.3991 19.737 21.1553 20.4336C20.9405 21.0722 20.894 21.7688 20.656 22.4538C20.0813 24.0385 19.4022 25.542 19.2512 27.2197C19.0771 28.6129 18.4095 29.9074 18.247 31.3006C18.0902 32.4732 18.3282 33.6865 18.3863 34.8649C18.247 37.4017 18.1309 40.1126 18.9958 42.5217C19.3267 45.6157 20.8708 48.5124 21.9737 51.3975C23.483 53.975 25.4219 56.8136 27.355 59.0601C28.8237 60.1631 30.1298 61.6724 31.5462 62.8102C32.8407 63.7564 34.2629 64.5169 35.6213 65.3702C37.8621 67.193 40.7356 67.965 43.4813 68.7023C44.8861 68.9286 46.1574 69.3756 47.5332 69.6543C48.8277 69.753 50.128 69.7704 51.4167 69.9329C53.106 69.9213 54.743 69.8226 56.3975 69.5962C58.3189 69.6775 60.1997 69.0215 61.9761 68.4236C63.8685 67.9418 65.8481 67.2568 67.4676 66.1597C70.2482 65.1728 72.4367 63.0888 74.7297 61.2254C76.2564 59.7335 77.8064 58.381 78.6249 56.4073C79.5014 55.461 80.436 54.4568 80.9352 53.2609C81.4519 52.3089 81.7247 51.2814 82.1485 50.2714C82.5316 49.4819 83.1411 48.7679 83.4082 47.8971C84.099 45.221 85.318 42.4985 84.9233 39.683C84.6969 38.7136 83.8493 38.7658 83.5242 39.5089C83.3211 39.9501 83.3153 40.1707 83.2398 40.606C83.0831 42.1095 82.7058 43.5666 82.1659 45.0236C81.7015 46.3181 81.3881 47.7926 80.9063 49.1104C80.349 50.1901 79.6349 51.1189 79.1066 52.2102C78.3636 53.2842 77.7889 54.3929 77.1678 55.5307C75.3624 57.6205 73.6151 60.076 71.2989 61.5621C69.4994 62.4619 68.2165 64.1569 66.3241 64.8477C64.9251 65.2018 63.6305 65.8868 62.307 66.3628C61.2273 66.746 59.9966 67.0304 58.7892 67.1407C57.5295 67.4832 56.2698 67.7793 54.952 67.9302C51.9102 68.232 48.88 67.6457 45.8614 67.3613C42.7441 66.9027 39.8997 65.3644 37.1307 63.9596C36.289 63.6345 35.662 63.0308 34.9015 62.5548C33.0787 61.6782 31.3605 60.1167 29.9151 58.8396C29.0676 57.9049 28.1909 56.9007 27.3434 55.9487C26.67 54.7935 25.8515 53.7718 25.0272 52.7095C23.9649 50.6545 22.7517 48.6982 21.9332 46.5097C21.3759 44.774 20.9522 43.137 20.482 41.3897C20.2439 39.6366 20.3367 37.8487 20.0987 36.1071C19.9246 35.1958 20.2265 34.354 20.1917 33.4484C20.0408 32.3281 20.3426 31.2716 20.5748 30.1976C20.627 28.5955 20.9986 27.092 21.5965 25.6233C21.8461 24.0327 22.3396 22.3609 23.2568 20.9851C24.4236 18.1348 25.9792 15.5516 27.6859 13.0148C28.3825 12.3066 28.9979 11.5113 29.6423 10.7741C30.5769 9.86851 31.6855 9.13708 32.5853 8.21408C33.845 7.0763 35.4588 6.49581 36.7823 5.50315C37.8969 4.61499 39.4178 4.12156 40.8458 3.77906C42.5119 3.27403 44.2011 2.79801 45.9078 2.46713C47.063 2.11302 48.1777 1.88663 49.3793 1.9621C50.1746 1.90985 50.9756 1.77634 51.8174 1.96791C53.0654 2.12464 54.3135 2.04337 55.5732 2.23493C57.0303 2.27557 58.5222 2.89089 59.956 3.46559C60.9196 3.8255 61.9238 3.79648 62.7307 4.13897C64.1356 4.73108 65.7319 4.94587 67.1019 5.57862C70.5501 7.74389 73.8647 10.5245 76.3493 13.7927C77.0923 14.6402 77.7599 15.6271 78.4159 16.5269C78.77 16.9622 79.3389 17.4615 79.8788 17.1596L79.9426 17.119L79.9658 17.1132Z" fill="#020555"/>
+		<path d="M48.5543 28.2932C48.4034 28.119 48.4092 28.1306 48.3918 27.9507C48.444 26.006 48.1944 23.8814 47.3526 22.1283C46.3542 20.1488 43.9799 19.9862 42.337 21.1414C40.9903 22.2212 40.166 23.9452 39.7249 25.5823C39.1502 28.0668 39.1908 30.7777 40.1777 33.1288C40.5492 34.7948 41.716 36.4957 43.3298 37.1574C44.0148 37.3432 44.8159 37.14 45.4893 36.9252C47.5558 36.0603 48.1189 32.6644 48.6065 30.6616C48.7168 29.9476 49.216 28.9201 48.5949 28.3338L48.5543 28.2932Z" fill="#020555"/>
+		<path d="M63.1423 29.0072C63.0146 28.8563 63.0146 28.8795 62.9856 28.7286C62.9856 28.3745 63.0784 27.7359 62.9681 27.318C62.7243 26.2092 62.8173 26.3834 62.1787 25.5997C61.7782 25.3094 61.3254 25.6113 60.4372 25.5997C58.986 25.6345 56.96 24.0614 55.9035 24.282C55.143 24.4039 54.963 24.6535 54.7192 25.2862C54.5103 25.7912 54.3013 26.3369 54.1968 26.8884C53.7324 29.1233 53.8137 31.4511 54.7367 33.5177C55.1895 35.236 56.4491 36.9543 58.1848 37.3838C61.1454 37.5754 62.0162 35.4392 62.7592 32.9546C63.0785 32.0781 63.1771 31.2189 63.4151 30.3017C63.5196 29.7619 63.5081 29.3846 63.183 29.0537L63.1423 29.013V29.0072Z" fill="#020555"/>
+		<path d="M64.104 50.0443C64.7972 49.5795 65.3829 49.2388 64.8054 48.5488C64.5052 48.1896 63.2895 46.9362 62.5493 46.4453C61.3958 45.6741 61.2921 45.5244 60.4528 44.9834C59.477 44.3544 57.8601 43.7126 56.1219 43.3449C55.3032 43.0935 54.5348 43.1714 53.7255 43.2161C53.5839 43.2215 53.4423 43.2269 53.294 43.2211C52.1954 43.1897 50.9848 43.107 49.9798 43.5089C49.6902 43.6261 49.2666 43.5119 47.9639 43.722C47.1078 43.8608 46.2175 43.7634 45.426 44.1234C44.588 44.5019 43.9131 45.1096 44.4711 46.0011C45.0017 46.9993 45.7647 46.0408 46.4876 45.83C47.1364 45.5092 47.8636 45.5705 48.5842 45.6205C49.0532 45.6536 49.5294 45.622 49.9916 45.5263C54.1552 44.6602 55.155 45.2841 58.5185 46.3126C60.4114 46.8905 63.6226 50.3625 64.104 50.0443Z" fill="#020555"/>
+		<path d="M26.1513 69.2167C25.4461 68.3511 24.5742 67.4795 23.9842 66.493C23.7315 65.7284 23.9399 64.8241 23.9858 64.0435L23.9916 63.9451C24.037 63.1747 24.0821 62.4102 24.0821 61.6374L24.0821 61.5995C24.082 60.9591 24.082 60.3193 24.189 59.6857C24.4624 58.0671 24.6744 56.5085 25.3119 54.9751C25.7573 53.9037 26.2944 52.8605 26.67 51.7615C26.8464 51.2453 27.0424 50.7266 27.186 50.2002C27.351 49.5951 27.4357 48.9488 27.5683 48.3341C27.706 47.6955 27.7798 47.039 27.8249 46.3878C27.8591 45.8941 27.7971 45.3937 27.8463 44.9014C27.886 44.5045 28.1634 43.8145 28.7045 44.0512C29.085 44.2177 29.3398 44.533 29.6536 44.7944C29.8373 44.9476 30.0433 45.1284 30.1936 45.3131C30.9291 46.2167 31.1317 47.3088 31.4208 48.401C31.5063 48.724 31.5716 49.0844 31.6266 49.4142C31.6648 49.6435 31.6854 49.882 31.6854 50.1147C31.6854 51.0034 31.8348 51.8722 31.9854 52.7478L31.9956 52.8069C32.0637 53.2032 32.1512 53.5637 32.2629 53.9484C32.3426 54.2228 32.3569 54.5267 32.4554 54.7933C32.5979 55.1787 32.7607 55.7348 33.0569 56.0311C33.3857 56.3599 33.8987 56.4289 34.3429 56.4669C35.2913 56.5479 36.3267 56.4526 37.2677 56.2958C37.9562 56.181 38.6406 56.0884 39.3262 55.9562C40.4009 55.7491 41.4455 55.4486 42.5077 55.1889C44.0768 54.8054 45.5652 54.2071 47.0098 53.5046C47.7226 53.1581 48.485 52.8108 49.2475 52.593C50.0886 52.3527 50.9286 52.3606 51.7927 52.2775C52.582 52.2016 53.3911 52.2061 54.0518 52.7347C54.6056 53.1777 54.6974 54.1343 54.4581 54.7638C54.0969 55.7144 53.2656 56.507 52.3782 56.9695C51.9585 57.1882 51.606 57.4897 51.2205 57.7635C50.67 58.1547 50.0282 58.4243 49.4347 58.742C48.504 59.2401 47.6491 59.9736 46.6516 60.3381C46.4492 60.412 46.3147 60.5114 46.0901 60.5305C45.798 60.5554 45.5049 60.5607 45.2132 60.584C44.8566 60.6125 44.4401 60.794 44.1278 60.9663C43.4316 61.3505 43.3886 62.1172 43.3204 62.8297C43.2794 63.2577 43.3109 63.6897 43.2589 64.1157C43.2033 64.572 43.1202 65.031 43.0932 65.4898C43.0624 66.0124 42.9877 66.5185 42.8606 67.0271C42.7253 67.568 42.4818 68.0489 42.2831 68.567C42.1212 68.989 41.8042 69.3235 41.5479 69.6952C41.3577 69.971 41.1354 70.2451 40.917 70.4999C40.5737 70.9005 40.2047 71.2987 39.8075 71.6469C39.3829 72.019 38.861 72.2824 38.3745 72.5612C37.9078 72.8286 37.3933 72.8688 36.8747 72.9702C36.3692 73.0691 35.9009 73.1387 35.3855 73.1387C34.1385 73.1387 33.2601 73.1761 31.9956 73.1387C30.9262 73.1387 29.9214 72.4863 29.1831 72.0802C28.5334 71.7229 28.0911 70.8621 27.5282 70.3796C27.0739 69.9903 26.5323 69.6843 26.1513 69.2167Z" fill="white"/>
+		<path d="M28.0617 71.41C27.4201 71.0748 27.0762 70.6553 26.6181 70.1107C25.6811 68.997 24.8411 67.7461 24.0756 66.5095C23.3442 65.3281 23.0916 63.9745 23.0303 62.5875C23.0042 61.9994 23.0707 61.4087 23.1372 60.8257C23.2078 60.2064 23.2618 59.5725 23.5168 58.9971C23.7872 58.3871 24.0318 57.7866 24.2333 57.1497C24.9388 54.9205 26.359 53.0388 27.0699 50.8135C27.391 49.8084 27.4663 48.7211 27.5217 47.6749C27.5661 46.8371 27.3585 46.0178 27.3907 45.1805C27.415 44.5479 27.6879 43.9093 28.3291 43.7154C28.7982 43.5736 29.115 43.5175 29.5803 43.7502C29.9406 43.9303 30.297 44.5047 30.4679 44.8463C30.7732 45.4571 31.1021 46.0676 31.2967 46.7231C31.502 47.4152 31.5738 48.135 31.7191 48.8405C31.8792 49.6184 31.9486 50.5114 31.9009 51.3055C31.8567 52.0389 31.8634 52.7711 31.8634 53.5057C31.8634 53.7545 31.8753 53.9902 31.8153 54.2302" stroke="#00284F" stroke-width="1.92491" stroke-linecap="round"/>
+		<path d="M32.5357 55.1447C33.0903 55.649 34.148 55.5929 34.8349 55.6955C35.8427 55.846 36.7896 55.8824 37.7918 55.6634C38.7288 55.4587 39.6894 55.3828 40.6203 55.1447C41.4287 54.938 42.2276 54.6791 43.0157 54.4069C44.0603 54.046 45.0383 53.5022 46.117 53.2412C47.0025 53.027 47.7922 52.6461 48.6595 52.3777C49.2885 52.183 49.8846 52.1005 50.5389 52.0542C51.1626 52.0101 51.9286 51.9096 52.544 52.0275C52.7564 52.0681 52.9352 52.1571 53.1589 52.1611C53.4327 52.1661 53.6683 52.2234 53.9155 52.351C54.7288 52.7707 54.8975 53.7157 54.7443 54.5432C54.6408 55.102 54.311 55.3638 53.9984 55.8185C53.6682 56.2988 53.0939 56.718 52.6028 57.0215C51.867 57.4762 51.0699 57.8023 50.3411 58.2727C49.8755 58.5732 49.3466 58.7377 48.86 58.9999C48.2102 59.35 47.6103 59.7139 46.9217 59.9837C46.4401 60.1725 45.9754 60.4093 45.47 60.5318C45.0096 60.6434 44.5317 60.5968 44.0718 60.7029C43.7635 60.7741 43.2457 60.8375 42.9783 61.0157" stroke="#00284F" stroke-width="1.92491" stroke-linecap="round"/>
+		<path d="M127.903 91.3386C127.903 91.3386 134.528 90.4886 136.611 88.4058C137.857 87.16 138.557 85.5639 139.116 83.8963C139.933 81.4696 140.731 79.0364 141.516 76.6032C143.249 71.2372 143.82 66.0723 142.541 60.6025C140.296 50.9735 133.101 45.322 126.281 39.0865C123.141 36.2121 115.815 33.9411 112.882 37.5877C112.565 37.8602 101.119 50.5972 101.119 50.5972C99.2955 52.2063 97.4332 53.7831 95.5775 55.4246C92.1451 58.4548 88.9202 62.0559 86.0458 65.67C84.7287 67.3246 83.5802 69.1219 82.3604 70.8673C81.6791 71.8406 80.3619 72.1067 79.3237 71.5227C78.2856 70.9387 76.9425 70.3937 75.6383 70.5429C69.8505 71.2047 66.8917 86.1608 75.6383 92.0199C77.3058 93.136 82.1332 94.8619 83.9435 93.3631C84.9558 92.526 85.5787 91.7539 85.968 90.8585C86.4935 89.6322 87.8821 89.0158 89.1798 89.3207" fill="currentColor"/>
+		<path d="M127.903 91.3386C127.903 91.3386 134.528 90.4886 136.611 88.4058C137.857 87.16 138.557 85.5639 139.116 83.8963C139.933 81.4696 140.731 79.0364 141.516 76.6032C143.249 71.2372 143.82 66.0723 142.541 60.6025C140.296 50.9735 133.101 45.322 126.281 39.0865C123.141 36.2121 115.815 33.9411 112.882 37.5877C112.565 37.8602 101.119 50.5972 101.119 50.5972C99.2955 52.2063 97.4332 53.7831 95.5775 55.4246C92.1451 58.4548 88.9202 62.0559 86.0458 65.67C84.7287 67.3246 83.5802 69.1219 82.3604 70.8673C81.6791 71.8406 80.3619 72.1067 79.3237 71.5227C78.2856 70.9387 76.9425 70.3937 75.6383 70.5429C69.8505 71.2047 66.8917 86.1608 75.6383 92.0199C77.3058 93.136 82.1332 94.8619 83.9435 93.3631C84.9558 92.526 85.5787 91.7539 85.968 90.8585C86.4935 89.6322 87.8821 89.0158 89.1798 89.3207" fill="white" fill-opacity="0.7"/>
+		<path d="M80.2139 71.8081L75.0037 70.0562C75.0037 70.0562 71.0716 71.4512 70.4941 75.0718C69.9231 78.6924 67.704 86.8744 74.809 92.1431C79.2536 94.4271 82.9975 95.316 83.8864 94.3622C84.7753 93.4084 86.3715 90.1901 86.3715 90.1901L87.3772 89.8526C87.3772 89.8526 84.3277 86.6798 83.1857 86.1737C82.0437 85.6675 78.3647 79.8279 79.5067 77.1611C80.6486 74.4943 80.2074 71.8016 80.2074 71.8016L80.2139 71.8081Z" fill="currentColor"/>
+		<path d="M80.2139 71.8081L75.0037 70.0562C75.0037 70.0562 71.0716 71.4512 70.4941 75.0718C69.9231 78.6924 67.704 86.8744 74.809 92.1431C79.2536 94.4271 82.9975 95.316 83.8864 94.3622C84.7753 93.4084 86.3715 90.1901 86.3715 90.1901L87.3772 89.8526C87.3772 89.8526 84.3277 86.6798 83.1857 86.1737C82.0437 85.6675 78.3647 79.8279 79.5067 77.1611C80.6486 74.4943 80.2074 71.8016 80.2074 71.8016L80.2139 71.8081Z" fill="white" fill-opacity="0.4"/>
+		<path d="M170.015 75.9551C168.062 76.0719 165.921 75.8967 164.058 75.7409C163.072 75.6177 162.099 75.1764 161.171 75.1245C159.997 75.1894 158.582 74.8715 157.388 74.5276C156.915 74.4108 156.798 73.8398 156.519 73.9112C156.194 73.9501 155.863 74.1707 155.513 74.1058C155.072 74.0085 154.618 73.7749 154.241 73.6387C153.313 73.2429 151.672 73.2299 151.912 71.7959C152.113 71.0108 152.788 70.5047 153.443 70.8421C154.429 71.2833 156.194 71.7051 157.336 72.01C158.245 72.2696 159.283 72.3993 160.146 72.8276C160.827 73.0287 161.521 72.7562 162.261 72.9898C163.059 73.152 163.656 73.1001 164.097 73.4375C164.513 73.7619 164.863 73.6581 165.369 73.5089C166.998 73.7814 169.69 72.0555 170.151 74.599C170.268 75.144 170.463 75.6761 170.06 75.9226L170.008 75.9486L170.015 75.9551Z" fill="#020555"/>
+		<path d="M144.515 45.2826C143.795 45.1852 143.276 43.9394 143.911 43.4074C145.06 42.4665 146.215 41.1883 147.279 40.2215C147.584 40.0074 147.954 40.1177 148.194 39.9555C148.291 39.8776 148.213 39.5986 148.278 39.2417C148.33 38.9757 148.505 38.7291 148.687 38.5215C149.881 37.1654 150.296 36.8734 151.269 35.3097C151.652 34.7841 152.087 34.1612 152.794 34.2521C153.625 34.3494 154.455 35.128 153.793 35.8742C152.892 36.9253 152.074 38.3528 151.068 39.2936C150.419 39.5532 150.218 39.8127 149.848 40.3059C149.582 41.4933 148.408 42.2719 147.694 43.0829C147.253 43.7253 146.591 44.0757 146.027 44.5818C145.631 44.9322 145.157 45.3215 144.599 45.2826L144.515 45.2696V45.2826Z" fill="#020555"/>
+		<path d="M151.535 59.1874C150.997 59.0576 150.374 57.8702 150.679 57.416C150.744 57.2992 150.867 57.1954 150.971 57.1175C151.983 56.4946 153.112 56.1183 154.15 55.6446C154.669 55.5408 154.994 55.3202 155.338 54.9698C155.811 54.6843 156.318 54.3858 156.863 54.2626C157.836 54.1198 158.517 53.6591 159.218 53.0427C159.828 52.7118 160.509 52.3614 161.164 52.011C162.086 51.6931 162.871 50.9794 163.779 50.616C164.616 50.2916 165.161 49.7206 165.972 49.3702C166.926 49.0328 167.711 50.4733 167.056 51.2065C166.654 51.7385 166.063 51.9462 165.538 52.3355C163.857 53.471 161.917 54.2171 160.172 55.158C159.173 55.7679 157.966 56.4427 156.882 56.5855C156.519 56.6893 156.285 57.0981 155.824 57.3122C155.214 57.6236 154.799 57.8767 154.034 58.253C153.45 58.545 153.021 58.7332 152.567 58.9408C152.249 59.0771 151.97 59.2587 151.62 59.2068L151.535 59.1874Z" fill="#020555"/>
+		<path d="M143.931 68.2592C143.885 67.5455 143.45 66.7084 143.677 66.0142C143.781 65.6703 143.833 65.3004 143.71 64.9306C143.21 63.6524 143.723 62.2573 143.327 60.9856C143.081 60.2783 143.178 59.5062 142.808 58.8444C142.711 58.1047 142.256 57.4363 142.088 56.7356C141.919 56.1841 141.419 55.7883 141.173 55.2692C140.907 54.6528 140.595 54.1207 140.323 53.5108C140.167 52.8619 139.927 52.2196 139.46 51.7264C138.869 50.8635 138.11 50.0135 137.384 49.2608C137.144 48.9494 137.053 48.4497 136.767 48.1578C135.716 47.2039 134.645 46.3799 133.802 45.173C133.335 44.7123 132.679 44.4268 132.284 43.9013C131.992 43.5639 131.777 43.1616 131.473 42.8307C131.245 42.6036 130.941 42.4738 130.707 42.2727C130.357 41.8509 130.013 41.4421 129.545 41.1437C129.117 40.6311 128.676 40.2093 128.144 39.7876C127.424 39.3658 126.957 38.6456 126.373 38.0811C125.841 37.7761 125.257 37.8021 124.705 37.3608C123.816 36.9261 123.07 36.1994 122.155 35.8036C121.337 35.5116 120.39 35.7517 119.586 35.3818C118.457 35.0444 117.23 34.7395 116.14 35.3364C115.251 35.5376 114.317 35.5441 113.519 36.0631C113.097 36.407 113.078 37.0948 112.494 37.2505C112.078 37.4387 111.592 37.7956 111.332 38.2303C110.846 39.0673 109.95 39.7032 109.451 40.6051C109.055 41.3643 108.231 41.812 107.673 42.3895C106.654 43.4082 105.733 44.628 104.74 45.6597C103.637 46.6394 102.365 47.6906 101.502 48.9753C100.873 49.8902 99.7891 50.3574 98.965 51.0451C98.8417 51.1684 98.7509 51.3436 98.6666 51.4929C98.1021 52.4207 96.9146 52.7387 96.2723 53.6016C95.552 54.3802 94.9941 54.8799 94.1116 55.4509C92.9437 56.476 92.0093 57.7024 90.6273 58.4421C90.3223 58.7016 90.2899 59.1493 89.9719 59.4673C89.4464 59.9409 88.9403 60.434 88.3888 60.8688C88.0514 61.1478 87.8697 61.5566 87.6296 61.9069C86.7471 62.9775 85.7479 64.1779 84.9628 65.3459C83.8403 66.5203 82.8865 68.0451 81.7121 69.226C81.3098 69.7516 80.9659 70.5756 80.2456 70.4329C79.8304 70.1863 79.2659 69.8813 78.7338 69.771C78.0331 69.5764 77.3712 69.1871 76.651 69.0573C75.3598 68.9665 74.0361 69.2714 72.8682 69.7256C71.9598 70.2382 71.7132 71.4321 70.9086 72.055C70.3831 72.5935 70.2273 73.3267 69.9029 73.9626C69.6498 74.3844 69.3644 74.8126 69.2216 75.3447C69.0789 75.8119 68.9231 76.2985 68.8712 76.7657C68.8388 77.2263 69.0399 77.687 68.9426 78.1542C68.7934 78.7317 68.7285 79.1924 68.735 79.7763C68.6247 80.3733 68.3846 81.0027 68.3457 81.6321C68.3911 82.7416 68.7285 83.8122 69.0529 84.8633C69.4163 86.1416 69.8834 87.5107 70.5712 88.724C70.9411 89.3923 71.1811 90.1255 71.6872 90.7095C72.1349 91.2805 72.7903 91.579 73.277 92.0072C73.7766 92.5652 74.1659 93.2206 74.8277 93.6423C76.5926 94.4015 78.377 95.2839 80.3625 95.2255C81.2709 95.3877 82.1792 95.7641 83.185 95.524C85.3846 95.0893 86.5979 93.0454 87.409 91.1702C87.6945 90.6836 88.3433 90.5732 88.7521 90.1645C89.6021 89.1912 88.7521 88.2893 87.5971 88.724C86.9872 88.9641 86.2929 89.029 85.9231 89.5935C85.391 90.7095 84.7552 91.6439 83.9765 92.5977C83.6067 93.2335 82.9319 93.1881 82.2441 93.279C81.6861 93.279 81.167 93.5774 80.6219 93.5385C79.9861 93.4542 79.3697 93.1816 78.8506 92.8053C77.3517 92.1759 75.9437 91.3648 74.3995 90.7614C74.0815 90.5019 74.2178 89.866 73.9193 89.4962C73.6728 89.1458 73.1537 88.9641 72.972 88.5164C72.9201 88.3801 72.8422 88.2179 72.7838 88.0817C72.6216 87.6794 72.1933 87.4458 72.0246 87.0694C71.8819 86.758 71.856 86.3687 71.7132 86.0118C71.4277 85.363 71.032 84.8374 71.032 84.1561C71.0709 83.6695 70.7594 83.2282 70.7269 82.8C70.7205 82.5469 70.8178 82.255 70.7919 81.9695C70.7594 81.6061 70.6426 81.2427 70.6945 80.8794C70.727 80.516 70.8762 80.1527 70.8697 79.8607C70.8697 79.4908 70.4674 79.1275 70.5712 78.6473C70.6166 78.258 70.9151 77.9141 71.0384 77.5248C71.1357 77.2134 71.1033 76.863 71.2071 76.558C71.3044 76.2466 71.4991 75.9806 71.5965 75.6821C71.7522 75.2019 71.7457 74.6504 72.0701 74.2481C72.3167 73.9432 72.4335 73.5798 72.5697 73.2424C72.7839 72.7947 73.3029 72.7233 73.6209 72.3794C73.8285 72.1718 74.0621 71.9058 74.3541 71.7371C74.8148 71.4645 75.2949 71.51 75.7491 71.2309C76.0735 71.0687 76.4563 71.0168 76.8002 71.1401C77.2803 71.3218 77.6762 71.7306 78.2017 71.776C78.5521 71.8474 78.9868 71.9836 79.1555 72.2756C79.3307 72.6584 79.0063 73.0542 79.0777 73.463C79.0907 73.7745 79.1555 74.1248 79.0777 74.4557C78.87 75.0851 78.4029 75.5653 78.2926 76.2401C78.1693 76.8565 77.9162 77.447 77.8513 78.0634C77.8513 79.1534 78.2472 80.2305 78.2537 81.3401C78.5262 82.9817 79.5579 84.6298 80.4922 86.0053C81.5239 86.6542 82.3869 87.6859 83.5872 88.0103C84.1582 88.1725 85.4299 86.784 85.0861 86.2519C84.9563 86.0702 84.6449 85.9859 84.3918 85.8561C83.7559 85.4214 82.9513 84.8049 82.3933 84.3053C80.5506 81.8073 79.9926 78.3554 81.3293 75.5004C81.4331 75.0332 81.2059 74.4752 81.3876 74.0275C81.485 73.6512 81.9132 73.3267 81.9521 73.0088C81.9716 72.7233 81.6017 72.5027 81.7769 72.2951C82.0754 71.9901 82.7178 71.6852 83.0227 71.3153C83.6132 70.6859 84.275 70.0435 84.5216 69.1871C85.2093 67.9932 86.3578 66.9291 87.1948 65.813C87.7204 65.1317 88.551 64.7943 89.0181 64.0936C89.6605 63.0943 90.7895 62.0562 91.3735 60.8947C92.0418 60.3951 92.6322 60.1485 93.1189 59.3505C93.4822 58.7795 94.3258 58.6432 94.6891 58.0528C95.0979 57.1444 96.1166 56.755 96.7005 55.9829C97.2131 55.4768 98.0632 55.3016 98.5952 54.7566C99.0299 54.3738 99.3803 53.7574 99.7826 53.394C100.133 53.0761 100.652 52.823 100.957 52.4402C102.008 51.5253 102.936 50.5909 104.013 49.702C104.591 48.7352 105.499 47.9242 106.128 47.0093C106.381 46.6719 106.712 46.4642 107.03 46.1398C107.906 45.4066 108.802 44.6085 109.373 43.6028C109.567 43.2654 110.236 42.5711 110.437 42.5971C110.469 42.6166 110.476 42.6749 110.463 42.7658C110.164 43.6872 110.709 44.602 110.612 45.5364C110.651 46.7303 110.288 47.9631 109.931 49.0337C109.84 49.5658 109.996 50.2406 109.879 50.8245C109.502 52.2909 109.963 53.7509 109.639 55.2302C109.36 57.3325 109.905 59.4478 110.022 61.576C110.528 64.1909 110.223 66.9745 111.17 69.5374C111.267 70.9844 111.507 72.3535 112.091 73.6706C112.396 74.5336 112.221 75.5134 112.623 76.3374C112.812 76.7851 112.98 77.2199 113.078 77.726C113.259 78.9718 114.031 79.958 114.765 80.9378C115.108 81.4958 115.225 82.1576 115.692 82.6443C116.834 83.9744 117.717 85.5771 119.222 86.5504C119.527 86.8164 119.852 86.9656 120.26 86.8748C120.909 86.745 121.532 86.1351 121.318 85.6225C121.162 85.2786 120.767 85.0969 120.5 84.8374C120.085 84.3767 119.78 83.8382 119.216 83.5527C118.794 83.2801 118.723 82.787 118.483 82.3717C117.665 81.2882 116.776 80.25 116.179 79.0172C115.121 76.9538 114.512 74.5855 114.259 72.3145C113.019 67.6363 112.338 62.7764 111.988 57.9814C112.176 56.5085 112.143 55.107 112.039 53.6406C112.098 52.6219 112.351 51.72 112.228 50.7077C112.124 48.4692 113.188 46.581 112.727 44.4268C112.643 42.6101 113.175 40.7479 114.168 39.2295C114.233 39.1192 114.284 39.0154 114.304 38.9051C114.382 38.5872 114.122 38.2887 114.252 38.0876C114.317 37.9773 114.492 37.8929 114.687 37.841C115.822 37.575 117.049 37.5555 118.184 37.2441C119.482 36.9326 120.611 37.828 121.824 38.1395C122.771 38.3731 123.868 38.7559 124.432 39.5799C124.543 39.7811 124.634 39.9887 124.796 40.1379C125.12 40.4494 125.626 40.4948 125.931 40.7933C126.736 41.6303 127.82 42.4414 128.579 43.3627C129.163 43.752 129.591 44.2581 130.052 44.7772C130.694 45.2444 131.421 45.6597 131.888 46.2955C132.316 46.8341 132.906 47.2169 133.413 47.6776C133.769 48.0929 134.042 48.6055 134.457 48.9169C134.743 49.157 135.08 49.3971 135.288 49.7085C135.534 50.0913 135.612 50.5455 135.872 50.8051C136.508 51.8951 137.474 52.9528 138.292 53.9325C138.675 54.815 139.097 55.7234 139.674 56.5085C139.998 57.0081 140.005 57.644 140.342 58.1501C141.102 59.7268 141.141 61.5825 141.517 63.2695C141.601 63.6588 141.763 63.9833 141.731 64.3466C141.711 64.7165 141.582 65.1317 141.608 65.4821C141.783 66.1699 141.9 66.8836 141.614 67.526C141.419 68.11 141.517 68.7523 141.718 69.3233C141.757 70.7248 141.225 72.334 140.758 73.6706C140.634 74.1897 140.887 74.6764 140.803 75.2084C140.686 75.8832 140.55 76.4218 140.329 77.0512C140.109 77.4729 139.674 77.687 139.564 78.1542C139.486 78.5565 139.324 79.0626 139.246 79.4649C139.181 80.0034 139.33 80.542 139.213 81.074C139.077 82.0214 138.312 82.9752 137.935 83.8966C137.585 84.9153 137.124 85.8172 136.631 86.6866C136.495 87.0046 136.495 87.3614 136.248 87.6145C135.846 87.9584 135.294 88.0038 134.782 88.471C133.873 88.7824 132.271 89.3469 131.362 89.3729C130.915 89.3729 130.564 89.6519 130.136 89.7362C129.584 89.8206 129.02 89.561 128.566 89.8336C127.904 90.145 127.67 91.274 128.241 91.7347C129.253 92.2927 130.603 91.6114 131.693 91.4881C132.491 91.3973 133.224 91.2805 133.906 90.8523C134.516 90.5019 135.281 90.703 135.911 90.3461C136.8 89.6 137.831 88.8992 138.441 87.8935C139.071 87.2771 139.486 86.3881 139.765 85.5511C140.595 84.1107 140.31 82.3263 141.199 80.8989C141.465 79.8672 142.237 78.8615 142.166 77.8233C142.302 77.1485 142.918 76.5905 143.022 75.8573C143.171 74.5985 143.132 73.3267 143.275 72.0874C143.334 71.484 143.613 70.8676 143.665 70.2577C143.71 69.9138 143.6 69.5504 143.665 69.2325C143.729 68.9081 143.963 68.655 143.969 68.3825V68.2852L143.931 68.2592Z" fill="#020555"/>
+	</symbol>
+	<symbol id="face_with_hearts" viewbox="0 0 170 97" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M85.7815 82.7978C85.2463 82.8073 84.7678 83.1436 84.5784 83.6457L80.3151 95.0759C79.9078 96.1701 78.373 96.208 77.9088 95.1375L72.4755 82.561C72.3003 82.1584 71.9261 81.8694 71.495 81.7889C52.5568 78.3072 48.0567 66.7065 44.6272 57.8579C44.3762 57.2042 44.1298 56.5695 43.8835 55.9537C28.9385 18.5036 62.5659 0.986508 106.975 1.20442C146.097 -0.292446 164.992 6.07399 168.27 32.0891C170.023 45.9778 166.319 56.3421 154.528 66.5881C141.199 78.1746 123.653 79.6241 108.794 80.8462C105.312 81.1352 101.977 81.4099 98.8744 81.7983C94.0712 82.4047 89.7227 82.7268 85.7815 82.8026L85.7815 82.7978Z" fill="currentColor"/>
+		<path d="M85.7815 82.7978C85.2463 82.8073 84.7678 83.1436 84.5784 83.6457L80.3151 95.0759C79.9078 96.1701 78.373 96.208 77.9088 95.1375L72.4755 82.561C72.3003 82.1584 71.9261 81.8694 71.495 81.7889C52.5568 78.3072 48.0567 66.7065 44.6272 57.8579C44.3762 57.2042 44.1298 56.5695 43.8835 55.9537C28.9385 18.5036 62.5659 0.986508 106.975 1.20442C146.097 -0.292446 164.992 6.07399 168.27 32.0891C170.023 45.9778 166.319 56.3421 154.528 66.5881C141.199 78.1746 123.653 79.6241 108.794 80.8462C105.312 81.1352 101.977 81.4099 98.8744 81.7983C94.0712 82.4047 89.7227 82.7268 85.7815 82.8026L85.7815 82.7978Z" fill="white" fill-opacity="0.7"/>
+		<path d="M168.763 32.1175C169.928 32.3876 169.672 34.0739 169.739 35.0023C169.933 38.1903 169.649 41.435 169.033 44.5614C168.853 47.4083 167.943 50.1984 166.48 52.6568C165.608 54.22 165.395 56.129 164.211 57.5216C162.681 58.9948 161.733 60.8943 160.488 62.5759C158.787 64.357 156.888 65.9486 155.263 67.815C151.956 70.3776 148.494 72.8503 144.619 74.494C141.133 76.2561 137.447 77.5304 133.733 78.7335C131.919 79.2167 130.058 79.2925 128.258 79.8041C123.563 80.7088 118.845 81.4478 114.066 81.751C112.413 82.1062 110.873 82.0541 109.21 82.0352C105.942 82.5326 102.626 82.5041 99.4003 83.2526C97.4866 83.6505 95.5207 83.2431 93.6165 83.6078C92.9723 83.7215 92.3186 83.8068 91.6649 83.8352C90.3149 83.8542 88.998 84.2663 87.6385 84.162C87.1364 84.1431 86.568 84.0578 86.118 84.2852C85.1753 84.92 85.0806 86.3126 84.5074 87.2789C83.4274 89.5574 82.84 92.0064 81.8831 94.318C81.5042 95.1754 81.1016 96.1133 80.301 96.6438C78.8136 97.6338 77.0515 96.4022 76.5825 94.8817C76.0425 93.6122 75.3415 92.4801 74.9151 91.1964C74.1288 88.5911 72.7788 86.2321 71.8267 83.7073C71.3293 82.6462 70.1072 82.3715 69.0177 82.2578C67.7482 82.1015 66.5403 81.6799 65.3181 81.3625C62.1491 80.2257 59.2738 78.3972 56.3985 76.654C55.1764 75.8914 54.3095 74.7403 53.1964 73.7929C52.6564 73.3145 52.1542 72.7934 51.7279 72.2155C50.79 71.0408 49.8568 69.8897 49.151 68.5444C48.2368 67.3791 47.5405 66.1475 46.901 64.7786C45.7973 61.8322 44.3146 59.0327 43.4383 55.9632C41.3256 51.1504 40.1272 45.8735 39.6772 40.6487C39.5872 39.7582 39.8951 38.9055 39.8904 38.0055C39.8288 36.8213 39.7056 35.6228 39.9093 34.4765C40.1651 32.3165 41.2072 30.2748 41.6809 28.1669C41.9509 26.8453 42.7373 25.7227 43.3152 24.5385C44.2341 22.6579 45.4136 20.8863 46.7779 19.2994C47.1568 18.8447 47.7631 18.2289 48.2984 18.1626C48.9237 18.0962 48.99 18.8115 48.6158 19.4415C46.83 21.8526 45.2526 24.4248 44.021 27.1674C43.4952 28.2096 42.8936 29.2185 42.6473 30.3696C41.1362 36.7597 40.9656 43.6235 43.2252 49.8667C43.931 51.951 44.0778 54.2768 45.2573 56.1858C46.4889 58.5401 46.9957 61.2543 48.4026 63.5328C49.7668 66.1854 50.9463 68.9423 53.0448 71.1403C55.4985 73.7124 58.2886 76.0998 61.4433 77.7814C63.8781 78.9656 66.5071 79.6715 69.1077 80.3962C70.2445 80.8652 71.7461 80.7515 72.6556 81.5473C73.0962 81.9594 73.3093 82.5657 73.5083 83.1199C74.2472 85.0005 75.0951 86.8384 75.7915 88.7332C76.2557 89.799 76.8336 90.8364 77.2315 91.9401C77.5773 92.8401 78.4915 95.7154 79.7373 94.5406C79.9694 94.2612 80.1068 93.8538 80.2347 93.4985C81.1442 90.7322 82.5795 88.0747 83.47 85.2942C83.6453 84.7636 83.849 84.1763 84.1237 83.7026C84.64 82.7599 85.3174 82.5847 86.369 82.5326C87.7001 82.4568 89.2585 82.2957 90.5043 82.1868C92.0107 81.9831 93.5218 82.1631 95.0092 81.8457C96.2881 81.6183 97.6476 81.7699 98.9266 81.4336C100.93 81.0025 102.967 81.3246 104.952 80.7846C106.387 80.4957 107.875 80.6852 109.319 80.5431C112.484 79.9367 115.823 79.8183 118.992 79.4725C122.223 79.1409 125.496 78.852 128.632 77.9757C130.986 77.5162 133.298 76.9667 135.562 76.1614C138.594 75.6119 141.298 74.2145 144.022 72.8692C146.168 71.7419 148.47 70.8229 150.431 69.3829C152.757 67.7676 154.761 65.8302 156.888 63.9023C158.342 62.6233 159.265 60.9417 160.402 59.3738C161.951 57.7158 163.012 55.7358 164.268 53.841C165.727 51.2831 166.366 48.3368 167.181 45.5325C167.669 43.8935 167.65 42.1787 167.948 40.5066C168.218 38.2518 168.071 36.0255 167.991 33.747C168.024 33.1597 168.005 32.2359 168.701 32.1223L168.768 32.1223L168.763 32.1175Z" fill="#020555"/>
+		<path d="M69.9598 36.8049C68.622 55.9661 52.2444 71.5038 33.3652 71.5038C14.486 71.5038 0.274001 55.9661 1.60581 36.8049C2.94361 17.6437 18.7393 2.10596 37.6125 2.10596C56.4858 2.10596 71.2916 17.6437 69.9538 36.8049H69.9598Z" fill="white"/>
+		<path d="M34.3546 59.0261C32.7649 58.7682 30.9711 58.1503 29.3513 57.8443C28.2115 57.2624 26.9217 56.9504 25.8659 56.3625C24.1621 54.9947 22.0384 53.7949 20.3947 52.3611C19.6208 51.7372 19.1768 50.7834 18.4389 50.1055C17.743 49.3196 16.9692 48.3117 16.5852 47.4178C16.4472 46.9919 16.2913 46.584 16.0513 46.2C15.7273 45.6001 15.1934 45.1262 14.7195 44.6402C14.1976 44.0763 13.9336 43.1765 13.6396 42.3966C13.4717 41.7007 13.2677 40.5968 14.0535 40.2609C14.3595 40.1529 14.7375 40.0749 15.0434 40.1889C15.6673 40.5548 15.4213 41.5267 15.7093 42.1206C15.9973 43.2964 16.9032 44.1123 17.6411 45.0062C17.917 45.4381 18.121 45.8941 18.3309 46.356C18.8049 47.3759 19.9327 48.2937 20.4007 49.3975C20.7246 49.8715 21.3485 50.1414 21.7565 50.5794C22.0684 50.8853 22.3204 51.2453 22.6683 51.5212C25.128 53.4889 27.9296 55.1327 30.9951 55.9426C33.1428 56.7945 35.3384 57.0644 37.5461 56.6325C38.9499 56.6745 40.1257 56.4705 41.4335 56.0026C42.0335 55.7806 42.2554 56.3865 42.2674 56.9144C42.3394 58.6902 39.5798 58.5222 38.38 58.7202C37.4202 58.9601 36.5263 58.7082 35.5605 58.9181C35.1885 59.0021 34.8166 59.0921 34.4326 59.0321L34.3486 59.0201L34.3546 59.0261Z" fill="#020555"/>
+		<path d="M63.5538 56.2712C64.4232 57.0497 63.3664 58.3008 62.756 58.9637C61.4386 60.73 59.8124 62.4038 58.2291 63.9045C57.3554 64.5594 56.6694 65.2972 55.9481 66.1084C54.4834 67.4498 52.7627 68.493 50.7964 69.0553C49.292 69.5389 48.0885 70.7327 46.4844 70.943C45.795 71.042 45.1124 71.0146 44.4172 71.1916C43.7725 71.3483 43.1379 71.5744 42.5342 71.8453C40.9799 72.5398 39.3696 72.3718 37.597 72.5094C36.5556 72.5119 35.6439 72.8941 34.6538 72.903C33.2633 72.7256 31.8855 72.7866 30.4906 72.5503C28.0961 72.2802 25.7458 71.7886 23.486 70.9211C20.225 69.9663 17.2774 68.3792 14.4492 66.5709C11.4756 63.8733 8.57421 60.9051 6.35042 57.5376C5.03518 55.3501 3.98358 52.9183 2.91411 50.6051C2.67811 48.5993 1.69737 46.6404 1.3602 44.6618C1.26813 44.0231 1.2081 43.3808 1.0945 42.74C0.911227 41.5781 0.40983 40.4581 0.338688 39.2765C0.220808 38.0589 0.518209 36.815 0.620551 35.6013C0.574872 32.9749 0.564055 30.173 1.55454 27.7242C2.0206 24.5426 3.72645 21.6129 4.98126 18.6809C6.20592 16.6033 7.73135 14.793 9.20068 12.9039C9.70344 12.2309 10.172 11.4945 10.8406 10.9774C12.3992 9.8989 13.8049 8.38487 15.3139 7.26491C16.6894 6.33963 18.1888 5.60647 19.6236 4.77869C22.0136 2.97945 25.0095 2.29168 27.875 1.6401C29.3324 1.46118 30.6645 1.04989 32.104 0.812474C33.4444 0.757933 34.7901 0.789122 36.126 0.675666C37.8756 0.748147 39.5558 0.91939 41.2583 1.20805C43.2444 1.2008 45.1649 1.94444 46.9818 2.63489C48.9185 3.20625 50.9341 3.98724 52.5651 5.17997C55.3991 6.30357 57.5774 8.53705 59.875 10.5495C61.0684 11.9167 62.5039 13.0376 63.2574 14.6759C63.4832 15.4743 63.9787 16.0523 64.547 16.6388C66.4189 18.8602 66.68 21.7725 68.1798 24.2013C68.5582 25.4217 71.2283 34.6753 68.4983 33.7954C68.2492 33.6366 68.0089 33.1528 67.9799 32.9094C67.7652 30.1084 66.8874 27.4807 66.1778 24.7351C65.9301 22.9604 64.7427 21.6172 64.0469 20.0227C63.3196 18.8881 62.7739 17.7239 62.1733 16.521C60.3924 14.2914 58.6808 11.6974 56.3468 10.0726C54.5204 9.07374 53.2655 7.27628 51.3328 6.4847C49.8999 6.06429 48.5938 5.30987 47.243 4.76348C46.1425 4.32752 44.876 3.98788 43.6415 3.82175C42.3542 3.41836 41.0604 3.06618 39.7093 2.86068C36.5797 2.42792 33.4196 2.92481 30.2927 3.10394C27.0476 3.45581 24.052 4.94076 21.1352 6.28106C20.2561 6.58449 19.5794 7.18773 18.7775 7.64717C16.7284 8.57432 14.7828 10.1613 13.1707 11.5958C12.4079 12.4566 11.4977 13.322 10.7134 14.1808C9.96829 15.3525 9.08697 16.3727 8.19632 17.4388C7.01474 19.5204 5.6848 21.4911 4.76005 23.7204C4.11387 25.493 3.61473 27.1591 3.06037 28.9503C2.7425 30.7504 2.77248 32.6015 2.45704 34.3935C2.23595 35.3236 2.51538 36.2089 2.44463 37.1397C2.24109 38.2921 2.51372 39.3923 2.71446 40.5108C2.70614 42.1645 3.02528 43.7303 3.59063 45.2725C3.78628 46.9253 4.22903 48.6698 5.12183 50.1241C6.21187 53.1076 7.72354 55.8366 9.38434 58.5262C10.0786 59.2833 10.6844 60.129 11.3124 60.915C12.244 61.8849 13.3555 62.6829 14.2526 63.6646C15.5114 64.8876 17.1556 65.5484 18.4851 66.6243C19.6016 67.5832 21.1572 68.1555 22.6164 68.5616C24.3146 69.1457 26.0469 69.7045 27.7958 70.1045C28.9787 70.5164 30.1198 70.7874 31.3614 70.752C32.1826 70.8342 33.0038 71.0049 33.8818 70.8384C35.1775 70.7262 36.4644 70.8505 37.7779 70.7082C39.2841 70.721 40.8474 70.1443 42.3583 69.6094C43.3625 69.2726 44.4007 69.3401 45.2526 69.0241C46.7224 68.4636 48.3817 68.3053 49.8316 67.7079C53.482 65.6043 57.0134 62.8628 59.715 59.5804C60.5131 58.7346 61.2449 57.7405 61.958 56.8382C62.3418 56.3996 62.9495 55.9086 63.4965 56.2407L63.5623 56.287L63.5538 56.2712Z" fill="#020555"/>
+		<path d="M33.4674 30.6976C33.3114 30.5176 33.3174 30.5296 33.2994 30.3437C33.3534 28.334 33.0954 26.1323 32.2255 24.3145C31.1937 22.2628 28.74 22.0949 27.0422 23.2887C25.6505 24.4105 24.7986 26.1923 24.3426 27.884C23.7487 30.4577 23.7907 33.2592 24.8106 35.7009C25.1345 36.9667 25.8005 38.3765 26.9283 39.1504C28.2241 40.5002 30.6178 40.0083 31.6496 38.5505C32.8854 36.4988 33.3173 34.1951 33.7973 31.8674C33.8813 31.5375 33.7973 30.9436 33.5093 30.7336L33.4674 30.6916V30.6976Z" fill="#020555"/>
+		<path d="M48.5366 30.8837C48.3806 30.7037 48.3866 30.7157 48.3686 30.5297C48.4226 28.52 48.1646 26.3183 47.2947 24.5006C46.2629 22.4489 43.8092 22.2809 42.1115 23.4747C40.7197 24.5966 39.8678 26.3783 39.4119 28.0701C38.8179 30.6437 38.86 33.4453 39.8798 35.8869C40.2038 37.1527 40.8697 38.5625 41.9975 39.3364C43.2933 40.6862 45.687 40.1943 46.7188 38.7365C47.9546 36.6848 48.3865 34.3811 48.8665 32.0535C48.9505 31.7235 48.8665 31.1296 48.5785 30.9196L48.5366 30.8777V30.8837Z" fill="#020555"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M86.5239 18.49C86.5239 18.49 86.8968 16.69 87.9987 16.0534C90.7257 14.4674 92.9295 16.7613 93.1744 18.9564C93.614 22.8637 89.8909 27.7368 89.8909 27.7368C89.8909 27.7368 83.8749 26.31 81.6933 23.0228C80.469 21.1734 80.686 18.0235 83.8137 17.5351C85.077 17.3375 86.5239 18.49 86.5239 18.49Z" fill="currentColor"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M86.5239 18.49C86.5239 18.49 86.8968 16.69 87.9987 16.0534C90.7257 14.4674 92.9295 16.7613 93.1744 18.9564C93.614 22.8637 89.8909 27.7368 89.8909 27.7368C89.8909 27.7368 83.8749 26.31 81.6933 23.0228C80.469 21.1734 80.686 18.0235 83.8137 17.5351C85.077 17.3375 86.5239 18.49 86.5239 18.49Z" fill="white" fill-opacity="0.9"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M102.644 31.6768C102.644 31.6768 103.842 30.2733 105.105 30.2456C108.231 30.1735 109.005 33.2688 108.148 35.3268C106.616 38.988 101.029 41.4731 101.029 41.4731C101.029 41.4731 96.5413 37.2905 96.2722 33.3243C96.1238 31.0943 97.8486 28.4261 100.782 29.5133C101.968 29.9516 102.65 31.6768 102.65 31.6768H102.644Z" fill="currentColor"/>
+		<path d="M94.7077 19.3003C94.4453 17.5128 93.8936 15.1969 92.1583 14.4437C91.9869 14.365 91.8156 14.2582 91.6495 14.1682C91.1193 13.8478 90.5944 14.1064 90.0856 14.0277C89.3465 13.8534 88.7091 14.5505 87.8683 14.7528C87.1934 15.1463 87.0381 16.8101 86.4811 17.3947C85.7902 18.2716 84.4887 16.4673 83.6264 16.7314C83.4175 16.8439 83.2515 16.99 83.0694 17.0575C82.8016 17.1924 82.4909 17.1811 82.266 17.4116C81.7518 17.9681 81.2805 18.6707 81.0984 19.3846C80.9645 20.3571 80.911 21.6106 81.3127 22.5605C81.7144 23.4936 82.2285 24.4436 82.989 25.1519C83.3157 25.6128 83.6639 26.0962 84.178 26.3323C84.6922 26.5515 85.035 26.9956 85.5706 27.2373C86.5721 27.8725 87.729 28.4683 88.8805 28.8056C89.3732 28.9799 89.9945 29.4127 90.5248 29.2103C91.1996 28.9911 91.5799 28.2154 91.8262 27.6027C92.1422 27.0125 92.6939 26.5628 92.8439 25.8489C93.1974 24.7921 93.8883 23.9546 94.1668 22.8135C94.4025 22.0827 94.3917 21.1215 94.622 20.4751C94.7452 20.1097 94.7613 19.7444 94.7077 19.3677V19.3003ZM92.9296 18.845C92.8385 19.6207 92.8867 20.2952 92.7903 21.1159C92.6993 21.678 92.3886 22.1895 92.2012 22.7123C92.0244 23.0383 91.9923 23.3925 91.8691 23.7354C91.6067 24.3537 91.3121 25.017 90.9747 25.5847C90.8301 25.9276 90.6747 26.1918 90.4712 26.4841C90.2623 26.827 90.0374 27.4059 89.5447 27.1642C88.7306 26.782 88.0022 26.2592 87.172 26.0119C86.5347 25.7702 86.0365 25.3374 85.517 24.882C85.0939 24.4998 84.5369 24.2637 84.1191 23.8422C83.8139 23.4936 83.5996 23.0102 83.3211 22.6617C82.807 21.9759 82.807 21.0541 82.6516 20.2446C82.6516 19.913 83.0265 19.3846 83.2408 19.0755C83.5889 18.7551 84.0977 18.7044 84.4298 18.5864C84.8689 18.5864 86.5614 19.7612 87.1291 19.2778C87.4451 19.0755 87.5737 17.9119 87.8575 17.7039C88.4949 16.9507 88.3878 16.5347 89.2554 16.1244C89.6196 15.9389 89.8714 16.012 90.2141 15.9726C90.7444 15.8433 91.1996 15.7815 91.6442 16.1974C92.2012 16.4954 92.4261 17.1418 92.5547 17.7714C92.6618 18.1592 92.9189 18.4571 92.9135 18.7888V18.8394L92.9296 18.845Z" fill="#020555"/>
+		<path d="M109.977 33.4384C110.024 32.4596 110.047 31.6164 109.565 30.7909C109.371 30.4961 109.124 30.1659 108.93 29.8592C108.483 29.1929 107.73 29.1576 107.189 28.6799C106.778 28.4323 106.19 28.6033 105.631 28.4677C105.343 28.4146 105.037 28.3262 104.749 28.3615C103.943 28.5149 103.244 29.6764 102.409 29.8828C101.497 29.9949 100.944 28.3321 100.209 27.9488C99.9154 27.7955 99.5272 27.9311 99.2509 27.8721C98.9863 27.8603 98.7569 27.7306 98.4923 27.7365C97.7573 27.8191 97.0282 28.3085 96.4519 28.6681C96.005 29.0514 95.8403 29.4583 95.4522 30.0008C94.2938 31.9702 94.7642 34.2757 95.317 36.369C95.5051 36.8171 95.7345 37.0412 95.9638 37.4834C96.1461 37.8844 96.2167 38.132 96.493 38.4976C97.1399 39.6356 97.922 40.7677 98.8687 41.7112C99.2509 42.1357 99.6272 42.8669 100.239 42.9671C100.991 43.1322 101.756 42.631 102.297 42.2006C102.591 41.9883 102.938 41.9058 103.267 41.7643C103.832 41.552 104.22 41.039 104.696 40.7147C106.201 39.9423 107.366 38.7806 108.383 37.4067C109.494 36.4338 109.683 34.9479 109.965 33.521L109.977 33.4325V33.4384ZM108.165 32.8664C108.13 33.1613 108.007 33.4679 107.971 33.7509C107.918 34.146 107.971 34.5293 107.771 34.8241C107.277 35.5317 106.972 36.2275 106.419 36.9409C105.807 37.5719 105.008 37.9492 104.443 38.6214C103.402 39.4764 102.297 40.1663 101.097 40.7913C100.803 40.9977 100.474 40.927 100.268 40.6144C99.7154 39.8243 99.2803 38.9811 98.6335 38.3148C98.1454 37.7429 97.8867 37.0706 97.628 36.369C97.4339 35.8383 97.0811 35.343 96.8635 34.8005C96.7165 34.0634 96.593 33.1141 96.6459 32.3712C96.8811 31.6695 96.9752 30.9206 97.381 30.331C97.7397 30.1128 98.0807 29.8298 98.5276 29.7295C98.9628 29.6942 99.345 29.8592 99.7507 29.93C100.068 30.0302 100.45 30.6789 100.98 30.9265C101.344 31.1211 101.491 32.3947 101.921 32.4065C102.379 32.436 103.191 30.9855 103.585 30.7496C104.22 30.4076 104.72 30.3428 105.39 30.2838C105.754 30.2661 106.131 30.3428 106.425 30.555C106.731 30.7319 107.272 30.8263 107.566 31.0621C107.889 31.5397 108.277 32.1471 108.165 32.7898L108.154 32.8606L108.165 32.8664Z" fill="#020555"/>
+	</symbol>
+	<symbol id="face_with_sign" viewbox="0 0 171 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M111.473 13.6835C111.477 13.2861 111.163 12.7944 110.718 12.828C109.167 13.0608 107.597 13.4313 106.152 14.0639C105.775 14.238 105.38 14.2031 104.974 14.2887C103.972 14.5123 103.022 15.1826 102.159 15.7402C101.624 15.9731 101.032 15.8533 100.516 16.0882C100.048 16.2859 99.7796 16.8165 99.3462 17.0568C98.8685 17.3752 98.248 17.3065 97.7498 17.5627C97.229 17.8916 96.8266 18.3528 96.2135 18.7606C95.6819 19.1499 94.9873 19.1142 94.6135 19.6759C94.1854 20.1809 93.5315 20.4765 93.0108 21.0486C92.1449 21.5774 91.4586 22.413 90.7215 23.1173C90.0238 23.6305 89.5644 24.1338 88.9094 24.6124C88.3697 25.3101 87.6846 25.7315 87.017 26.3019C85.9032 27.7822 84.6562 29.2292 83.2558 30.4773C82.4594 31.3465 81.8872 32.4566 80.9835 33.2607C80.6702 33.4864 80.4714 33.8951 80.3091 34.1996C80.1625 34.4531 79.8101 34.4196 79.4904 34.3325C79.1949 34.257 79.0909 34.1171 79.1188 33.8348C79.1701 33.5159 79.175 33.0512 79.1452 32.6593C79.099 32.0512 79.6514 31.6205 79.8432 31.106C80.0357 30.6276 80.5084 30.2998 80.669 29.7956C80.867 28.7609 81.7498 28.1137 82.0744 27.1461C82.346 26.4133 82.9439 25.7336 83.4771 25.0698C83.9358 24.4148 84.2057 23.5977 84.7042 23.0069C84.9988 22.4565 85.5475 21.9609 85.9585 21.4465C86.3255 20.4323 87.0867 19.612 87.7313 18.7436C87.9969 18.1842 88.4417 17.6763 88.6827 17.0934C88.9035 16.7034 89.2818 16.4739 89.5674 16.0682C90.4086 15.157 90.6919 14.0531 91.3574 13.0278C91.6297 12.331 92.1117 11.8705 92.5237 11.2887C92.7991 10.5052 93.2919 9.86874 93.6866 9.15009C93.9275 8.6827 94.3372 8.33932 94.4638 7.81658C94.5024 7.70501 94.5551 7.57386 94.6011 7.46454C94.7772 7.12854 95.056 6.8602 95.1208 6.49768C95.198 5.91579 95.1333 5.1106 94.6784 4.77838C94.2734 4.52938 93.7896 4.31575 93.3485 4.18308C92.3854 3.85686 91.2951 4.13285 90.6021 4.87469C90.3204 5.11422 89.9361 5.17054 89.6486 5.36445C89.0159 5.87388 88.4862 6.47503 87.8819 6.95737C86.9629 7.72087 86.0457 8.45304 85.1631 9.2278C84.9295 9.46631 84.9088 9.86641 84.7001 10.0249C84.2167 10.2976 83.6681 10.4465 83.2391 10.9035C82.7132 11.3384 82.403 11.9517 81.97 12.4473C81.6837 12.7014 81.2932 12.8036 80.956 13.0419C80.5089 13.4414 80.1283 13.9094 79.5947 14.2024C78.9768 14.7284 78.2982 15.116 77.7387 15.672C77.4171 15.963 77.3257 16.4368 77.6509 16.7886C78.2105 17.4123 78.9855 16.7915 79.5105 16.4361C80.2915 15.8729 81.0726 15.553 81.7691 14.864C82.2141 14.4838 82.4649 13.9079 82.9594 13.5868C83.4598 13.3233 83.8768 12.9822 84.2952 12.5977C84.9422 12.1963 85.3065 11.7552 85.7472 11.1583C85.9712 10.9249 86.2815 10.7858 86.5399 10.5829C87.0986 10.1064 87.3187 9.68033 87.9206 9.19323C88.6143 8.48748 89.4005 8.06148 90.1757 7.45272C90.5718 7.0374 90.7689 6.54447 91.2448 6.25747C91.6038 6.02593 92.135 5.9713 92.499 5.86484C92.8108 5.79802 93.2002 5.8788 93.1796 6.16334C93.1017 7.41456 91.8365 8.56103 91.2099 9.60242C90.2973 11.7309 89.0573 13.3993 87.6978 15.2339C87.4947 15.7848 87.1139 16.1252 86.7909 16.5871C86.3452 17.6366 85.5578 18.5924 84.9754 19.5558C84.5551 19.9716 84.2081 20.5496 83.8625 21.0842C83.2564 21.5979 82.9851 22.2272 82.6214 22.9356C81.7862 23.9044 81.4117 24.9043 80.7138 26.1109C80.3622 26.7034 79.9061 27.2476 79.6689 27.8955C79.3691 28.7831 78.5763 29.5896 78.1579 30.4484C77.9704 31.0519 77.7621 31.5812 77.4652 32.1389C77.392 32.7977 77.2551 33.5205 77.2443 34.1708C77.455 35.1607 78.5213 35.7062 79.3182 36.1564C80.0074 36.4017 80.8568 35.8877 81.4253 35.4182C82.4599 34.7702 83.2129 33.5527 83.9689 32.5953C84.3623 32.1632 84.6979 31.6095 85.0702 31.0912C85.8086 30.4471 86.2332 29.658 87.0671 29.0913C87.2731 28.916 87.4226 28.6913 87.5772 28.4761C87.9885 27.8583 88.7297 27.4741 89.2393 26.9505C89.642 26.5013 89.9198 25.8381 90.4735 25.4676C91.5557 24.7945 92.4848 23.9345 93.3667 23.0081C93.7679 22.3711 94.4753 21.9805 95.0197 21.5115C95.5285 21.0673 96.2208 20.8792 96.6993 20.3658C97.0297 20.1493 97.3453 19.9163 97.6682 19.6855C98.2868 19.1957 99.2843 19.2058 99.9692 18.7723C100.392 18.3732 100.738 18.2094 101.266 17.9863C101.762 17.7253 102.278 17.2955 102.815 17.0433C104.02 16.7311 105.234 16.2503 106.336 15.7309C106.908 15.5333 107.514 15.494 108.023 15.1774C108.464 14.9633 108.94 14.999 109.411 14.8421C110.162 14.5925 111.424 14.8161 111.479 13.7532L111.48 13.6737L111.473 13.6835Z" fill="#020555"/>
+		<path d="M79.1197 67.5302C79.3607 68.585 79.1197 70.3519 76.7692 70.3519C47.5938 73.6448 27.6813 72.7506 2.94998 70.882C2.31818 70.8338 1.58467 70.7267 1.26877 70.1752C1.00641 69.7148 1.12421 69.1258 1.30625 68.6278C5.25234 57.6462 14.5152 40.9356 19.3662 30.3556C23.3337 21.7031 35.5735 0.912511 38.6629 0.419919C41.5756 -0.0459017 58.0667 25.2637 63.1265 35.062C68.8395 46.1346 76.7746 57.1751 79.1251 67.5302H79.1197Z" fill="currentColor"/>
+		<path d="M37.2439 8.24175C25.3788 25.7984 18.9162 45.7805 8.1863 63.9528C7.28678 65.4788 8.34156 67.4117 10.1138 67.4599C21.9307 67.7758 33.7636 67.4117 45.5858 67.0422C53.3441 66.8013 61.156 66.555 68.7698 65.0986C70.2904 64.8095 71.1203 63.1604 70.4242 61.7736C68.6359 58.197 66.5156 54.7863 64.4542 51.3596C56.6102 38.3273 49.473 24.8721 43.0746 11.0742C42.5339 9.90693 41.9556 8.69151 40.9222 7.93121C39.8835 7.1709 38.2398 7.08523 37.442 8.09183L37.2492 8.2364L37.2439 8.24175Z" fill="currentColor"/>
+		<path d="M37.2439 8.24175C25.3788 25.7984 18.9162 45.7805 8.1863 63.9528C7.28678 65.4788 8.34156 67.4117 10.1138 67.4599C21.9307 67.7758 33.7636 67.4117 45.5858 67.0422C53.3441 66.8013 61.156 66.555 68.7698 65.0986C70.2904 64.8095 71.1203 63.1604 70.4242 61.7736C68.6359 58.197 66.5156 54.7863 64.4542 51.3596C56.6102 38.3273 49.473 24.8721 43.0746 11.0742C42.5339 9.90693 41.9556 8.69151 40.9222 7.93121C39.8835 7.1709 38.2398 7.08523 37.442 8.09183L37.2492 8.2364L37.2439 8.24175Z" fill-opacity="0.75" fill="white"/>
+		<path d="M39.4553 47.1515C38.6307 47.0605 38.7003 46.0807 38.7003 45.4435C38.5932 40.8603 38.0524 34.735 37.7847 30.1732C37.7633 29.868 37.7473 29.536 37.8115 29.2523C37.924 28.4277 39.2197 28.2349 39.5088 29.022C39.8997 30.8157 39.8836 34.4084 40.0656 36.2663C40.2263 38.4776 40.3494 40.6836 40.4833 42.8896C40.4351 43.9925 41.2971 47.189 39.5409 47.1623H39.4553V47.1515Z" fill="#020555"/>
+		<path d="M39.5671 55.7454C37.8056 55.7722 36.2314 54.1606 35.878 52.5489C35.6853 51.0283 37.2648 50.4072 38.3731 49.8504C39.1174 49.3364 40.0597 50.4929 39.626 51.114C39.2405 51.7511 38.0412 51.8422 37.827 52.6078C37.7039 53.7001 39.3905 54.3158 40.1882 53.5876C40.9164 53.0951 40.8201 52.1741 41.1627 51.462C41.6874 50.4233 42.6673 50.6535 42.7797 51.7565C43.0474 53.6305 41.5911 55.6651 39.6528 55.7454H39.5618H39.5671Z" fill="#020555"/>
+		<path d="M29.3728 21.9973C30.1063 22.6344 29.2443 23.8391 28.832 24.503C28.484 25.1348 28.2109 25.7881 27.82 26.4092C26.883 28.1065 25.9782 29.8627 25.0412 31.56C24.7895 32.1543 24.7627 32.5666 24.4736 33.1662C23.6972 34.9974 22.7603 36.6197 21.7376 38.4081C21.1433 39.7359 21.0683 41.3315 20.1581 42.5201C18.9694 43.9497 18.8838 45.8023 18.0539 47.4139C17.5131 48.3723 16.8706 49.5717 16.3512 50.6586C15.9764 51.7884 15.5213 53.0145 14.8092 53.9943C14.4076 54.9152 13.9311 55.8522 13.3689 56.7303C12.7317 58.0046 12.0892 59.3807 11.27 60.6015C10.6007 61.5813 10.1028 62.6896 9.50312 63.6962C9.08013 64.3227 8.76957 65.2222 9.25145 65.8594C9.88325 66.6357 11.0505 66.1485 11.9607 66.2823C15.532 66.6143 19.1836 66.5982 22.7924 66.3894C24.6664 66.4001 26.6635 66.4323 28.5535 66.4001C29.9349 66.2341 30.9255 66.2234 32.3123 66.4323C34.1916 66.443 35.8889 66.1378 37.7147 66.2984C39.0426 66.3734 40.2848 65.9504 41.6233 65.9236C42.812 65.854 44.0167 66.0789 45.2107 66.1271C46.7473 65.9022 48.3108 65.9986 49.8153 65.7416C50.7363 65.597 51.6251 65.8004 52.5942 65.7897C53.3973 65.779 54.1791 65.6238 54.9822 65.5702C56.1708 65.4738 57.2256 65.597 58.3339 65.506C59.8813 65.4042 61.4716 65.0723 63.0029 64.9545C64.5395 64.9438 66.028 64.6761 67.5808 64.4298C68.8979 64.3173 70.3489 63.2197 69.5458 61.8383C69.2513 61.2011 68.93 60.5533 68.5231 59.9804C67.736 58.5776 66.9382 57.0195 66.2047 55.5738C65.4123 54.4387 64.6252 53.2447 63.9024 52.0935C62.5959 49.7752 61.5251 47.2372 60.042 45.0206C59.2709 44.0033 58.9122 42.7129 58.2429 41.6581C57.8307 41.0477 57.4719 40.4159 57.1935 39.7359C56.3314 38.2474 56.0798 37.5621 55.3998 36.2824C54.1309 34.6065 53.4723 32.5451 52.4389 30.7086C51.4912 29.0756 50.6078 27.389 49.8957 25.6381C48.632 23.9623 48.0216 21.9865 47.0311 20.1554C45.9924 18.1154 44.959 16.0701 43.9256 14.0462C43.6526 13.484 43.6901 12.8468 43.4009 12.3114C42.7798 11.3476 42.1748 10.3732 41.5965 9.40403C40.7345 7.9798 38.8552 6.70549 37.6665 8.47775C37.1632 9.12561 36.4618 9.91804 36.012 10.7854C35.2357 12.1508 34.379 13.5054 33.6294 14.8547C33.2974 15.3366 32.9708 15.9951 32.4568 16.295C31.6858 16.7019 31.6323 15.6685 31.8411 15.2134C32.5585 13.5215 33.6294 11.9205 34.4058 10.3035C35.4927 8.40279 36.7402 6.2825 39.2193 6.26644C41.8321 6.06833 43.5455 8.69192 44.3165 10.8657C44.6056 12.0865 45.4623 13.0449 45.9174 14.2122C46.9401 16.825 48.1127 19.031 49.553 21.494C50.1473 22.6291 50.3775 23.8712 51.0147 24.9903C51.4055 25.7881 51.9785 26.3877 52.3961 27.1909C53.408 29.2844 54.2808 31.1691 55.5551 33.0645C56.1708 34.5369 56.883 35.9986 57.6272 37.4496C59.1425 40.1535 60.7648 42.7129 62.0712 45.5721C63.8489 48.8489 66.0013 51.9972 67.7949 55.2204C68.1644 55.7184 68.4803 56.2645 68.6998 56.8481C69.5672 59.2522 72.5388 62.0632 70.7344 64.6761C70.108 65.4578 69.0907 65.6452 68.2233 65.9022C67.2916 66.2234 66.3118 66.293 65.332 66.3359C63.972 66.4001 62.6709 66.7749 61.418 66.8017C59.635 66.9034 57.8039 66.9141 56.0316 67.0748C54.6502 67.2407 53.2635 67.1711 51.8714 67.1711C50.6345 67.3104 49.3977 67.3746 48.1341 67.4656C46.999 67.6048 45.8746 67.2943 44.7502 67.5406C43.9578 67.6744 43.1065 67.4763 42.2658 67.5192C41.5002 67.562 40.8094 67.7494 40.0973 67.7173C39.3317 67.7012 38.4643 67.6209 37.6558 67.6477C36.7509 67.6905 35.9103 67.9529 35.0161 67.8779C34.1648 67.8136 33.2707 67.7173 32.3765 67.7601C31.2039 67.91 30.1116 68.0814 28.923 67.9796C25.8015 68.1831 22.6424 67.8779 19.5209 68.0011C18.0806 67.9047 16.6403 67.9689 15.184 68.0653C13.8347 67.9582 12.4854 67.9207 11.1094 67.985C9.67445 68.1135 8.27164 67.744 7.73086 66.2502C6.94914 64.3548 8.44831 62.5076 9.28357 60.8692C9.87254 59.8519 10.4669 58.8238 11.0451 57.8226C11.7466 56.8749 12.3302 55.8148 12.7853 54.7171C13.1119 54.096 13.5402 53.5285 13.7544 52.8324C14.0221 51.8098 14.6485 51.0495 15.0715 50.0643C15.6766 48.8328 16.3084 47.6656 16.726 46.3217C17.0366 45.2776 17.3257 44.1746 17.9521 43.2537C18.3805 42.5897 18.5786 41.8776 18.8891 41.1816C19.8422 39.3825 20.8059 37.5996 21.427 35.6667C22.3587 33.4714 23.5955 31.4796 24.5164 29.2683C25.1857 28.0529 25.9085 26.8429 26.4761 25.6114C27.1293 24.8082 28.1627 21.4725 29.3192 21.9598L29.3674 21.9919L29.3728 21.9973Z" fill="#020555"/>
+		<path d="M77.9526 64.2099C76.9139 64.2153 76.78 62.7054 76.5658 61.9183C75.6396 59.193 74.5901 56.4195 73.3051 53.8548C71.7149 51.7024 70.6119 49.2234 69.3697 46.8782C68.5291 45.6146 67.2387 44.5973 66.7194 43.1409C66.1197 41.2027 64.5241 40.0247 63.6246 38.2471C63.1106 37.187 62.4734 35.8645 61.863 34.7347C61.1081 33.696 60.3692 32.6519 59.9034 31.4258C58.3881 28.8558 56.7658 26.2643 55.3148 23.6514C53.3658 20.7387 51.615 17.8635 49.4519 15.106C48.7237 14.0726 48.1775 13.0446 47.535 11.9524C45.661 9.35555 43.7228 6.83369 41.6453 4.40286C41.0778 3.74964 40.4995 3.075 39.8784 2.42714C39.3537 1.92919 38.8665 1.4366 38.3364 2.00415C37.1745 2.89296 35.8788 4.13514 35.1292 5.50583C34.2458 6.9729 32.9019 8.19367 32.2272 9.75176C31.922 10.4103 31.6008 11.0528 31.2045 11.6632C30.4764 12.9161 29.3948 13.8799 28.7041 15.1274C28.1526 16.5249 27.1728 17.6654 26.6481 19.0735C26.2572 19.9677 25.5665 20.6798 25.0686 21.5097C24.2012 23.2499 23.2749 25.0435 22.2415 26.6123C21.5026 27.9991 20.8494 29.525 20.223 30.976C18.863 33.4069 17.5887 35.8966 16.5553 38.4613C15.4523 40.271 14.3333 42.2628 13.5569 44.2439C12.8716 45.2451 12.4218 46.407 11.7954 47.435C11.4313 47.9758 11.11 48.5434 10.9012 49.1645C9.28422 53.3408 6.60172 56.88 5.09717 61.0991C4.11199 62.7 3.53908 64.5526 2.6824 66.2285C2.39327 66.9138 2.23801 67.6313 1.89534 68.2631C1.69187 68.67 1.46164 69.1466 1.62226 69.5963C1.99706 70.5226 3.45343 70.4423 4.30475 70.528C6.30189 70.9563 8.39004 70.801 10.4139 71.0152C11.3295 71.0152 12.1809 71.2133 13.0697 71.299C13.6747 71.299 14.2369 71.1383 14.8259 71.1812C16.6035 71.3793 18.3329 71.4168 20.148 71.5292C22.4718 71.5292 24.8223 71.6256 27.13 71.5988C27.8796 71.6631 28.581 72.0272 29.3306 71.8826C31.7614 71.4382 34.2083 71.813 36.6659 72.0164C37.3994 72.0164 38.1276 71.8451 38.8718 71.8023C39.7714 71.7594 40.6923 71.9468 41.6079 71.8719C43.8995 71.7809 46.1536 71.5988 48.4345 71.7648C49.3715 71.8719 49.5536 72.6161 48.7023 72.9106C46.7908 73.3925 44.7883 73.1569 42.834 73.43C40.7619 73.6656 38.5881 73.3122 36.4785 73.3229C35.2684 73.4889 34.0798 73.4193 32.8644 73.4193C31.4509 73.5531 30.1605 73.4139 28.7737 73.2426C27.1567 73.3604 25.4273 73.2908 23.9281 73.1355C21.7597 73.0284 19.3288 72.9909 17.1229 73.0552C15.3613 72.9588 13.6104 72.3966 11.8275 72.5947C9.31098 72.8142 6.84267 72.1396 4.27263 72.2146C2.74131 72.3484 0.803068 71.9201 0.155202 70.3513C-0.192824 69.4892 0.101647 68.6218 0.476445 67.8241C0.808409 67.1012 0.985115 66.3463 1.29566 65.6395C2.42006 62.9892 3.23927 60.6279 4.75453 58.1221C6.02884 55.5307 7.28172 52.9874 8.42218 50.3745C8.91477 49.1966 9.78752 48.1579 10.1998 46.9585C10.6335 45.7592 11.5598 44.8115 12.0309 43.6389C12.5235 42.6162 13.0643 41.5507 13.6158 40.6405C14.2316 39.5429 14.6438 38.2632 15.3292 37.1174C15.7522 36.4427 16.0466 35.7199 16.3144 34.9757C17.0586 33.348 18.1884 31.6989 18.7987 29.9534C19.3716 28.7487 20.1641 27.4101 20.8869 26.1679C21.947 24.128 22.9857 22.0826 24.2654 20.1872C25.272 18.2383 26.1341 16.3107 27.4887 14.5867C28.0402 13.3927 28.7577 12.3379 29.5447 11.2724C30.2461 9.70893 31.2688 8.46138 32.2861 7.07463C32.7037 6.44283 32.95 5.75213 33.3891 5.16852C34.5081 3.84601 35.745 2.55564 36.6927 1.10999C39.4501 -2.02225 41.8381 2.27186 43.6425 4.19404C44.5152 5.65575 45.811 6.90865 46.6998 8.36501C47.7064 9.69822 48.9218 11.0636 49.7356 12.5681C50.5441 13.655 51.4597 14.8169 52.2093 15.9681C52.8518 17.1567 53.489 18.415 54.351 19.5072C57.2958 23.1695 59.0949 27.6885 61.7345 31.5382C62.7304 33.0642 63.3836 34.7454 64.2939 36.2928C65.1291 37.8081 66.4837 38.9967 67.2012 40.603C67.4314 41.1331 67.7206 41.6364 68.0686 42.0968C69.2037 43.6496 69.8837 45.5557 71.0831 47.1352C72.7536 49.3197 73.8887 51.8095 75.1255 54.2564C75.7038 55.1505 76.0893 56.125 76.3891 57.1423C77.0156 58.4166 77.4654 59.7124 77.8937 61.067C78.1453 61.9344 78.9485 63.7334 78.0115 64.1725L77.9579 64.1832L77.9526 64.2099Z" fill="#020555"/>
+		<path d="M169.371 60.0192C168.025 79.2948 151.55 94.9252 132.558 94.9252C113.566 94.9252 99.2692 79.2948 100.609 60.0192C101.955 40.7437 117.845 25.1133 136.831 25.1133C155.816 25.1133 170.711 40.7437 169.365 60.0192H169.371Z" fill="white"/>
+		<path d="M126.698 78.9811C126.082 78.8604 125.225 78.9691 124.555 78.6794C123.318 78.0759 122.166 77.75 120.923 77.5871C120.029 77.3396 119.42 76.4767 118.792 75.8309C118.279 75.1429 117.851 73.8816 118.352 73.1152C118.623 72.8436 119.118 72.8376 119.474 72.904C119.854 72.9945 119.987 73.3385 120.12 73.6825C120.337 74.5213 120.904 75.2274 121.659 75.6197C122.673 75.9757 123.747 75.9697 124.724 76.4706C125.793 76.887 126.891 76.6999 127.959 76.7241C129.233 76.537 130.542 76.2051 131.725 75.7102C133.246 74.8834 134.513 73.5195 135.974 72.4996C138.146 70.8461 140.56 69.2891 143.252 68.8847C145.171 68.5166 147.325 68.3959 149.063 69.458C150.216 70.3814 150.91 71.5401 151.695 72.7652C151.791 72.904 151.93 73.2781 151.695 73.4411C151.495 73.6282 151.121 73.7006 150.844 73.7308C150.077 73.8575 149.528 73.3325 149.13 72.735C148.55 71.878 147.718 71.0271 146.649 70.834C145.756 70.8099 144.954 70.9004 144.042 70.9969C143.095 71.1659 142.111 71.2625 141.333 71.8841C140.385 72.4634 139.226 72.7531 138.412 73.5859C137.645 74.2739 136.601 74.6481 135.75 75.33C134.634 76.3197 133.554 77.2733 132.16 77.919C131.26 78.4923 130.259 78.7458 129.142 78.782C128.358 78.8423 127.47 79.1441 126.782 79.0113L126.698 78.9992V78.9811Z" fill="#020555"/>
+		<path d="M163.479 41.4235C164.538 40.9155 165.287 42.38 165.674 43.202C166.808 45.1066 167.737 47.2626 168.522 49.3119C168.794 50.3762 169.216 51.2978 169.692 52.2806C170.374 54.1583 170.681 56.1593 170.446 58.2032C170.316 59.7875 170.962 61.3657 170.539 62.9374C170.366 63.6162 170.078 64.24 169.974 64.9542C169.872 65.6137 169.837 66.2905 169.856 66.9558C169.903 68.6678 169.127 70.0995 168.572 71.7999C168.173 72.7686 168.177 73.763 167.804 74.6866C167.104 75.9104 166.63 77.2144 165.873 78.4197C164.699 80.5409 163.337 82.5357 161.661 84.3016C159.517 86.9643 156.907 89.0922 154.137 91.024C150.485 92.7483 146.609 94.3013 142.623 95.0708C140.084 95.4505 137.419 95.4912 134.857 95.5941C132.902 95.0408 130.704 95.1977 128.736 94.749C128.107 94.5885 127.487 94.3968 126.847 94.2556C125.697 93.9784 124.463 94.0129 123.338 93.6239C122.161 93.2645 121.119 92.5091 120.031 91.9465C117.572 90.9774 114.964 89.9082 113.07 88.0445C110.293 86.3859 108.227 83.6722 105.986 81.3768C104.527 79.4385 103.432 77.3236 102.243 75.2306C101.811 74.5041 101.307 73.785 101.084 72.9645C100.682 71.1006 99.8165 69.2111 99.3569 67.3774C99.0268 65.7428 98.923 64.0671 98.7064 62.4149C97.9549 59.5008 98.4697 56.4518 98.9679 53.5379C99.363 52.1146 99.4938 50.7182 99.8277 49.289C100.293 48.0224 100.841 46.7838 101.25 45.4986C101.991 43.9006 102.797 42.4052 103.721 40.9342C104.479 39.0857 105.91 37.5875 107.252 36.165C108.529 34.5853 110.031 33.0129 111.767 31.9567C113.903 29.7557 116.818 28.5917 119.573 27.2317C121.303 26.6492 122.904 25.7462 124.71 25.6776C125.539 25.7753 126.267 25.5375 127.031 25.2353C129.817 24.3513 132.624 25.2304 135.458 24.7721C136.738 24.8906 146.366 25.9735 144.497 28.1715C144.253 28.3419 143.711 28.3788 143.474 28.312C140.788 27.4327 138.008 27.2364 135.183 26.8383C133.439 26.385 131.733 26.971 129.983 27.0035C128.649 27.2424 127.357 27.301 126.008 27.3959C124.669 27.7747 123.262 28.1909 121.88 28.5073C119.68 29.1741 117.833 30.2233 116.007 31.4707C115.076 31.984 114.077 32.304 113.246 32.9527C111.959 34.1331 110.843 35.3931 109.337 36.7474C108.542 37.5805 107.74 38.5781 107.144 39.6396C106.272 40.7232 105.399 41.8008 104.667 43.0157C103.177 45.4845 102.514 48.3242 101.531 51.0024C100.324 54.4069 100.545 58.0725 100.691 61.5881C100.637 62.4854 100.909 63.313 101.041 64.1973C101.095 66.3332 101.801 68.6817 102.406 70.6341C102.923 71.8372 103.488 73.1021 104.025 74.3214C104.826 75.4651 105.435 76.677 106.083 77.9153C107.562 79.8151 108.881 81.8101 110.597 83.5282C111.995 84.8114 113.351 85.917 114.802 87.1221C116.353 88.1108 118.084 88.796 119.628 89.7794C120.407 90.3431 121.338 90.4243 122.176 90.8486C123.168 91.4817 124.296 91.6521 125.412 91.8963C126.729 92.3751 128.097 92.8849 129.518 92.8374C130.691 92.9243 131.763 93.3854 132.993 93.4848C134.764 93.3652 136.606 93.4629 138.339 93.329C141.502 93.2316 144.675 92.7632 147.68 91.7659C149.133 91.1449 150.515 90.4219 151.958 89.8141C153.68 88.7351 155.26 87.5734 156.966 86.5081C159.567 84.1143 161.649 81.1484 163.837 78.3841C164.375 77.1768 165.118 76.1306 165.539 74.8382C165.906 73.5027 166.591 72.2987 166.975 70.9494C167.687 69.3664 167.565 67.3891 167.812 65.5806C168.014 64.7047 168.293 63.9302 168.306 63.0493C168.361 61.321 169.098 59.4444 168.697 57.6472C168.054 53.715 166.965 49.804 165.078 46.2835C164.599 45.2161 163.957 44.1531 163.394 43.1429C163.134 42.6173 162.912 41.8635 163.431 41.483L163.499 41.4397L163.479 41.4235Z" fill="#020555"/>
+		<path d="M130.434 53.26C130.277 53.0789 130.283 53.091 130.265 52.9039C130.319 50.8822 130.059 48.6674 129.184 46.8388C128.146 44.7748 125.678 44.6059 123.97 45.8068C122.57 46.9354 121.713 48.7277 121.254 50.4296C120.657 53.0186 120.699 55.8369 121.725 58.2931C122.051 59.5664 122.721 60.9846 123.855 61.7632C125.159 63.121 127.567 62.6261 128.605 61.1597C129.848 59.0957 130.283 56.7783 130.765 54.4367C130.85 54.1048 130.765 53.5074 130.476 53.2962L130.434 53.2539V53.26Z" fill="#020555"/>
+		<path d="M145.593 53.447C145.436 53.2659 145.442 53.278 145.424 53.0909C145.478 51.0692 145.219 48.8544 144.344 47.0258C143.306 44.9619 140.838 44.7929 139.13 45.9938C137.73 47.1224 136.873 48.9147 136.414 50.6166C135.816 53.2056 135.859 56.0239 136.885 58.4801C137.211 59.7535 137.88 61.1717 139.015 61.9502C140.319 63.308 142.726 62.8132 143.764 61.3467C145.008 59.2827 145.442 56.9653 145.925 54.6238C146.009 54.2918 145.925 53.6944 145.635 53.4832L145.593 53.4409V53.447Z" fill="#020555"/>
+	</symbol>
+	<symbol id="light_fingers" viewbox="0 0 170 96" width="100%" height="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M121.814 49.1782L93.8631 38.0932L97.0531 34.3153C100.034 30.7605 101.887 28.5471 105.063 24.7612C111.524 18.3501 116.479 1.71852 125.022 5.09223C128.781 6.57747 127.104 9.40635 126.003 11.969C125.255 13.7047 124.282 15.2676 123.399 16.9297C121.793 19.9478 114.372 32.6245 115.247 32.1211C119.042 29.9368 121.567 26.746 124.724 23.8189C129.618 19.2904 133.102 16.5988 140.332 15.9664C143.924 15.653 144.061 19.9673 143.087 21.2234C138.461 27.1932 138.084 28.8687 133.267 34.6155L121.804 49.173L121.814 49.1782Z" fill="currentColor"/>
+		<path d="M121.814 49.1782L93.8631 38.0932L97.0531 34.3153C100.034 30.7605 101.887 28.5471 105.063 24.7612C111.524 18.3501 116.479 1.71852 125.022 5.09223C128.781 6.57747 127.104 9.40635 126.003 11.969C125.255 13.7047 124.282 15.2676 123.399 16.9297C121.793 19.9478 114.372 32.6245 115.247 32.1211C119.042 29.9368 121.567 26.746 124.724 23.8189C129.618 19.2904 133.102 16.5988 140.332 15.9664C143.924 15.653 144.061 19.9673 143.087 21.2234C138.461 27.1932 138.084 28.8687 133.267 34.6155L121.804 49.173L121.814 49.1782Z" fill="white" fill-opacity="0.5"/>
+		<path d="M78.9065 64.2163C80.1755 62.6151 81.969 59.8936 82.6532 58.0352C84.7969 52.1786 88.057 47.2885 89.6027 41.2677C89.6115 41.2287 89.6202 41.1897 89.6194 41.1455C89.7106 38.713 91.1249 36.1594 93.5138 35.3577C97.5808 33.9911 103.014 35.3656 106.855 36.8833C111.098 38.5581 112.819 40.7989 116.804 43.0953C117.061 43.2422 117.39 43.1903 117.582 42.9641C120.541 39.4601 123.852 35.2667 126.898 34.0863C128.676 33.3949 132.673 33.6906 133.453 35.6491C134.027 37.0941 133.576 38.8112 132.866 40.1678C132.642 40.6015 132.985 41.0953 133.468 41.0467C135.131 40.8741 137.088 41.5618 138.739 42.9456C140.888 44.7453 138.747 48.7653 136.895 51.4232C136.887 51.4377 136.879 51.4521 136.866 51.464C135.657 52.9103 133.543 56.0129 131.948 57.649C124.323 64.737 120.574 64.7893 114.599 68.8019C112.424 70.2646 109.589 72.705 107.394 74.0564C105.726 75.0833 104.341 77.6404 102.637 80.3357C101.342 82.3854 98.5642 82.8684 96.6491 81.3842C90.2833 76.4423 77.3207 66.0197 78.9065 64.2163Z" fill="currentColor"/>
+		<path d="M78.9065 64.2163C80.1755 62.6151 81.969 59.8936 82.6532 58.0352C84.7969 52.1786 88.057 47.2885 89.6027 41.2677C89.6115 41.2287 89.6202 41.1897 89.6194 41.1455C89.7106 38.713 91.1249 36.1594 93.5138 35.3577C97.5808 33.9911 103.014 35.3656 106.855 36.8833C111.098 38.5581 112.819 40.7989 116.804 43.0953C117.061 43.2422 117.39 43.1903 117.582 42.9641C120.541 39.4601 123.852 35.2667 126.898 34.0863C128.676 33.3949 132.673 33.6906 133.453 35.6491C134.027 37.0941 133.576 38.8112 132.866 40.1678C132.642 40.6015 132.985 41.0953 133.468 41.0467C135.131 40.8741 137.088 41.5618 138.739 42.9456C140.888 44.7453 138.747 48.7653 136.895 51.4232C136.887 51.4377 136.879 51.4521 136.866 51.464C135.657 52.9103 133.543 56.0129 131.948 57.649C124.323 64.737 120.574 64.7893 114.599 68.8019C112.424 70.2646 109.589 72.705 107.394 74.0564C105.726 75.0833 104.341 77.6404 102.637 80.3357C101.342 82.3854 98.5642 82.8684 96.6491 81.3842C90.2833 76.4423 77.3207 66.0197 78.9065 64.2163Z" fill="white" fill-opacity="0.75"/>
+		<path d="M119.2 63.6875C117.177 62.5259 116.909 60.0533 117.876 58.0432C118.157 57.4838 118.653 57.1483 118.821 56.6462C118.967 56.1506 119.192 55.6923 119.551 55.3322C120.353 54.6322 120.601 52.9421 121.687 52.7288C122.648 52.7786 122.9 53.8608 122.419 54.5922C121.831 55.5087 121.187 56.4011 120.722 57.3786C120.057 58.4347 118.899 59.878 119.398 61.2074C119.775 61.8571 120.818 61.9959 121.558 61.8436C122.281 61.6883 122.964 61.7304 123.712 61.5073C124.285 61.3268 124.787 60.9817 125.303 60.6887C126.051 60.2348 127.009 59.9579 127.896 59.423C128.835 58.8361 129.434 58.1753 130.264 57.6286C131.402 56.8623 132.67 56.167 133.623 55.1435C134.84 53.889 136.148 52.628 137.227 51.2604C138.15 49.4574 140.018 47.5833 139.659 45.3677C139.62 44.8899 139.538 44.4007 139.293 44.0357C138.971 43.5157 138.271 43.252 137.693 42.7987C137.365 42.5633 137.016 42.3222 136.627 42.2098C135.284 41.8514 133.97 42.5401 133.049 43.4935C132.564 43.935 131.834 44.0802 131.249 44.4984C130.561 44.9914 129.922 45.5427 129.155 45.9173C128.252 46.3681 127.394 47.125 126.623 46.5788C125.332 45.6354 126.752 45.0734 127.6 44.655C128.511 44.1087 128.996 43.461 129.956 43.1351C130.574 42.8286 130.902 42.32 131.364 42.0913C132.157 41.7495 132.793 41.0336 133.61 40.7737C135.274 39.9947 137.132 40.1411 138.681 41.1626C139.976 42.0201 141.246 43.0143 141.729 44.5666C142.016 45.3235 141.758 46.0581 141.543 46.8409C141.171 48.6321 140.513 50.5798 139.215 51.8216C138.048 52.9281 137.478 54.4174 136.084 55.3315C134.804 56.8956 133.226 58.0093 131.609 59.2762C130.32 60.285 129.053 61.1497 127.604 61.9022C126.624 62.5171 125.826 63.1068 124.641 63.2281C122.937 63.7601 121.043 64.1133 119.277 63.7296L119.205 63.6902L119.2 63.6875Z" fill="#020555"/>
+		<path d="M112.832 59.8584C111.595 59.1134 110.95 57.6166 110.495 56.2298C110.012 55.3283 110.156 54.2065 110.36 53.1802C110.446 52.7831 110.161 52.0458 110.713 52.0537C111.347 52.2438 112.092 52.7572 112.115 53.3571C112.127 53.7701 112.318 54.1626 112.378 54.5576C112.443 55.5373 112.465 57.1317 113.508 57.7075C114.002 57.9588 114.573 57.7955 114.822 58.0133C115.177 58.3945 115.456 59.0849 115.344 59.5989C115.116 60.2683 113.571 60.1554 112.912 59.8957L112.835 59.8535L112.832 59.8584Z" fill="#020555"/>
+		<path d="M117.771 42.5606C117.406 42.5424 116.732 41.8303 116.784 41.3337C116.792 41.1375 116.953 40.7506 117.102 40.5571C117.727 39.7353 118.501 39.0514 119.219 38.3312C119.968 37.315 120.9 36.5362 122.044 35.9543C122.497 35.7081 122.938 35.3362 123.336 35.0659C124.35 34.5946 125.056 34.149 125.885 33.7765C127.545 33.4271 129.395 33.3374 131.117 33.5844C131.924 33.6188 132.442 34.1017 133.112 34.5117C133.617 34.788 133.924 35.1307 134.169 35.6086C134.739 36.42 134.459 37.0802 134.559 38.1912C134.612 38.5517 134.753 38.9104 134.857 39.2481C135.085 40.111 134.919 41.2958 134.37 42.0149C134.226 42.1864 134.05 42.3715 133.813 42.4046C133.432 42.4962 132.809 41.9873 132.778 41.5639C132.724 41.228 132.896 40.9592 133.02 40.5954C133.284 39.8267 133.077 38.9695 132.812 38.2183C132.635 37.6717 132.744 36.9808 132.38 36.4567C131.01 35.1078 128.885 35.072 127.143 35.502C126.215 35.7579 125.426 36.2078 124.617 36.7038C123.586 37.2972 122.472 37.8139 121.592 38.5896C120.687 39.3645 119.851 40.4708 118.905 41.2172C118.513 41.6153 118.34 42.3653 117.823 42.5576L117.766 42.558L117.771 42.5606Z" fill="#020555"/>
+		<path d="M87.9701 74.69C87.2155 75.3843 86.3939 74.4164 85.8763 73.8646C84.5648 72.6603 83.6007 71.358 82.0679 70.3641C80.7483 69.4492 79.9218 68.0784 78.8064 67.0874C77.5527 65.8458 78.5173 64.3783 79.1537 63.0879C79.5151 61.866 80.4504 61.3329 81.2224 60.2978C83.2941 56.3465 85.0202 51.975 86.4952 47.8226C88.2847 44.7425 88.4514 41.0507 89.8092 37.8222C90.5637 36.7963 91.6251 35.7694 92.6639 35.0928C93.9066 34.6151 95.3471 34.1643 96.7087 33.9955C97.0652 33.9839 97.4216 34.0412 97.7675 34.1176C99.3196 34.5156 100.669 34.3463 102.182 34.7354C103.288 35.1834 104.555 35.4384 105.615 35.924C107.443 36.7911 109.362 37.4775 111.075 38.5075C112.386 39.0734 113.622 39.5679 114.759 40.3706C116.235 40.9769 117.48 41.8572 118.828 42.6627C120.058 43.2158 121.266 43.9328 122.236 44.8938C123.236 45.8094 124.419 46.5499 125.381 47.5132C127.01 49.1785 127.616 51.6168 125.973 53.4893C125.061 54.4603 123.895 54.592 122.676 54.8889C119.393 55.2331 116.132 54.2203 112.879 53.9493C111.795 53.6446 111.015 53.1496 109.791 53.1245C108.741 52.9512 107.911 52.2162 106.892 51.9531C106.266 51.8173 105.584 51.6574 104.961 51.4357C103.826 51.0407 102.579 50.8405 101.529 50.5296C101.173 50.416 100.879 50.1744 100.769 49.8954C100.608 49.5261 100.902 49.0802 101.39 48.9776C103.464 48.8544 105.569 49.5672 107.496 50.4012C109.697 50.9161 111.946 51.8011 114.203 52.2469C115.816 52.6594 117.419 52.4723 118.952 52.9973C119.786 53.3469 120.634 53.179 121.563 53.1049C122.824 53.119 124.14 52.7938 124.919 51.7001C125.948 50.0802 123.036 47.9138 121.942 46.8966C120.04 45.5135 117.855 44.4319 115.964 43.0983C114.104 41.901 112.01 41.0314 110.025 40.0971C108.3 39.2042 106.7 38.2987 104.944 37.5765C101.417 36.1808 94.7202 34.522 91.9728 37.9478C91.1665 39.2517 90.8534 40.8314 90.4634 42.3002C89.6423 44.6152 88.8724 47.0082 88.0342 49.3201C87.8075 50.2155 87.2916 50.8964 86.8972 51.7439C86.4421 53.1146 86.0385 54.4823 85.3632 55.764C84.3285 57.337 83.9675 59.1531 83.0559 60.7183C82.3445 61.6426 81.5556 62.5371 81.0319 63.6328C80.6907 64.2342 80.1994 64.8473 80.2452 65.5414C80.2717 66.4313 80.9819 67.0882 81.6971 67.5416C83.6747 69.06 85.2218 70.8058 87.0439 72.4831C87.5611 73.0471 88.6237 73.8028 88.0262 74.6331L87.975 74.6926L87.9701 74.69Z" fill="#020555"/>
+		<path d="M96.078 35.4709C95.6716 35.0361 95.8832 34.3515 96.3324 33.9529C97.3162 32.9649 98.5026 31.7436 99.4698 30.7402C100.524 29.8407 101.105 28.5827 102.065 27.5937C103.047 26.505 104.207 25.8819 104.749 24.4898C105.204 23.5193 105.964 23.2966 106.499 22.4764C106.869 21.8908 106.99 21.2125 107.318 20.6352C108.12 19.5227 109.089 18.1953 109.623 16.8864C111.086 14.8845 112.342 12.7573 113.953 10.8616C116.065 7.97001 118.109 4.91635 121.731 3.88223C125.595 2.82991 128.47 5.60144 127.611 9.49635C127.483 10.9895 127.179 12.1865 126.461 13.4322C126.091 14.8306 125.381 16.1183 124.745 17.372C124.345 18.8601 123.318 20.0307 122.263 21.0677C121.313 22.3369 120.715 23.7859 119.595 24.9432C119.026 25.5265 118.727 26.2571 118.266 26.918C117.797 27.5811 117.27 28.0996 116.903 28.7934C114.897 32.4991 117.709 30.0087 119.106 28.9155C120.485 27.2617 122.069 25.9077 123.442 24.2193C124.787 22.5029 126.716 21.5691 128.357 20.1458C131.294 17.3802 135.199 15.1433 139.32 15.1194C140.253 14.9791 141.389 14.9249 142.247 15.3687C143.037 15.8812 143.922 16.5716 144.396 17.3182C145.042 18.6652 145.183 20.3745 144.284 21.6529C143.251 23.1891 142.108 24.434 140.968 25.8117C140.423 27.2773 139.263 28.3252 138.266 29.4503C137.046 31.4781 135.546 33.5596 133.907 35.2653C133.324 35.7597 132.464 35.5711 132.577 34.7134C132.66 34.1836 133.059 33.7267 133.36 33.2908C134.278 32.0916 135.078 30.4904 136.293 29.3537C137.109 28.5241 137.509 27.4485 138.216 26.5216C138.766 25.4465 139.763 24.6971 140.373 23.6611C141.082 22.1916 143.323 21.1586 142.989 19.3319C142.833 18.6337 142.803 17.842 142.329 17.4392C140.934 16.5141 138.981 16.8603 137.394 17.2812C135.03 17.4773 132.972 18.7723 131.179 20.2685C127.797 22.3721 125.171 25.4389 122.289 28.1723C120.718 29.8215 119.227 31.5203 117.239 32.5846C116.133 33.3619 114.264 32.6159 114.032 31.3822C113.896 30.6701 114.262 29.7823 114.627 29.1375C117.42 24.5864 120.923 20.5105 123.62 15.919C124.003 14.4966 124.956 13.3601 125.2 11.9178C125.48 10.1699 126.267 8.1803 125.414 6.46962C123.622 3.9586 120.194 6.30612 118.709 8.03949C117.418 8.97209 116.496 10.2251 115.674 11.5579C114.126 13.726 112.253 15.654 111.094 18.0843C110.549 18.9557 109.929 19.7483 109.439 20.6439C109.014 21.3993 108.805 22.4672 108.22 23.2414C107.351 24.5111 106.319 25.6103 105.2 26.7186C104.261 28.025 103.252 29.3682 102.11 30.4511C100.715 32.065 99.3604 33.4004 97.8949 34.9381C97.4698 35.4185 96.6828 36.0577 96.1275 35.5291L96.0754 35.4757L96.078 35.4709Z" fill="#020555"/>
+		<path d="M145.547 72.4771C144.97 72.3175 145.132 71.6279 145.206 71.1744C145.656 67.8993 145.791 64.6201 146.125 61.3419C146.145 61.1221 146.172 60.884 146.25 60.6893C146.425 60.1153 147.369 60.1271 147.485 60.7206C147.557 62.0424 147.317 63.4547 147.233 64.7983C147.093 66.3909 146.927 67.9755 146.768 69.5613C146.607 70.3409 146.853 72.7156 145.606 72.4946L145.545 72.4847L145.547 72.4771Z" fill="#020555"/>
+		<path d="M144.638 78.6114C143.381 78.4279 142.445 77.0996 142.379 75.9116C142.417 74.807 143.613 74.5465 144.466 74.2775C145.055 73.9972 145.592 74.9289 145.212 75.3211C144.865 75.7304 144 75.6573 143.76 76.1777C143.547 76.9411 144.676 77.5734 145.328 77.1467C145.903 76.8798 145.94 76.2131 146.266 75.7456C146.759 75.0665 147.43 75.343 147.383 76.1411C147.359 77.506 146.088 78.7869 144.699 78.6212L144.634 78.6108L144.638 78.6114Z" fill="#020555"/>
+		<path d="M155.226 73.6418C155.066 73.5454 154.972 73.3777 154.907 73.1952C154.633 72.3492 154.656 71.5042 154.806 70.6015C154.896 69.8495 155.504 69.3805 156.102 68.9726C157.048 68.347 158.237 68.7778 159.265 68.4432C161.474 67.6775 160.097 62.6914 158.001 62.6384C156.429 62.5643 155.463 62.6625 155.293 64.4616C155.142 65.2545 154.051 65.8605 153.952 64.726C153.425 62.6619 155.216 61.0699 157.214 61.1932C157.546 61.1725 157.884 61.1333 158.216 61.1399C158.892 61.1397 159.472 61.5735 160.047 61.9597C161.214 62.8953 161.608 64.6877 161.84 66.0862C162.076 68.8659 160.67 70.2542 157.91 70.0782C156.38 70.0344 156.004 71.0766 156.203 72.3877C156.272 72.8329 156.468 73.2909 156.157 73.5457C155.919 73.7342 155.552 73.8039 155.276 73.6733L155.226 73.6456L155.226 73.6418Z" fill="#020555"/>
+		<path d="M154.031 78.8852C153.665 78.4427 153.835 77.6528 154.016 77.1422C155.016 74.6756 158.062 75.0464 158.695 77.5695C158.828 78.5375 157.928 79.0492 157.177 79.3855C156.82 79.5898 156.494 79.8149 156.073 79.7821C155.706 79.7775 155.343 79.4842 155.591 79.1059C155.732 78.8862 156.008 78.7274 156.261 78.5922C156.788 78.2862 157.875 77.8986 157.336 77.1193C156.628 76.1485 155.466 76.7821 155.103 77.7208C155 78.1891 154.659 79.1391 154.071 78.9072L154.033 78.8776L154.031 78.8852Z" fill="#020555"/>
+		<path d="M36.6063 76.8129C35.7257 76.9994 34.8503 76.4917 34.5551 75.6422C30.2349 63.2359 19.7297 58.5635 20.4964 42.2256C20.7916 35.9577 24.9978 30.5964 30.5094 27.3381C33.7987 25.3904 37.9843 24.1368 41.802 23.5567C44.1485 23.1992 47.1011 24.3492 49.2768 24.9915C51.7062 25.7064 54.0165 26.6854 56.1041 28.0322C57.7928 29.1252 59.7716 30.2597 60.7247 32.0364C61.9058 34.2328 62.1492 37.0145 62.517 39.4128C64.6564 53.4715 59.6213 58.693 56.9277 71.436C56.7827 72.1197 56.2439 72.6481 55.5602 72.7931L36.6063 76.8077V76.8129Z" fill="white"/>
+		<path d="M58.9478 73.1875C58.7821 71.908 55.1043 73.26 54.3065 73.3999C51.7735 73.8506 49.2818 74.5292 46.7488 74.9798C42.2162 75.7827 37.7769 77.0519 33.2496 77.8496C31.9338 78.0827 30.587 77.9169 31.3174 80.0097C31.478 80.4707 31.7421 82.7965 32.2498 82.8639C33.2806 82.9986 34.6948 82.4443 35.7256 82.263L35.9017 82.2319C36.4353 82.1387 36.9947 82.4132 37.1657 82.926C37.1916 83.0037 37.2227 83.0763 37.2589 83.1488C38.4607 85.542 40.3048 89.4115 41.4755 91.7736C42.0194 92.8666 42.5115 94.949 43.7236 94.7987C46.8731 94.3999 50.3386 93.5348 53.0477 93.2447C54.3531 93.1049 57.1918 92.7267 56.8862 90.3128C56.508 87.3084 56.0832 79.6056 56.0677 79.4865C55.9952 78.9218 56.3682 78.3935 56.9276 78.2743H56.938C57.1504 78.2277 57.7357 78.0671 58.2951 77.9066C58.9893 77.7045 59.4296 77.0363 59.3415 76.3215C59.2172 75.3217 59.0463 73.9542 58.9478 73.1927V73.1875Z" fill="currentColor"/>
+		<path d="M45.3505 95.9945C44.3974 95.9116 43.2008 96.0826 42.4031 95.6371C41.2531 94.8549 40.8594 93.4045 40.445 92.0991C39.9425 90.8818 39.4867 89.7163 39.15 88.4316C38.9635 87.7634 38.3833 87.3127 38.0259 86.8154C37.3421 86.0229 37.2385 84.8004 36.2595 84.2565C35.6327 83.9664 34.9075 84.1063 34.2445 84.0338C33.0997 83.9146 32.0843 83.3448 31.4835 82.2933C30.7531 80.9931 30.8101 79.0971 31.4317 77.7503C31.8461 76.8645 32.8717 76.8697 33.6954 76.6573C35.1872 76.4139 36.6221 76.2067 38.0673 75.7249C39.4193 75.5436 40.6936 75.5125 42.0249 75.0619C43.294 74.6941 44.7185 74.663 45.9669 74.2383C46.8061 74.1295 47.7281 74.3211 48.5673 74.0466C49.7846 73.829 50.7999 73.3628 51.924 72.7827C53.6282 72.5755 55.2807 71.9176 57.0212 71.9487C57.7309 71.9176 58.7772 71.8865 58.886 72.8189C58.943 73.1971 58.8083 73.5182 58.4923 73.627C58.0624 73.7876 57.5236 73.684 57.0626 73.6943C56.1354 73.6995 55.3376 74.1139 54.4 74.0828C53.7474 74.1036 53.1931 74.518 52.6285 74.606C52.1209 74.6837 51.6443 74.8754 51.1884 75.1033C49.479 75.7715 47.5675 75.901 45.7131 76.1445C44.7496 76.3103 43.7861 76.7713 42.8951 76.849C42.0145 76.8749 41.1339 77.0303 40.2999 77.3307C38.6423 77.8798 36.793 77.7089 35.1251 78.1906C34.6019 78.3719 33.9596 78.4237 33.4623 78.5532C32.4004 78.864 32.5868 80.014 32.9443 80.9205C33.3069 81.7338 34.146 82.3036 35.0215 82.1896C35.9383 82.2104 36.9329 81.8996 37.855 81.7027C40.2637 81.7597 42.6568 81.2987 45.0811 80.9775C46.775 80.7651 48.443 80.2368 50.0954 79.8586C50.7119 79.7809 51.2661 79.8793 51.7168 79.6721C51.9603 79.5789 52.1933 79.4546 52.4523 79.3976C53.5298 79.3458 54.3431 79.1231 55.4154 78.7138C55.7624 78.6154 56.2027 78.4859 56.5032 78.7242C56.8347 78.9936 56.8917 79.5841 56.6689 79.9156C56.2752 80.5061 55.1926 80.8118 54.4052 80.8687C54.0737 80.9102 53.7526 80.9827 53.4469 81.107C52.5197 81.4955 51.4215 81.4748 50.4011 81.7183C49.3081 81.9876 48.3394 82.2155 47.2671 82.3036C46.5263 82.516 45.8892 82.7957 45.0759 82.9252C44.4025 83.0858 43.6618 83.0599 42.8796 83.1324C41.7089 83.4121 40.6936 83.4018 39.5695 83.4639C37.425 83.925 40.0409 86.5772 40.5589 87.4733C41.1805 89.105 41.8695 90.9958 42.5584 92.4824C42.7915 93.0781 42.7915 93.8966 43.4753 94.1452C44.6823 94.3472 46.0083 93.9898 47.2153 93.8966C48.6087 93.5495 50.0799 93.6428 51.5614 93.4148C52.4627 93.3164 53.2397 93.0989 54.1048 92.8709C54.6746 92.7932 55.2651 92.8709 55.7002 92.441C56.1198 92.0369 56.1354 91.3221 56.6068 91.0268C56.8917 90.8507 57.3631 90.8921 57.6531 91.1667C57.8707 91.3635 57.9225 91.6277 57.8552 91.9333C57.5185 92.9279 57.0056 93.9536 56.011 94.2644C55.3894 94.4871 54.5865 94.5804 53.8872 94.6891C53.017 94.9015 52.2089 95.2589 51.3024 95.2745C49.334 95.3781 47.4277 95.8391 45.4386 95.9997H45.3505V95.9945Z" fill="#020555"/>
+		<path d="M43.3462 14.7101C42.8851 14.7049 42.393 14.2853 42.3257 13.9071C42.248 13.4979 42.5173 13.2441 42.6209 12.8401C43.1441 11.286 43.3824 9.50928 43.9574 8.04332C44.0041 7.89828 44.0144 7.79986 44.004 7.67035C43.8797 7.17825 44.0558 6.4893 44.1284 5.99201C44.1957 5.64495 44.175 5.34969 44.3408 5.06996C44.5531 4.72808 44.6619 4.5416 44.5272 4.15827C44.4288 3.85783 44.4702 3.5781 44.4495 3.24658C44.4288 2.60425 43.9626 1.31442 44.3045 0.70317C44.5997 0.216244 45.3819 0.0919225 45.9155 0.00386145C46.0864 -0.00649867 46.2004 -0.00649866 46.3195 0.143723C46.5682 1.05541 46.3195 2.02409 46.3765 2.97722C46.3402 3.86301 46.3195 4.57786 46.1641 5.49991C45.988 5.96093 45.8689 6.42196 45.8274 6.90889C45.7445 8.01224 45.6616 9.28653 45.2887 10.3277C45.1333 10.6852 44.724 10.7888 44.8017 11.0063C44.9623 11.4 45.0815 11.7678 44.8588 12.177C44.5946 12.8142 44.434 13.2959 44.2734 13.8812C44.1491 14.2749 43.8849 14.6893 43.4239 14.7152H43.341L43.3462 14.7101Z" fill="#020555"/>
+		<path d="M56.8812 18.3608C56.3476 18.2831 55.9073 17.5838 56.2181 17.0762C56.8708 16.1178 57.4458 14.8902 58.0311 13.9163C58.2073 13.6832 58.5129 13.6625 58.6579 13.476C58.7149 13.3879 58.601 13.1963 58.5751 12.9114C58.6424 12.124 59.2485 11.2434 59.4971 10.6581C59.782 10.0623 59.9219 8.89165 60.4243 8.3063C60.7921 7.82456 62.2218 8.08874 62.113 8.82949C61.8022 9.85514 61.3205 10.9999 60.9423 12.0359C60.7869 12.3364 60.4554 12.5591 60.3674 12.8751C60.2534 13.0823 60.0928 13.217 60.0618 13.4501C60.0721 13.7091 60.0514 14.0873 59.896 14.3514C59.321 15.5377 58.9273 16.4286 58.1606 17.4491C57.8965 17.8842 57.5132 18.3919 56.9485 18.3712L56.8708 18.3608H56.8812Z" fill="#020555"/>
+		<path d="M12.5503 29.0736C11.4781 28.6747 10.0949 28.2137 8.96052 27.8925C8.63935 27.7579 8.50467 27.4419 8.18351 27.4522C8.05919 27.4522 7.87273 27.5403 7.62927 27.5558C5.29306 27.1881 3.278 26.2764 0.879631 26.1002C0.112981 26.0174 -0.151222 25.1575 0.0818808 24.5462C0.366784 23.8728 1.2422 24.2976 1.75503 24.3338C3.22099 24.51 4.92525 25.0124 6.31351 25.3647C6.71238 25.3958 7.02834 25.7169 7.39613 25.7894C7.75873 25.9966 8.10061 25.9707 8.4943 25.8723C8.7533 25.8723 9.0486 25.9707 9.31279 26.0122C10.2815 26.3178 11.3071 26.5146 12.1721 26.9653C12.6332 27.1363 13.1616 27.2917 13.3739 27.7941C13.5967 28.2862 13.1616 29.0425 12.6073 29.0736H12.5503Z" fill="#020555"/>
+		<path d="M19.2531 22.7119C18.5175 22.7999 18.3259 22.054 18.0462 21.5308C17.5748 20.6813 17.0982 19.9198 16.6683 19.1687C16.5647 18.9045 16.5957 18.6403 16.4455 18.4331C16.3212 18.2467 15.969 18.1327 15.7877 17.9255C15.4872 17.5992 15.2282 17.107 15.0676 16.8377C14.8034 16.3715 14.2025 15.9156 13.871 15.4391C13.6534 15.1542 13.5602 14.8382 13.6845 14.5067C13.8451 14.056 14.503 13.4965 14.9381 13.8436C15.4613 14.3098 15.855 15.0091 16.3057 15.496C16.4714 16.0037 16.803 16.3559 17.0153 16.8532C17.1863 17.1381 17.3935 17.2262 17.6991 17.4438C18.1394 17.9359 18.4761 18.5005 18.7817 19.0703C19.2375 19.6038 19.5484 20.3498 19.8384 20.9921C20.227 21.5878 20.1907 22.5513 19.3308 22.7015L19.2479 22.7119H19.2531ZM14.5081 16.9931L14.7723 16.6771L14.7879 16.6667L14.7775 16.6823L14.5081 16.9931Z" fill="#020555"/>
+		<path d="M1.41327 40.2165C0.791658 40.1025 0.175218 38.9733 0.817546 38.5744C1.84838 38.1238 2.98277 37.699 4.07576 37.2846C4.36067 37.238 4.70774 37.3105 4.9253 37.2173C5.14804 37.1965 5.31899 37.1706 5.51065 37.0929C5.72821 36.9841 5.87847 36.7251 6.1323 36.6371C7.22011 36.2848 7.94532 36.0984 8.98651 35.8445C9.63402 35.8238 10.0846 35.6581 10.6803 35.6995C11.3227 35.7306 11.6697 36.6267 11.2761 37.1447C11.131 37.3727 10.8824 37.4504 10.6337 37.4866C9.93443 37.5695 8.81035 37.8751 8.10587 38.0305C7.88312 38.072 7.68629 38.1341 7.46354 38.1911C7.07504 38.2792 6.76422 38.0668 6.47932 38.2118C5.91469 38.8593 4.56269 39.0873 3.87892 39.2945C3.27285 39.4758 2.22653 40.1699 1.47542 40.2165H1.4029H1.41327Z" fill="#020555"/>
+		<path d="M29.6807 17.3101C29.2559 17.2324 29.1264 16.6523 28.9814 16.3104C28.7535 15.5852 28.4633 14.7149 28.2924 13.9431C28.0593 13.4147 27.79 13.1764 27.619 12.5186C27.4533 12.0472 27.531 11.5344 27.3134 11.0837C27.1684 10.6175 26.8316 10.2704 26.6452 9.80941C26.2308 8.74749 25.8681 7.72184 25.3864 6.71691C25.1636 5.95026 24.8994 5.39599 24.5368 4.70186C24.3504 4.31854 24.3815 3.87305 24.8373 3.61405C25.5107 3.22037 26.21 3.70211 26.4483 4.33926C27.4118 6.0694 27.9247 8.15179 28.7327 9.89747C28.9192 10.3378 29.1212 10.9179 29.2766 11.3997C29.3543 11.9436 29.3439 12.4357 29.7169 12.8656C30.1728 13.7981 30.5302 14.8548 30.8617 15.8701C31.271 16.7403 30.5924 17.3619 29.748 17.3257L29.6703 17.3153L29.6807 17.3101Z" fill="#020555"/>
+		<path d="M66.0348 28.8509C65.6152 28.7473 65.1386 27.7838 65.3665 27.4212C65.4287 27.3279 65.4079 27.3176 65.5892 27.1881C66.1953 26.8255 66.8066 26.6234 67.4489 26.3748C67.7546 26.2505 68.0239 26.0744 68.3554 26.0329C68.7232 25.9293 68.8786 25.7946 69.1428 25.5563C69.3656 25.4113 69.6193 25.3025 69.8628 25.1886C70.2306 24.9814 70.7641 25.0176 71.1008 24.826C71.5722 24.655 71.8934 24.4116 72.2767 24.0904C72.976 23.7433 73.7531 23.3289 74.5042 23.0337C74.9289 22.7695 75.4728 22.4172 75.9597 22.2411C76.6331 21.9976 77.0787 21.5573 77.7262 21.288C78.4928 21.029 79.0937 22.1945 78.5653 22.7695C78.3633 23.0388 78.0888 23.1891 77.8091 23.3496C76.3017 24.3598 74.6337 24.9865 73.0279 25.7946C72.1991 26.2505 71.2304 26.7892 70.3498 26.8773C70.0597 26.955 69.8628 27.2761 69.495 27.4367C69.0029 27.675 68.6714 27.8667 68.0498 28.1567C67.5784 28.3795 67.2314 28.5245 66.8636 28.6747C66.6098 28.7732 66.387 28.9182 66.1073 28.8716L66.0451 28.856L66.0348 28.8509Z" fill="#020555"/>
+		<path d="M53.1572 57.761C53.2039 57.1549 52.9086 56.466 52.6755 55.8496C52.5927 55.5129 52.8154 55.2124 52.8413 54.8809C52.7687 53.5237 52.5098 52.0008 52.1731 50.6591C52.0177 49.8355 51.9917 48.9497 51.6654 48.1934C51.4478 47.8723 51.0075 47.7117 50.7175 47.3335C50.619 47.2351 50.5206 47.1263 50.4067 47.0538C48.9562 46.1991 47.2313 47.2921 45.7705 47.2662C45.3665 47.1522 45.0971 46.7171 44.6568 46.598C42.9836 46.023 41.0722 45.9867 39.4404 46.5928C38.736 46.9865 38.0937 47.5252 37.529 48.0691C37.27 48.3022 37.0214 48.4576 36.6951 48.4162C35.1618 48.038 33.2244 47.4475 31.8828 48.6441C31.1265 49.4107 30.7742 50.3121 30.3961 51.2497C30.2459 52.2442 30.1941 53.187 30.2614 54.1971C30.2873 55.2331 30.194 56.352 30.5152 57.3673C30.7017 58.0407 30.6862 58.7556 30.9918 59.3565C31.1835 59.7709 31.1575 60.206 31.3492 60.6411C31.5357 61.0244 31.8361 61.2575 32.09 61.6098C32.7478 62.48 33.0638 63.6973 34.0014 64.2568C34.6903 64.6039 35.0944 65.2565 35.3689 65.9507C35.6901 66.7277 36.6898 66.9193 37.0317 67.7119C37.2907 68.3439 37.4409 69.0173 37.6844 69.6026C37.8398 70.2709 38.2594 70.8458 38.4096 71.4985C38.6168 73.0215 39.0209 74.5599 39.2695 76.0932C39.3006 76.259 39.3524 76.4144 39.4664 76.5284C39.9533 77.0205 41.01 76.7822 40.9634 75.9741C40.8546 75.0831 40.6526 74.1922 40.4195 73.3219C40.2641 72.4827 40.2019 71.6643 39.8859 70.8614C39.7202 70.1362 39.6684 69.4317 39.3524 68.7117C39.1297 67.9398 38.5858 67.3338 38.0988 66.7121C37.5031 65.5984 36.9592 64.8732 36.1822 63.9201C35.7523 62.9929 34.5919 62.5836 34.0584 61.8014C33.4316 60.9726 33.1208 59.9677 32.5717 59.0767C32.4318 58.5484 32.2765 57.9889 32.1055 57.4398C32.0382 56.2018 31.9915 55 31.9449 53.7775C31.9708 53.1145 31.748 52.353 31.9811 51.6744C32.2971 50.9958 32.7478 50.426 33.2917 49.9546C33.8201 49.4936 34.4779 49.6801 35.0996 49.763C35.7367 49.8148 35.4414 50.369 35.2187 50.7524C34.8613 51.3792 34.421 52.0422 34.5453 52.7415C34.6645 53.6532 34.5867 54.5701 35.027 55.4092C35.2031 56.4867 35.5399 57.5434 36.7831 57.9319C37.4358 58.1754 38.1403 58.0666 38.7671 57.7973C39.513 57.4657 40.3522 57.388 41.0877 56.9684C41.756 56.5851 42.217 55.9324 42.6055 55.2901C42.9214 54.7151 43.3877 55.1658 43.7969 55.3885C45.2577 56.0671 48.1585 56.3209 48.2362 54.1039C48.2465 53.5755 47.9254 53.0368 47.827 52.5499C47.7545 52.2183 47.7441 51.8609 47.6042 51.5346C47.3141 50.9337 47.2468 50.2862 46.879 49.7112C46.8117 49.5817 46.7495 49.4211 46.7754 49.2761C46.7962 49.1103 46.9257 48.9653 47.1018 48.8668C47.8477 48.4783 48.6817 48.4731 49.5053 48.5249C50.272 48.4939 50.0958 49.1673 50.1891 49.8718C50.619 51.3636 51.0956 52.9487 50.9299 54.6063C51.0127 55.3005 51.2666 55.9428 51.1319 56.6421C51.1681 57.647 51.2873 58.5691 51.365 59.6206C51.4064 59.9677 51.3494 60.3148 51.2562 60.6463C50.9143 61.7341 51.0075 62.9721 51.0282 64.0651C51.0438 64.5935 50.9816 65.1529 51.0956 65.6761C51.1836 66.3081 51.9762 66.6137 52.3854 66.1216C52.8723 65.3135 52.5875 64.3241 52.7636 63.4124C52.8102 62.7805 52.748 62.1485 52.9138 61.5424C53.0174 61.1488 52.9604 60.7447 52.8982 60.351C52.7169 59.4911 53.2194 58.6675 53.1676 57.818V57.7403L53.1572 57.761ZM41.4607 54.394C41.3467 55.0518 40.5749 55.171 40.1191 55.5129C39.8238 55.8651 39.4405 56.2018 38.9276 56.1863C38.508 56.2536 38.1351 56.1604 37.7517 56.2173C37.2441 56.4556 36.8815 56.15 36.7986 55.6734C36.8193 55.4041 36.4412 55.2279 36.3428 54.9793C36.3013 54.7566 36.4723 54.4406 36.4515 54.1816C36.4412 53.8656 36.2703 53.5651 36.3014 53.1715C36.3635 52.7001 36.3117 52.1976 36.3998 51.7625C36.493 51.4465 36.752 51.2289 36.9178 51.0166C37.125 50.8094 37.3063 50.5089 37.5808 50.3949C38.1403 50.3276 38.5495 51.1461 39.0934 51.2238C39.4457 51.3636 39.5493 51.6589 39.9947 51.8661C40.347 52.3168 40.8753 52.6224 41.1395 53.1456C41.2069 53.3269 41.1965 53.5237 41.2328 53.6791C41.3001 53.9122 41.5591 54.0624 41.4762 54.3266L41.4607 54.394ZM43.4913 48.9549C43.2064 49.0999 43.1701 49.5143 43.0561 49.7785C42.9836 49.9598 42.8748 50.1152 42.7298 50.2551C42.362 50.5866 42.2999 51.0425 42.274 51.4776C42.1704 51.7625 41.9476 51.3222 41.787 51.2082C41.5384 50.9544 41.2483 50.7265 40.9945 50.4882C40.7614 50.1359 40.3936 50.0272 40.0569 49.8562C39.8031 49.6749 39.5752 49.3486 39.2074 49.2916C38.7256 49.1932 38.4355 49.1155 39.1141 48.8306C39.5958 48.5146 40.0672 48.3126 40.6111 48.1468C41.2638 47.7428 42.0668 47.8723 42.7609 48.0173C43.0199 48.038 43.31 47.8205 43.569 47.9914C44.1854 48.3488 44.3512 48.6078 43.569 48.9135L43.4965 48.9497L43.4913 48.9549ZM46.2937 53.4408C46.2419 53.5962 46.2367 54.0417 45.9881 54.078C45.6565 54.1868 45.2836 54.1091 44.9417 54.1609C44.7604 54.1712 44.636 54.0987 44.4858 53.9796C44.2527 53.8242 43.8021 53.6636 43.6933 53.4512C43.5845 53.1922 43.7503 52.9694 43.7451 52.669C43.7347 52.4463 43.8021 52.2442 43.8487 52.0526C43.8694 51.5035 44.0818 50.9596 44.4082 50.5555C44.5014 50.3691 44.7086 49.6179 44.9986 49.9236C45.2058 50.3017 45.3976 50.8197 45.6307 51.1979C45.9415 51.6278 45.7446 52.2287 45.9155 52.6794C46.1486 52.8762 46.3247 53.0938 46.2988 53.3942V53.4408H46.2937Z" fill="#020555"/>
+		<path d="M34.5453 77.3674C33.1778 77.6109 33.0846 75.4715 32.4889 74.6064C31.7896 72.8245 30.8882 71.4622 29.79 69.934C29.2772 69.1829 29.0337 68.266 28.5157 67.5201C28.1117 66.9659 27.5108 66.5981 27.1637 66.049C26.8633 65.5465 26.6924 64.9612 26.3971 64.4535C25.9982 63.8164 25.3611 63.4071 24.9933 62.7907C24.3147 61.2989 23.7035 60.4338 22.885 59.1077C21.906 56.8854 20.9735 54.6373 20.3934 52.2597C19.606 49.5816 18.943 46.7688 19.2175 43.9923C19.1916 42.7232 19.2071 41.4644 19.3625 40.2626C19.4972 38.3046 20.5125 36.419 21.274 34.6164C21.5382 34.1087 22.0044 33.6943 22.3929 33.2022C22.8747 32.5288 23.2735 31.7777 23.8692 31.1923C24.8327 30.4153 25.418 29.3016 26.3504 28.4935C28.0184 27.53 29.5207 26.437 31.1265 25.4062C32.5355 24.9659 33.8046 24.1734 35.255 23.8729C38.016 23.0078 40.9116 22.3396 43.8228 22.3603C46.1073 22.8576 48.5004 23.5828 50.6967 24.4686C51.9503 24.8053 53.3334 25.1627 54.3539 25.9501C56.1307 27.1674 58.1146 28.2086 59.6997 29.7212C62.1188 31.8813 62.4607 35.2949 62.9114 38.2994C63.3931 41.5473 63.6676 44.8366 63.5899 48.1156C63.6262 49.0843 63.0667 49.9286 63.1962 50.8921C63.2377 51.3583 63.1963 51.809 63.0978 52.27C62.7508 53.6583 62.1551 54.7046 62.0618 56.1188C61.5697 57.6158 61.2019 59.2165 60.7098 60.6876C60.5855 61.0554 60.3161 61.4802 59.9846 61.5941C58.9227 61.8117 59.0781 60.3406 59.3009 59.693C59.6738 58.051 60.0416 56.2172 60.7616 54.6114C61.3211 50.975 62.3157 47.3127 61.6837 43.6297C61.5231 42.7801 61.7666 41.8633 61.6889 41.0759C61.606 40.475 61.3522 39.843 61.2278 39.2214C61.0517 37.1131 60.5907 35.3001 60.0986 33.2644C59.679 31.8554 58.4824 30.9644 57.379 30.1408C54.1829 27.1571 49.8368 26.0952 45.8378 24.6188C43.5949 23.8885 40.9324 24.2096 38.7101 24.7846C37.0629 25.0125 35.4156 25.4995 33.8771 26.1159C32.1728 26.5924 30.6966 27.7839 29.1736 28.6437C27.9252 29.4933 26.8322 30.5552 25.6926 31.5705C25.1643 32.1403 24.8638 32.7982 24.294 33.3162C23.3875 34.088 23.1388 35.2328 22.5483 36.2274C21.7195 38.0145 20.9684 39.8534 20.8544 41.8529C20.7353 43.8939 20.9373 46.0436 21.2325 48.0638C21.217 49.219 21.4294 50.3534 21.906 51.4153C22.5794 53.3837 22.9834 55.7407 24.0039 57.5899C24.8638 58.8901 25.3507 60.4597 26.3712 61.6563C27.8475 63.1171 28.6349 64.9353 29.6968 66.6706C31.3492 68.7478 32.6961 71.0529 33.7735 73.4409C34.0947 74.3423 35.8248 76.7769 34.6023 77.3519L34.535 77.3726L34.5453 77.3674Z" fill="#020555"/>
+	</symbol>
+
+
+</svg>
+<div id="childModal" class="child-modal reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog" style="display: none;">
+	<div class="child-modal__wrapper">
+		<a href="/childrens-rights/for-children-and-young-people" class="child-modal__button">I'm a young person, show me stuff about my rights
+
+
+			<svg class="icon">
+				<use xlink:href="#face_with_megaphone"></use>
+
+			</svg>
+
+			<svg class="arrow" width="60" height="60" viewbox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M12.5 30H47.5" stroke="#00284F" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+				<path d="M30 12.5L47.5 30L30 47.5" stroke="#00284F" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+			</svg>
+
+
+		</a>
+		<a class="close-reveal-modal child-modal__button" aria-label="Close">
+			I'm an adult, show me the boring stuff!
+			<svg class="arrow" width="60" height="60" viewbox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M12.5 30H47.5" stroke="#00284F" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+				<path d="M30 12.5L47.5 30L30 47.5" stroke="#00284F" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+			</svg>
+
+		</a>
+	</div>
+	<a class="close-reveal-modal close-button " aria-label="Close">
+		<svg width="61" height="61" viewbox="0 0 61 61" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M45.75 15.25L15.25 45.75" stroke="white" stroke-width="3" stroke-linecap="square" stroke-linejoin="round"/>
+			<path d="M15.25 15.25L45.75 45.75" stroke="white" stroke-width="3" stroke-linecap="square" stroke-linejoin="round"/>
+		</svg>
+	</a>
+
+</div>
+<footer class="site-footer hide-for-print">
+	<div class="site-footer__top">
+              
+  <form class="validate" action="/about/mailing-lists" data-drupal-form-fields="mce-EMAIL,mc-embedded-subscribe" id="mc-embedded-subscribe-form" method="get" name="mc-embedded-subscribe-form" novalidate target="_blank"><div class="grid-container"><div class="grid-x grid-padding-x align-middle"><div class="cell large-4"><h2 class="subscribe-label h2">Keep me updated</h2></div><div class="cell large-8 subscribe"><label class="hide" aria-label="Email" for="mce-EMAIL">Email</label> <input class="subscribe__field label--absolute" id="mce-EMAIL" name="EMAIL" placeholder="Enter your email address here" type="text" value><button class="subscribe__submit secondary button large" id="mc-embedded-subscribe" name type="submit">Subscribe</button></div></div></div></form>
+
+    
+
+</div>
+
+<div class="site-footer__mid acknowledgement">
+  <div class="grid-container">
+      <div id="block-ahrc-acknowledgementofcountry" class="block block-block-content block-block-contentd9938904-6f31-4a36-8d9e-eba7042cb80a">
+  
+    
+      
+  <p>We acknowledge the Traditional Custodians of Country throughout Australia, and recognise their continuing<br>connection to land, waters and culture. We pay our respects to their Elders past, present and future.</p>
+
+
+  </div>
+
+
+  </div>
+</div>
+
+<div class="site-footer__mid">
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="cell medium-3">
+        <h2 class="footer-list-title h4-st">About</h2>
+          <nav  id="block-footermiddle1" class="block block-menu navigation menu--footer-middle-1">
+            
+  <span class="visually-hidden" id="block-footermiddle1-menu">Footer middle 1</span>
+  
+
+        
+    
+          <ul class="footer-list no-bullet">
+    
+                <li class="footer-list__li">
+        <a href="/about/contact" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/10">Contact</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="https://www.humanrights.gov.au/our-work/commission-general/covid-19-information" class="footer-list__link ahrc-ef-link-3">COVID-19 information</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/get-involved/australian-human-rights-awards" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/17731">Human Rights Awards</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/about/news" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="about/news">News</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="https://humanrights.gov.au/about/media-contacts" class="footer-list__link ahrc-ef-link-3">Media Contacts</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/about/what-are-human-rights" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/8456">What are human rights?</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/about/commissioners" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/653">Commissioners</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/get-involved" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/8">Get involved</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/legal/submissions?field_sub_committees_value=All&amp;field_subject_target_id=All&amp;field_submission_to_target_id=777&amp;sort_by=field_cmn_date_value&amp;sort_order=DESC" class="footer-list__link ahrc-ef-link-3" data-drupal-link-query="{&quot;field_sub_committees_value&quot;:&quot;All&quot;,&quot;field_subject_target_id&quot;:&quot;All&quot;,&quot;field_submission_to_target_id&quot;:&quot;777&quot;,&quot;sort_by&quot;:&quot;field_cmn_date_value&quot;,&quot;sort_order&quot;:&quot;DESC&quot;}" data-drupal-link-system-path="our-work/legal/submissions">Submissions</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/about/mailing-lists" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/8554">Subscribe</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/about/corporate-info" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/15274">Corporate info</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="https://www.humanrights.gov.au/our-work/commission-general/publications/annual-reports-index" class="footer-list__link ahrc-ef-link-3">Annual Reports</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="https://www.humanrights.gov.au/about/jobs" class="footer-list__link ahrc-ef-link-3">Jobs</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/universal-declaration-human-rights-75-years" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/17876">The Universal Declaration of Human Rights: 75 Years On</a>
+      </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      </div>
+
+      <div class="cell medium-3">
+        <h2 class="footer-list-title h4-st">Our Work</h2>
+          <nav  id="block-footermiddle2" class="block block-menu navigation menu--footer-middle-2">
+            
+  <span class="visually-hidden" id="block-footermiddle2-menu">Footer middle 2</span>
+  
+
+        
+    
+          <ul class="footer-list no-bullet">
+    
+                <li class="footer-list__li">
+        <a href="/our-work/publications" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="our-work/publications">Publications</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/aboriginal-and-torres-strait-islander-social-justice" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/11">Aboriginal and Torres Strait Islander Social Justice</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/age-discrimination" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/12">Age Discrimination</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/asylum-seekers-and-refugees" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/13">Asylum Seekers and Refugees</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/business-and-human-rights" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/17000">Business and Human Rights</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/childrens-rights" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/14">Children&#039;s Rights</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/lgbti" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/19">LGBTI</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/rights-and-freedoms" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/17">Rights and Freedoms</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/sex-discrimination" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/18">Sex Discrimination</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/legal" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/15261">Legal</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/projects" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="our-work/projects">Projects</a>
+      </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      </div>
+      <div class="cell medium-3">
+        <h2 class="footer-list-title h4-st">Education</h2>
+          <nav  id="block-footermiddle3" class="block block-menu navigation menu--footer-middle-3">
+            
+  <span class="visually-hidden" id="block-footermiddle3-menu">Footer middle 3</span>
+  
+
+        
+    
+          <ul class="footer-list no-bullet">
+    
+                <li class="footer-list__li">
+        <a href="https://humanrights.gov.au/education/training" title="Online, in-person and custom training" class="footer-list__link ahrc-ef-link-3">Training</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/education/teachers" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="education/teachers">Teachers</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/education/students" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/21">Students</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/education/employers" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/15262">Employers</a>
+      </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      </div>
+      <div class="cell medium-3">
+        <h2 class="footer-list-title h4-st">Complaints</h2>
+          <nav  id="block-footermiddle4" class="block block-menu navigation menu--footer-middle-4">
+            
+  <span class="visually-hidden" id="block-footermiddle4-menu">Footer middle 4</span>
+  
+
+        
+    
+          <ul class="footer-list no-bullet">
+    
+                <li class="footer-list__li">
+        <a href="/complaints/make-complaint" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/54">Make a complaint</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/complaints/complaint-guides/conciliation-how-it-works" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/1225">How conciliation works</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/complaints/complaint-guides/information-people-and-organisations-responding-complaints" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/722">Responding to a complaint</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/complaints/complaint-guides/complaint-information-auslan" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/11281">Complaint information in AUSLAN</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="https://www.humanrights.gov.au/about/translated-information" class="footer-list__link ahrc-ef-link-3">Translations</a>
+      </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      </div>
+      <div class="cell medium-3">
+        <p>&nbsp;</p>
+          <nav  id="block-footermiddle5" class="block block-menu navigation menu--footer-middle-5">
+            
+  <span class="visually-hidden" id="block-footermiddle5-menu">Footer middle 5</span>
+  
+
+        
+    
+          <ul class="footer-list no-bullet">
+    
+                <li class="footer-list__li">
+        <a href="/our-work/commission-general/accessibility" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/5744">Accessibility</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/commission-general/copyright" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/3230">Copyright</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/legal/freedom-information" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/1409">FOI</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/legal/information-publication-scheme" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/18155">Information Publication Scheme</a>
+      </li>
+                <li class="footer-list__li">
+        <a href="/our-work/commission-general/privacy" class="footer-list__link ahrc-ef-link-3" data-drupal-link-system-path="node/3229">Privacy</a>
+      </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="site-footer__bot">
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x align-middle">
+      <div class="cell auto large-shrink small-order-2 large-order-1">
+        <span
+          class="copyright">Copyright © Australian Human Rights Commission</span>
+      </div>
+
+        <div id="block-followus" class="block block-block-content block-block-contentaaa0bb9c-f190-489b-b315-b6c61857ea9f cell large-shrink footer-social small-order-1 large-order-2">
+
+  
+  <h2 class="footer-social__title">
+  Follow us on social media
+</h2>
+  
+
+  <ul class="social-list no-bullet">
+    <li class="social-list__li">
+      <a href="https://twitter.com/AusHumanRights" class="social-list__link"
+         target="_blank">
+        <img
+          src="/sites/default/files/2019-02/twitter.svg"
+          alt="Twitter Follow"><span
+          class="show-for-sr"></span></a>
+    </li>
+
+    <li class="social-list__li">
+      <a href="https://www.facebook.com/aushumanrights" class="social-list__link"
+         target="_blank">
+        <img
+          src="/sites/default/files/2019-02/facebook.svg"
+          alt="Facebook Follow"><span
+          class="show-for-sr"></span></a>
+    </li>
+
+    <li class="social-list__li">
+      <a href="https://www.youtube.com/user/AustralianHRC" class="social-list__link"
+         target="_blank">
+        <img
+          src="/sites/default/files/2019-02/youtube.svg"
+          alt="Youtube Follow"><span
+          class="show-for-sr"></span></a>
+    </li>
+
+    <li class="social-list__li">
+      <a href="https://www.instagram.com/aushumanrights" class="social-list__link"
+         target="_blank">
+        <img
+          src="/sites/default/files/2019-02/instagram.svg"
+          alt="Instagram Follow"><span
+          class="show-for-sr"></span></a>
+    </li>
+  </ul>
+</div>
+
+
+    </div>
+  </div>
+</div>
+</footer>
+</footer>
+
+  </div>
+
+
+<script src="/sites/default/files/js/js_Ga3DNeqQLL9ROPZZLJHiNmr1nXwDez4b2CjU5DHkMHQ.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=ahrc&amp;include=eJxVi0EOwyAMBD-UhCdFizEQxeDKRmrz-x5oq_Q2O6NFSkPRr4APbNm0jyWDOKqe--N4sYT_uaAaBdLWtE8uohGy-rjk6GU6ZxjVyZWR2H49mj6djQTu3-_dvQEpaTpY"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_L--wYtfaXidUkOMjRXhsCFXtj3RqYHVU1H4wc3up6Q8.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=ahrc&amp;include=eJxVi0EOwyAMBD-UhCdFizEQxeDKRmrz-x5oq_Q2O6NFSkPRr4APbNm0jyWDOKqe--N4sYT_uaAaBdLWtE8uohGy-rjk6GU6ZxjVyZWR2H49mj6djQTu3-_dvQEpaTpY"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script src="/sites/default/files/js/js_3JERbFbwS0gSfLSasbmJj1CP-67h9uHIGJa5o3FbZWk.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=ahrc&amp;include=eJxVi0EOwyAMBD-UhCdFizEQxeDKRmrz-x5oq_Q2O6NFSkPRr4APbNm0jyWDOKqe--N4sYT_uaAaBdLWtE8uohGy-rjk6GU6ZxjVyZWR2H49mj6djQTu3-_dvQEpaTpY"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBHxKw--1T64f17k9OWc84OfBYWebQWdRE"></script>
+<script src="/sites/default/files/js/js_jLg-MCstqYHgTTQbF1cXh3YAXTo7NJR-86XMubzgk1c.js?scope=footer&amp;delta=6&amp;language=en&amp;theme=ahrc&amp;include=eJxVi0EOwyAMBD-UhCdFizEQxeDKRmrz-x5oq_Q2O6NFSkPRr4APbNm0jyWDOKqe--N4sYT_uaAaBdLWtE8uohGy-rjk6GU6ZxjVyZWR2H49mj6djQTu3-_dvQEpaTpY"></script>
+
+</body>
+</html>

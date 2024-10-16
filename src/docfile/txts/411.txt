@@ -1,0 +1,1464 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ISO/IEC JTC 1/SC 42 - Artificial intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+ Applications
+
+
+ OBP
+
+
+English
+
+españolfrançaisрусский
+
+
+
+
+
+
+
+
+
+
+
+ Menu
+
+
+StandardsSectorsHealthIT & related technologiesTransportEnvironmental sustainabilityManagement & servicesSecurity, safety and risk EnergyFood and agricultureBuilding and constructionEngineeringMaterialsDiversity and inclusionAbout ISOInsights & newsInsightsAll insightsHealthcareArtificial intelligenceClimate change CybersecurityQuality managementNewsExpert talkStandards WorldMedia kitTaking partStore
+
+
+
+ Cart
+
+
+
+
+
+
+
+
+
+
+
+
+ISO/IEC JTC 1
+ISO/IEC JTC 1/SC 42
+Artificial intelligence
+
+
+
+
+
+
+
+ 
+
+About
+
+
+Secretariat: ANSI
+
+Committee Manager:
+Ms Heather Benko
+
+
+
+
+Chairperson (until end 2024):
+Mr Wael William Diab
+
+
+
+
+
+ISO Technical Programme Manager [TPM]:
+          
+Mr Andrew Dryden
+
+
+
+ISO Editorial Manager [EM]:
+        
+Ms Jessica Navarria
+
+
+
+    Creation date: 2017
+
+Scope
+Standardization in the area of Artificial Intelligence
+Serve as the focus and proponent for JTC 1's standardization program on Artificial Intelligence
+Provide guidance to JTC 1, IEC, and ISO committees developing Artificial Intelligence
+applications
+
+
+
+
+
+
+
+
+
+
+
+
+11 September 2023
+
+
+
+
+Artificial intelligence experts win prestigious ISO award 
+
+            This year’s LDE Award celebrates a trailblazing committee laying the groundwork for the future of AI. 
+
+
+
+
+Quick links
+
+
+
+
+Work programme
+
+Drafts and new work items
+
+
+
+
+
+Working area
+
+Working documents (user account required)
+
+
+
+
+
+ISO Electronic applications
+
+IT Tools that help support the standards development process
+
+
+
+
+
+Public material
+
+Browse documents made available by this group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This committee contributes with 39 standards to the following Sustainable Development Goals:
+
+
+
+
+1
+No Poverty
+
+
+
+
+
+
+3
+Good Health and Well-being
+
+
+
+
+
+
+4
+Quality Education
+
+
+
+
+
+
+5
+Gender Equality
+
+
+
+
+
+
+7
+Affordable and Clean Energy
+
+
+
+
+
+
+8
+Decent Work and Economic Growth
+
+
+
+
+
+
+9
+Industry, Innovation and Infrastructure
+
+
+
+
+
+
+10
+Reduced Inequalities
+
+
+
+
+
+
+11
+Sustainable Cities and Communities
+
+
+
+
+
+
+12
+Responsible Consumption and Production
+
+
+
+
+
+
+13
+Climate Action
+
+
+
+
+
+
+14
+Life Below Water
+
+
+
+
+
+
+16
+Peace, Justice and Strong Institutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+
+          Published ISO standards *
+
+
+
+
+
+
+
+36
+
+          ISO standards under development *
+
+
+
+
+
+
+
+
+40
+Participating members
+
+
+
+
+26
+
+        Observing members
+
+
+* number includes updates
+
+
+
+
+
+Structure
+Liaisons
+Meetings
+
+
+
+
+
+
+
+
+
+
+Reference
+Title
+Type
+
+
+
+
+ISO/IEC JTC 1/SC 42/AHG 4
+                         
+
+Liaison with SC 27
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/AHG 7
+                         
+
+JTC1 joint development review
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/JAG
+                         
+
+Joint Advisory Group on AI and sustainability with ISO/IEC JTC1/SC 39 and JTC1/SC 42
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/JWG 2
+                         
+
+Joint Working Group ISO/IEC JTC1/SC 42 - ISO/IEC JTC1/SC 7 : Testing of AI-based systems
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/JWG 3
+                         
+
+Joint Working Group ISO/IEC JTC1/SC42 - ISO/TC 215 WG : AI enabled health informatics
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/JWG 4
+                         
+
+Joint Working Group ISO/IEC JTC1/SC42 - IEC TC65/SC65A: Functional safety and AI systems
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/JWG 5
+                         
+
+Joint Working Group ISO/IEC JTC1/SC42 - ISO/TC 37 WG: Natural language processing
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/WG 1
+                         
+
+Foundational standards
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/WG 2
+                         
+
+Data
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/WG 3
+                         
+
+Trustworthiness
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/WG 4
+                         
+
+Use cases and applications
+
+                  Working group
+
+
+ISO/IEC JTC 1/SC 42/WG 5
+                         
+
+Computational approaches and computational characteristics of AI systems
+
+                  Working group
+
+
+
+
+
+
+
+
+
+Liaison Committees to ISO/IEC JTC 1/SC 42
+The committees below can access the documents of ISO/IEC JTC 1/SC 42:
+
+
+
+Reference
+Title
+ISO/IEC
+
+
+
+
+IEC/SC 45A
+Instrumentation, control and electrical power systems of nuclear facilities
+IEC
+
+
+IEC/SC 62C
+Equipment for radiotherapy, nuclear medicine and radiation dosimetry
+IEC
+
+
+IEC/SC 65A
+System aspects
+IEC
+
+
+IEC/SyC AAL
+Active Assisted Living
+IEC
+
+
+IEC/SyC SM
+Smart Manufacturing
+IEC
+
+
+IEC/TC 9
+Electrical equipment and systems for railways
+IEC
+
+
+IEC/TC 56
+Dependability
+IEC
+
+
+IEC/TC 62
+Medical equipment, software, and systems
+IEC
+
+
+IEC/TC 65
+Industrial-process measurement, control and automation
+IEC
+
+
+IEC/TC 100
+Audio, video and multimedia systems and equipment
+IEC
+
+
+ISO/CASCO
+Committee on conformity assessment
+ISO
+
+
+ISO/IEC JTC 1
+Information technology
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 7
+Software and systems engineering
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 24
+Computer graphics, image processing and environmental data representation
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 27
+Information security, cybersecurity and privacy protection
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 29
+Coding of audio, picture, multimedia and hypermedia information
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 31
+Automatic identification and data capture techniques
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 32
+Data management and interchange
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 34
+Document description and processing languages
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 35
+User interfaces
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 36
+Information technology for learning, education and training
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 37
+Biometrics
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 38
+Cloud computing and distributed platforms
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 39
+Sustainability, IT and data centres
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 40
+IT service management and IT governance
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 41
+Internet of things and digital twin
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 43
+Brain-computer interfaces
+ISO/IEC
+
+
+ISO/TC 20
+Aircraft and space vehicles
+ISO
+
+
+ISO/TC 20/SC 16
+Uncrewed aircraft system
+ISO
+
+
+ISO/TC 22/SC 32
+Electrical and electronic components and general system aspects
+ISO
+
+
+ISO/TC 37
+Language and terminology
+ISO
+
+
+ISO/TC 37/SC 3
+Management of terminology resources
+ISO
+
+
+ISO/TC 42
+Photography
+ISO
+
+
+ISO/TC 46/SC 11
+Archives/records management
+ISO
+
+
+ISO/TC 68
+Financial services
+ISO
+
+
+ISO/TC 69
+Applications of statistical methods
+ISO
+
+
+ISO/TC 108/SC 5
+Condition monitoring and diagnostics of machine systems
+ISO
+
+
+ISO/TC 172/SC 5
+Microscopes and endoscopes
+ISO
+
+
+ISO/TC 204
+Intelligent transport systems
+ISO
+
+
+ISO/TC 210
+Quality management and corresponding general aspects for products with a health purpose including medical devices
+ISO
+
+
+ISO/TC 211
+Geographic information/Geomatics
+ISO
+
+
+ISO/TC 215
+Health informatics
+ISO
+
+
+ISO/TC 225
+Market, opinion and social research
+ISO
+
+
+ISO/TC 232
+Education and learning services
+ISO
+
+
+ISO/TC 258
+Project, programme and portfolio management
+ISO
+
+
+ISO/TC 260
+Human resource management
+ISO
+
+
+ISO/TC 261
+Additive manufacturing
+ISO
+
+
+ISO/TC 262
+Risk management
+ISO
+
+
+ISO/TC 268
+Sustainable cities and communities
+ISO
+
+
+ISO/TC 269
+Railway applications
+ISO
+
+
+ISO/TC 279
+Innovation management
+ISO
+
+
+ISO/TC 307
+Blockchain and distributed ledger technologies
+ISO
+
+
+ISO/TC 309
+Governance of organizations
+ISO
+
+
+ISO/PC 317
+Consumer protection: privacy by design for consumer goods and services
+ISO
+
+
+ISO/TC 322
+Sustainable finance
+ISO
+
+
+ISO/TC 324
+Sharing economy
+ISO
+
+
+
+
+
+ 
+
+
+Liaison Committees from ISO/IEC JTC 1/SC 42
+ISO/IEC JTC 1/SC 42 can access the documents of the committees below:
+
+
+
+Reference
+Title
+ISO/IEC
+
+
+
+
+IEC/SyC AAL
+Active Assisted Living
+IEC
+
+
+IEC/SyC SM
+Smart Manufacturing
+IEC
+
+
+IEC/SyC Smart Cities
+Electrotechnical aspects of Smart Cities
+IEC
+
+
+IEC/TC 62
+Medical equipment, software, and systems
+IEC
+
+
+IEC/TC 65
+Industrial-process measurement, control and automation
+IEC
+
+
+IEC/TC 100
+Audio, video and multimedia systems and equipment
+IEC
+
+
+ISO/CASCO
+Committee on conformity assessment
+ISO
+
+
+ISO/IEC JTC 1
+Information technology
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 7
+Software and systems engineering
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 24
+Computer graphics, image processing and environmental data representation
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 27
+Information security, cybersecurity and privacy protection
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 29
+Coding of audio, picture, multimedia and hypermedia information
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 32
+Data management and interchange
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 34
+Document description and processing languages
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 35
+User interfaces
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 36
+Information technology for learning, education and training
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 37
+Biometrics
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 38
+Cloud computing and distributed platforms
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 39
+Sustainability, IT and data centres
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 40
+IT service management and IT governance
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 41
+Internet of things and digital twin
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 43
+Brain-computer interfaces
+ISO/IEC
+
+
+ISO/TC 20/SC 16
+Uncrewed aircraft system
+ISO
+
+
+ISO/TC 22/SC 32
+Electrical and electronic components and general system aspects
+ISO
+
+
+ISO/TC 36
+Cinematography
+ISO
+
+
+ISO/TC 37/SC 3
+Management of terminology resources
+ISO
+
+
+ISO/TC 46
+Information and documentation
+ISO
+
+
+ISO/TC 46/SC 11
+Archives/records management
+ISO
+
+
+ISO/TC 68
+Financial services
+ISO
+
+
+ISO/TC 69
+Applications of statistical methods
+ISO
+
+
+ISO/TC 106
+Dentistry
+ISO
+
+
+ISO/TC 159
+Ergonomics
+ISO
+
+
+ISO/TC 172/SC 5
+Microscopes and endoscopes
+ISO
+
+
+ISO/TC 204
+Intelligent transport systems
+ISO
+
+
+ISO/TC 210
+Quality management and corresponding general aspects for products with a health purpose including medical devices
+ISO
+
+
+ISO/TC 215
+Health informatics
+ISO
+
+
+ISO/TC 225
+Market, opinion and social research
+ISO
+
+
+ISO/TC 260
+Human resource management
+ISO
+
+
+ISO/TC 262
+Risk management
+ISO
+
+
+ISO/TC 268
+Sustainable cities and communities
+ISO
+
+
+ISO/TC 299
+Robotics
+ISO
+
+
+ISO/TC 307
+Blockchain and distributed ledger technologies
+ISO
+
+
+ISO/TC 309
+Governance of organizations
+ISO
+
+
+
+
+
+ 
+
+
+Organizations in liaison (Category A and B)
+
+
+
+Acronym
+Title
+Category
+
+
+
+
+BDVA
+Big Data Value AISBL
+A
+
+
+CI
+Consumers International
+A
+
+
+EC - European Commission
+European Commission
+A
+
+
+ETUC
+European Trade Union Confederation
+A
+
+
+euRobotics AISBL
+euRobotics AISBL
+A
+
+
+EUROCAE
+The European Organization for Civil Aviation Equipment
+A
+
+
+IEEE
+Institute of Electrical and Electronics Engineers, Inc
+A
+
+
+IIOA
+Independent International Organisation for Assurance
+A
+
+
+ITU
+International Telecommunication Union
+A
+
+
+MedTech Europe
+Alliance of European medical technology industry associations
+A
+
+
+OECD
+Organisation for Economic Co-operation and Development, OECD
+A
+
+
+OGC
+Open Geospatial Consortium, Inc.
+A
+
+
+PAI
+Partnership on Al to Benefit People and Societv
+A
+
+
+SBS - Small Business Standards
+Small Business Standards
+A
+
+
+UNESCO
+United Nations Educational, Scientific and Cultural Organization
+A
+
+
+WEF
+World Economic Forum
+A
+
+
+WTO
+World Trade Organization
+A
+
+
+
+
+Organizations in liaison (Category C)
+C liaisons participate at the level of a Working Group
+
+
+
+Acronym
+Title
+Category
+
+
+
+
+ECNL
+European Center for Not-for-Profit Law
+C
+
+
+EP
+European Parliament
+C
+
+
+
+
+
+
+
+
+
+
+Date
+Month
+Location
+TC/SC
+Note
+
+
+
+
+ 
+April 2025
+ (India)
+
+                  ISO/IEC JTC 1/SC 42
+
+**
+
+
+
+ 
+October 2025
+ (Australia)
+
+                  ISO/IEC JTC 1/SC 42
+
+**
+
+
+
+ 
+October 2026
+ (Canada)
+
+                  ISO/IEC JTC 1/SC 42
+
+**
+
+
+
+
+
+
+            * Information definite but meeting not yet formally convened
+            ** Provisional
+
+
+
+
+
+
+
+
+
+ISO/IEC JTC 1/SC 42 - Secretariat
+
+ANSI [United States]
+American National Standards Institute
+1899 L St NW, 11th FloorWashington 20036 DCUnited States
+
+Tel: +1 212 642 49 00 / +1.202.293.8020Fax: +1 212 398 00 23 / +1.202.293.9287Email: info@ansi.orgWeb: https://ansi.org/
+
+
+
+
+
+
+
+
+
+
+ISO/IEC JTC 1/SC 42 in the news
+
+
+
+
+
+
+
+
+
+
+20 January 2022
+
+
+
+
+Tech’s big growth spurt
+
+            The unprecedented digital acceleration triggered by the outbreak of COVID is coinciding with a coming of age for foundational technology and changing the way that we live and work.
+
+
+
+
+
+
+
+
+
+
+
+22 November 2021
+
+
+
+
+Enabling an AI-ready culture
+
+            Artificial intelligence holds the potential to deliver enormous benefits to society and a management system standard might be the answer everyone is looking for.
+
+
+
+
+
+
+
+
+
+
+
+5 November 2020
+
+
+
+
+Getting big on data
+
+            The latest in the series of standards for big data reference architecture now published.
+
+
+
+
+
+
+
+
+
+
+
+7 July 2020
+
+
+
+
+Towards a trustworthy AI
+
+            It’s widely accepted that artificial intelligence will have a huge impact on our lives in the coming decades – but how can we be sure this new technology is not just innovative and helpful, but also trustworthy?
+
+
+
+
+
+
+
+
+
+
+
+15 May 2020
+
+
+
+
+When the world stops, standards development keeps moving
+
+            Nearly five thousand meetings are held each year somewhere around the world to develop ISO International Standards, bringing together experts from all four corners of the earth. With COVID-19 bringing …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taking part
+
+
+Who develops standards
+
+
+Technical Committees
+
+ISO/IEC JTC 1
+SC 42
+
+Sitemap
+
+
+
+
+
+StandardsBenefitsPopular standardsConformity assessmentSDGsSectorsHealthIT & related technologiesTransportEnvironmental sustainabilityManagement & servicesSecurity, safety and risk EnergyAbout ISOWhat we doStructureMembersEventsStrategyInsights & newsInsightsAll insightsHealthcareArtificial intelligenceClimate changeNewsExpert talkStandards WorldMedia kitTaking partWho develops standardsDeliverablesGet involvedClimate action kitResourcesStoreStandards cataloguePublications and products
+
+
+
+
+
+
+
+
+ISO name and logoPrivacy NoticeCopyrightCookie policyMedia kitJobsHelp and support
+Sign up for email updates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Subscribe
+
+
+
+Almost done! 
+You are only one step away from joining the ISO subscriber list. Please confirm your subscription by clicking on the email we've just sent to you. You will not be registered until you confirm your subscription. If you can't find the email, kindly check your spam folder and/or the promotions tab (if you use Gmail).
+
+
+How your data will be used
+Please see ISO privacy notice. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+
+
+
+
+
+
+
+
+
+
+
+Making lives easier, safer and better.
+
+
+We are committed to ensuring that our website is accessible to everyone. If you have any questions or suggestions regarding the accessibility of this site, please contact us.
+© All Rights Reserved All ISO publications and materials are protected by copyright and are subject to the user’s acceptance of ISO’s conditions of copyright. Any use, including reproduction requires our written permission. All copyright requests should be addressed to copyright@iso.org.
+
+
+
+
+
+
+Powered by
+
+
+
+
+
+
+
+
+
+              Add to cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

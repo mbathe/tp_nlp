@@ -1,0 +1,344 @@
+.mainpage .mez.slider--news .tag{ display:none;}
+
+.page-node-8216 .l-wid--block .l-list-date ul li p a{
+    cursor: default;
+}
+.page-node-8871 #content-full hr{
+display:none;
+}
+.mt3_logo{float:right; padding-left:20px; margin-bottom:20px;}
+.qbri-srp-video-res iframe{ width: 100%;  margin-bottom: 20px;}
+@media (min-width: 768px){
+  .qbri-srp-video-res iframe{ width: 560px;  padding-left: 30px;  }
+
+}
+.page-node-6279 .l-article table td{ font-size: 0.9rem; }
+@media (min-width: 768px){
+.page-node-6279 .l-article table td.m30p{ width:30%;}
+}
+.h-promotion .promotion-alert__content p{
+font-size: 13px;
+line-height: 1.3;
+}
+
+.group-left .inn-cen-cyc-1winer a.l-btn--tertiary{
+display:table;
+height: 50px;
+}
+
+.page-node-10222 .mez.header, .page-node-10222 .mez.spotlight, .page-node-10222 .footer{
+display:none;
+}
+.page-node-10222 .wrapper.h-promotion{
+padding-top:0;
+}
+.page-node-10222 .container{
+max-width:100%;
+}
+
+
+.responsive-list ul{
+  padding: 0;
+  margin: 0;
+
+}
+
+@media (min-width: 768px){
+
+.responsive-list ul{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+
+}
+
+  .responsive-list ul li{
+    float: left;
+    width: 50%;
+padding-right: 2%;
+display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+}
+.college_research_landing .v-center{
+position: relative;
+transform: none;
+ top: auto;
+}
+
+.view-mode-full div.hbku-press-content{
+margin-bottom:30px;
+}
+
+.page-node-11261 .mez.event-list .view-empty{
+display:none;
+}
+
+.custom-person--quote .mez.person--quote h2 {
+    margin: 0 0 50px;
+}
+.custom-person--quote .mez.person--quote blockquote p{
+font-size:1.4rem;
+}
+@media (max-width: 1440px){
+.custom-person--quote .mez.person figure {
+    max-width: inherit;
+    width: 45%;
+}
+}
+
+@media (min-width: 768px) and (max-width:1199px){
+.rc__content ul li:hover .rc__list--title h4 {
+    padding-top: 0px;
+}
+}
+
+.eventIfraceHeight, .eventIfraceHeight iframe{
+height:100vh;
+width:100%
+}
+.page-node-12763 .mez.connect .connect__schedule + .connect__office{
+margin-bottom:40px;
+}
+
+.page-node-13005 .mez.card-list li:before{
+display:none;
+}
+.collegeLay2019 .mez.header .nav-main > ul > li > a + .nav-link{
+  display: none !important;
+}
+
+@media (min-width: 768px) and (max-width: 1440px){
+ .page-node-15195 .l-article figure{
+  max-width: 40%;
+   }
+}
+.h-promotion .promotion-alert{ min-height:65px;}
+
+.page-node-15928 .slideM3__list--content h4.rtecenter{
+font-family: "robotoregular";
+    font-size: 1.0666666667rem;
+    line-height: 1.625rem;
+    margin: 0 0 30px;
+    text-align: left;
+}
+
+.uts-thin table td, .uts-thin table th {
+    padding: 12px 10px;
+font-size: 1rem;
+}
+.uts-thin table td{
+font-size: 0.9rem;
+}
+@media (max-width: 768px){
+.uts-thin{
+overflow-x: scroll;
+}
+.uts-thin tr td:first-child, .uts-thin tr th:first-child{
+min-width: 150px;
+}
+
+.mobileview{
+width:100% !important;
+max-width:100% !important;
+max-height:100% !important;
+}
+
+}
+
+.page-node-21366 .bigEvent-buttons{
+display:none;
+}
+
+.grad22-video .slider__content{
+	z-index: 1 !important;
+}
+
+.page-node-24925 .mez.aside-nav,
+.page-node-24926 .mez.aside-nav,
+.page-node-24927 .mez.aside-nav,
+.page-node-24928 .mez.aside-nav,
+.page-node-24929 .mez.aside-nav,
+.page-node-24930 .mez.aside-nav,
+.page-node-24931 .mez.aside-nav
+{
+ display: none;
+}
+
+.page-node-6838 aside .l-accordion--md .l-accordion__content.show{
+ display: none;
+}
+.page-node-25976 aside .l-accordion--md .l-accordion__content.show{
+ display: none;
+}
+.page-node-6843 aside .l-accordion--md .l-accordion__content.show{
+ display: none;
+}
+
+.header__dropdown.mega-dropdown .innovation .row.row-eq-height .col-lg-12.col-md-24:nth-last-child(2){
+    display:none;
+}
+
+.comm-banner .mez.spotlight:before,
+.comm-banner .mez.spotlight:after{
+display:none;
+}
+.comm-banner.cta-banners .mez.spotlight{
+  position: relative;
+  height:auto;
+}
+
+.comm-banner.cta-banners .spotlight__content{
+    padding:20px;
+   background-color: #27a6de;
+  }
+
+.comm-banner.cta-banners .mez.spotlight h1{
+  color: #fff;
+  font-size: 18px;
+  text-transform: inherit;
+  font-family: 'robotomedium';
+}
+.comm-banner.cta-banners .mez.spotlight h4{
+    line-height: 1.3;
+    font-weight: initial;
+    font-family: 'robotoregular';
+}
+@media (min-width: 620px){
+  .comm-banner.cta-banners .spotlight__content{
+    height: auto;
+    padding: 50px;
+  }
+}
+@media (min-width: 768px){
+
+  .comm-banner.cta-banners .mez.spotlight h1{
+    font-size: 21px;
+  }
+}
+@media (min-width: 992px){
+  .comm-banner.cta-banners .mez.spotlight h1{
+    font-size: 26px;
+  }
+
+}
+@media (min-width: 1200px){
+  .comm-banner.cta-banners .mez.spotlight h1{
+    font-size: 36px;
+  }
+}
+
+.page-node-29032 aside .connect--sm .connect__office ul {
+  display: none;
+}
+.mez.home-social .insta-post figure img {
+ opacity: 1;
+}
+
+.page-node-30238 .mez.spotlight .spotlight__content, 
+.page-node-30238 .mez.spotlight:before, 
+.page-node-30238  .mez.spotlight:after,
+.page-node-30262 .mez.spotlight .spotlight__content, 
+.page-node-30262 .mez.spotlight:before, 
+.page-node-30262  .mez.spotlight:after,
+.page-node-30259 .mez.spotlight .spotlight__content, 
+.page-node-30259 .mez.spotlight:before, 
+.page-node-30259  .mez.spotlight:after,
+.page-node-30236 .mez.spotlight .spotlight__content, 
+.page-node-30236 .mez.spotlight:before, 
+.page-node-30236  .mez.spotlight:after,
+.page-node-30230 .mez.spotlight .spotlight__content, 
+.page-node-30230 .mez.spotlight:before, 
+.page-node-30230  .mez.spotlight:after,
+.page-node-30231 .mez.spotlight .spotlight__content, 
+.page-node-30231 .mez.spotlight:before, 
+.page-node-30231 .mez.spotlight:after,
+.page-node-30232 .mez.spotlight .spotlight__content, 
+.page-node-30232 .mez.spotlight:before, 
+.page-node-30232 .mez.spotlight:after,
+.page-node-30418 .mez.spotlight .spotlight__content, 
+.page-node-30418 .mez.spotlight:before, 
+.page-node-30418 .mez.spotlight:after,
+.page-node-30423 .mez.spotlight .spotlight__content, 
+.page-node-30423 .mez.spotlight:before, 
+.page-node-30423 .mez.spotlight:after,
+.page-node-30235 .mez.spotlight .spotlight__content, 
+.page-node-30235 .mez.spotlight:before, 
+.page-node-30235 .mez.spotlight:after,
+.page-node-30424 .mez.spotlight .spotlight__content, 
+.page-node-30424 .mez.spotlight:before, 
+.page-node-30424 .mez.spotlight:after,
+.page-node-30425 .mez.spotlight .spotlight__content, 
+.page-node-30425 .mez.spotlight:before, 
+.page-node-30425 .mez.spotlight:after,
+.page-node-30426 .mez.spotlight .spotlight__content, 
+.page-node-30426 .mez.spotlight:before, 
+.page-node-30426 .mez.spotlight:after,
+.page-node-30427 .mez.spotlight .spotlight__content, 
+.page-node-30427 .mez.spotlight:before, 
+.page-node-30427 .mez.spotlight:after{
+ display: none;
+}
+
+
+.page-node-24154 .cts-spotlight__aside h5:first-child{
+ display:none;
+}
+
+.node-type-hadaba-listing .header__desktop .btn-apply,
+.node-type-hadaba-listing .lang-switcher .last,
+.node-type-hadaba-collaborations .header__desktop .btn-apply,
+.node-type-hadaba-collaborations .lang-switcher .last, 
+.node-type-hadaba-home .header__desktop .btn-apply,
+.node-type-hadaba-home .lang-switcher .last {
+    display: none !important;
+}
+
+.mez.faculty-experience .faculty-experience__list { 
+    padding-bottom: 15px;
+}
+
+.mez.faculty-experience .faculty-experience__list:last-of-type {
+    padding-left: unset !important;
+    border-right: none;
+    padding-right: 0;
+}
+
+.mez.faculty-experience .faculty-experience__list:nth-last-of-type(2) + .faculty-experience__list {
+    padding-left: 64px !important;
+    border-right: none;
+    padding-right: 0;
+}
+@media only screen and (max-width: 992px) {
+   .mez.faculty-experience .faculty-experience__list:nth-last-of-type(2) + .faculty-experience__list {
+      padding-left: 0 !important; 
+  }
+}
+
+.tab-pane.active .overlayblue:before{ 
+  z-index: auto !important;
+}
+
+.page-node-60 .banner-item.inner-page:after, .page-node-1549 .banner-item.inner-page:after {
+    display:none;
+}
+@media (max-width:991px) {
+.lg-no-grey{
+    background-color: #ffffff!important;
+    }
+}
+
+.page-node-3273 .lg-no-grey .col-sm-6.col-lg-4.col-xl-3:nth-child(7) {
+    display: none !important;
+}
+
+body.node-type-qc2 .qc2-row-partner {
+    gap: 0px!important;
+}
