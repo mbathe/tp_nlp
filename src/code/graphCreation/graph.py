@@ -3,6 +3,8 @@ from tqdm import tqdm
 from dotenv import dotenv_values
 import numpy as np
 import os
+import networkx as nx
+import matplotlib.pyplot as plt
 current_working_directory = os.getcwd()
 
 
@@ -14,7 +16,7 @@ def adjacency_matrix(text, max_distance=1):
     word_index = {word: idx for idx, word in enumerate(unique_words)}
 
     n = len(unique_words)
-    adjacency_matrix = np.zeros((n, n), dtype='uint16')
+    adjacency_matrix = np.zeros((n, n), dtype='int16')
 
     for i in range(len(words)):
         word1 = words[i]
@@ -65,18 +67,17 @@ def hits_algorithm(adj_matrix, max_iter=100, tol=1e-6):
     return authorities, hubs
 
 
-def get_authority_ranking(filepath):
-
+def get_authority_ranking(filepath, k_distance=5):
+    """Return a dictionnary of the words in a text ranked according to their PageRank authority"""
     with open(filepath, encoding="utf8") as f:
         text = f.read()
 
     matrix, word_index = adjacency_matrix(
-        text, max_distance=2)
+        text, max_distance=k_distance)
 
-    #  Reverse or not reverse ?
-    reverse_matrix = np.reciprocal(matrix, where=matrix != 0)
+    reciprocal_matrix = np.where(matrix != 0, 1 / matrix, 1e10)
 
-    authorities, hubs = hits_algorithm(matrix)
+    authorities, hubs = hits_algorithm(reciprocal_matrix)
 
     index_word = {i: word for word, i in word_index.items()}
 
@@ -89,15 +90,44 @@ def get_authority_ranking(filepath):
     return sorted_authorities, sorted_hubs
 
 
-authority_ranking_dict = {}
-authority_hub_dict = {}
+def drawGraph(filepath, k_distance=5):
+    """Draw the relation graph from a text"""
+    with open(filepath, encoding="utf8") as f:
+        text = f.read()
 
-for i, filename in enumerate(tqdm(glob.glob(current_working_directory +
-                                            dotenv_values(".env")['PREPROCESSED_FOLDER'] + '*.txt'))):
+    matrix, word_index = adjacency_matrix(
+        text, max_distance=k_distance)
 
-    sorted_authorities, sorted_hubs = get_authority_ranking(filename)
+    node_labels = {i: word for word, i in word_index.items()}
 
-    authority_ranking_dict[i] = sorted_authorities
-    authority_hub_dict[i] = sorted_hubs
+    G_weighted = nx.from_numpy_array(matrix)
 
-print(authority_ranking_dict[0])
+    # Dessiner le graphe pondéré avec les poids des arêtes
+    pos = nx.spring_layout(G_weighted)
+    nx.draw(G_weighted, pos, labels=node_labels,
+            node_color='lightgreen', node_size=500, font_size=10)
+    edge_labels = nx.get_edge_attributes(G_weighted, 'weight')
+
+    nx.draw_networkx_edge_labels(G_weighted, pos, edge_labels=edge_labels)
+
+    plt.title("Graphe pondéré à partir d'une matrice de poids")
+    plt.show()
+
+
+# authority_ranking_dict = {}
+# authority_hub_dict = {}
+
+# for i, filename in enumerate(tqdm(glob.glob(current_working_directory +
+#                                             dotenv_values(".env")['PREPROCESSED_FOLDER'] + '*.txt'))):
+
+#     sorted_authorities, sorted_hubs = get_authority_ranking(filename)
+
+#     authority_ranking_dict[i] = sorted_authorities
+#     authority_hub_dict[i] = sorted_hubs
+
+# print(authority_ranking_dict[0])
+
+# sorted_authorities, sorted_hubs = get_authority_ranking(current_working_directory +
+#                                                         dotenv_values(".env")['PREPROCESSED_FOLDER'] + '1.txt')
+
+# print(sorted_authorities)
