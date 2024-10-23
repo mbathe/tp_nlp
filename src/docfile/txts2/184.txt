@@ -1,0 +1,925 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Guidelines for AI procurement - GOV.UK
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cookies on GOV.UK
+
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+You have accepted additional cookies. You can change your cookie settings at any time.
+You have rejected additional cookies. You can change your cookie settings at any time.
+
+
+
+
+Accept additional cookies
+Reject additional cookies
+View cookies
+
+
+
+          Hide this message
+        
+
+
+
+Skip to main content
+
+
+
+
+
+
+GOV.UK
+
+
+
+ 
+
+
+        Navigation menu
+      
+
+
+
+                Menu
+
+
+Menu
+ 
+
+
+
+                Search GOV.UK
+              
+
+
+
+
+
+                ×
+              
+
+
+
+                Search GOV.UK
+              
+
+
+
+
+ 
+ 
+
+
+
+
+
+                  Services and information
+                
+
+
+Benefits
+
+
+Births, death, marriages and care
+
+
+Business and self-employed
+
+
+Childcare and parenting
+
+
+Citizenship and living in the UK
+
+
+Crime, justice and the law
+
+
+Disabled people
+
+
+Driving and transport
+
+
+Education and learning
+
+
+Employing people
+
+
+Environment and countryside
+
+
+Housing and local services
+
+
+Money and tax
+
+
+Passports, travel and living abroad
+
+
+Visas and immigration
+
+
+Working, jobs and pensions
+
+
+
+
+
+                  Government activity
+                
+
+
+Departments
+Departments, agencies and public bodies
+
+
+News
+News stories, speeches, letters and notices
+
+
+Guidance and regulation
+Detailed guidance, regulations and rules
+
+
+Research and statistics
+Reports, analysis and official statistics
+
+
+Policy papers and consultations
+Consultations and strategy
+
+
+Transparency
+Data, Freedom of Information releases and corporate reports
+
+
+
+
+
+
+
+
+
+            Search
+          
+
+
+
+
+Search GOV.UK
+
+
+
+
+
+
+        Search
+        
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Government
+
+
+Public services
+
+
+Guidelines for AI procurement
+
+
+
+
+
+
+
+
+
+
+
+
+Department forDigital, Culture,Media & Sport
+
+
+
+
+
+
+Department forBusiness, Energy& Industrial Strategy
+
+
+
+
+
+
+Office for Artificial Intelligence
+
+
+
+
+
+
+Department forScience, Innovation& Technology
+
+
+
+
+
+
+
+
+    Guidance
+  
+
+    Guidelines for AI procurement
+  
+
+Published 8 June 2020
+
+
+
+
+
+
+      Contents
+
+
+
+
+Introduction
+
+
+
+Top 10 Considerations
+
+
+
+AI-specific considerations within the procurement process
+
+
+
+1. Preparation and Planning
+
+
+
+2. Publication
+
+
+
+3. Selection, Evaluation and Award
+
+
+
+4. Contract Implementation and Ongoing management
+
+
+
+
+Print this page
+
+
+
+
+
+
+
+
+  © Crown copyright 2020
+
+
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk.
+
+
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+
+
+  This publication is available at https://www.gov.uk/government/publications/guidelines-for-ai-procurement/guidelines-for-ai-procurement
+
+
+
+
+
+
+
+
+Introduction
+What is AI and how can it be used in government?
+Artificial Intelligence (AI) comprises a set of technologies that have the potential to greatly improve public services by reducing costs, enhancing quality, and freeing up valuable time for frontline staff.
+
+A guide to using artificial intelligence in the public sector provides the following definition and detailed explanation of AI:
+‘AI can be defined as the use of digital technology to create systems capable of performing tasks commonly thought to require intelligence.’
+The development of AI is constantly evolving, but generally it involves machines using statistics to find patterns in large amounts of data and using that data to perform repetitive tasks without the need for constant human guidance.
+
+We are in the early days of deploying AI systems in Government and are continuously discovering new benefits for using AI systems to drive decision making, as well as challenges and risks that need to be addressed.
+This guidance mostly refers to the use of machine learning. Machine learning is a subset of AI, and refers to the development of digital systems that improve their performance on a given task over time through experience. Machine learning is the most widely-used form of AI, and has contributed to innovations like self-driving cars, speech recognition and machine translation.
+
+Keen to learn more?
+There are many new concepts used in the field of AI and you may find it useful to refer to a glossary of AI terms in the Annex. For more examples on how AI has been used in the UK public sector, you can explore the case studies in A guide to using artificial intelligence in the public sector. To learn more about AI technologies, the Biscuit Book was developed by data science experts at the Defence Science and Technology Laboratory AI Lab to help Ministry of Defence customers understand AI, data science and machine learning
+
+What is the aim of the guidelines?
+Public procurement can be an enabler for the adoption of AI and could be used to improve public service delivery. Government’s purchasing power can drive this innovation and spur growth in AI technologies development in the UK.
+As AI is an emerging technology, it can be more difficult to establish the best route to market for your requirements, to engage effectively with innovative suppliers or to develop the right AI-specific criteria and terms and conditions that allow effective and ethical deployment of AI technologies.
+These guidelines provide a set of guiding principles on how to buy AI technology, as well as insights on tackling challenges that may arise during procurement. It is the first of such guidance, and is not exhaustive.
+These guidelines have been developed by the Office for AI in collaboration with the World Economic Forum Centre for the Fourth Industrial Revolution, Government Digital Service, Government Commercial Function and Crown Commercial Service.  A wide range of stakeholders from industry, academia and Government Departments have helped to shape this update. The guidelines were initiated through the World Economic Forum’s ‘Unlocking public sector AI’ project.
+Also, as part of the project, the Office for AI co-created the AI Procurement in a box, a toolkit to help public sector procurement professionals across the globe rethink their approaches to AI procurement.
+
+The guidelines will be updated as government use of AI technologies evolves.  If you are in the process of, or considering procuring, an AI system or interested in providing feedback on the guidelines please contact: ai-procurement-guidelines@officeforai.gov.uk
+
+Who should use the guidelines?
+These guidelines are aimed at central government departments who are considering the suitability of AI technology to improve existing services or as part of future service transformation. Other public sector bodies may also follow these guidelines.
+These guidelines will be useful to:
+
+Procurement and commercial practitioners who are responsible for the procurement of AI technologies and management of contracts
+Chief Data, Information, Technology and Innovation Officers considering the suitability of AI systems to address technology challenges
+Digital Delivery and Transformation teams who want to use AI technologies in digital transformation projects and programmes
+Analysts, Data Scientists and other Digital, Data and Technology (DDaT) professionals who are developing project-specific requirements, evaluating, using or maintaining AI systems
+Suppliers who want to better understand best practice, technical and ethical standards for AI procurement in government
+
+Public procurement is governed by a framework of procurement rules and regulations, this guidance assumes the reader has a sound working knowledge of those rules and of the end-to-end procurement process. Apply commercial judgement when using this guide, and seek legal advice where appropriate. Some research contracts may be out of scope of procurement legislation.
+How should the guidelines be used?
+These guidelines provide an overview of what themes to consider when assessing the viability of an AI system, and what procurement teams should consider when implementing AI technology projects. As a guiding principle, be transparent about your AI project and the tools, data and algorithms you will be using, working in the open where possible.
+Not all forms of AI systems will be the same and increasingly, forms of AI technologies will be built-in to many types of technology products. AI systems can be developed from scratch, bought off the shelf or added to systems that are already in use.
+Where suppliers are proposing to utilise AI technologies as part of the delivery of a non-AI specific requirement or system - there may be a need for some additional considerations to be taken into account. In such instances, discuss with your Chief Digital Information Officer/Technical Architect to assess the impact AI models may have on the solution, and use your commercial judgement to establish appropriate provisions within the contract to accommodate the use of AI technologies as part of the delivery.
+This guidance should be considered alongside existing policy and guidance in relation to the use of technology and digital services such as:
+
+
+The Digital Service Standard
+
+
+The Technology Code of Practice
+
+
+Data Ethics Framework
+
+
+Guide to using Artificial Intelligence in the public sector
+
+
+Open Data Standards
+
+
+Other Technology standards and guidance
+
+
+Refer to the Outsourcing Playbook, and define your purchasing strategy in the same way as you would for any other technology requirement.
+
+Keen to learn more?
+A guide to using artificial intelligence in the public sector can help teams in government understand how AI systems can be used to solve problems and help to guide decisions as to whether AI technologies could be part of the solution that needs to be developed. The ‘AI Procurement in a box’ toolkit provides detailed guidance on AI procurement, and greater detail on the main issues to consider during the process. Also consult sector specific guidance such as A Buyer’s Checklist for AI in Health and Care published by NHSx.
+
+Top 10 Considerations
+
+1.  Include your procurement within a strategy for AI adoption
+Ensure your Technology and Data strategies are updated to incorporate AI technology adoption. Use procurement strategically to support AI adoption across government, take advantage of economies of scale of AI technology deployment through collaboration and share your knowledge with interested teams across government.
+Consider aligning your work with other teams across central government departments and organisations leading on relevant AI initiatives.
+Establish networks within your organisation and across the civil service to share insights and learn from best practice.
+
+2.  Make decisions in a diverse multidisciplinary team
+Developing, evaluating and delivering AI projects will be more effective with diverse teams that understand the interdependent disciplines that AI technologies incorporate. This could include:
+
+Domain expertise (for example, healthcare, transportation)
+Commercial expertise
+Systems and data engineering
+Model development (for example, deep learning)
+Data ethics
+Visualisation/information design
+
+Require the successful supplier(s) to assemble a team with the right skill sets, and to address the need for diversity to mitigate bias in the AI system.
+
+3.  Conduct a data assessment before starting your procurement process
+Data is currently the basis of the majority of AI-powered solutions. Availability of relevant data is often a prerequisite for any AI system, so time should not be spent discussing AI procurement if no data will be available.
+
+Ensure data governance mechanisms are in place from the start of the procurement process.
+Assess whether relevant data will be available for the project.
+Try to address flaws and potential bias within your data before you go to market and/or have a plan for dealing with data issues if you cannot rectify them yourself.
+Define if and how you will share data with the vendor(s) for the procurement initiative and the subsequent project.
+
+
+4.  Assess the benefits and risks of AI deployment
+Defining the public benefit goal provides an anchor for the overall project and procurement process that the AI system is intended to achieve. AI technology also brings specific risks which must be identified and managed early in the procurement phase.
+
+
+Explain in your procurement documentation that the public benefit is a main driver of your decision-making process when assessing proposals. Consider the human and socio-economic impact and benefits of your AI system in line with Social Value guidance. Public benefit goals must be relevant to what you are procuring (and not generic in nature) and must comply with the principles of non-discrimination, equal treatment and proportionality.
+
+
+Set out clearly in your procurement documentation why you consider AI to be relevant to the problem, and be open to alternative solutions.
+
+
+Conduct initial AI impact assessments at the start of the procurement process, and ensure that your interim findings inform the procurement. Be sure to revisit the assessments at key decision points.
+
+
+
+5.  Engage effectively with the market from the outset
+Government spending can be used to create a fair, competitive market, which leads to better AI systems. Early engagement with AI vendors can result in more relevant responses, increasing the likelihood of a successful procurement and better project delivery. Focus on proportionality in your approach and do not impose unnecessary burdens that would deter suppliers, including start-ups, small and medium-sized enterprises (SMEs), Voluntary, Community and Social Enterprise (VCSE) suppliers and those owned by under-represented groups from competing.
+
+Engage with AI suppliers early and within your planning phase.
+Reach out in various ways to a wide variety of AI suppliers.
+Encourage an open environment that supports competition in the AI ecosystem.
+
+
+6.  Establish the right route to market and focus on the challenge rather than a specific solution
+The AI systems being procured must address the challenges you want to solve and promote a responsible, innovative response from the market. Carefully written requirements can help a supplier understand what you need and propose their best solution. Tell suppliers about the situation or challenge, and let them propose a solution that meets your needs.
+
+Refer to the guidance in the Outsourcing Playbook for commercial best practice.
+Explore different routes to market to acquire AI systems such as Innovation Partnerships, the GovTech catalyst and the Crown Commercial Service’s AI Dynamic Purchasing System.
+Provide a clear problem statement, rather than detailed specifications for a solution.
+Prioritise an iterative approach to product development and reflect this accordingly in the invitation to tender.
+
+
+7.  Develop a plan for governance and information assurance
+You must establish appropriate oversight mechanisms to allow scrutiny of AI systems throughout their lifecycle. You will need to apply different considerations depending on the AI use case and the risk profile of the project, and ensure that your approach can withstand scrutiny. Highlight the need to comply with existing laws and regulations and support the standardisation of norms through your procurement documentation.
+Be sure to refer to existing codes of practice, guidance and regulations when drafting your requirement and ensure these are carried over to the terms of the contract where suitable.
+
+
+Adhere to the Tech Code of Practice and Government Design Principles, the Data Ethics Framework and other relevant standards.
+
+
+Maximise transparency in AI decision-making to give users confidence that an AI system functions well.
+
+
+
+8.  Avoid Black Box algorithms and vendor lock in
+Encourage explainability and interpretability of algorithms and make this one of your design criteria. This means using methods and techniques that allow the results to be understood by your team. Highly ‘explainable’ outputs from your AI system will be able to be interpreted by your team, and by other suppliers. This will also make it more likely for you to be able to engage with other suppliers to continue or build upon your AI system in the future, limiting the risk of vendor lock-in.
+
+9.  Focus on the need to address technical and ethical limitations of AI deployment during your evaluation
+Make use of the experience within your multidisciplinary team to support the evaluation process and ensure there is broad expertise conducting the tender evaluation.
+
+Have suppliers highlighted and/or addressed any issues of bias within the data? Do they clearly explain why their strategies are appropriate and proportionate? Do they have a plan for addressing any issues that you may have missed and underline the importance of an agile project delivery?
+Has consideration been given to any required integration with existing services or technology?
+Does their governance approach meet your requirements?
+Have the appropriate technical standards been adhered to?
+
+
+10.  Consider the lifecycle management of the AI system
+For AI-powered solutions in the public sector, implementation plans, sustainable and ongoing evaluation methods, and mechanisms to feed back into the data model are crucial to ensure ethical use. Further, the functionality and consequences of AI systems may not be apparent in the procurement process and often only become evident during deployment, requiring extended communication and information sharing between the buyer and supplier.
+
+Consider during AI procurement that lifespan testing, not a one-time decision, is required.
+Ensure that knowledge transfer and training is part of your requirement.
+Ensure that you make training and explanations for non-specialists that might need to understand the AI system part of your requirement.
+Ensure you have the appropriate ongoing support and hosting arrangements in place.
+
+AI-specific considerations within the procurement process
+This section raises specific considerations to be addressed throughout the procurement process:
+
+Preparation and Planning
+Publication
+Selection, Evaluation and Award
+Contract Implementation and Ongoing Management
+
+As a general principle any AI procurement should be investigated with the mindset of “how could AI technologies potentially benefit us?” rather than “how can we make our problem fit an AI system solution?”.
+Treat AI technology like you would any other technological solution, and use it in appropriate situations. Every service is different, and many of the decisions you make about technology will be unique to your service.
+
+1.  Preparation and Planning
+Preparation is the key to achieving flexible and efficient procurement processes that encourage broad participation which are open and accessible to all. Work in the open where possible and you need to comply with pre-procurement legal requirements. This includes making due considerations required by the Public Services (Social Value) Act 2012 (as amended), as applicable, and assessing application of the Public Sector Equality Duty under the Equality Act 2010. Before you commence any procurement project likely to include deployment of AI systems, ensure you have considered the following:
+Multidisciplinary teams:
+Bring people in your team who have the knowledge and experience to consider whether AI is a viable and appropriate solution. Seek to establish a multidisciplinary team with a diverse combination of roles and skills to support the procurement and implementation of your AI system. A team with a diverse skill set will help you to conduct data and impact assessments and ensure that your business case and procurement process reflects their key findings.
+
+Some specialist roles to consider for your AI project team:
+
+Data Architect
+Data Scientist
+Data Engineer
+Technical Architect
+Delivery Manager
+Security Architect
+Commercial Manager
+
+You may not need all of these roles from the very beginning, but consider your needs before you start. It is useful to consult experts to ensure that you have the right foundations in place to go to market, and have verified that you can integrate an AI system with your existing processes, technologies and services.
+
+It is important to ensure robust practices are in place, and that work is carried out within the team’s skillset. If your team lacks expertise, you could reach out to professional networks within your organisation, or across government to gather important insight into your desired use case.
+You may also consider completing a discovery exercise as part of the decision making process to explore your requirements.
+
+Keen to learn more?
+Examples for teams and organisations that might be useful to consult are the Office for AI, the Government Digital Service, the Centre for Data Ethics and Innovation or teams and organisations with specific domain knowledge. You can also find examples of AI use cases in the guide to using artificial intelligence in the public sector. Also, learn about best practices and share knowledge and feedback via expert communities such as Knowledge Hub, the Digital Buying Community, the Data Science Community of Interest or other similar networks.
+
+Data assessment and governance
+Ensure that a discovery into your data is conducted before you go to market. You may need to seek out specific expertise to support this; data architects and data scientists should lead this process. This will help you and your team to understand the complexities, completeness and limitations of the data you have available.
+If a thorough assessment of the data proves difficult or has not been made, make it a requirement in the invitation-to-tender to conduct a comprehensive check of the data the AI system will use to base its decisions upon.
+Your data governance needs to cover all data activities related to your project:
+
+granting data access to project members
+storing data in other locations for analysis
+reviewing data consent
+
+Depending on the sensitivity of your project and data, it is worth considering releasing data to suppliers during the procurement process. This can allow suppliers to gain insight into the available data, and improve responses to the invitation to tender. Ensure you provide the same data to all suppliers at the same time and that you are acting in accordance with Data Protection legislation and GDPR, and consider the use of Non-Disclosure Agreements (NDAs) or supplier engagement events to support this. The Data Ethics Framework - Principle 3 provides further information on data governance and proportionality.
+You can also consider the use of anonymisation techniques to help safeguard data privacy, including data aggregation, masking, and synthetic data. Invitations-to-tender should encourage innovative technological approaches that make less intrusive use of data or that achieve the same or similar outcomes with less sensitive datasets.
+AI Impact assessment
+Your AI impact assessment should be initiated at the project design stage. Ensure that the solution design and procurement process seeks to mitigate any risks that you identify in the assessment. Your AI impact assessment should be an iterative process, as without knowing the specification of the AI system you will acquire, it is not possible to conduct a complete assessment.
+Your AI impact assessment should outline:
+
+Your user needs and the public benefit of your AI system
+Human and socio-economic impacts of your AI system - this will help to ensure it delivers social value benefits
+Consequences for your existing technical and procedural landscape
+Data quality and any potential inaccuracy or bias
+Any potential unintended consequences
+Whole-of-life cost considerations, including ongoing support and maintenance requirements
+
+Associated risks and their respective mitigation strategies must be provided and agreed upon within the impact assessment, and should include ‘go/no go’ key decision points where applicable. Review your impact assessment at these decision points, or every time a substantial change to the design of an AI system is made.
+
+Keen to learn more?
+Data protection impact assessments and equality impact assessments can provide a useful starting point for assessing potential unintended consequences. For examples of risk assessment questionnaires for automated decision making, refer to the Government of Canada’s Directive on Automated Decision Making, and the framework on Algorithmic Impact Assessments from AI Now.
+
+Preliminary Market Engagement
+Preliminary market engagement will help to understand if, whether and how AI can be part of the solution. Learning taken from your preliminary market engagement will help you to better define your problem statement and can also help you to determine the scope and feasibility of your requirements.
+Your preliminary market engagement should actively seek out suppliers that can help to improve service delivery, including SMEs and any VCSEs who are experts in AI design and delivery across the country.
+All preliminary market engagement must observe the principles of public procurement and be handled in such a way that no supplier gains a preferential advantage. In practice, this means not setting the technical specification to suit a particular solution or supplier and making sure any information shared is also available during the procurement process.
+
+Keen to learn more?
+Completing preliminary market engagement or a discovery phase will help you to understand your problem before you commit to buying or building a service. Find more information on how to organise your discovery phase in A guide to using artificial intelligence in the public sector section on planning and preparing for artificial intelligence implementation.
+
+Procurement approach and vehicle
+There are currently a number of routes to market to purchase AI systems.  Depending upon which kind of challenges you need to address. Framework agreements including G-Cloud, Digital Outcomes and Specialists, and the Spark Dynamic Purchasing System (DPS) are useful starting points to consider.
+Innovation-oriented procurement procedures provide opportunities to accelerate the adoption of new technologies within government, and promote innovation and ethical development of AI. These can include:
+
+
+Agile procurement processes that allow you to go to market at different stages and can include proof-of-concepts to test the technologies before the solution goes live. Discovery phases or proofs-of-concepts can demonstrate if the AI system is likely to meet your wider requirements.
+
+
+Technology contests, demonstrators and challenge-based procurement processes have vendors compete against each other based on their AI skills and include an evaluation of the technologies applied to the challenges they mean to address. These processes focus on innovation and allow you to explore different approaches. Examples include the GovTech Catalyst or the Scottish Government-run CivTech® accelerator programme.
+
+
+Innovation Partnerships enable the procurement of technologies that cannot be delivered by the current options available to the market. The update of the Public Contracts Regulations highlights the opportunities that this route to markets can unlock. This research report provides analysis on how these partnerships can work on a local level.
+
+
+Specialist AI Procurement Frameworks or Dynamic Purchasing Systems that prescribe the terms and conditions applying to any subsequent contract and allow you to assess suppliers against a set of predefined criteria that can include ethical requirements. The Dynamic Purchasing System for AI from Crown Commercial Service is the first example of this kind of novel approach.
+
+
+
+2.  Publication
+Whichever route to market you choose, be mindful that AI technologies are rapidly developing, with new technologies and products constantly coming to market. Use output-based requirements in your invitation-to-tender that focus on describing the challenges and opportunities you are facing. This will allow suppliers to determine which technologies are most appropriate for your requirements.
+Drafting your requirement
+The drafting of your requirement can drive innovation and set the foundations for the effective, responsible and ethical deployment of AI technologies.
+Use output-based requirements, which allow the supplier to propose how they will respond to your requirement. You will have to draft sufficiently detailed problem statements backed by user needs and required performance.
+
+Key considerations when drafting your AI requirement:
+Start with your problem statement:
+Set out clearly what challenge you are aiming to address, including any limitations and additional functional requirements. Describe why you consider AI to be relevant to the challenge, and remain open to alternative solutions.
+Highlight your data strategy and requirements:
+Describe how the AI system will fit within your current data strategy and practices based on your data discovery. Reference your data protection impact assessment where possible, and add the findings of your data assessment, your data requirements and details on your data governance approach.
+Focus on data quality, bias and limitations:
+Use the insights from your data discovery to highlight known limitations of the data in your invitation to tender and ask suppliers to describe their strategies on how to address these shortcomings. Have a plan for addressing relevant limitations you may have missed and ask suppliers for their strategies to mitigate them.
+Underline the need for you to understand the supplier’s AI approach:
+Draft evaluation questions that give you information about the algorithms and models, including how the supplier selects variables and what AI techniques the model is based on (e.g. supervised, unsupervised, or reinforcement learning), and try to establish any limitations of the model. Seek clarity on the origin and nature of any data the supplier trained the algorithms with and/or plans on bringing to the project. You can also consider the requirement for independent audits of the algorithms. Ensure your evaluation criteria appropriately assess these points.
+Consider strategies to avoid vendor lock-in and ‘Black Box’ AI systems:
+Avoid relying on ‘black-box’ algorithms. Underline the need for an ‘explainable approach’ to AI development (the extent to which an AI system’s decision making process can be understood) in your invitation to tender. Highly ‘explainable’ outputs from your AI system will be able to be interpreted by your team, and by other suppliers. This will increase the likelihood for you to be able to engage with other suppliers in the future to continue or build upon the initial AI system, limiting the risk of vendor lock-in. Consider addressing these issues in your procurement documentation. Good practice could involve adopting open standards, royalty-free licensing agreements, and public domain publication terms.
+Apply the Data Ethics Framework - Principle 6: Make your work transparent and be accountable and consider the use of other tools such as independent audits. For more information on this topic read the policy briefing of the Royal Society on Explainable AI.
+Indicate the importance of intellectual property ownership:
+Suppliers may not wish to disclose details of the inner workings of their solution in order to protect their intellectual property (IP) and commercial advantage. During the design and deployment of the AI system, it is likely that either a new algorithm will be developed, or an existing one will be tailored (for example, re-trained through your data). Consider whether you or the supplier should own any new intellectual property and who can best exploit the IP generated. Ensure that arrangements are mutually beneficial and fair.
+Consider the 10th Government Design Principle and ensure your work is open and available to others for reuse.
+Mention any integration with associated technologies or services:
+Work with your Data and Technical Architects to define any associated technologies or services that the AI system will have to integrate with. There may be specific design criteria required that potential suppliers need to be aware of when responding to your invitation-to-tender.
+Consider your ongoing support and maintenance requirements:
+Operational or service staff must have enough knowledge of or training on the AI system to understand how to use it and act on its outputs. You may wish to highlight the importance of training and knowledge transfer to ensure your team is upskilled during the life of the contract and has a deep understanding of the solution the supplier has put in place, and consider how non-specialist users can be supported.
+Consider ongoing support requirements, hosting or additional development that may be required beyond the term of your initial contract. If you have an in-house team taking over support and maintenance of the service, ensure they have been consulted.
+Add considerations on liability and risk:
+Allocate risk to the parties best able to manage it. Correct risk allocation is crucial to the long term viability of the service, but also to achieving best value. Liability for certain areas will reside with the department, particularly around the use and application of the AI-powered solution, and in relation to data access and transfer. Liability may also need to sit with the supplier, including areas focused around technical, security and quality assurance. Underline these considerations in your invitation-to-tender. See chapter 8 of the Outsourcing Playbook for more information on Risk Allocation.
+The application must also have an easy way to report any suspected unauthorised behaviour to relevant authorities within or outside the organisation.
+
+Use the experience of the team to support the drafting  process, and engage with users and stakeholders to establish the core areas of assessment which should be included. All requirements should be transparent and should not discriminate against particular types of suppliers, such as SMEs and VCSEs, or those from countries with which the UK has trade agreements with procurement obligations.
+
+Keen to learn more?
+Follow the commercial best practice outlined within the Outsourcing Playbook, and adhere to the Tech Code of Practice and Government Design Principles.
+
+
+3.  Selection, Evaluation and Award
+During the selection and evaluation stages, consider the suppliers’ responses to your requirement. Make use of the experience within your multidisciplinary team to support the evaluation process and to ensure there is a broad base of expertise conducting the evaluation.
+There are key robust practices that you can ask for suppliers to demonstrate when providing AI-powered solutions and then look out for when evaluating tenders. Robust practices may include, but are not limited to:
+
+Having an internal AI ethics approach, with examples of how it has been applied to design, develop, and deploy AI-powered solutions
+Processes to ensure accountability over outputs of algorithms
+Avoiding outputs that could be unfairly discriminatory
+Designing for reproducibility
+Testing the model under a range of conditions
+Defining acceptable model performance
+Robust and proportionate security provision
+
+As part of the evaluation process, also review the specialist skills, qualifications and diversity of the team that will develop and deploy the AI system. This can also help to anticipate or detect unfair bias in the system.
+Be aware that suppliers’ responses will give you an indication of a supplier’s general approach. Do not expect a fully detailed and definite plan, as AI development is an iterative process and the system will invariably change and evolve as the project progresses.
+
+Keen to learn more?
+The resources developed by the World Economic Forum in partnership with the Office for AI also provide examples for evaluating responses in AI tenders, and will provide you with some ideas on further considerations during the evaluation stage. The Magenta Book can provide general guidance on monitoring and evaluation strategies in government.
+
+
+4.  Contract Implementation and Ongoing management
+As with any contract, time and care should be taken to onboard the new supplier in accordance with the Outsourcing playbook and best practice for Contract Management.
+An AI system may need continued support throughout its lifecycle. Accepting the potential impact of any support gaps, or employing outside expertise, both come at a cost. This should be factored in when purchasing an AI-powered solution.
+Process-based governance and auditability
+Consider implementing process-based governance frameworks as suggested in the Guidance for Understanding AI ethics and safety. This provides a basis to integrate norms, values, and principles informing procedures and protocols that define the project workflow. The Alan Turing Institute calls it a ‘PBG (Process-Based Governance) Framework’ that will provide your team with an overview of:
+
+the relevant team members and roles involved in each governance action
+the relevant stages of the workflow in which intervention and targeted consideration are necessary to meet governance goals
+explicit timeframes for any evaluations, follow-up actions, re-assessments, and continuous monitoring
+clear and well-defined protocols for logging activity and for implementing mechanisms to support end-to-end auditability
+
+Enable end-to-end auditability by implementing process logs that gather the data across the modelling, training, testing, verifying, and implementation phases of the project lifecycle. Such a log should allow for the variable accessibility and presentation of information with different users in mind to achieve interpretable and justifiable AI.
+Model testing
+Testing the model on an ongoing basis is necessary to maintain its accuracy. An inaccurate model can result in erroneous decisions that negatively impact citizens. Therefore, establish with the supplier how the efficacy of the model will be monitored once deployed. The National Cyber Security Centre Guidance for assessing intelligent tools for cyber security also highlights the importance of these considerations.
+Knowledge transfer and training
+Evaluate the thoroughness and logic of the knowledge transfer plan to ensure that teams internally will be able to use the tool appropriately on their own once the project is finalised. If this cannot be guaranteed, ensure in-house capacity is established through hiring and retaining or further maintenance contracts.
+Operational or service staff must have enough knowledge of or training on the AI system to understand how to use it and act on its outputs. Address the need for staff training and support to avoid the misuse of AI applications with the AI supplier. The application must have an easy way to report any suspected unauthorised behaviour to relevant authorities within or outside the organisation.
+End-of-life
+Consider what the end-of-life processes for your AI system and the data should look like. Auditable methods of data cleaning and collection are key for you to effectively apply the guidelines. Defining end-of-contract roles and processes for both the contracting authority and the supplier is important. Ensure the contract includes such considerations, and test if your contract management processes are sufficiently robust to adequately support the end-of-life for the AI system, as part of the wider process it is embedded in.
+
+
+
+
+
+
+
+
+
+
+    Back to top
+
+
+
+
+
+
+
+
+
+
+
+Is this page useful?
+
+
+
+              Maybe
+ 
+
+
+              Yes this page is useful
+ 
+
+
+              No this page is not useful
+ 
+
+
+
+
+      Thank you for your feedback
+    
+
+
+        Report a problem with this page
+ 
+
+
+
+
+
+
+
+Help us improve GOV.UK
+Don’t include personal or financial information like your National Insurance number or credit card details.
+
+This field is for robots only. Please leave blank
+
+
+
+What were you doing?
+
+
+
+
+What went wrong?
+
+
+
+Send
+
+        Cancel
+      
+
+
+
+
+
+
+
+
+Help us improve GOV.UK
+
+        To help us improve GOV.UK, we’d like to know more about your visit today.
+        Please fill in this survey (opens in a new tab).
+      
+
+        Cancel
+      
+
+
+
+
+
+
+
+
+
+Services and information
+
+
+Benefits
+
+
+Births, death, marriages and care
+
+
+Business and self-employed
+
+
+Childcare and parenting
+
+
+Citizenship and living in the UK
+
+
+Crime, justice and the law
+
+
+Disabled people
+
+
+Driving and transport
+
+
+Education and learning
+
+
+Employing people
+
+
+Environment and countryside
+
+
+Housing and local services
+
+
+Money and tax
+
+
+Passports, travel and living abroad
+
+
+Visas and immigration
+
+
+Working, jobs and pensions
+
+
+
+
+Government activity
+
+
+Departments
+
+
+News
+
+
+Guidance and regulation
+
+
+Research and statistics
+
+
+Policy papers and consultations
+
+
+Transparency
+
+
+How government works
+
+
+Get involved
+
+
+
+
+
+
+
+Support links
+
+
+Help
+
+
+Privacy
+
+
+Cookies
+
+
+Accessibility statement
+
+
+Contact
+
+
+Terms and conditions
+
+
+Rhestr o Wasanaethau Cymraeg
+
+
+Government Digital Service
+
+
+
+
+
+
+          All content is available under the Open Government Licence v3.0, except where otherwise stated
+        
+
+
+© Crown copyright
+
+
+
+
+
+
+
+

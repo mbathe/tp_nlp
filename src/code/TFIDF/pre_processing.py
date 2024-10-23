@@ -1,3 +1,4 @@
+import textacy
 import glob
 import os
 from tqdm import tqdm
@@ -13,9 +14,8 @@ import spacy
 from dotenv import load_dotenv
 load_dotenv()
 
-
 class Processing:
-    def __init__(self, log_file=None, corpus_dir="preprocessed", corpus_file="corpus.txt"):
+    def __init__(self, log_file=None, corpus_dir="preprocessed", corpus_file="corpus.txt", mean_score=False, n_grams=2, min_n_gram_freq=2):
         self.log_file = log_file
         self.corpus_dir = corpus_dir
         self.tokens = set()
@@ -26,15 +26,18 @@ class Processing:
         self.number_of_tokens = 0
         self.documents = []
         self.vec = None
+        self.n_grams = n_grams
+        self.mean_score = mean_score
+        self.min_n_gram_freq = min_n_gram_freq
 
     def process_corpus(self):
         corpus_text = ""
-        for file in tqdm(glob.glob(os.path.join(os.getenv('TXT_FOLDER'), "*.txt"))):
+        for file in tqdm(glob.glob(os.path.join(os.getenv('TXT_FOLDER2'), "*.txt"))):
             with open(file, "r", encoding="utf-8") as f:
                 corpus_text += " "+f.read().strip().lower()
 
         self.documents = sent_tokenize(corpus_text)
-        self.corpus = corpus_text
+        # self.corpus = corpus_text
         stop_words = set(stopwords.words('english'))
         document_count = len(self.documents)
         token_doc_count = defaultdict(int)
@@ -47,20 +50,19 @@ class Processing:
                 full_content
             )
 
+
             doc = nlp(content)
+            ngrams = list(textacy.extract.basics.ngrams(
+                doc, self.n_grams, min_freq=self.min_n_gram_freq))
             target_pos = {"VERB", "ADJ", "NUM", "ADP", "PROPN",
                           "PRON", "PUNCT", "SCONJ", "SYM", "ADV", "SPACE", "AUX", "CONJ", "SYM", "PUNCT", "SCONJ"}
             target_tags = {"VB", "JJ", "JJR", "JJS", "RB", "RBR", "RBS",
                            "CD", "PRP", "PRP$", "DT", "IN", "CC", "UH", "SYM", "."}
-            """
-            for ent in doc:
-                if ent.pos_ in target_pos:
-                    noun_verb_adj.append(ent.text.lower())
-            """
             tokens = {token.lemma_ for token in doc if len(
                 token.text) > 3 and token.text not in stop_words and token.pos_ not in target_pos and token.tag_ not in target_tags}
+            tokens.update(set([str(ngram) for ngram in ngrams]))
             self.tokens.update(tokens)
-            number_content_words = len(full_content.split())
+            number_content_words = len(full_content.split())+len(set(ngrams))
             for token in tokens:
                 token_doc_count[token] += 1
                 self.tf_idf_dict[i][token] = (full_content.count(
@@ -80,9 +82,11 @@ class Processing:
         for i in tqdm(range(len(self.tf_idf_dict))):
             for k in self.tf_idf_dict[i].keys():
                 dictionnaire[k] += self.tf_idf_dict[i][k]
-                token_count_doc[k] += 1
-        for k in tqdm(list(token_count_doc.keys())):
-            dictionnaire[k] = dictionnaire[k]/token_count_doc[k]
+                if self.mean_score:
+                    token_count_doc[k] += 1
+        if self.mean_score:
+            for k in tqdm(list(token_count_doc.keys())):
+                dictionnaire[k] = dictionnaire[k]/token_count_doc[k]
         dictionnaire = dict(sorted(dictionnaire.items(),
                                    key=lambda item: item[1], reverse=True))
         return dictionnaire

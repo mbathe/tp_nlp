@@ -1,0 +1,345 @@
+Texts adopted - Civil Law Rules on Robotics - Thursday, 16 February 2017
+
+
+
+
+ 
+Choisissez la langue de votre document :
+bg - български
+es - español
+cs - čeština
+da - dansk
+de - Deutsch
+et - eesti keel
+el - ελληνικά
+en - English
+fr - français
+ga - Gaeilge
+hr - hrvatski
+it - italiano
+lv - latviešu valoda
+lt - lietuvių kalba
+hu - magyar
+mt - Malti
+nl - Nederlands
+pl - polski
+pt - português
+ro - română
+sk - slovenčina
+sl - slovenščina
+fi - suomi
+sv - svenska
+ Index  Previous  Next  Full text 
+Procedure : 2015/2103(INL)Document stages in plenaryDocument selected :
+            A8-0005/2017Texts tabled :
+A8-0005/2017
+Debates :
+PV 15/02/2017 - 14
+CRE 15/02/2017 - 14
+Votes :
+PV 16/02/2017 - 6.9
+Explanations of votes
+Texts adopted :
+P8_TA(2017)0051
+
+
+
+Texts adopted
+ 253k 74k
+
+
+
+Thursday, 16 February 2017 - Strasbourg
+
+
+
+Civil Law Rules on Robotics 
+
+P8_TA(2017)0051A8-0005/2017
+
+
+
+Resolution
+ Annex
+
+ European Parliament resolution of 16 February 2017 with recommendations to the Commission on Civil Law Rules on Robotics (2015/2103(INL))
+
+
+The European Parliament,
+–  having regard to Article 225 of the Treaty on the Functioning of the European Union,
+–  having regard to Council Directive 85/374/EEC(1),
+–  having regard to the study on Ethical Aspects of Cyber-Physical Systems carried out on behalf of the Parliament's Science and Technology Options Assessment (STOA) Panel and managed by the Scientific Foresight Unit (STOA), European Parliamentary Research Service;
+–  having regard to Rules 46 and 52 of its Rules of Procedure,
+–  having regard to the report of the Committee on Legal Affairs and the opinions of the Committee on Transport and Tourism, the Committee on Civil Liberties, Justice and Home Affairs, the Committee on Employment and Social Affairs, the Committee on the Environment, Public Health and Food Safety, the Committee on Industry, Research and Energy and the Committee on the Internal Market and Consumer Protection (A8-0005/2017),
+Introduction
+A.  whereas from Mary Shelley's Frankenstein's Monster to the classical myth of Pygmalion, through the story of Prague's Golem to the robot of Karel Čapek, who coined the word, people have fantasised about the possibility of building intelligent machines, more often than not androids with human features;
+B.  whereas now that humankind stands on the threshold of an era when ever more sophisticated robots, bots, androids and other manifestations of artificial intelligence ("AI") seem to be poised to unleash a new industrial revolution, which is likely to leave no stratum of society untouched, it is vitally important for the legislature to consider its legal and ethical implications and effects, without stifling innovation;
+C.  whereas there is a need to create a generally accepted definition of robot and AI that is flexible and is not hindering innovation;
+D.  whereas between 2010 and 2014 the average increase in sales of robots stood at 17% per year and in 2014 sales rose by 29%, the highest year-on-year increase ever, with automotive parts suppliers and the electrical/electronics industry being the main drivers of the growth; whereas annual patent filings for robotics technology have tripled over the last decade;
+E.  whereas, over the past 200 years employment figures had persistently increased due to the technological development; whereas the development of robotics and AI may have the potential to transform lives and work practices, raise efficiency, savings, and safety levels, provide enhanced level of services; whereas in the short to medium term robotics and AI promise to bring benefits of efficiency and savings, not only in production and commerce, but also in areas such as transport, medical care, rescue, education and farming, while making it possible to avoid exposing humans to dangerous conditions, such as those faced when cleaning up toxically polluted sites;
+F.  whereas ageing is the result of an increased life expectancy due to progress in living conditions and in modern medicine, and is one of the greatest political, social, and economic challenges of the 21st century for European societies; whereas by 2025 more than 20 % of Europeans will be 65 or older, with a particularly rapid increase in numbers of people who are in their 80s or older, which will lead to a fundamentally different balance between generations within our societies, and whereas it is in the interest of society that older people remain healthy and active for as long as possible;
+G.  whereas in the long-term, the current trend leans towards developing smart and autonomous machines, with the capacity to be trained and make decisions independently, holds not only economic advantages but also a variety of concerns regarding their direct and indirect effects on society as a whole;
+H.  whereas machine learning offers enormous economic and innovative benefits for society by vastly improving the ability to analyse data, while also raising challenges to ensure non-discrimination, due process, transparency and understandability in decision-making processes;
+I.  whereas similarly, assessments of economic shifts and the impact on employment as a result of robotics and machine learning need to be assessed; whereas, despite the undeniable advantages afforded by robotics, its implementation may entail a transformation of the labour market and a need to reflect on the future of education, employment, and social policies accordingly;
+J.  whereas the widespread use of robots might not automatically lead to job replacement, but lower skilled jobs in labour-intensive sectors are likely to be more vulnerable to automation; whereas this trend could bring production processes back to the EU; whereas research has demonstrated that employment grows significantly faster in occupations that use computers more; whereas the automation of jobs has the potential to liberate people from manual monotone labour allowing them to shift direction towards more creative and meaningful tasks; whereas automation requires governments to invest in education and other reforms in order to improve reallocation of the types of skills that the workers of tomorrow will need;
+K.  whereas in the face of increasing divisions in society, with a shrinking middle class, it is important to bear in mind that developing robotics may lead to a high concentration of wealth and influence in the hands of a minority;
+L.  whereas the development of robotics and AI will definitely influence the landscape of the workplace what may create new liability concerns and eliminate others; whereas the legal responsibility need to be clarified from both business sight model, as well as the workers design pattern, in case emergencies or problems occur;
+M.  whereas the trend towards automation requires that those involved in the development and commercialisation of AI applications build in security and ethics at the outset, thereby recognizing that they must be prepared to accept legal liability for the quality of the technology they produce;
+N.  whereas Regulation (EU) 2016/679 of the European Parliament and of the Council(2) (the General Data Protection Regulation) sets out a legal framework to protect personal data; whereas further aspects of data access and the protection of personal data and privacy might still need to be addressed, given that privacy concerns might still arise from applications and appliances communicating with each other and with databases without human intervention;
+O.  whereas the developments in robotics and AI can and should be designed in such a way that they preserve the dignity, autonomy and self-determination of the individual, especially in the fields of human care and companionship, and in the context of medical appliances, 'repairing' or enhancing human beings;
+P.  whereas ultimately there is a possibility that in the long-term, AI could surpass human intellectual capacity;
+Q.  whereas further development and increased use of automated and algorithmic decision-making undoubtedly has an impact on the choices that a private person (such as a business or an internet user) and an administrative, judicial or other public authority take in rendering their final decision of a consumer, business or authoritative nature; whereas safeguards and the possibility of human control and verification need to be built into the process of automated and algorithmic decision-making;
+R.  whereas several foreign jurisdictions, such as the US, Japan, China and South Korea, are considering, and to a certain extent have already taken, regulatory action with respect to robotics and AI, and whereas some Member States have also started to reflect on possibly drawing up legal standards or carrying out legislative changes in order to take account of emerging applications of such technologies;
+S.  whereas the European industry could benefit from an efficient, coherent and transparent approach to regulation at Union level, providing predictable and sufficiently clear conditions under which enterprises could develop applications and plan their business models on a European scale while ensuring that the Union and its Member States maintain control over the regulatory standards to be set, so as not to be forced to adopt and live with standards set by others, that is to say the third countries which are also at the forefront of the development of robotics and AI;
+General principles
+T.  whereas Asimov's Laws(3) must be regarded as being directed at the designers, producers and operators of robots, including robots assigned with built-in autonomy and self-learning, since those laws cannot be converted into machine code;
+U.  whereas a series of rules, governing in particular liability, transparency and accountability, are useful, reflecting the intrinsically European and universal humanistic values that characterise Europe's contribution to society, are necessary; whereas those rules must not affect the process of research, innovation and development in robotics;
+V.  whereas the Union could play an essential role in establishing basic ethical principles to be respected in the development, programming and use of robots and AI and in the incorporation of such principles into Union regulations and codes of conduct, with the aim of shaping the technological revolution so that it serves humanity and so that the benefits of advanced robotics and AI are broadly shared, while as far as possible avoiding potential pitfalls;
+W.  Whereas a Charter on Robotics is annexed to this resolution, drawn up with the assistance of the Scientific Foresight Unit (STOA), European Parliamentary Research Service, which proposes a code of ethical conduct for robotics engineers, a code for research ethics committees, a 'licence' for designers and a 'license' for users;
+X.  whereas a gradualist, pragmatic and cautious approach of the type advocated by Jean Monnet(4) should be adopted for the Union with regard to future initiatives on robotics and AI so as to ensure that we do not stifle innovation;
+Y.  whereas it is appropriate, in view of the stage reached in the development of robotics and AI, to start with civil liability issues;
+Liability
+Z.  whereas, thanks to the impressive technological advances of the last decade, not only are today's robots able to perform activities which used to be typically and exclusively human, but the development of certain autonomous and cognitive features – e.g. the ability to learn from experience and take quasi-independent decisions – has made them more and more similar to agents that interact with their environment and are able to alter it significantly; whereas, in such a context, the legal responsibility arising through a robot’s harmful action becomes a crucial issue;
+AA.  whereas a robot's autonomy can be defined as the ability to take decisions and implement them in the outside world, independently of external control or influence; whereas this autonomy is of a purely technological nature and its degree depends on how sophisticated a robot's interaction with its environment has been designed to be;
+AB.  whereas the more autonomous robots are, the less they can be considered to be simple tools in the hands of other actors (such as the manufacturer, the operator, the owner, the user, etc.); whereas this, in turn, questions whether the ordinary rules on liability are sufficient or whether it calls for new principles and rules to provide clarity on the legal liability of various actors concerning responsibility for the acts and omissions of robots where the cause cannot be traced back to a specific human actor and whether the acts or omissions of robots which have caused harm could have been avoided;
+AC.  whereas, ultimately, the autonomy of robots raises the question of their nature in the light of the existing legal categories or whether a new category should be created, with its own specific features and implications;
+AD.  whereas under the current legal framework robots cannot be held liable per se for acts or omissions that cause damage to third parties; whereas the existing rules on liability cover cases where the cause of the robot’s act or omission can be traced back to a specific human agent such as the manufacturer, the operator, the owner or the user and where that agent could have foreseen and avoided the robot’s harmful behaviour; whereas, in addition, manufacturers, operators, owners or users could be held strictly liable for acts or omissions of a robot;
+AE.  whereas according to the current legal framework for product liability - where the producer of a product is liable for a malfunction- and rules governing liability for harmful actions -where the user of a product is liable for a behaviour that leads to harm- apply to damages caused by robots or AI;
+AF.  whereas in the scenario where a robot can take autonomous decisions, the traditional rules will not suffice to give rise to legal liability for damage caused by a robot, since they would not make it possible to identify the party responsible for providing compensation and to require that party to make good the damage it has caused;
+AG.  whereas the shortcomings of the current legal framework are also apparent in the area of contractual liability insofar as machines designed to choose their counterparts, negotiate contractual terms, conclude contracts and decide whether and how to implement them, make the traditional rules inapplicable; whereas this highlights the need for new, efficient and up-to-date ones, which should comply with technological developments and innovations that have recently arisen and are used on the market;
+AH.  whereas, as regards non-contractual liability, Directive 85/374/EEC can cover only damage caused by a robot's manufacturing defects and on condition that the injured person is able to prove the actual damage, the defect in the product and the causal relationship between damage and defect, therefore strict liability or liability without fault framework may not be sufficient;
+AI.  whereas, notwithstanding the scope of Directive 85/374/EEC, the current legal framework would not be sufficient to cover the damage caused by the new generation of robots, insofar as they can be equipped with adaptive and learning abilities entailing a certain degree of unpredictability in their behaviour, since those robots would autonomously learn from their own variable experience and interact with their environment in a unique and unforeseeable manner;
+General principles concerning the development of robotics and artificial intelligence for civil use
+1.  Calls on the Commission to propose common Union definitions of cyber physical systems, autonomous systems, smart autonomous robots and their subcategories by taking into consideration the following characteristics of a smart robot:
+
+
+  
+–
+the acquisition of autonomy through sensors and/or by exchanging data with its environment (inter-connectivity) and the trading and analysing of those data;
+
+  
+–
+self-learning from experience and by interaction (optional criterion);
+
+  
+–
+at least a minor physical support;
+
+  
+–
+the adaptation of its behaviour and actions to the environment;
+
+  
+–
+absence of life in the biological sense;
+2.  Considers that a comprehensive Union system of registration of advanced robots should be introduced within the Union’s internal market where relevant and necessary for specific categories of robots, and calls on the Commission to establish criteria for the classification of robots that would need to be registered; in this context, calls on the Commission to investigate whether it would be desirable for the registration system and the register to be managed by a designated EU Agency for Robotics and Artificial Intelligence;
+3.  	Stresses that the development of robot technology should focus on complementing human capabilities and not on replacing them; considers it essential, in the development of robotics and AI, to guarantee that humans have control over intelligent machines at all times; considers that special attention should be paid to the possible development of an emotional connection between humans and robots ‒ particularly in vulnerable groups (children, the elderly and people with disabilities) ‒ and highlights the issues raised by the serious emotional or physical impact that this emotional attachment could have on humans;
+4.  Emphasises that a Union-level approach can facilitate development by avoiding fragmentation in the internal market and at the same time underlines the importance of the principle of mutual recognition in the cross-border use of robots and robotic systems; recalls that testing, certification and market approval should only be required  in a single Member State; stresses that this approach should be accompanied by effective market surveillance;
+5.  Stresses the importance of measures to help small and medium-sized enterprises and start-ups in the robotics sector that create new market segments in this sector or make use of robots;
+Research and innovation
+6.  Underlines that many robotic applications are still in an experimental phase; welcomes the fact that more and more research projects are being funded by the Member States and the Union; considers it to be essential that the Union, together with the Member States by virtue of public funding, remains a leader in research in robotics and AI; calls on the Commission and the Member States to strengthen financial instruments for research projects in robotics and ICT, including public-private partnerships, and to implement in their research policies the principles of open science and responsible ethical innovation; emphasises that sufficient resources need to be devoted to the search for solutions to the social, ethical, legal and economic challenges that the technological development and its applications raise;
+7.  Calls on the Commission and the Member States to foster research programmes, to stimulate research into the possible long-term risks and opportunities of robotics and AI technologies and to encourage the initiation of a structured public dialogue on the consequences of developing those technologies as soon as possible; calls on the Commission to increase its support in the mid-term review of the Multiannual Financial Framework for the Horizon 2020 funded SPARC programme; calls on the Commission and the Member States to combine their efforts in order to carefully monitor and guarantee a smoother transition for these technologies from research to commercialisation and use on the market after appropriate safety evaluations in compliance with the precautionary principle;
+8.  Stresses that innovation in robotics and AI and the integration of robotics and AI technology within the economy and the society require digital infrastructure that provides ubiquitous connectivity; calls on the Commission to set a framework that will meet the connectivity requirements for the Union’s digital future and to ensure that access to broadband and 5G networks is fully in line with the net neutrality principle;
+9.  Strongly believes that interoperability between systems, devices and cloud services, based on security and privacy by design is essential for real time data flows enabling robots and AI to become more flexible and autonomous; asks the Commission to promote an open environment, from open standards and innovative licensing models, to open platforms and transparency, in order to avoid lock-in in proprietary systems that restrain interoperability;
+Ethical principles
+10.  Notes that the potential for empowerment through the use of robotics is nuanced by a set of tensions or risks and should be seriously assessed from the point of view of human safety, health and security; freedom, privacy, integrity and dignity; self-determination and non-discrimination, and personal data protection;
+11.  Considers that the existing Union legal framework should be updated and complemented, where appropriate, by guiding ethical principles in line with the complexity of robotics and its many social, medical and bioethical implications; is of the view that a clear, strict and efficient guiding ethical framework for the development, design, production, use and modification of robots is needed to complement the legal recommendations of the report and the existing national and Union acquis; proposes, in the annex to the resolution, a framework in the form of a charter consisting of a code of conduct for robotics engineers, of a code for research ethics committees when reviewing robotics protocols and of model licences for designers and users;
+12.  Highlights the principle of transparency, namely that it should always be possible to supply the rationale behind any decision taken with the aid of AI that can have a substantive impact on one or more persons’ lives; considers that it must always be possible to reduce the AI system´s computations to a form comprehensible by humans; considers that advanced robots should be equipped with a ‘black box’ which records data on every transaction carried out by the machine, including the logic that contributed to its decisions;
+13.  Points out that the guiding ethical framework should be based on the principles of beneficence, non-maleficence, autonomy and justice, on the principles and values enshrined in Article 2 of the Treaty on European Union and in the Charter of Fundamental Rights, such as human dignity, equality, justice and equity, non-discrimination, informed consent, private and family life and data protection, as well as on other underlying principles and values of the Union law, such as non-stigmatisation, transparency, autonomy, individual responsibility and social responsibility, and on existing ethical practices and codes;
+14.  Considers that special attention should be paid to robots that represent a significant threat to confidentiality owing to their placement in traditionally protected and private spheres and because they are able to extract and send personal and sensitive data;
+A European Agency
+15.  Believes that enhanced cooperation between the Member States and the Commission is necessary in order to guarantee coherent cross-border rules in the Union which encourage the collaboration between European industries and allow the deployment in the whole Union of robots which are consistent with the required levels of safety and security, as well as the ethical principles enshrined in Union law;
+16.  Asks the Commission to consider the designation of a European Agency for Robotics and Artificial Intelligence in order to provide the technical, ethical and regulatory expertise needed to support the relevant public actors, at both Union and Member State level, in their efforts to ensure a timely, ethical and well-informed response to the new opportunities and challenges, in particular those of a cross-border nature, arising from technological developments in robotics, such as in the transport sector;
+17.  Considers that the potential of and the problems linked to robotics use and the present investment dynamics justify providing the European Agency with a proper budget and staffing it with regulators and external technical and ethical experts dedicated to the cross-sectorial and multidisciplinary monitoring of robotics-based applications, identifying standards for best practice, and, where appropriate, recommending regulatory measures, defining new principles and addressing potential consumer protection issues and systematic challenges; asks the Commission (and the European Agency, if created) to report to the European Parliament on the latest developments in robotics and on any actions that need to be taken on an annual basis;
+Intellectual property rights and the flow of data
+18.  Notes that there are no legal provisions that specifically apply to robotics, but that existing legal regimes and doctrines can be readily applied to robotics, although some aspects appear to call for specific consideration; calls on the Commission to support a horizontal and technologically neutral approach to intellectual property applicable to the various sectors in which robotics could be employed;
+19.  Calls on the Commission and the Member States to ensure that civil law regulations in the robotics sector are consistent with the General Data Protection Regulation and in line with the principles of necessity and proportionality; calls on the Commission and the Member States to take into account the rapid technological evolution in the field of robotics, including the advancement of cyber-physical systems, and to ensure that Union law does not stay behind the curve of technological development and deployment;
+20.  	Emphasises that the right to respect for private life and to the protection of personal data as enshrined in Article 7 and 8 of the Charter and in Article 16 of the Treaty on the Functioning of the European Union (TFEU) apply to all areas of robotics and that the Union legal framework for data protection must be fully complied with; asks in this regard for clarification within the implementation framework of the GDPR of rules and criteria regarding the use of cameras and sensors in robots; calls on the Commission to make sure that the data protection principles such as privacy by design and privacy by default, data minimisation, purpose limitation, as well as transparent control mechanisms for data subjects and appropriate remedies in compliance with Union data protection law and are followed and appropriate recommendations and standards are fostered and are integrated into Union policies;
+21.  Stresses that the free movement of data is paramount to the digital economy and development in the robotics and AI sector; stresses that a high level of security in robotics systems, including their internal data systems and data flows, is crucial  to the appropriate use of robots and AI; emphasises that the protection of networks of interconnected robots and AI has to be ensured to prevent potential security breaches; emphasises that a high level of security and protection of personal data together with due regard for privacy in communication between humans, robots and AI are fundamental;  stresses the responsibility of designers of robotics and AI to develop products to be safe, secure and fit for purpose; calls on the Commission and the Member States to support and incentivise the development of the necessary technology, including security by design;
+Standardisation, safety and security
+22.  Highlights that the issue of setting standards and granting interoperability is key for future competition in the field of AI and robotics technologies; calls on the Commission to continue to work on the international harmonisation of technical standards, in particular together with the European Standardisation Organisations and the International Standardisation Organisation, in order to foster innovation, to avoid fragmentation of the internal market  and to guarantee a high level of product safety and consumer protection including where appropriate minimum safety standards in the work environment; stresses the importance of lawful reverse-engineering and open standards, in order to maximise the value of innovation and to ensure that robots can communicate with each other; welcomes, in this respect, the setting up of special technical committees, such as ISO/TC 299 Robotics, dedicated exclusively to developing standards on robotics;
+23.  Emphasises that testing robots in real-life scenarios is essential for the identification and assessment of the risks they might entail, as well as of their technological development beyond a pure experimental laboratory phase; underlines, in this regard, that testing of robots in real-life scenarios, in particular in cities and on roads, raises a large number of issues, including barriers that slow down the development of those testing phases and requires an effective strategy and monitoring mechanism; calls on the Commission to draw up uniform criteria across all Member States which individual Member States should use in order to identify areas where experiments with robots are permitted, in compliance with the precautionary principle;
+Autonomous means of transport
+a)Autonomous vehicles
+24.  Underlines that autonomous transport covers all forms of remotely piloted, automated, connected and autonomous ways of road, rail, waterborne and air transport, including vehicles, trains, vessels, ferries, aircrafts, drones, as well as all future forms of developments and innovations in this sector;
+25.  Considers that the automotive sector is in most urgent need of efficient Union and global rules to ensure the cross-border development of automated and autonomous vehicles so as to fully exploit their economic potential and benefit from the positive effects of technological trends; emphasises that fragmented regulatory approaches would hinder implementation of autonomous transport systems and jeopardise European competitiveness;
+26.  Draws attention to the fact that driver reaction time in the event of an unplanned takeover of control of the vehicle is of vital importance and calls, therefore, on the stakeholders to provide for realistic values determining safety and liability issues;
+27.  Takes the view that the switch to autonomous vehicles will have an impact on the following aspects: civil responsibility (liability and insurance), road safety, all topics related to environment (e.g. energy efficiency, use of renewable technologies and energy sources), issues related to data (e.g. access to data, protection of data, privacy and sharing of data), issues related to ICT infrastructure (e.g. high density of efficient and reliable communication) and employment (e.g. creation and losses of jobs, training of heavy goods vehicles drivers for the use of automated vehicles); emphasises that substantial investments in roads, energy and ICT infrastructure will be required; calls on the Commission to consider the above-mentioned aspects in its work on autonomous vehicles;
+28.  Underlines the critical importance of reliable positioning and timing information provided by the European satellite navigation programmes Galileo and EGNOS for the implementation of autonomous vehicles, urges, in this regard, the finalisation and launch of the satellites which are needed in order to complete the European Galileo positioning system;
+29.  Draws attention to the high added value provided by autonomous vehicles for persons with reduced mobility, as such vehicles allow them to participate more effectively in individual road transport and thereby facilitate their daily lives;
+b) Drones (RPAS)
+30.  Acknowledges the positive advances in drone technology, particularly in the field of search and rescue; stresses the importance of a Union framework for drones to protect the safety, security and privacy of the citizens of the Union, and calls on the Commission to follow-up  on the recommendations of Parliament’s resolution of 29 October 2015 on safe use of remotely piloted aircraft systems (RPAS), commonly known as unmanned aerial vehicles (UAVs), in the field of civil aviation(5); urges the Commission to provide assessments of the safety issues connected with the widespread use of drones; calls on the Commission to examine the need to introduce an obligatory tracking and identification system for RPAS which enables aircraft’s real-time positions during use to be determined; recalls, that the homogeneity and safety of unmanned aircrafts should be ensured by the measures set out in Regulation (EC) No 216/2008 of the European Parliament and of the Council(6);
+Care robots
+31.  Underlines that elder care robot research and development has, in time, become more mainstream and cheaper, producing products with greater functionality and broader consumer acceptance; notes the wide range of applications of such technologies providing prevention, assistance, monitoring, stimulation, and companionship to elderly people and people with disabilities as well as to people suffering from dementia, cognitive disorders, or memory loss;
+32.  Points out that human contact is one of the fundamental aspects of human care; believes that replacing the human factor with robots could dehumanise caring practices, on the other hand, recognises that robots could perform automated care tasks and could facilitate the work of care assistants, while augmenting human care and making the rehabilitation process more targeted, thereby enabling medical staff and caregivers to devote more time to diagnosis and better planned treatment options; stresses that despite the potential of robotics to enhance the mobility and integration of people with disabilities and elderly people, humans will still be needed in caregiving and will continue to provide an important source of social interaction that is not fully replaceable;
+Medical robots
+33.  Underlines the importance of appropriate education, training and preparation for health professionals, such as doctors and care assistants, in order to secure the highest degree of professional competence possible, as well as to safeguard and protect patients' health; underlines the need to define the minimum professional requirements that a surgeon must meet in order to operate and be allowed to use surgical robots; considers it vital to respect the principle of the supervised autonomy of robots, whereby the initial planning of treatment and the final decision regarding its execution will always remain with a human surgeon; emphasises the special importance of training for users to allow them to familiarise themselves with the technological requirements in this field; draws attention to the growing trend towards self-diagnosis using a mobile robot and, consequently, to the need for doctors to be trained in dealing with self-diagnosed cases; considers that the use of such technologies should not diminish or harm the doctor-patient relationship, but should provide doctors with assistance in diagnosing and/or treating patients with the aim of reducing the risk of human error and of increasing the quality of life and life expectancy;
+34.  	Believes that medical robots continue to make inroads into the provision of high accuracy surgery and in performing repetitive procedures and that they have the potential to improve outcomes in rehabilitation, and provide highly effective logistical support within hospitals; notes that medical robots have the potential also to reduce healthcare costs by enabling medical professionals to shift their focus from treatment to prevention and by making more budgetary resources available for better adjustment to the diversity of patients’ needs, continuous training of the healthcare professionals and research;
+35.  Calls on the Commission to ensure that the procedures for testing new medical robotic devices are safe, particularly in the case of devices that are implanted in the human body, before the date on which Regulation (EU) 2017/745 on medical devices becomes applicable;
+Human repair and enhancement
+36.  Notes the great advances delivered by and further potential of robotics in the field of repairing and compensating for damaged organs and human functions, but also the complex questions raised in particular by the possibilities of human enhancement, as medical robots and particularly cyber physical systems (CPS) may change our concepts about the healthy human body since they can be worn directly on or implanted in the human body; underlines the importance of urgently establishing in hospitals and in other health care institutions appropriately staffed committees on robot ethics tasked with considering and assisting in resolving unusual, complicated ethical problems involving issues that affect the care and treatment of patients; calls on the Commission and the Member States to develop guidelines to aid in the establishment and functioning of  such committees;
+37.  Points out that for the field of vital medical applications such as robotic prostheses, continuous, sustainable access to maintenance, enhancement and, in particular, software updates that fix malfunctions and vulnerabilities needs to be ensured;
+38.  Recommends the creation of independent trusted entities to retain the means necessary to provide services to persons carrying vital and advanced medical appliances, such as maintenance, repairs and enhancements, including software updates, especially in the case where such services are no longer carried out by the original supplier; suggests creating an obligation for manufacturers to supply these independent trusted entities with comprehensive design instructions including source code, similar to the legal deposit of publications to a national library;
+39.  Draws attention to the risks associated with the possibility that CPS integrated into the human body may be hacked or switched off or have their memories wiped, because this could endanger human health, and in extreme cases even human life, and stresses therefore the priority that must be attached to protecting such systems;
+40.  Underlines the importance of guaranteeing equal access for all people to such technological innovations, tools and interventions; calls on the Commission and the Member States to promote the development of assistive technologies in order to facilitate the development and adoption of these technologies by those who need them, in accordance with Article 4 of the UN Convention on the Rights of Persons with Disabilities, to which the Union is party;
+Education and employment 
+41.  Draws attention to the Commission's forecast that by 2020 Europe might be facing a shortage of up to 825 000 ICT professionals and that 90 % of jobs will require at least basic digital skills; welcomes the Commission’s initiative of proposing a roadmap for the possible use and revision of a Digital Competence framework and descriptors of Digital Competences for all levels of learners, and calls upon the Commission to provide significant support for the development of digital abilities in all age groups and irrespective of employment status, as a first step towards better aligning labour market shortages and demand; stresses that the growth in the robotics requires Member States to develop more flexible training and education systems so as to ensure that skill strategies match the needs of the robot economy;
+42.  Considers that getting more young women interested in a digital career and placing  more women in digital jobs would benefit the digital industry, women themselves and Europe's economy; calls on the Commission and the Member States to launch initiatives in order to support women in ICT and to boost their e-skills;
+43.  Calls on the Commission to start analysing and monitoring medium- and long-term job trends more closely, with a special focus on the creation, displacement and loss of jobs in the different fields/areas of qualification in order to know in which fields jobs are being created and those in which jobs are being lost as a result of the increased use of robots;
+44.  Highlights the importance of foreseeing changes to society, bearing in mind the effect that the development and deployment of robotics and AI might have; asks the Commission to analyse different possible scenarios and their consequences on the viability of the social security systems of the Member States;
+45.  Emphasises the importance of the flexibility of skills and of social, creative and digital skills in education; is certain that, in addition to schools imparting academic knowledge, lifelong learning needs to be achieved through lifelong activity;
+46.  Notes the great potential of robotics for the improvement of safety at work by transferring a number of hazardous and harmful tasks from humans to robots, but at the same time, notes their potential for creating a set of new risks owing to the increasing number of human-robot interactions at the workplace; underlines in this regard the importance of applying strict and forward-looking rules for human-robot interactions in order to guarantee health, safety and the respect of fundamental rights at the workplace;
+Environmental impact
+47.  Notes that the development of robotics and AI should be done in such a manner that the environmental impact is limited through effective energy consumption, energy efficiency by promoting the use of renewable energy and of scarce materials, and minimal waste, such as electric and electronic waste, and reparability; therefore encourages the Commission to incorporate the principles of a circular economy into any Union policy on robotics; notes that the use of  robotics will also have a positive impact on the environment, especially in the fields of agriculture, food supply and transport, notably through the reduced size of machinery and the reduced use of fertilizers, energy and water, as well as through precision farming and route optimisation;
+48.  Stresses that CPS will lead to the creation of energy and infrastructure systems that are able to control the flow of electricity from producer to consumer, and will also result in the creation of energy ‘prosumers’, who both produce and consume energy; thus allowing for major environmental benefits;
+Liability
+49.  Considers that the civil liability for damage caused by robots is a crucial issue which also needs to be analysed and addressed at Union level in order to ensure the same degree of efficiency, transparency and consistency in the implementation of  legal certainty throughout the European Union for the benefit of citizens, consumers and businesses alike;
+50.  Notes that development of robotics technology will require more understanding for the common ground needed around joint human-robot activity, which should be based on two core interdependent relationships, namely predictability and directability; points out that these two interdependent relationships are crucial for determining what information need to be shared between humans and robots and how a common basis between humans and robots can be achieved in order to enable smooth human-robot joint action;
+51.  Asks the Commission to submit, on the basis of Article 114 TFEU, a proposal for a legislative instrument on legal questions related to the development and use of robotics and AI foreseeable in the next 10 to 15 years, combined with non-legislative instruments such as guidelines and codes of conduct as referred to in recommendations set out in the Annex;
+52.  Considers that, whatever legal solution it applies to the civil liability for damage caused by robots in cases other than those of damage to property, the future legislative instrument should in no way restrict the type or the extent of the damages which may be recovered, nor should it limit the forms of compensation which may be offered to the aggrieved party, on the sole grounds that damage is caused by a non-human agent;
+53.  Considers that the future legislative instrument should be based on an in-depth evaluation by the Commission determining whether the strict liability or the risk management approach should be applied;
+54.  Notes at the same time that strict liability requires only proof that damage has occurred and the establishment of a causal link between the harmful functioning of the robot and the damage suffered by the injured party;
+55.  Notes that the risk management approach does not focus on the person "who acted negligently" as individually liable but on the person who is able, under certain circumstances, to minimise risks and deal with negative impacts;
+56.  Considers that, in principle, once the parties bearing the ultimate responsibility  have been identified, their liability should be proportional to the actual level of instructions given to the robot and of its degree of autonomy, so that the greater a robot's learning capability or autonomy, and the longer a robot's training, the greater the responsibility of its trainer should be; notes, in particular, that skills resulting from “training” given to a robot should be not confused with skills depending strictly on its self-learning abilities when seeking to identify the person to whom the robot's harmful behaviour is actually attributable; notes that at least at the present stage the responsibility must lie with a human and not a robot;
+57.  Points out that a possible solution to the complexity of allocating responsibility for damage caused by increasingly autonomous robots could be an obligatory insurance scheme, as is already the case, for instance, with cars; notes, nevertheless, that unlike the insurance system for road traffic, where the insurance covers human acts and failures, an insurance system for robotics should take into account all potential responsibilities in the chain;
+58.  Considers that, as is the case with the insurance of motor vehicles, such an insurance system could be supplemented by a fund in order to ensure that reparation can be made for damage in cases where no insurance cover exists; calls on the insurance industry to develop new products and types of offers that are in line with the advances in robotics;
+59.  Calls on the Commission, when carrying out an impact assessment of its future legislative instrument, to explore, analyse and consider the implications of all possible legal solutions, such as:
+
+
+  
+a)
+establishing a compulsory insurance scheme where relevant and necessary for specific categories of robots whereby, similarly to what already happens with cars, producers, or owners of robots would be required to take out insurance cover for the damage potentially caused by their robots;
+
+  
+b)
+ensuring that a compensation fund would not only serve the purpose of guaranteeing compensation if the damage caused by a robot was not covered by  insurance;
+
+  
+c)
+allowing the manufacturer, the programmer, the owner or the user to benefit from limited liability if they contribute to a compensation fund, as well as if they jointly take out insurance to guarantee compensation where damage is caused by a robot;
+
+  
+d)
+deciding whether to create a general fund for all smart autonomous robots or to create an individual fund for each and every robot category, and whether a contribution should be paid as a one-off fee when placing the robot on the market or whether periodic contributions should be paid during the lifetime of the robot;
+
+  
+e)
+ensuring that the link between a robot and its fund would be made visible by an individual registration number appearing in a specific Union register, which would allow anyone interacting with the robot to be informed about the nature of the fund, the limits of its liability in case of damage to property, the names and the functions of the contributors and all other relevant details;
+
+  
+f)
+creating a specific legal status for robots in the long run, so that at least the most sophisticated autonomous robots could be established as having the status of electronic persons responsible for making good any damage they may cause, and possibly applying electronic personality to cases where robots make autonomous decisions or otherwise interact with third parties independently;
+International aspects
+60.  Notes that current general private international law rules on traffic accidents applicable within the Union do not urgently need substantive modification to accommodate the development of autonomous vehicles, however, simplifying the current dual system for defining applicable law (based on Regulation (EC) No 864/2007 of the European Parliament and of the Council(7) and the Hague Convention of 4 May 1971 on the law applicable to traffic accidents) would improve legal certainty and limit possibilities for forum shopping;
+61.  Notes the need to consider amendments to international agreements such as the Vienna Convention on Road Traffic of 8 November 1968 and the Hague Convention on the law applicable to traffic accidents;
+62.  Expects the Commission to ensure that Member States implement international law, such as the Vienna Convention on Road Traffic, which needs to be amended, in a uniform manner in order to make driverless driving possible, and calls on the Commission, the Member States and the industry to implement the objectives of the Amsterdam Declaration as soon as possible;
+63.  Strongly encourages international cooperation in the scrutiny of societal, ethical and legal challenges and thereafter setting regulatory standards under the auspices of the United Nations;
+64.  Points out that the restrictions and conditions laid down in Regulation (EC) No 428/2009 of the European Parliament and of the Council(8) on the trade in dual-use items – goods, software and technology that can be used for both civilian and military applications and/or can contribute to the proliferation of weapons of mass destruction – should apply to applications of robotics as well;
+Final aspects
+65.  Requests, on the basis of Article 225 TFEU, the Commission to submit, on the basis of Article 114 TFEU, a proposal for a directive on civil law rules on robotics, following the recommendations set out in the Annex hereto;
+66.  Confirms that the recommendations respect fundamental rights and the principle of subsidiarity;
+67.  Considers that the requested proposal would have financial implications if a new European agency is set up;
+oo   o
+68.  Instructs its President to forward this resolution and the accompanying recommendations to the Commission and the Council.
+
+(1) Council Directive 85/374/EEC of 25 July 1985 on the approximation of the laws, regulations and administrative provisions of the Member States concerning liability for defective products (OJ L 210, 7.8.1985, p. 29).
+(2) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L, 119 4.5.2016, p. 1).
+(3) (1) A robot may not injure a human being or, through inaction, allow a human being to come to harm. (2) A robot must obey the orders given it by human beings except where such orders would conflict with the First Law. (3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws (See: I.Asimov, Runaround, 1943) and (0) A robot may not harm humanity, or, by inaction, allow humanity to come to harm.
+(4) Cf. the Schuman Declaration (1950): "Europe will not be made all at once, or according to a single plan. It will be built through concrete achievements which first create a de facto solidarity."
+(5) Texts adopted, P8_TA(2015)0390.
+(6) Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).
+(7) Regulation (EC) No 864/2007 of the European Parliament and of the Council of 11 July 2007 on the law applicable to non-contractual obligations (Rome II) (OJ L 199, 31.7.2007, p. 40).
+(8) Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (OJ L 134, 29.5.2009, p. 1).
+
+ ANNEX TO THE RESOLUTION:
+
+ RECOMMENDATIONS AS TO THE CONTENT OF THE PROPOSAL REQUESTED
+Definition and classification of 'smart robots'
+A common European definition for smart autonomous robots should be established, where appropriate including definitions of its subcategories, taking into consideration the following characteristics:
+–  the capacity to acquire autonomy through sensors and/or by exchanging data with its environment (inter-connectivity) and the analysis of those data;
+–  the capacity to learn through experience and interaction;
+–  the form of the robot’s physical support;
+–  the capacity to adapt its behaviour and actions to the environment.
+Registration of smart robots
+For the purposes of traceability and in order to facilitate the implementation of further recommendations, a system of registration of advanced robots should be introduced, based on the criteria established for the classification of robots. The system of registration and the register should be Union-wide, covering the internal market, and could be managed by a designated EU Agency for Robotics and Artificial Intelligence in case such an Agency is created.
+Civil law liability 
+Any chosen legal solution applied to the liability of robots and of artificial intelligence in cases other than those of damage to property should in no way restrict the type or the extent of the damages which may be recovered, nor should it limit the forms of compensation which may be offered to the aggrieved party on the sole grounds that damage is caused by a non-human agent.
+The future legislative instrument should be based on an in-depth evaluation by the Commission defining whether the strict liability or the risk management approach should be applied.
+An obligatory insurance scheme, which could be based on the obligation of the producer to take out insurance for the autonomous robots it produces, should be established.
+The insurance system should be supplemented by a fund in order to ensure that damages can be compensated for in cases where no insurance cover exists.
+Any policy decision on the civil liability rules applicable to robots and artificial intelligence should be taken with due consultation of a European-wide research and development project dedicated to robotics and neuroscience, with scientists and experts able to assess all related risks and consequences;
+Interoperability, access to code and intellectual property rights
+The interoperability of network-connected autonomous robots that interact with each other should be ensured. Access to the source code, input data, and construction details should be available when needed, to investigate accidents and damage caused by smart robots, as well as in order to ensure their continued operation, availability, reliability, safety and security.
+Charter on Robotics
+The Commission, when proposing legal acts relating to robotics, should take into account the principles enshrined in the following Charter on Robotics.
+CHARTER ON ROBOTICS
+The proposed code of ethical conduct in the field of robotics will lay the groundwork for the identification, oversight and compliance with fundamental ethical principles from the design and development phase.
+The framework, drafted in consultation with a European-wide research and development project dedicated to robotics and neuroscience, must be designed in a reflective manner that allows individual adjustments to be made on a case-by-case basis in order to assess whether a given behaviour is right or wrong in a given situation and to take decisions in accordance with a pre-set hierarchy of values.
+The code should not replace the need to tackle all major legal challenges in this field, but should have a complementary function. It will, rather, facilitate the ethical categorisation of robotics, strengthen the responsible innovation efforts in this field and address public concerns.
+Special emphasis should be placed on the research and development phases of the relevant technological trajectory (design process, ethics review, audit controls, etc.). It should aim to address the need for compliance by researchers, practitioners, users and designers with ethical standards, but also introduce a procedure for devising a way to resolve the relevant ethical dilemmas and to allow these systems to function in an ethically responsible manner.
+CODE OF ETHICAL CONDUCT FOR ROBOTICS ENGINEERS
+PREAMBLE
+The Code of Conduct invites all researchers and designers to act responsibly and with absolute consideration for the need to respect the dignity, privacy and safety of humans.
+The Code asks for close cooperation among all disciplines in order to ensure that robotics research is undertaken in the European Union in a safe, ethical and effective manner.
+The Code of Conduct covers all research and development activities in the field of robotics.
+The Code of Conduct is voluntary and offers a set of general principles and guidelines for actions to be taken by all stakeholders.
+Robotics research funding bodies, research organisations, researchers and ethics committees are encouraged to consider, at the earliest stages, the future implications of the technologies or objects being researched and to develop a culture of responsibility with a view to the challenges and opportunities that may arise in the future.
+Public and private robotics research funding bodies should request that a risk assessment be performed and presented along with each submission of a proposal for funding for robotics research. Such a code should consider humans, not robots, as the responsible agents.
+Researchers in the field of robotics should commit themselves to the highest ethical and professional conduct and abide by the following principles:
+Beneficence – robots should act in the best interests of humans;
+Non-maleficence – the doctrine of ‘first, do no harm’, whereby robots should not harm a human;
+Autonomy – the capacity to make an informed, un-coerced decision about the terms of interaction with robots;
+Justice – fair distribution of the benefits associated with robotics and affordability of homecare and healthcare robots in particular.
+Fundamental Rights
+Robotics research activities should respect fundamental rights and be conducted in the interests of the well-being and self-determination of the individual and society at large in their design, implementation, dissemination and use. Human dignity and autonomy – both physical and psychological – is always to be respected.
+Precaution
+Robotics research activities should be conducted in accordance with the precautionary principle, anticipating potential safety impacts of outcomes and taking due precautions, proportional to the level of protection, while encouraging progress for the benefit of society and the environment.
+Inclusiveness
+Robotics engineers guarantee transparency and respect for the legitimate right of access to information by all stakeholders. Inclusiveness allows for participation in decision-making processes by all stakeholders involved in or concerned by robotics research activities.
+Accountability
+Robotics engineers should remain accountable for the social, environmental and human health impacts that robotics may impose on present and future generations.
+Safety
+Robot designers should consider and respect people’s physical wellbeing, safety, health and rights. A robotics engineer must preserve human wellbeing, while also respecting human rights, and disclose promptly factors that might endanger the public or the environment.
+Reversibility
+Reversibility, being a necessary condition of controllability, is a fundamental concept when programming robots to behave safely and reliably. A reversibility model tells the robot which actions are reversible and how to reverse them if they are. The ability to undo the last action or a sequence of actions allows users to undo undesired actions and get back to the ‘good’ stage of their work.
+Privacy
+The right to privacy must always be respected. A robotics engineer should ensure that private information is kept secure and only used appropriately. Moreover, a robotics engineer should guarantee that individuals are not personally identifiable, aside from exceptional circumstances and then only with clear, unambiguous informed consent. Human informed consent should be pursued and obtained prior to any man-machine interaction. As such, robotics designers have a responsibility to develop and follow procedures for valid consent, confidentiality, anonymity, fair treatment and due process. Designers will comply with any requests that any related data be destroyed, and removed from any datasets.
+Maximising benefit and minimising harm
+Researchers should seek to maximise the benefits of their work at all stages, from inception through to dissemination. Harm to research participants, human subject, an experiment, trial, or study participant or subject must be avoided. Where risks arise as an unavoidable and integral element of the research, robust risk assessment and management protocols should be developed and complied with. Normally, the risk of harm should be no greater than that encountered in ordinary life, i.e. people should not be exposed to risks greater than or additional to those to which they are exposed in their normal lifestyles. The operation of a robotics system should always be based on a thorough risk assessment process, which should be informed by the precautionary and proportionality principles.
+CODE FOR RESEARCH ETHICS COMMITTEES (REC)
+Principles
+Independence
+The ethics review process should be independent of the research itself. This principle highlights the need to avoid conflicts of interest between researchers and those reviewing the ethics protocol, and between reviewers and organisational governance structures.
+Competence
+The ethics review process should be conducted by reviewers with appropriate expertise, taking into account the need for careful consideration of the range of membership and ethics‑specific training of RECs.
+Transparency and accountability
+The review process should be accountable and open to scrutiny. RECs need to recognise their responsibilities and to be appropriately located within organisational structures that give transparency to the REC operation and procedures to maintain and review standards.
+The role of a Research Ethics Committee 
+A REC is normally responsible for reviewing all research involving human participants conducted by individuals employed within or by the institution concerned; ensuring that ethics review is independent, competent and timely; protecting the dignity, rights and welfare of research participants; considering the safety of the researcher(s); considering the legitimate interests of other stakeholders; making informed judgements of the scientific merit of proposals; and making informed recommendations to the researcher if the proposal is found to be wanting in some respect.
+The constitution of a Research Ethics Committee
+A REC should normally be multidisciplinary; include both men and women; be comprised of members with a broad experience of and expertise in the area of robotics research. The appointment mechanism should ensure that the committee members provide an appropriate balance of scientific expertise, philosophical, legal or ethical backgrounds, and lay views, and that they include at least one member with specialist knowledge in ethics, users of specialist health, education or social services where these are the focus of research activities, and individuals with specific methodological expertise relevant to the research they review; and they must be so constituted that conflicts of interest are avoided.
+Monitoring
+All research organisations should establish appropriate procedures to monitor the conduct of research which has received ethics approval until it is completed, and to ensure continuing review where the research design anticipates possible changes over time that might need to be addressed. Monitoring should be proportionate to the nature and degree of risk associated with the research. Where a REC considers that a monitoring report raises significant concerns about the ethical conduct of the study, it should request a full and detailed account of the research for full ethics review. Where it is judged that a study is being conducted unethically, the withdrawal of its approval should be considered and its research should be suspended or discontinued.
+LICENCE FOR DESIGNERS
+–  You should take into account the European values of dignity, autonomy and self-determination, freedom and justice before, during and after the process of design, development and delivery of such technologies including the need not to harm, injure, deceive or exploit (vulnerable) users.
+–  You should introduce trustworthy system design principles across all aspects of a robot’s operation, for both hardware and software design, and for any data processing on or off the platform for security purposes.
+–  You should introduce privacy by design features so as to ensure that private information is kept secure and only used appropriately.
+–  You should integrate obvious opt-out mechanisms (kill switches) that should be consistent with reasonable design objectives.
+–  You should ensure that a robot operates in a way that is in accordance with local, national and international ethical and legal principles.
+–  You should ensure that the robot’s decision-making steps are amenable to reconstruction and traceability.
+–  You should ensure that maximal transparency is required in the programming of robotic systems, as well as predictability of robotic behaviour.
+–  You should analyse the predictability of a human-robot system by considering uncertainty in interpretation and action and possible robotic or human failures.
+–  You should develop tracing tools at the robot’s design stage. These tools will facilitate accounting and explanation of robotic behaviour, even if limited, at the various levels intended for experts, operators and users.
+–  You should draw up design and evaluation protocols and join with potential users and stakeholders when evaluating the benefits and risks of robotics, including cognitive, psychological and environmental ones.
+–  You should ensure that robots are identifiable as robots when interacting with humans.
+–  You should safeguard the safety and health of those interacting and coming in touch with robotics, given that robots as products should be designed using processes which ensure their safety and security. A robotics engineer must preserve human wellbeing while also respecting human rights and may not deploy a robot without safeguarding the safety, efficacy and reversibility of the operation of the system.
+–  You should obtain a positive opinion from a Research Ethics Committee before testing a robot in a real environment or involving humans in its design and development procedures.
+LICENCE FOR USERS
+–  You are permitted to make use of a robot without risk or fear of physical or psychological harm.
+–  You should have the right to expect a robot to perform any task for which it has been explicitly designed.
+–  You should be aware that any robot may have perceptual, cognitive and actuation limitations.
+–  You should respect human frailty, both physical and psychological, and the emotional needs of humans.
+–  You should take the privacy rights of individuals into consideration, including the deactivation of video monitors during intimate procedures.
+–  You are not permitted to collect, use or disclose personal information without the explicit consent of the data subject.
+–  You are not permitted to use a robot in any way that contravenes ethical or legal principles and standards.
+–  You are not permitted to modify any robot to enable it to function as a weapon.Legal notice - Privacy policy

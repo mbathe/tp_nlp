@@ -1,0 +1,1149 @@
+
+
+
+
+
+
+5 Reflections | Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report | The National Academies Press
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logo for the National Academies Press
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Login
+
+
+
+ Register
+
+
+
+ Cart
+
+
+
+ Help
+
+
+
+
+
+
+Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report
+(2018)
+
+Chapter: 5 Reflections
+
+
+
+
+Get This Book
+
+
+
+
+
+
+            Visit NAP.edu/10766 to get more information about this book, to buy it in print, or to download it as a free PDF.
+    
+
+
+
+
+Looking for other ways to read this?
+
+
+
+
+
+
+ 
+
+
+IN ADDITION TO READING ONLINE, THIS TITLE IS AVAILABLE IN THESE FORMATS:
+
+
+PDF
+FREE
+Download 
+
+Ebook
+$14.99
+Add to Cart 
+
+
+ MyNAP members SAVE 10% off online.
+            Not a MyNAP member yet?  Register for a free account  to start saving and receiving special member only perks.  
+
+
+No thanks. I’ll keep reading 
+
+
+ 
+
+
+
+
+
+ Contents
+
+
+
+
+
+Chapter
+
+
+
+
+
+
+
+
+Page
+
+of 52
+
+
+
+
+
+
+
+ Original Pages
+ Text Pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+About This Book
+
+
+
+
+
+
+« Previous: 4 Broad Participation in Data Science
+
+
+
+
+Page 31 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+5
+
+  Reflections
+Given the wide-ranging applications, potential impacts, and important implications for society, the committee began its reflections on the future of data science with aspects of ethical conduct as part of a broader set of skills and capacities.
+HIPPOCRATIC OATH
+Emerging data science technologies and methodologies (1) blur differences between “public” and “private” data, (2) offer more widespread access to data and related tools, (3) influence and affect society at large, and (4) create greater opportunities for deeper insights through the use and integration of multiple data sources. As a result, data ethics take on an ever more prominent role in both data science curricula and data science practice.
+The Hippocratic Oath, which details the ideal conduct of physicians in terms of their treatment of patients and interactions with colleagues, has historically been affirmed by physicians to acknowledge their understanding of key ethical principles for their profession (Box 5.1). Similarly, the Canadian “Calling of an Engineer” ceremony for engineering graduates helps establish shared moral and social responsibilities (NSPE, 2009). The pervasive impact of data science suggests that a similar oath would be beneficial for data scientists, whose work has a direct impact on individuals throughout society and on the advancement of the body of scientific knowledge. Data science students learn to solve complex problems in the world and use data to make decisions, while understanding limitations of data sets and methods.
+An oath of this sort may be helpful in formalizing the role of data ethics and to inspire future data scientists to practice with honor, “do[ing] no harm” to the subjects involved in or affected by their work. This oath also formalizes the professional role of the data scientist, offering guidance on appropriate conduct to those entering the field and encouraging collaboration across diverse communities.
+What might a Hippocratic Oath for data science include? To explore this question, the committee developed the text in Box 5.2 as a preliminary form of a possible pledge for future data scientists. The proposed Data Science Oath highlights aspects of data ethics and the value of incorporating societal impact as part of data science education.
+SUMMARY OF PRELIMINARY COMMITTEE FINDINGS AND OPEN QUESTIONS
+At the midpoint of its study, the committee finds that it is important that data science education incorporate real data, broad impact applications, commonly deployed methods, and ethical considerations, as well as provide support for work in teams. Other critical content areas include data description and curation, mathematical foundations, computational thinking, statistical thinking, data modeling, computing, reproducibility, and data ethics. Students would also benefit from developing deep analytic and communication skills so as to better work with large, complex data sets and engage with diverse audiences about real-world problems that data science can help solve. All of these promote the
+
+
+
+
+
+Page 32 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOX 5.1
+          Hippocratic Oath
+I swear to fulfill, to the best of my ability and judgment, this covenant:
+I will respect the hard-won scientific gains of those physicians in whose steps I walk, and gladly share such knowledge as is mine with those who are to follow.
+I will apply, for the benefit of the sick, all measures which are required, avoiding those twin traps of overtreatment and therapeutic nihilism.
+I will remember that there is art to medicine as well as science, and that warmth, sympathy, and understanding may outweigh the surgeon’s knife or the chemist’s drug.
+I will not be ashamed to say “I know not,” nor will I fail to call in my colleagues when the skills of another are needed for a patient’s recovery.
+I will respect the privacy of my patients, for their problems are not disclosed to me that the world may know. Most especially must I tread with care in matters of life and death. If it is given me to save a life, all thanks. But it may also be within my power to take a life; this awesome responsibility must be faced with great humbleness and awareness of my own frailty. Above all, I must not play at God.
+I will remember that I do not treat a fever chart, a cancerous growth, but a sick human being, whose illness may affect the person’s family and economic stability. My responsibility includes these related problems, if I am to care adequately for the sick. I will prevent disease whenever I can, for prevention is preferable to cure.
+I will remember that I remain a member of society, with special obligations to all my fellow human beings, those sound of mind and body as well as the infirm.
+If I do not violate this oath, may I enjoy life and art, respected while I live and remembered with affection thereafter. May I always act so as to preserve the finest traditions of my calling and may I long experience the joy of healing those who seek my help.
+_________________________
+SOURCE: L.C. Lasagna, 1964, Hippocratic Oath, Modern Version, Johns Hopkins Sheridan Libraries and University Museums, http://guides.library.jhu.edu/c.php?g=202502&p=1335759.
+
+
+BOX 5.2
+          Data Science Oath
+I swear to fulfill, to the best of my ability and judgment, this covenant:
+I will respect the hard-won scientific gains of those data scientists in whose steps I walk and gladly share such knowledge as is mine with those who follow.
+I will apply, for the benefit of society, all measures which are required, avoiding those twin traps of data-fishing and analytic nihilism.
+I will remember that there is art to data science as well as science, and that consistency, candor and compassion should outweigh the algorithm’s precision or the interventionists influence.
+I will not be ashamed to say, “I know not,” nor will I fail to call in my colleagues when the skills of another are needed for solving a problem.
+I will respect the privacy of my data subjects, for their problems are not disclosed to me that the world may know, so I will tread with care in matters of privacy and security. If it is given to me to save life with my analyses, all thanks. But it may also be within my power to do harm and this responsibility must be faced with humbleness and awareness of my own limitations.
+I will remember that my data are not just numbers without meaning or context, but represent real people and situations and that my work may lead to unintended societal consequences, such as inequality, poverty, and disparities due to algorithmic bias. My responsibility must consider potential consequences of my extraction of meaning from data and ensure my analyses help make better decisions.
+I will do personalization where appropriate, but I will always look for a path to fair treatment and non-discrimination.
+I will remember that I remain a member of society, with special obligations to all my fellow human beings, those who need help and those who don’t.
+If I do not violate this oath, may I enjoy vitality and virtuosity, respected for my contributions and remembered for my leadership thereafter. May I always act to preserve the finest traditions of my calling and may I long experience the joy of helping those who seek my help.
+
+
+
+
+development of data acumen. Highly trained and flexible faculty, innovative cross-disciplinary pedagogical approaches, and diverse participation would enhance learning experiences. Such programs’ successes can then be evaluated and assessed using the very tools of experimental design and analysis common in the field of data science.
+The findings from the preceding chapters are restated below along with key questions on which the committee would like to gather public input.
+Finding 2.1: A critical component of data science education is to guide students to develop data acumen. This requires exposure to key concepts in data science, real-world data and problems that can reinforce the limitations of tools, and ethical considerations that permeate many applications. Key concepts related to developing data acumen include the following:
+
+
+Mathematical foundations,
+Computational thinking,
+Statistical thinking,
+Data management,
+
+
+
+
+
+
+
+Page 33 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+Data description and curation,
+Data modeling,
+Ethical problem solving,
+Communication and reproducibility, and
+Domain-specific considerations.
+
+
+The necessary levels of exposure to each area will vary based on the overall objectives and duration of the data science program as well as the goals for the students.
+Questions
+
+Which key components should be included in data science curriculum, both now and in the future?
+How could these components be prioritized or best conveyed for differing types of data science programs?
+How can opportunities to enhance data acumen (i.e., the ability to make good judgments and decisions with data) be integrated into data science educational programs?
+How can data acumen be measured or evaluated?
+
+Finding 2.2: It is important for data science education to incorporate real data, broad impact applications, and commonly deployed methods.
+Questions
+
+How can partnerships between industry and educational programs be encouraged?
+Could a focus on real problems serve as a means to attracting more diverse students?
+How can students gain access to real-world data sets?
+
+Finding 2.3: Incorporating ethics into an undergraduate data science program provides students with valuable skills that can be applied to complex, human-centered questions across disciplines.
+Questions
+
+How can ethical considerations be best incorporated throughout the data science curriculum?
+How can students be taught to apply ethical decision making throughout the problem-solving process?
+
+Finding 2.4: Strong oral and written communication skills and the ability to work well in multidisciplinary teams are critical to students’ success in data science.
+Questions
+
+How can communication and teamwork be fostered in data science programs?
+What type of multidisciplinary teams serve as effective models for the real world? Will these groupings be different in the future?
+
+Finding 3.1: Data science curricula are enhanced by bringing together faculty from different disciplines, utilizing diverse pedagogical approaches, and building upon existing educational programs.
+Questions
+
+What are known good practices for fostering collaboration between departments and existing programs?
+What new directions and opportunities exist for new curricular initiatives?
+
+
+
+
+
+
+Page 34 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+
+What pedagogical approaches are particularly relevant to data science, both now and in the future?
+
+Finding 3.2: Structured faculty training, meaningful incentives, and available time and funding to support curriculum development are all crucial to preparing faculty for data science education.
+Questions
+
+What types of training would be beneficial to faculty?
+How could incentives be restructured to encourage more faculty development in data science?
+
+Finding 3.3: Data science programs often adapt to the existing infrastructure and organizational structure of an academic institution, but infrastructure innovations by the institution (e.g., in data provision, data and code access, and data documentation) can help data science programs be more collaborative and multidisciplinary.
+Questions
+
+What are current infrastructure obstacles and how can they be rethought going forward?
+How could organizational structures be modified and/or incentives added to encourage data science collaboration and innovation?
+
+Finding 3.4: To keep up with the quickly evolving field of data science and recruit students with more diverse backgrounds, educational approaches in data science need to be flexible in terms of what concepts, skills, tools, and methods are taught; how students are recruited; and how departments and programs collaborate to provide a full data science experience to students.
+Questions
+
+How can data science programs build in flexibility and adaptability so they can be most responsive to changes in the field?
+How can flexibility encourage more diverse students?
+
+Finding 4.1: Data science has the potential to draw in a diverse set of students and build in broad participation from the onset, rather than trying to broaden participation later. However, strategies are needed to recruit and retain these students.
+Questions
+
+How can broad participation, diversity, and inclusion be ingrained in data science programs?
+What strategies to recruit and retain diverse students can data science programs deploy, and what examples can inform these efforts?
+
+Finding 4.2: Partnerships between 2- and 4-year institutions provide a valuable opportunity to develop innovative curricula, reach more diverse student populations, and expand the reach of data science education.
+Questions
+
+How can partnerships between 2- and 4-year institutions be facilitated?
+How do the skills and concepts taught at a 2-year institution vary based on students’ goals?
+What aspects of data science education are appropriate and feasible to develop at 2-year institutions?
+
+Finding 4.3: Data science programs would benefit from ongoing curricular evaluation, especially with respect to how well curricular objectives are being met and the degree of curricular
+
+
+
+
+
+Page 35 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+integration. Taking a cue from its own domain, these data could be used to inform data science instruction and curriculum.
+Questions
+
+What evaluation and assessment objectives are currently being used in data science programs, and how will these differ in the future?
+What best practices in evaluation and assessment can inform data science programs?
+What data are available to evaluate the effectiveness of different data science approaches?
+What standard evaluation approaches should be adopted?
+
+INPUT NEEDED
+The committee seeks input from the growing data science community and the public on the following topics:
+
+Additional content for its study, including but not limited to case studies from institutions providing data science education, innovative ways to bring researchers together, best practices for program evaluation, and ideas for future topical webinars;
+The proposed Data Science Oath outlined at the beginning of this chapter; and
+The questions posed in the previous section.
+
+Please visit the following webpage to provide input: http://www.nas.edu/EnvisioningDS.
+
+
+
+
+
+Page 36 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+This page intentionally left blank.
+
+
+
+
+
+
+
+
+Page 31 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+Page 32 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+Page 33 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+Page 34 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+Page 35 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+Page 36 
+
+
+
+
+Share
+
+
+
+Cite
+
+
+
+
+
+
+Suggested Citation:"5 Reflections." National Academies of Sciences, Engineering, and Medicine.  2018. Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report. Washington, DC: The National Academies Press. doi: 10.17226/24886.      ×
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+Next: References »
+
+
+
+
+
+The National Academies of Sciences, Engineering, and Medicine 
+        500 Fifth Street, NW | Washington, DC 20001
+      
+
+Copyright © 2024  National Academy of Sciences. All rights reserved.
+Terms of Use and Privacy Statement
+
+
+
+
+
+
+      Envisioning the Data Science Discipline: The Undergraduate Perspective: Interim Report
+    
+
+      Get This Book
+    
+×
+
+
+
+
+
+
+Buy Ebook | $14.99
+
+            MyNAP members save 10% online. 
+Login or Register to save!
+          
+Download Free PDF
+
+
+The need to manage, analyze, and extract knowledge from data is pervasive across industry, government, and academia. Scientists, engineers, and executives routinely encounter enormous volumes of data, and new techniques and tools are emerging to create knowledge out of these data, some of them capable of working with real-time streams of data. The nation's ability to make use of these data depends on the availability of an educated workforce with necessary expertise. With these new capabilities have come novel ethical challenges regarding the effectiveness and appropriateness of broad applications of data analyses.
+The field of data science has emerged to address the proliferation of data and the need to manage and understand it. Data science is a hybrid of multiple disciplines and skill sets, draws on diverse fields (including computer science, statistics, and mathematics), encompasses topics in ethics and privacy, and depends on specifics of the domains to which it is applied. Fueled by the explosion of data, jobs that involve data science have proliferated and an array of data science programs at the undergraduate and graduate levels have been established. Nevertheless, data science is still in its infancy, which suggests the importance of envisioning what the field might look like in the future and what key steps can be taken now to move data science education in that direction.
+This study will set forth a vision for the emerging discipline of data science at the undergraduate level. This interim report lays out some of the information and comments that the committee has gathered and heard during the first half of its study, offers perspectives on the current state of data science education, and poses some questions that may shape the way data science education evolves in the future. The study will conclude in early 2018 with a final report that lays out a vision for future data science education.
+READ FREE ONLINE
+
+
+ 
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+Front Matter
+
+i–xvi
+
+
+
+
+
+
+
+
+Summary
+
+1–4
+
+
+
+
+
+
+
+
+1 Introduction
+
+5–9
+
+
+
+
+
+
+
+
+2 Acquiring Data Science Skills and Knowledge
+
+10–18
+
+
+
+
+
+
+
+
+3 Data Science Education in the Future
+
+19–25
+
+
+
+
+
+
+
+
+4 Broad Participation in Data Science
+
+26–30
+
+
+
+
+
+
+
+
+5 Reflections
+
+31–36
+
+
+
+
+
+
+
+
+References
+
+37–40
+
+
+
+
+
+
+
+
+Appendixes
+
+41–42
+
+
+
+
+
+
+
+
+Appendix A: Biographies of the Committee
+
+43–48
+
+
+
+
+
+
+
+
+Appendix B: Meetings and Presentations
+
+49–52
+
+
+
+
+
+
+
+
+ 
+
+×
+Welcome to OpenBook!
+You're looking at OpenBook, NAP.edu's online reading room since 1999. Based on feedback from you, our users, we've made some improvements that make it easier than ever to read thousands of publications on our website.
+Do you want to take a quick tour of the OpenBook's features?
+No Thanks
+Take a Tour »
+
+
+×
+Show this book's table of contents, where you can jump to any chapter by name.
+« Back
+Next »
+
+
+×
+...or use these buttons to go back to the previous chapter or skip to the next one.
+« Back
+Next »
+
+
+×
+Jump up to the previous page or down to the next one. Also, you can type in a page number and press Enter to go directly to that page in the book.
+« Back
+Next »
+
+
+×
+Switch between the Original Pages, where you can read the report as it appeared in print, and Text Pages for the web version, where you can highlight and search the text.
+« Back
+Next »
+
+
+×
+To search the entire text of this book, type in your search term here and press Enter.
+« Back
+Next »
+
+
+×
+Share a link to this book page on your preferred social network or via email.
+« Back
+Next »
+
+
+×
+View our suggested citation for this chapter.
+« Back
+Next »
+
+
+×
+Ready to take your reading offline? Click here to buy this book in print or download it as a free PDF, if available.
+« Back
+Next »
+
+ 
+
+Stay Connected!
+
+
+
+
+
+
+Get Email Updates
+×
+Do you enjoy reading reports from the Academies online for free? Sign up for email notifications and we'll let you know about new publications in your areas of interest when they're released.
+
+
+
+
+
+
+    Send me updates!
+
+
+
+
+
+
+
+
+
+
+

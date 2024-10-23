@@ -23,6 +23,7 @@ rake-nltk = "^1.0.6"
 rake-keyword = "^0.0.1"
 spacy = "^3.8.2"
 python-dotenv = "^1.0.1"
+langdetect = "^1.0.9"
 
 
 [build-system]

@@ -3,7 +3,8 @@ import glob
 import shutil
 from langdetect import detect, DetectorFactory
 from collections import defaultdict
-
+from dotenv import load_dotenv
+load_dotenv()
 # Pour rendre la détection reproductible
 DetectorFactory.seed = 0
 
@@ -31,8 +32,8 @@ non_english_files = []
 english_files = []
 
 # Dossier contenant les fichiers texte
-txt_folder = 'txts/'
-output_folder = 'txts_2/'
+txt_folder = os.getenv('TXT_FOLDER')
+output_folder = os.getenv('TXT_FOLDER2')
 
 # Créer le nouveau dossier txts_2 s'il n'existe pas
 if not os.path.exists(output_folder):
@@ -51,8 +52,8 @@ for filepath in glob.glob(os.path.join(txt_folder, '*.txt')):
             text = file.read().strip()  # Retire les espaces inutiles
             # Vérifier que le texte n'est pas vide ou trop court
             if len(text) < 20:  # Si le texte contient moins de 20 caractères, ignorer
-                print(f"Le fichier {
-                      filepath} est trop court ou vide, il est ignoré.")
+                print(
+                    f"Le fichier {filepath} est trop court ou vide, il est ignoré.")
                 continue
             # Détecter la langue du texte
             lang = detect(text)
@@ -84,5 +85,4 @@ else:
     print("\nTous les fichiers sont en anglais.")
 
 # Afficher le nombre de fichiers copiés dans txts_2
-print(f"\n{len(english_files)} fichiers anglais ont été copiés dans {
-      output_folder}.")
+print(f"\n{len(english_files)} fichiers anglais ont été copiés dans {output_folder}.")
