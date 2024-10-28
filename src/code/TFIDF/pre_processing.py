@@ -1,43 +1,31 @@
 import textacy
-import glob
-import os
 from tqdm import tqdm
 import re
 from nltk.corpus import stopwords
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
-from nltk.tokenize import sent_tokenize
 from collections import defaultdict
-from rake_nltk import Rake
 from nltk.tokenize import word_tokenize
 import spacy
 from dotenv import load_dotenv
 load_dotenv()
 
 class Processing:
-    def __init__(self, log_file=None, corpus_dir="preprocessed", corpus_file="corpus.txt", mean_score=False, n_grams=2, min_n_gram_freq=2):
+    def __init__(self, log_file=None, documents=[], corpus_dir="preprocessed", mean_score=False, n_grams=2, min_n_gram_freq=2):
         self.log_file = log_file
         self.corpus_dir = corpus_dir
         self.tokens = set()
         self.corpus = ""
-        self.corpus_file = corpus_file
         self.tf_idf_dict = []
         self.document_token = {}
         self.number_of_tokens = 0
-        self.documents = []
+        self.documents = documents
         self.vec = None
         self.n_grams = n_grams
         self.mean_score = mean_score
         self.min_n_gram_freq = min_n_gram_freq
 
     def process_corpus(self):
-        corpus_text = ""
-        for file in tqdm(glob.glob(os.path.join(os.getenv('TXT_FOLDER2'), "*.txt"))):
-            with open(file, "r", encoding="utf-8") as f:
-                corpus_text += " "+f.read().strip().lower()
-
-        self.documents = sent_tokenize(corpus_text)
-        # self.corpus = corpus_text
         stop_words = set(stopwords.words('english'))
         document_count = len(self.documents)
         token_doc_count = defaultdict(int)
@@ -49,8 +37,6 @@ class Processing:
                 "",
                 full_content
             )
-
-
             doc = nlp(content)
             ngrams = list(textacy.extract.basics.ngrams(
                 doc, self.n_grams, min_freq=self.min_n_gram_freq))
@@ -91,21 +77,19 @@ class Processing:
                                    key=lambda item: item[1], reverse=True))
         return dictionnaire
 
-    def compare_tokens_found(self):
-        # Lire le corpus
-        with open(self.corpus_file, "r", encoding="utf-8") as f:
-            corpus_text = f.read().strip().lower()
+    def get_resume_docs(self, top_n, number_key_words=10):
+        docs_scores = np.zeros(len(self.documents))
+        tokens_tf_idf_scores = self.get_key_words()
+        key_words = list(tokens_tf_idf_scores.keys())[:number_key_words]
+        for i in range(len(self.documents)):
+            doc_score = 0
+            for token in [word for word in self.tf_idf_dict[i].keys() if word in key_words]:
+                if token in self.tokens:
+                    doc_score += tokens_tf_idf_scores[token]
+            docs_scores[i] = doc_score
+        docs_indices = np.argsort(docs_scores)[::-1][:top_n]
+        return docs_indices, np.array([self.documents[i] for i in docs_indices])
 
-        r = Rake()
-
-        # To get keyword phrases ranked highest to lowest.
-        corpus_text = re.sub(
-            r'(#\S+|@\S+|\S*@\S*\s?|http\S+|[^A-Za-z0-9]\'\'|\d+|<[^>]*>|[^A-Za-z0-9\' ]+)',
-            "",
-            corpus_text
-        )
-        r.extract_keywords_from_text(corpus_text)
-        return r.get_ranked_phrases_with_scores()
 
     def tfidf_filter(self):
         vectorizer = TfidfVectorizer()
@@ -122,5 +106,4 @@ class Processing:
         median_tfidf = np.quantile(tfidf_values, 0.5)
         mask = tfidf_values > median_tfidf
         words_to_keep = vectorizer.get_feature_names_out()[mask]
-        # print(type(words_to_keep))
         return words_to_keep
