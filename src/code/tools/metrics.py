@@ -18,11 +18,10 @@ def calculate_metrics(relevant_indices, retrieved_indices):
     fn = len(relevant_set - retrieved_set)               # False Negatives
     tn = 0  # Supposons que nous n'avons pas d'informations sur les vrais négatifs
 
-    # Calcul des métriques
     prec = precision(tp, fp)
     rec = recall(tp, fn)
     f1 = f_measure(prec, rec)
-    spec = specificity(tn, fp)  # Spécificité n'est pas calculable sans TN
+    spec = specificity(tn, fp)
     fpr = false_positive_rate(fp, tn)
 
     return {
@@ -52,17 +51,3 @@ def specificity(tn, fp):
 
 def false_positive_rate(fp, tn):
     return fp / (fp + tn) if (fp + tn) > 0 else 0.0
-
-# Exemple d'utilisation
-
-
-def main():
-    # Indices des documents pertinents et retournés
-    relevant_indices = [1, 2, 3, 4, 5]  # Exemples d'indices pertinents
-    retrieved_indices = [3, 4, 5, 6, 7]  # Exemples d'indices retournés
-
-    metrics = calculate_metrics(relevant_indices, retrieved_indices)
-
-    # Affichage des résultats
-    for metric, value in metrics.items():
-        print(f"{metric}: {value:.2f}")

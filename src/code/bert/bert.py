@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from transformers import BertTokenizer, BertModel
 import torch
+from bert_score import BERTScorer
 from tqdm import tqdm
 from dotenv import load_dotenv
 load_dotenv()
@@ -74,3 +75,27 @@ class Bert:
         top_indices = similarities.argsort()[-top_n:][::-1]
         summary = [self.sentences[i] for i in top_indices]
         return top_indices, summary
+
+    def get_bert_score(self, reference, candidate):
+        """
+        Calculate the BERT score between the resume document and the original document.
+
+        Parameters:
+        -----------
+        resume_doc : str
+            The resume document to compare.
+        doc : str
+            The original document to compare.
+
+        Returns:
+        --------
+        bert_score : float
+            The BERT score between the resume document and the original document.
+
+        Side Effects:
+        ------------
+        None
+        """
+        scorer = BERTScorer(model_type='bert-base-uncased')
+        P, R, F1 = scorer.score([candidate], [reference])
+        return P, R, F1
