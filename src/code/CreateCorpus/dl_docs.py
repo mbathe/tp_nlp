@@ -54,7 +54,7 @@ for i in tqdm(range(len(manifestos_list))):
             "User-Agent": choice(user_agents), "Referer": "http://perdu.com"}
         response = requests.get(url, headers=headers, timeout=10, verify=False)
     except requests.exceptions.RequestException as e:
-        # print(f"ERR: {url}, {e}", file=log_fp)
+        print(f"ERR: {url}, {e}", file=log_fp)
 
     if response.status_code == 200:
         # print(f"{url},OK", file=log_fp)
@@ -67,8 +67,8 @@ for i in tqdm(range(len(manifestos_list))):
         f_metadata.write(f"{i}|{title}|{institution}\n")
 
     else:
-        # if we received any error http code
-        # print(f"ERR: {url},{response.status_code}", file=log_fp)
+        #if we received any error http code
+        print(f"ERR: {url},{response.status_code}", file=log_fp)
 
 log_fp.close()
 f_metadata.close()

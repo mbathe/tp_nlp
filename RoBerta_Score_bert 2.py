@@ -339,9 +339,9 @@ if __name__ == "__main__":
     # Afficher le récapitulatif des méthodes
     # print("\nRécapitulatif des meilleures méthodes par fichier :")
     for res in resultats_par_fichier:
-        # print(f"Fichier : {res['fichier']}, Meilleure Méthode : {res['best_method']}, BERTScore : {res['bertscore']}")
+        print(f"Fichier : {res['fichier']}, Meilleure Méthode : {res['best_method']}, BERTScore : {res['bertscore']}")
 
         # print("\nNombre de fois où chaque méthode a été la meilleure :")
     for method, count in method_counts.items():
-        # print(f"{method} : {count} fois")
+        print(f"{method} : {count} fois")
 

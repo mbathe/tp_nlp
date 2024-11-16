@@ -31,6 +31,6 @@ for i in tqdm(range(len(all_files))):
         # this is a pdf file
         p.parse_pdf(fname)
     else:
-        # print(f"ERR. NOT A RECOGNIZED FILETYPE: {fname}, {ftype}.", file=log_fp)
+        print(f"ERR. NOT A RECOGNIZED FILETYPE: {fname}, {ftype}.", file=log_fp)
 
 log_fp.close()
