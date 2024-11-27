@@ -50,7 +50,7 @@ Placez le fichier dans le répertoire racine du projet
  python -m spacy download en
 
 3. Télécharger le dataset 
-Télécharger le([Dataset](https://drive.google.com/file/d/1YoM8A2X5spemIS2palnZTVKyQk7xFMJR/view?usp=sharing)) à partir de le lien drive  déjà regroupper et trier et placer le à l'emplacement  "p_nlp/src/docfile"
+Télécharger le ([Dataset](https://drive.google.com/file/d/1YoM8A2X5spemIS2palnZTVKyQk7xFMJR/view?usp=sharing)) à partir de le lien drive  déjà regroupper et trier et placer le à l'emplacement  "p_nlp/src/docfile"
  
 
 4. Le fichier notebook evaluate.ipynb vous permet de tester les nos différentes solutions, vous y trouverez les les résultats d'exécution de lagorithme sur le jeu de donnée
