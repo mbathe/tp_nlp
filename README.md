@@ -20,6 +20,8 @@ Ce projet a été réalisé dans le cadre d'un cours de Traitement Automatique d
 Avant d'exécuter le code, assurez-vous que les éléments suivants sont installés et configurés :  
 Pour accélérer l'exécution de notre code, nous avons utilisé une implémentation utilisant les GPU, il est donc nécessaire d'avoir un GPU sur son ordinateur pour pouvoir exécuter ce code.
 
+Dans le fichier .env vous trouverez la variable d'environnement TXT_FOLDER qui doit pointer vers le dossier contenant le dataset
+
 - Python 3.11 ou supérieur.  
 - **Poetry** pour la gestion des dépendances. [Installer Poetry](https://python-poetry.org/docs/#installation).  
 - Modèle **FastText** pré-entraîné : [cc.en.300.bin](https://fasttext.cc/docs/en/crawl-vectors.html).  
