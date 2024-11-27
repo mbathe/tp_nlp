@@ -9,7 +9,24 @@ current_working_directory = os.getcwd()
 
 
 def adjacency_matrix(text, max_distance=1):
+    """
+    Constructs an adjacency matrix from a given text, representing word co-occurrences.
 
+    This function creates an adjacency matrix where each cell (i, j) represents
+    the number of times word i appears within 'max_distance' words of word j in the text.
+    The matrix is symmetric, representing an undirected graph.
+
+    Parameters:
+    text (str): The input text to analyze.
+    max_distance (int, optional): The maximum distance between words to consider
+                                  as adjacent. Defaults to 1.
+
+    Returns:
+    tuple: A tuple containing two elements:
+           - adjacency_matrix (numpy.ndarray): The constructed adjacency matrix.
+           - word_index (dict): A dictionary mapping words to their indices in the matrix.
+
+    """
     words = text.lower().split(' ')
 
     unique_words = list(set(words))
@@ -91,7 +108,27 @@ def get_authority_ranking(filepath, k_distance=5):
 
 
 def drawGraph(filepath, k_distance=5):
-    """Draw the relation graph from a text"""
+    """
+    Draw the relation graph from a text file.
+
+    This function reads a text file, creates an adjacency matrix representing word co-occurrences,
+    and then draws a weighted graph based on this matrix.
+
+    Parameters:
+    filepath (str): The path to the text file to be analyzed.
+    k_distance (int, optional): The maximum distance between words to consider as adjacent
+                                when creating the adjacency matrix. Defaults to 5.
+
+    Returns:
+    None: This function does not return anything. It displays the graph using matplotlib.
+
+    The function performs the following steps:
+    1. Reads the text file.
+    2. Creates an adjacency matrix using the adjacency_matrix function.
+    3. Creates a weighted graph from the adjacency matrix.
+    4. Draws the graph with labeled nodes and weighted edges.
+    5. Displays the graph using matplotlib.
+    """
     with open(filepath, encoding="utf8") as f:
         text = f.read()
 
@@ -113,21 +150,3 @@ def drawGraph(filepath, k_distance=5):
     plt.title("Graphe pondéré à partir d'une matrice de poids")
     plt.show()
 
-
-# authority_ranking_dict = {}
-# authority_hub_dict = {}
-
-# for i, filename in enumerate(tqdm(glob.glob(current_working_directory +
-#                                             dotenv_values(".env")['PREPROCESSED_FOLDER'] + '*.txt'))):
-
-#     sorted_authorities, sorted_hubs = get_authority_ranking(filename)
-
-#     authority_ranking_dict[i] = sorted_authorities
-#     authority_hub_dict[i] = sorted_hubs
-
-# #print(authority_ranking_dict[0])
-
-# sorted_authorities, sorted_hubs = get_authority_ranking(current_working_directory +
-#                                                         dotenv_values(".env")['PREPROCESSED_FOLDER'] + '1.txt')
-
-# #print(sorted_authorities)

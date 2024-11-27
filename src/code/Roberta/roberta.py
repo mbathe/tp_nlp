@@ -64,8 +64,25 @@ class DocumentProcessor:
         return np.vstack(encodings) if encodings else np.array([])
 
     def process_document(self, documents: List[str]) -> Dict[str, str]:
-        """Version optimisée du traitement de documents"""
+        """
+        Process a list of documents to find the most relevant sentences using different methods.
 
+        This function applies three methods to determine the most relevant sentence:
+        1. Highest similarity to the complete text
+        2. Highest centrality (most similar to all other sentences)
+        3. A hybrid approach combining the two methods
+
+        Parameters:
+        documents (List[str]): A list of strings, each representing a document or sentence to process.
+
+        Returns:
+        Dict[str, str]: A dictionary containing the most relevant sentences found by each method:
+            - 'method1': The sentence with the highest similarity to the complete text
+            - 'method2': The sentence with the highest centrality
+            - 'hybrid': The most relevant sentence found using the hybrid approach
+
+        In case of an error, it returns the first document (if available) for all methods.
+        """
         # Nettoyage et préparation
         phrases_propres = [self.nettoyer_texte(
             doc) for doc in documents if doc]

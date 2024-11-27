@@ -129,7 +129,7 @@ class DBSCAN(ClusterMixin, BaseEstimator):
         # Scores des documents basés sur les meilleurs clusters
         document_scores = tf_idf_clusters[:, best_cluster_indices].sum(axis=1)
         best_document_indices = np.argsort(document_scores)[
-            ::-1][:top_n]  # Meilleurs documents
+            ::-1][:top_n]
 
         return best_document_indices
 
@@ -139,7 +139,7 @@ class DBSCAN(ClusterMixin, BaseEstimator):
             if pos != -1:
                 ref_word = self.allwords[pos_list[0]]["word"]
                 cluster_id = self.cluster_id_counter
-                self.cluster_id_counter += 1  # Incrémenter l'ID de cluster
+                self.cluster_id_counter += 1
 
                 self.get_words(pos_list.tolist(), cluster_id)
                 centroid_vector = np.mean(
@@ -155,7 +155,7 @@ class DBSCAN(ClusterMixin, BaseEstimator):
                 for e in pos_list:
                     word = self.allwords[e]["word"]
                     cluster_id = self.cluster_id_counter
-                    self.cluster_id_counter += 1  # Incrémenter l'ID de cluster
+                    self.cluster_id_counter += 1
                     self.allwords[e]["cluster_id"] = cluster_id
                     self.allwords[e]["in_cluster"] = False
                     cluster = {
@@ -176,9 +176,8 @@ class DBSCAN(ClusterMixin, BaseEstimator):
 
         if not n_neighbors:
             cluster_id = self.cluster_id_counter
-            self.cluster_id_counter += 1  # Incrémenter l'ID de cluster
+            self.cluster_id_counter += 1
             point["cluster_id"] = cluster_id
-            # Utiliser NumPy pour l'ajout
             self.allwords = np.append(self.allwords, point)
             cluster = {
                 'id': cluster_id,
@@ -196,8 +195,7 @@ class DBSCAN(ClusterMixin, BaseEstimator):
         if not on_include:
             words = [neighbor["word"] for neighbor in n_neighbors]
             cluster_id = self.cluster_id_counter
-            self.cluster_id_counter += 1  # Incrémenter l'ID de cluster
-
+            self.cluster_id_counter += 1
             for neighbor in n_neighbors:
                 neighbor_idx = np.where(self.allwords == neighbor)[0][0]
                 self.allwords[neighbor_idx]["cluster_id"] = cluster_id

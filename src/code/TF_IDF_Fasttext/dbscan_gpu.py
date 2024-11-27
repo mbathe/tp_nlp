@@ -4,15 +4,9 @@ from sklearn.utils.validation import _deprecate_positional_args
 from nltk.corpus import stopwords
 import spacy
 from joblib import Parallel, delayed
-
-
 from collections import defaultdict
-import cupy as cp
-from collections import defaultdict
-from nltk.corpus import stopwords
 import re
 import textacy
-import spacy
 import torch
 from torch import amp
 import math
@@ -21,11 +15,8 @@ import math
 class TextPreprocessor:
     def __init__(self, batch_size=32):
         """
-        
         Initialize with GPU support
         batch_size: Number of documents to process in parallel on GPU
-        
-        
         """
         spacy.require_gpu()
         self.nlp = spacy.load("en_core_web_sm")
@@ -167,32 +158,21 @@ class DBSCAN(ClusterMixin, BaseEstimator):
 
     def epsilon_neighbors(self, P):
         P_vector = self.model.get_word_vector(P["word"])
-
-        # Obtenir tous les vecteurs et les convertir en tableau CuPy
         all_vectors = cp.array(
             [self.model.get_word_vector(e["word"])
              for e in self.allwords]
         )
-
-        # Normaliser le vecteur P
         P_vector = cp.asarray(P_vector)
-        # print(P_vector.shape)
         norm_P_vector = cp.linalg.norm(P_vector)
         if norm_P_vector == 0:
             raise ValueError("Le vecteur P ne doit pas être nul.")
 
         P_vector_normalized = P_vector / norm_P_vector
-
-        # Normaliser tous les vecteurs
         norms = cp.linalg.norm(all_vectors, axis=1)
-        norms[norms == 0] = 1  # Éviter la division par zéro
+        norms[norms == 0] = 1
         all_vectors_normalized = all_vectors / norms[:, cp.newaxis]
-        # print(all_vectors_normalized.shape, P_vector_normalized.shape)
-
-        # Calculer les distances cosinus
         distances = 1 - cp.dot(all_vectors_normalized, P_vector_normalized)
 
-        # Retourner les voisins dont la distance est inférieure à eps
         return [self.allwords[i] for i in range(len(self.allwords)) if distances[i] < self.eps]
 
     def add_word(self, word):
@@ -272,15 +252,13 @@ class DBSCAN(ClusterMixin, BaseEstimator):
         clusters, tf_idf_clusters = self.get_clusters(
             tokens=tokens, tf_idf_dict=tf_idf_dict)
 
-        # Calcul des scores des clusters et sélection des meilleurs
         cluster_scores = tf_idf_clusters.sum(axis=0)
         best_cluster_indices = cp.argsort(cluster_scores)[
-            ::-1][:n_clusters]  # Meilleurs clusters
+            ::-1][:n_clusters]
 
-        # Scores des documents basés sur les meilleurs clusters
         document_scores = tf_idf_clusters[:, best_cluster_indices].sum(axis=1)
         best_document_indices = cp.argsort(document_scores)[
-            ::-1][:top_n]  # Meilleurs documents
+            ::-1][:top_n]
 
         return best_document_indices
 
@@ -311,33 +289,3 @@ class DBSCAN(ClusterMixin, BaseEstimator):
 
 
 
-
-if __name__ == '__main__':
-
-    process = TextPreprocessor()
-    text = """
-    
-        Artificial intelligence, often referred to as AI, encompasses a broad range of applications, from natural language processing to computer vision. Machine learning, a subset of AI, focuses on the development of algorithms that enable computers to learn from and make predictions based on data. Together, these fields contribute to the rise of smart systems that can automate tasks and provide insights that were previously unattainable.
-
-        Moreover, the integration of AI into everyday life is becoming increasingly seamless. Smart home devices, such as voice-activated assistants, exemplify how technology can simplify daily routines. In healthcare, AI algorithms assist in diagnosing diseases more accurately and quickly, leading to better patient outcomes.
-
-        As we continue to explore the possibilities of these technologies, ethical considerations also come to the forefront. The responsible use of AI is crucial to ensure that innovation benefits society as a whole. Discussions around data privacy, algorithmic bias, and the impact of automation on employment are essential as we navigate this rapidly evolving landscape.
-
-        In summary, the intersection of artificial intelligence, machine learning, and data analytics is revolutionizing industries and enhancing our lives. As we embrace these innovations, it is imperative to balance progress with ethical responsibility.
-        
-        """
-
-    # Appel de la fonction
-    import fasttext
-    ft = fasttext.load_model('cc.en.300.bin')
-    from nltk.tokenize import sent_tokenize
-    documents = sent_tokenize(text)
-    t, tf = process.preprocess(documents)
-    # print(t)
-    dbscan = DBSCAN(eps=0.4, model=ft, n_jobs=8)
-    resume = dbscan.get_resumes_doc(
-        top_n=2, n_clusters=3, tokens=t, tf_idf_dict=tf)
-
-    """  c, c_t = dbscan.get_clusters(t, tf)
-    print(c, c_t) """
-    # print(documents[resume[0]])
