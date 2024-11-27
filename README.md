@@ -34,7 +34,7 @@ Avant d'exécuter le code, assurez-vous que les éléments suivants sont install
 ```bash
 git clone https://github.com/mbathe/tp_nlp.git
 cd tp_nlp
-
+```
 
 
 ### Étape 2 : Installez les dépendances
@@ -46,10 +46,11 @@ https://fasttext.cc/docs/en/crawl-vectors.html.
 
 Placez le fichier dans le répertoire racine du projet
 2. Téléchargez les stop words anglais de Spacy :
+```
  python -m spacy download en_core_web_sm
  python -m spacy download en
-
-3. Télécharger le dataset 
+```
+1. Télécharger le dataset 
 Télécharger le https://drive.google.com/file/d/1YoM8A2X5spemIS2palnZTVKyQk7xFMJR/view?usp=sharing à partir de le lien drive  déjà regroupper et trier et placer le à l'emplacement  "p_nlp/src/docfile"
  
 
