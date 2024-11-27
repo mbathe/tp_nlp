@@ -18,6 +18,7 @@ Ce projet a été réalisé dans le cadre d'un cours de Traitement Automatique d
 ## Prérequis
 
 Avant d'exécuter le code, assurez-vous que les éléments suivants sont installés et configurés :  
+Pour accélérer l'exécution de notre code, nous avons utilisé une implémentation utilisant les GPU, il est donc nécessaire d'avoir un GPU sur son ordinateur pour pouvoir exécuter ce code.
 
 - Python 3.11 ou supérieur.  
 - **Poetry** pour la gestion des dépendances. [Installer Poetry](https://python-poetry.org/docs/#installation).  
