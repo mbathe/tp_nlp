@@ -7,13 +7,11 @@ from tqdm import tqdm
 import glob
 import os
 import re
-import textacy
 import numpy as np
 current_working_directory = os.getcwd()
 
 
 def tfidf_filter_corpus():
-    vectorizer = TfidfVectorizer()
     corpus_text = ""
     for file in tqdm(glob.glob(current_working_directory +
                                dotenv_values(".env")['TXT_FOLDER2'] + '*.txt')):
@@ -32,8 +30,6 @@ def tfidf_filter_corpus():
     documents = sent_tokenize(corpus_text)
 
     print(documents[0])
-    stop_words = set(stopwords.words('english'))
-    nlp = spacy.load("en_core_web_sm")
 
     words_to_keep = tfidf_filter(documents)
     print(words_to_keep)
