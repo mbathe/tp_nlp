@@ -22,7 +22,6 @@ plt.tight_layout()
 
 plt.show()
 
-
 algorithms = df['Algorithme'].unique()
 
 for algo in algorithms:
