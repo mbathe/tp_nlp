@@ -1,6 +1,4 @@
 from dotenv import dotenv_values
-import spacy
-from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import sent_tokenize
 from tqdm import tqdm
