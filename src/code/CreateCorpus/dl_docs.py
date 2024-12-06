@@ -57,7 +57,7 @@ for i in tqdm(range(len(manifestos_list))):
         print(f"ERR: {url}, {e}", file=log_fp)
 
     if response.status_code == 200:
-        print(f"{url},OK", file=log_fp)
+        # print(f"{url},OK", file=log_fp)
         if url[-4:] == ".pdf":
             with open(f"{OUT_FOLDER}/{i}.pdf", "wb") as f:
                 f.write(response.content)
@@ -67,7 +67,7 @@ for i in tqdm(range(len(manifestos_list))):
         f_metadata.write(f"{i}|{title}|{institution}\n")
 
     else:
-        # if we received any error http code
+        #if we received any error http code
         print(f"ERR: {url},{response.status_code}", file=log_fp)
 
 log_fp.close()

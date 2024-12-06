@@ -18,13 +18,27 @@ numpy = "^2.0.0"
 scikit-learn = "^1.5.2"
 bs4 = "^0.0.2"
 python-magic = "^0.4.27"
-python-magic-bin = "^0.4.14"
 rake-nltk = "^1.0.6"
 rake-keyword = "^0.0.1"
 spacy = "^3.8.2"
 python-dotenv = "^1.0.1"
 langdetect = "^1.0.9"
+evaluate = "^0.4.3"
+transformers = "^4.46.2"
+bert-score = "^0.3.13"
+fasttext = "^0.9.3"
+jupyterlab = "^4.3.0"
+torch = {version = "^2.5.1+cu121", source = "pytorch-gpu-src"}
+torchvision = {version = "^0.20.1+cu121", source = "pytorch-gpu-src"}
+torchaudio = {version = "^2.5.1+cu121", source = "pytorch-gpu-src"}
+cupy-cuda12x = "^13.3.0"
+seaborn = "^0.13.2"
 
+
+[[tool.poetry.source]]
+name = "pytorch-gpu-src"
+url = "https://download.pytorch.org/whl/cu121"
+priority = "explicit"
 
 [build-system]
 requires = ["poetry-core"]

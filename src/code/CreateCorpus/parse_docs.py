@@ -15,7 +15,7 @@ p = Parser(log_file=log_fp)
 
 # Create output directory if it does not exist
 if not os.path.exists(OUT_FOLDER):
-    print(OUT_FOLDER + " did not exist, created.")
+    # print(OUT_FOLDER + " did not exist, created.")
     os.makedirs(OUT_FOLDER)
 
 all_files = [f for f in glob.glob(current_working_directory+"\\..\\..\\docfile\\docs\\*")]

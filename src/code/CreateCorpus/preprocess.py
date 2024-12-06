@@ -20,10 +20,10 @@ OUT_FOLDER = current_working_directory+"\\..\\..\\docfile\\preprocessed\\"
 
 # Create output directory if it does not exist
 if not os.path.exists(OUT_FOLDER):
-    print(OUT_FOLDER + " did not exist, created.")
+    # print(OUT_FOLDER + " did not exist, created.")
     os.makedirs(OUT_FOLDER)
 
-print('Preprocessing...')
+# print('Preprocessing...')
 for i, filename in enumerate(tqdm(glob.glob(current_working_directory+"\\..\\..\\docfile\\txts\\*.txt"))):
 
     with open(filename, encoding="utf8") as f:
@@ -55,7 +55,7 @@ def tfidf_filter(corpus):
     median_tfidf = np.quantile(tfidf_values, 0.5)
     mask = tfidf_values > median_tfidf
     words_to_keep = vectorizer.get_feature_names_out()[mask]
-    print(type(words_to_keep))
+    # print(type(words_to_keep))
     return words_to_keep
 
 

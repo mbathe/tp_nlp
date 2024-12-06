@@ -25,9 +25,9 @@ class Parser:
             f_contents = open(fname, encoding=charset).read()
             contents = BeautifulSoup(f_contents, features="html.parser")
         except Exception as e:
-            print(fname)
-            print(magic.from_file(fname))
-            print(e)
+            # print(fname)
+            # print(magic.from_file(fname))
+            # print(e)
             sys.exit(2)
 
         all_children = list(contents.children)
@@ -66,7 +66,7 @@ class Parser:
         # Write to file
         txt_file = open(current_working_directory+"\\..\\..\\docfile\\" +
                         f"txts/{Path(fname).stem}.txt", "w+", encoding="utf-8")
-        print(THE_CONTENT["text"], file=txt_file)
+        # print(THE_CONTENT["text"], file=txt_file)
         txt_file.close()
 
         return
@@ -85,13 +85,13 @@ class Parser:
                 page_contents = page.extract_text()
                 page_contents = page_contents.replace("-\n", "")
                 page_contents = page_contents.replace("\n", " ")
-                print(page_contents, file=txt_file)
+                # print(page_contents, file=txt_file)
                 words = words.union(set(page_contents.split(" ")))
 
             f.close()
             txt_file.close()
-            print(fname, len(words), file=self.log_file)
+            # print(fname, len(words), file=self.log_file)
         except Exception as e:
-            print(f"Err {fname}: {e}", file=self.log_file)
+            # print(f"Err {fname}: {e}", file=self.log_file)
             pass
     # END PARSER CODE

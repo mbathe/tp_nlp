@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 		"Transparency" : ["transparency", "explainability", "explicability", "understandability",
 "interpretability", "communication", "disclosure", "showing"],
@@ -15,3 +16,22 @@
 "Dignity": ["dignity"],
 "Solidarity": ["solidarity", "social security", "cohesion"]
 }
+=======
+{
+		"Transparency" : ["transparency", "explainability", "explicability", "understandability",
+"interpretability", "communication", "disclosure", "showing"],
+		"Justice and fairness": ["justice", "fairness", "consistency", "inclusion", "equality", "equity", "bias",
+"discrimination", "diversity", "plurality", "accessibility", "reversibility",
+"remedy", "redress", "challenge", "access and distribution"],
+"Non-maleficence": ["non-maleficence", "security", "safety", "harm", "protection", "precaution",
+"prevention", "integrity", "non-subversion"],
+"Responsibility": ["responsibility", "accountability", "liability", "acting with integrity"],
+"Privacy": ["privacy", "personal information", "private information"],
+"Beneficence": ["benefits", "beneficence", "well-being", "peace", "social good", "common good"],
+"Freedom and autonomy": ["freedom", "autonomy", "consent", "choice", "self-determination", "liberty","empowerment"],
+"Trust": ["trust"],
+"Sustainable": ["sustainability", "environment", "energy", "resources"],
+"Dignity": ["dignity"],
+"Solidarity": ["solidarity", "social security", "cohesion"]
+}
+>>>>>>> b0927a1c343a7f646d0e21c4967d2a3068cdac76

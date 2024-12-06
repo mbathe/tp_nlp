@@ -20,7 +20,7 @@ parser.add_argument("-t", "--themes")
 # parser.add_argument("-d", "--destination", choices=["iramuteq", "cortext"])
 
 args = parser.parse_args()
-print(args)
+# print(args)
 
 corpus_file = open(OUT_FILE, "w", encoding="utf-8")
 nb_docs = 0
@@ -71,7 +71,7 @@ for i, fname in enumerate(tqdm(glob.glob(current_working_directory+"\\..\\..\\do
 
         f.close()
     except Exception as e:
-        print(f"Err {fname}: {e}")
+        # print(f"Err {fname}: {e}")
         pass
 
 # Write out topics
@@ -100,7 +100,7 @@ for i in doc_occurrences:
 
     # Corpus Iramuteq
     if iramuteq:
-       # print("**** " + " ".join(topics), file=corpus_file)
+       # #print("**** " + " ".join(topics), file=corpus_file)
         print(doc_occurrences[i]["contents"], file=corpus_file)
 
     # Corpus cortext
@@ -115,6 +115,6 @@ log_fp.close()
 corpus_file.close()
 
 # regarder aussi les co-occurrences de thèmes
-print("Summary stats")
+# print("Summary stats")
 for k, v in doc_counts.items():
     print(f"{k}: {v} ({v/nb_docs*100}%)")
