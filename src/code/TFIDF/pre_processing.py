@@ -14,6 +14,7 @@ import spacy
 from dotenv import load_dotenv
 load_dotenv()
 
+
 class Processing:
     def __init__(self, log_file=None, corpus_dir="preprocessed", corpus_file="corpus.txt", mean_score=False, n_grams=2, min_n_gram_freq=2):
         self.log_file = log_file
@@ -49,7 +50,6 @@ class Processing:
                 "",
                 full_content
             )
-
 
             doc = nlp(content)
             ngrams = list(textacy.extract.basics.ngrams(

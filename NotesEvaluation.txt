@@ -1,0 +1,4 @@
+# 15 min de présentation, max 10 min de question
+# Notation : 12 présentation, 8 rendu. 4 point sur la partie personnnelle dans les deux catégories.
+# Présentation : Donner autant d'importance au raisonnement qu'aux résultats. Pourquoi est ce que certaines choses n'ont pas marchées ? Comment aurait on pu faire autrement ?
+# Rendu : Deux semaines pour rendre le code et le rapport. Code lisible et bien commenté. Rendu --> référence et liens précis vers la documentation. On doit pouvoir reconstruire le projet à partir du rendu. 
